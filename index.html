@@ -14,7 +14,7 @@
 @media (prefers-color-scheme:dark){:root{--bg:#000;--card:#111317;--tx:#eef1f6;--mut:#9aa4b5;--acc:#ffd400;--onacc:#000;--bd:#2a303b}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--tx);font:17px/1.45 Georgia,"Times New Roman",serif;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
-main{max-width:640px;margin:0 auto;padding:16px}
+main{max-width:1200px;margin:0 auto;padding:16px}
 h1{font:700 1.5rem/1.2 system-ui,sans-serif;margin:8px 0 2px}
 .hd{display:flex;align-items:center;gap:12px;margin-bottom:6px}
 .logo{width:76px;height:76px;border-radius:50%;flex:none}
@@ -23,7 +23,8 @@ p.by{color:var(--acc);font:600 .8rem system-ui,sans-serif;letter-spacing:.04em;m
 nav{display:flex;gap:8px;margin-bottom:14px}
 nav button{flex:1;font:600 1rem system-ui,sans-serif;padding:10px;border-radius:10px;border:1px solid var(--bd);background:var(--card);color:var(--tx);cursor:pointer}
 nav button[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:var(--onacc)}
-section{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:6px 16px 10px;margin-bottom:14px}
+#out{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:14px;align-items:start}
+section{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:6px 16px 10px;margin:0}
 h2{font:700 1.1rem system-ui,sans-serif;color:var(--acc);margin:12px 0 4px}
 ol{margin:0;padding-left:1.3em}
 li{padding:9px 0;border-top:1px solid var(--bd)}
