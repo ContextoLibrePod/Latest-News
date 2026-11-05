@@ -1,0 +1,12 @@
+{
+  "sections": [
+    {"id": "es", "name": "Español", "outlets": [
+      {"name": "El País", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "google": false},
+      {"name": "Univision", "url": "https://news.google.com/rss/search?q=site:univision.com/noticias+when:1d&hl=es-419&gl=US&ceid=US:es-419", "google": true},
+      {"name": "Telemundo", "url": "https://news.google.com/rss/search?q=site:telemundo.com+when:1d&hl=es-419&gl=US&ceid=US:es-419", "google": true}
+    ]},
+    {"id": "en", "name": "English", "outlets": [
+      {"name": "Fox News", "url": "https://news.google.com/rss/search?q=site:foxnews.com+when:1d&hl=en-US&gl=US&ceid=US:en", "google": true}
+    ]}
+  ]
+}
