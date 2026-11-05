@@ -1,7 +1,7 @@
 name: Actualizar noticias
 on:
   schedule:
-    - cron: "30 11 * * *"   # 11:30 UTC = 6:30 AM en Nueva York (invierno)
+    - cron: "30 11 * * *"
   workflow_dispatch:
 permissions:
   contents: write
