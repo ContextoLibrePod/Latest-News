@@ -3,18 +3,26 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Noticias de la mañana</title>
+<title>CL RADAR</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#000000">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="CL RADAR">
 <style>
-:root{--bg:#f4f5f7;--card:#fff;--tx:#14181f;--mut:#5d6675;--acc:#c8102e;--bd:#dde1e7;color-scheme:light dark}
-@media (prefers-color-scheme:dark){:root{--bg:#0f1218;--card:#181c24;--tx:#eef1f6;--mut:#9aa4b5;--acc:#ff5a6e;--bd:#2a303b}}
+:root{--bg:#f4f5f7;--card:#fff;--tx:#14181f;--mut:#5d6675;--acc:#a67c00;--onacc:#fff;--bd:#dde1e7;color-scheme:light dark}
+@media (prefers-color-scheme:dark){:root{--bg:#000;--card:#111317;--tx:#eef1f6;--mut:#9aa4b5;--acc:#ffd400;--onacc:#000;--bd:#2a303b}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--tx);font:17px/1.45 Georgia,"Times New Roman",serif;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
 main{max-width:640px;margin:0 auto;padding:16px}
 h1{font:700 1.5rem/1.2 system-ui,sans-serif;margin:8px 0 2px}
+.hd{display:flex;align-items:center;gap:12px;margin-bottom:6px}
+.logo{width:76px;height:76px;border-radius:50%;flex:none}
+p.by{color:var(--acc);font:600 .8rem system-ui,sans-serif;letter-spacing:.04em;margin:0 0 4px}
 #upd{color:var(--mut);font:.85rem system-ui,sans-serif;margin:0 0 14px}
 nav{display:flex;gap:8px;margin-bottom:14px}
 nav button{flex:1;font:600 1rem system-ui,sans-serif;padding:10px;border-radius:10px;border:1px solid var(--bd);background:var(--card);color:var(--tx);cursor:pointer}
-nav button[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:#fff}
+nav button[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:var(--onacc)}
 section{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:6px 16px 10px;margin-bottom:14px}
 h2{font:700 1.1rem system-ui,sans-serif;color:var(--acc);margin:12px 0 4px}
 ol{margin:0;padding-left:1.3em}
@@ -28,7 +36,8 @@ li p{margin:3px 0 0;color:var(--mut);font-size:.9rem}
 </head>
 <body>
 <main>
-<h1>Noticias de la mañana</h1>
+<div class="hd"><img class="logo" src="logo.png" alt="CL RADAR News"><div><h1>CL RADAR</h1>
+<p class="by">Noticias · Un proyecto de Contexto Libre Podcast</p></div></div>
 <p id="upd">Cargando…</p>
 <nav id="tabs"></nav>
 <div id="out"></div>
@@ -55,6 +64,7 @@ fetch("news.json?"+Date.now()).then(function(r){return r.json()}).then(function(
 data=d;var dt=new Date(d.updated);
 document.getElementById("upd").textContent="Actualizado: "+dt.toLocaleString("es",{dateStyle:"full",timeStyle:"short"});
 render()}).catch(function(){document.getElementById("upd").textContent="Todavía no hay noticias. Ejecuta la actualización en GitHub (paso 4)."});
+if("serviceWorker"in navigator)navigator.serviceWorker.register("sw.js").catch(function(){});
 </script>
 </body>
 </html>
