@@ -43,6 +43,13 @@ def main():
                 items, err = [], "No se pudo leer: %s" % e
             outlets.append({"name": o["name"], "items": items, "error": err})
         result["sections"].append({"id": sec["id"], "name": sec["name"], "outlets": outlets})
+    try:
+        prev = json.load(open("news.json", encoding="utf-8"))
+        if prev.get("sections") == result["sections"]:
+            print("Sin cambios en los titulares")
+            return
+    except Exception:
+        pass
     json.dump(result, open("news.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 if __name__ == "__main__":
