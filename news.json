@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:32:51.223158+00:00",
+ "updated": "2026-11-06T19:40:40.073578+00:00",
  "sections": [
   {
    "id": "es",
@@ -11,7 +11,7 @@
       {
        "title": "Última hora de la actualidad política, en directo | Sánchez: “España se gobierna desde España, no desde Washington o Buenos Aires”",
        "link": "https://elpais.com/espana/2026-11-06/ultima-hora-de-la-actualidad-politica-en-directo.html",
-       "desc": "El presidente protagoniza un mitin en Valencia | Cuerpo se compromete a crear una oficina para las víctimas de los siniestros ferroviarios | Albares pide a la oposición que rechace las injerencias ext"
+       "desc": "El presidente asegura que “el ejemplo de dignidad que ha ejercido Óscar Puente, Vox y PP jamás lo practican”| Cuerpo se compromete a crear una oficina para las víctimas de los siniestros ferroviarios"
       },
       {
        "title": "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
@@ -70,6 +70,10 @@
        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0tiZDhPaWM4c1B1MGZPUkMtLWxfZmFkNkRIZERjb1d1cnJ1cE1tREctT3RaU3J0b1dVS2ZFWHo3TGNXMklfeHhnQy1Ud085T1RCdXRDWWJaX2VDRVZDbERlZzRiYnFzdkxhblJGQk1TeFV5dk9yMHhiQ05BdTVBWWpkN01TNy1rZm1MVzd4c2lBZFd4ZEpzWWpYd0RKaExXWF9SU3pONVdwUWVpTnJCVHROLTBwaEhLa0FWbll1Nm1OdkNnUVdlT09qTQ?oc=5"
       },
       {
+       "title": "Hay 15 millones de personas bajo alertas de congelación en el Medio Oeste del país",
+       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYV9jS0xxNmhlNHZUSk5iSTBhaWVTOXdoaGZQQTRfUDVXai1qMm5jUVN6eTA2X2ZiMlJFTHFPdk96OVlBcndsNWtNQlg0RndVMl9hTnBvOUpvYXdwekpNSG1GdEktUUNLUkU4S1kyeEZ0Vmt3a0JWMVlwd2JsXzZyUHNYSXdNTUNqN0dLLTlSVTh2VVVQYkN1S255YjhiOVVhVFhIQms4ZjJGLVJUR0VaLXFHRFljVDFkMm1BTFZSM0VSU0VYdm9Hb1FNbXdyTDVhYldwSG9kejZfa1VYV3JHSlduTlJXc3BRNUtBTUNlOGJxTGs?oc=5"
+      },
+      {
        "title": "“Quisiera haber estado con ella para ayudarla”: habla el padre de la piloto Nathalia Filgueiras tras su muerte en Florida",
        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOGlMb2NzS0hHNHlCUUtlbjJyT3l1cmFYZ0NPQ080WHRlLVV3Z2cteFVIWElaYjNPclg3TzJEanBabkJSZWZ3emh5QW5CaDZ5Qjk0cEhGcVZZLXFWSUZxakV0SHA0cVpuaEhMSWpDbFpxOHp0cVhwS0Ezcnk4ckNtQmdBMmliQm9RbFpVcDdwMV80eXRYWHBycXhZMUpxV1FaMlZDMUpJamdsWFNsWlprY25PRjdZYUU5aHJaYm8tR1JMcFFuOUw0NA?oc=5"
       },
@@ -80,10 +84,6 @@
       {
        "title": "Arrestan en Florida al padre de Meghan Markle por cargos de posesión de pornografía infantil",
        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVG9oUU9zNWdxSm5pc25zZEY1MC1LbXRCNllTd0J1enhDWUJ2bWRwd2E2SEpsZmY5aGFCN1hBVGJrekRHRFpjTnl5b3lrSS1tTWZyRm5zTTh4NXNPdlJTNzl2dXk0d2ZPakhMa1RUTXk2YzVDVGNSZmJYdHdJSmZTaGIyTFRYTnpnWTJfamdTYXcxX2VZdzJTN1hta290U1U1Ry1LNlV3MTNHd0ZodmliTUk0V3hka1BuejZFRjFTc3d4MlpxTnNWdWR0eGFNWFhIdFBnZ0lKUEU0UUI5V2Y2VmE0Y25RcTY1NGc?oc=5"
-      },
-      {
-       "title": "ICE arrestó a una estudiante de secundaria, a su hermana de 11 años y a sus padres",
-       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPV1UtaGZJQ19XRFpEc010U2VMMmVtWVJ5MTlzbzNuYU5Yc2tEWXRYUEVtVE9ybHVWblNieUJXTGNZSzREU0F2TWhJTnpmaElIZ3NTZ01sbUVVSlkzaGc3UWw5ZWxNd3BZX2VUaHhxNXp6N2lSc19vSXNEWmZuaXdINjM5THEwXzFJN0pnbk1OSjBzTWtxZHZUUllQb01JWnFaSlZweVRGMmRYVFo4QXRXSURMYXpWaXJBRVNyZUN6Ukhza3FvWUFkN0lLVXNIeFpLelpZbGoxVWFIR3VHZU14OWxCcnlTNzJ3MkIzSjZsLXNURE5lZ3ZWWmRR?oc=5"
       }
      ],
      "error": null
@@ -114,8 +114,8 @@
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1ZHSF91a21OTWdmcjZnTl9SNzFmMVJpdUR6OVM5N0syeUxIMW5LcXlsWll6dm1FMUdxbkNnU2w2N1d2NjZ1QjRxT1dnSkE5bzFOVWRyUmF0eTFhbmwtcDlodVM2TURsTGU1cXlMRXhWa1p5MkRXOTE2OHNlMWRwRzYwbmh0M0RnaXlOYnU3bHdHd0dGZXNSVGJhWF9VQ2FzUXVUd3czY1nSAa4BQVVfeXFMUFpZdENRSFZETmVuU0E5SGQ4dU1faXNsSUMtMGs2aEhIZWZ6MXJ2T0pWUlFONy0tblpDWEFvVHJhYjhGR3NqUFhjT1d0ZnhLbTVKNDZMaWlZSF8zbnFiWmxjeEJOdWRCS09QM3lGb0VzM3VhR0VfQlI0LXdmcEYzZDh1NWxxS1F4Y08yNWlhUFJ0bkpObUlfQUZwX3RESE1qV0U0R0R1VUdmX2s5Um9R?oc=5"
       },
       {
-       "title": "Fake travel permit websites trick tourists into handing over personal data",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTZVBsNW5GS21RdlplZ3FVcUxteEY4OU92LXdUeU5PQVRjcEtlT01FMmdPRVlpUTJkX0oyNkRTMVFLcTFyQzA5YlVHeEQ0TGI5TXRvY0tB?oc=5"
+       "title": "MATT CALKINS: After years of threats and intimidation, the bullies in the women's sports debate finally lost",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONVhzbHZoUC02UVc0VUV5NEcwbDI5UU1lVjhmcE9yMWYxenpfczl0amxua2t3NjRnTkFjMWMyRXNJUnBISjV4al9IdDB0YzZiVUhVeEk1bjlLc0tTbWdVWC1oQjFDc2hNTzBtc3FRS3lROVAwdHh0aDhYeXFjUHAtOEpMYXRpRlVGUlBfeXZUR1h5MnJmcUVuUnZpemhXUHR2eWdxaVRIS2FDbnhGSnZRTWtjbGZsNHdfSlBOag?oc=5"
       }
      ],
      "error": null
