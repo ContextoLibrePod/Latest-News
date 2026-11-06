@@ -1,4 +1,5 @@
 import json, re, html, datetime, urllib.request
+from urllib.parse import quote
 from email.utils import parsedate_to_datetime
 import xml.etree.ElementTree as ET
 
@@ -35,22 +36,40 @@ def parse(xml, google):
             break
     return out
 
+def google_url(lang, site, kw, when):
+    q = "site:%s %s when:%s" % (site, "(%s)" % kw if kw else "", when)
+    q = re.sub(r"\s+", " ", q).strip()
+    return "https://news.google.com/rss/search?q=%s&hl=%s&gl=US&ceid=%s" % (quote(q), lang["hl"], quote(lang["ceid"]))
+
 def main():
     cfg = json.load(open("feeds.json", encoding="utf-8"))
-    result = {"updated": datetime.datetime.now(datetime.timezone.utc).isoformat(), "sections": []}
-    for sec in cfg["sections"]:
-        outlets = []
-        for o in sec["outlets"]:
-            try:
-                items = parse(get(o["url"]), o["google"])
-                err = None if items else "Sin noticias en este momento"
-            except Exception as e:
-                items, err = [], "No se pudo leer: %s" % e
-            outlets.append({"name": o["name"], "items": items, "error": err})
-        result["sections"].append({"id": sec["id"], "name": sec["name"], "outlets": outlets})
+    result = {"updated": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+              "categories": cfg["categories"], "languages": []}
+    for lang in cfg["languages"]:
+        cats = {}
+        for cat in cfg["categories"]:
+            cid = cat["id"]
+            outlets = []
+            for o in lang["outlets"]:
+                try:
+                    if cid == "top" and o.get("official_top"):
+                        url, google = o["official_top"], False
+                    else:
+                        site = o.get("sites", {}).get(cid) or (o.get("top_site") if cid == "top" else None) or o["site"]
+                        url = google_url(lang, site, lang["keywords"].get(cid, ""), "1d" if cid == "top" else "2d")
+                        google = True
+                    items = parse(get(url), google)
+                    err = None if items else "Sin noticias en este momento"
+                except Exception as e:
+                    items, err = [], "No se pudo leer: %s" % e
+                for it in items:
+                    it["outlet"] = o["name"]
+                outlets.append({"name": o["name"], "items": items, "error": err})
+            cats[cid] = outlets
+        result["languages"].append({"id": lang["id"], "name": lang["name"], "cats": cats})
     try:
         prev = json.load(open("news.json", encoding="utf-8"))
-        if prev.get("sections") == result["sections"]:
+        if prev.get("languages") == result["languages"]:
             print("Sin cambios en los titulares")
             return
     except Exception:

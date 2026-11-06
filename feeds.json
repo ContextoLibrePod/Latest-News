@@ -1,12 +1,22 @@
 {
-  "sections": [
-    {"id": "es", "name": "Español", "outlets": [
-      {"name": "El País", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "google": false},
-      {"name": "Univision", "url": "https://news.google.com/rss/search?q=site:univision.com/noticias+when:1d&hl=es-419&gl=US&ceid=US:es-419", "google": true},
-      {"name": "Telemundo", "url": "https://news.google.com/rss/search?q=site:telemundo.com+when:1d&hl=es-419&gl=US&ceid=US:es-419", "google": true}
-    ]},
-    {"id": "en", "name": "English", "outlets": [
-      {"name": "Fox News", "url": "https://news.google.com/rss/search?q=site:foxnews.com+when:1d&hl=en-US&gl=US&ceid=US:en", "google": true}
-    ]}
+  "categories": [
+    {"id": "top", "name": "Principales"},
+    {"id": "sports", "name": "Deportes"},
+    {"id": "ent", "name": "Entretenimiento"},
+    {"id": "fin", "name": "Finanzas"}
+  ],
+  "languages": [
+    {"id": "es", "name": "Español", "hl": "es-419", "ceid": "US:es-419",
+     "keywords": {"sports": "deportes", "ent": "entretenimiento OR cine OR música OR famosos", "fin": "economía OR finanzas OR dinero OR mercados"},
+     "outlets": [
+       {"name": "El País", "site": "elpais.com", "official_top": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"},
+       {"name": "Univision", "site": "univision.com", "top_site": "univision.com/noticias"},
+       {"name": "Telemundo", "site": "telemundo.com"}
+     ]},
+    {"id": "en", "name": "English", "hl": "en-US", "ceid": "US:en",
+     "keywords": {"sports": "sports", "ent": "entertainment", "fin": "business OR finance OR markets"},
+     "outlets": [
+       {"name": "Fox News", "site": "foxnews.com", "sites": {"fin": "foxbusiness.com"}}
+     ]}
   ]
 }

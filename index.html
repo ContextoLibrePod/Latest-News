@@ -24,9 +24,12 @@ header.top{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1p
 .brand span{color:var(--acc)}
 .sp{flex:1}
 button{font:600 .9rem system-ui,sans-serif;cursor:pointer;color:var(--tx);background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:8px 12px}
-nav{display:flex;gap:8px;padding-bottom:10px}
-nav button{flex:1;max-width:200px;padding:9px}
-nav button[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:var(--onacc)}
+nav{display:flex;gap:8px;padding-bottom:8px;overflow-x:auto}
+nav button{flex:none;padding:7px 12px;white-space:nowrap}
+nav.cats button{border-radius:20px;font-weight:500}
+button[aria-pressed=true]{background:var(--acc);border-color:var(--acc);color:var(--onacc)}
+.view{display:flex;gap:8px;margin:0 0 14px}
+.tag{font:700 .72rem system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em;color:var(--acc)}
 .hero{padding:18px 0 4px}
 .hero h1{font:700 1.2rem/1.25 system-ui,sans-serif;margin:0}
 #upd{color:var(--mut);font:.85rem system-ui,sans-serif;margin:4px 0 14px}
@@ -60,13 +63,15 @@ footer a{color:var(--acc);font-weight:600}
 <div class="sp"></div>
 <button id="rf" type="button" aria-label="Actualizar titulares">↻ Actualizar</button>
 </div>
-<nav id="tabs"></nav>
+<nav id="langs"></nav>
+<nav id="cats" class="cats"></nav>
 </div>
 </header>
 <main class="wrap">
 <div class="hero">
 <h1>Las noticias más importantes de hoy según:</h1>
 <p id="upd">Cargando titulares…</p>
+<div class="view" id="view"></div>
 </div>
 <div id="out"></div>
 </main>
@@ -81,28 +86,41 @@ footer a{color:var(--acc);font-weight:600}
 </div>
 </footer>
 <script>
-var data,cur="es";
+var data,L="es",C="top",V="by";
 function ago(iso){if(!iso)return"";var m=Math.round((Date.now()-new Date(iso))/6e4);if(isNaN(m)||m<0)return"";if(m<2)return"ahora";if(m<60)return"hace "+m+" min";var h=Math.round(m/60);if(h<24)return"hace "+h+" h";var d=Math.round(h/24);return"hace "+d+(d===1?" día":" días")}
+function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x)e.textContent=x;return e}
+function item(i,lead,label){
+var li=el("li",lead?"lead":""),a=el("a","",i.title);
+a.href=i.link;a.target="_blank";a.rel="noopener";li.appendChild(a);
+var t=[label?i.outlet:"",ago(i.pub)].filter(Boolean).join(" · ");
+if(t){var sp=el("span","t",t);li.appendChild(sp)}
+if(i.desc&&lead&&!label)li.appendChild(el("p","",i.desc));
+return li}
+function tabs(id,list,cur,fn){var n=document.getElementById(id);n.textContent="";
+list.forEach(function(x){var b=el("button","",x[1]);b.type="button";b.setAttribute("aria-pressed",x[0]===cur);b.onclick=function(){fn(x[0])};n.appendChild(b)})}
 function render(){
+tabs("langs",data.languages.map(function(l){return[l.id,l.name]}),L,function(v){L=v;render()});
+tabs("cats",data.categories.map(function(c){return[c.id,c.name]}),C,function(v){C=v;render()});
+tabs("view",[["by","Por medio"],["all","Todos juntos"]],V,function(v){V=v;render()});
 var out=document.getElementById("out");out.textContent="";
-var sec=data.sections.filter(function(s){return s.id===cur})[0];
-sec.outlets.forEach(function(o){
-var s=document.createElement("section"),h=document.createElement("h2");
-h.textContent=o.name;s.appendChild(h);
-if(!o.items.length){var e=document.createElement("div");e.className="err";e.textContent=o.error||"Sin noticias por ahora";s.appendChild(e)}
-else{var ol=document.createElement("ol");
-o.items.forEach(function(i,n){var li=document.createElement("li"),a=document.createElement("a");
-if(n===0)li.className="lead";
-a.textContent=i.title;a.href=i.link;a.target="_blank";a.rel="noopener";li.appendChild(a);
-var t=ago(i.pub);if(t){var sp=document.createElement("span");sp.className="t";sp.textContent=t;li.appendChild(sp)}
-if(i.desc&&n===0){var p=document.createElement("p");p.textContent=i.desc;li.appendChild(p)}
-ol.appendChild(li)});s.appendChild(ol)}
-out.appendChild(s)});
-var t=document.getElementById("tabs");t.textContent="";
-data.sections.forEach(function(s){var b=document.createElement("button");b.type="button";b.textContent=s.name;
-b.setAttribute("aria-pressed",s.id===cur);b.onclick=function(){cur=s.id;render()};t.appendChild(b)})}
+var lang=data.languages.filter(function(l){return l.id===L})[0];
+var outlets=lang.cats[C]||[];
+var live=outlets.filter(function(o){return o.items.length});
+if(!live.length){var s0=el("section");s0.appendChild(el("div","err",C==="top"&&outlets[0]&&outlets[0].error?outlets[0].error:"Sin noticias en esta categoría por ahora."));out.appendChild(s0);return}
+if(V==="all"){
+var all=[];live.forEach(function(o){all=all.concat(o.items)});
+all.sort(function(a,b){return(new Date(b.pub||0))-(new Date(a.pub||0))});
+var s=el("section"),ol=el("ol");s.appendChild(el("h2","","Todos los medios"));
+all.forEach(function(i){ol.appendChild(item(i,false,true))});
+s.appendChild(ol);out.style.display="block";out.appendChild(s);return}
+out.style.display="";
+live.forEach(function(o){
+var s=el("section"),ol=el("ol");s.appendChild(el("h2","",o.name));
+o.items.forEach(function(i,n){ol.appendChild(item(i,n===0,false))});
+s.appendChild(ol);out.appendChild(s)})}
 function load(){
 fetch("news.json?"+Date.now()).then(function(r){return r.json()}).then(function(d){
+if(!d.languages)throw 0;
 data=d;var dt=new Date(d.updated);
 document.getElementById("upd").textContent="Titulares actualizados: "+dt.toLocaleString("es",{dateStyle:"full",timeStyle:"short"});
 render()}).catch(function(){if(!data)document.getElementById("upd").textContent="No se pudieron cargar los titulares. Intenta de nuevo en unos minutos."})}
