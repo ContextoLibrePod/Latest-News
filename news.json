@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T20:29:46.399547+00:00",
+ "updated": "2026-11-06T21:15:09.043508+00:00",
  "sections": [
   {
    "id": "es",
@@ -9,9 +9,9 @@
      "name": "El País",
      "items": [
       {
-       "title": "Última hora de la actualidad política, en directo | Sánchez defiende la gestión tras el accidente de Urda: “Hemos dado la cara con transparencia”",
-       "link": "https://elpais.com/espana/2026-11-06/ultima-hora-de-la-actualidad-politica-en-directo.html",
-       "desc": "El presidente avisa de que “España se gobierna desde España, no desde Washington o Buenos Aires”| Cuerpo se compromete a crear una oficina para las víctimas de los siniestros ferroviarios"
+       "title": "Pedro Sánchez llama a la movilización en su retorno a la precampaña: “Si se pudo en Brasil y EE UU, en España también”",
+       "link": "https://elpais.com/espana/comunidad-valenciana/2026-11-06/pedro-sanchez-llama-a-la-movilizacion-en-su-retorno-a-la-precampana-si-se-pudo-en-brasil-y-ee-uu-en-espana-tambien.html",
+       "desc": "El mitin de Valencia, más contenido que los anteriores y sin bailes, empieza con un minuto de silencio por las víctimas de Urda. El presidente reivindica “la ejemplaridad” por la dimisión de Puente en"
       },
       {
        "title": "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
@@ -24,14 +24,14 @@
        "desc": "El nombramiento del hasta ahora asesor de política interna apunta a un giro más duro de la Administración tras la derrota de los republicanos en las elecciones de mitad de mandato"
       },
       {
+       "title": "La visita del Papa León XIV en Uruguay, en vivo | El Papa: “Estoy orgulloso de ser estadounidense y haber ejercido mi derecho al voto”",
+       "link": "https://elpais.com/america/2026-11-06/la-visita-del-papa-leon-xiv-en-uruguay-en-vivo.html",
+       "desc": "El Pontífice inicia su gira sudamericana por Uruguay, Argentina y Perú, que se extenderá hasta el 17 de noviembre"
+      },
+      {
        "title": "Un grupo de parapentistas fuerza en los tribunales la demolición de un chalé con 11 dormitorios en la mejor atalaya de Zarautz",
        "link": "https://elpais.com/espana/2026-11-06/un-grupo-de-parapentistas-fuerza-en-los-tribunales-la-demolicion-de-un-chale-con-11-dormitorios-en-la-mejor-atalaya-de-zarautz.html",
        "desc": "El Supremo mantiene la orden de derribo de una privilegiada edificación que ha construido la familia de una exedil del PNV"
-      },
-      {
-       "title": "El Gran Wyoming comunica su jubilación en ‘El intermedio’: “No vaya a ser que lleguen los de Vox al gobierno y encima me quiten la pensión”",
-       "link": "https://elpais.com/television/2026-11-06/el-gran-wyoming-comunica-su-jubilacion-en-el-intermedio-no-vaya-a-ser-que-lleguen-los-de-vox-al-gobierno-y-encima-me-quiten-la-pension.html",
-       "desc": "El presentador de 71 años anunció este jueves que se retiraría en unos meses y que Gonzo ocuparía su lugar al frente del programa de La Sexta"
       }
      ],
      "error": null
@@ -40,24 +40,24 @@
      "name": "Univision",
      "items": [
       {
+       "title": "Un bebé muere por sarampión en Wisconsin: ¿Cómo proteger a nuestros hijos de la enfermedad?",
+       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN25TUTNxalVEbkdoR194czhXSlREZ1hTMUZKakpfWm9yX1ZnX0hhak43Um5KLWxPM0RWMThIa1dpUTJHcDZxRTZwVnVORUJLS2ljeXJZeGNTX1FmNFFDX3VjM2drbUJVS3NSUXMtSkxfRDdJQnZ4LUxEb1VNejRMbUhoZlMzUjl2MmRfRU5YZ1l2ZG1tcEZFM25CTmFQZ3lQV181bHg4R19LUURrQU9UdkhVd2dFMGFXM0ZPaFhITXEtcTFMZV9RN241cDZ4MG9kemRlYnVHRDJNZkd5S1E?oc=5"
+      },
+      {
+       "title": "Hablemos de Inmigración: ¿Nuevo Congreso fiscalizará fondos y demoras en trámites de ICE?",
+       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYVB2SzRQNS1YUE01Vk5UZ0FwN2h5V2RyeE0tU1pMSWxxWDNYQlUwQVhfQ1hkYTN5NENKd3YzaE9qeDJJSmJLMEcxdC1yUVhCN0NveVRRTjNSOTVYb2xpR2dLUWVrZnNONVRVeXFCZTJuN1BNeG43OWFubGV5SVl6ZWIzb0I0dS15OW43Y2FONG1QT3FlaDVhQjQ1UEZNNFNpYldTU0FZMFVFQ0E0M1dTYk1JVDBSWlRuS0NMeWhNVFNLRE54VUE?oc=5"
+      },
+      {
        "title": "Anuncio histórico en California abre debate: Esto se sabe de las intenciones de Gavin Newsom de cambiar penas de muerte",
        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcWNwUEZCRFdxZm9KRUtUTURZRHhudmVZUFlCMFJqc3ZoaTJwT0JpMWpTRkFiTU9FdjBaWEhkMGdVZFE0T20xaXBXR01qUGRqUUJqcHFCU0FTUWNqQ2dLVnlnQ0pSU1JqZ0tvVFcxbjdYY3hDejE2UlRSQWRlWmdvZEt0NDZuZURueW5hd2VTaDJsZ0Q4T1cwV1RYbUkxOFAzcmJ4R3FnUjFjTjNmT2pkRU5peDh6eXFuZGJDRHIxbGh6dmZFR3BlQTBuSFBISDktRFo3dWZ1ZUdmUnNNYlprYnQwdHpOWS0ya1FsOHJEMV92d0dxZ3dKUXdYZzRPclBPQjRXWWlR?oc=5"
       },
       {
+       "title": "Donald Trump habla sobre la futura llegada de Stephen Miller como nuevo jefe de Gabinete",
+       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQnB3UmpmdEZQZXRSa0lWZWwxa3hHZjkwNEJUOE1JWE5adXkwQy1nbjF4QTVBWThfSFB3QWhxeTJaUGFuRXljOFZGMUk2SzBwYlN0dGRHMVV1Q0RxX2NIWTNxSVEwZXlVZ0hqMlRLYl9fNGNyd2JoTmUxbGFCajY2dDZyb1Jjb09rZnZaOUVsM3VaWFRsTkhLcVlwQ3poZS01eUZOWi0tVFFrSnRWc3ZJU1RzYlByeXdDNnN6RUJUOTJKQmVDcU5KN3JpdWVPbmR2S2t1aQ?oc=5"
+      },
+      {
        "title": "Escándalo en Ueno bank detona la renuncia de Santiago Peña y desata severa crisis en Paraguay",
        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcGFPY0l0aWhNU0lxZHpUNks3clNjWXMwc1cyZ3ZqWVctSXhxVnVZYlBEdEM4YUF6aTQyTzNKNkxWVTY3bmZKa3FpR0ZaUTJDSy0wN0NaanFKbFdJVjlZVUpMcklVSUNYNDQ3X0RjdGNveEpsWXdWNkNRQjR0c21xaTVEdEtxa2luVlg3VXdGQ1BvS292eEhXWkJRT2pRY09CUzI4QjJ0UGVNbjZoUGdjb0FKT0xFbDFMYmZGOWk1aE9sa3E1c3I4bU5SckgxWmNlQ2VROGdYZkRCaWdsQ09GbjRCQV8?oc=5"
-      },
-      {
-       "title": "Negocios de la familia Trump, operativos de ICE, archivos Epstein: Lo que podría investigar el nuevo Congreso",
-       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWG1jNUF0ZlNfcExIcjdLMWp5Q2FVb0RUZFVfTllUWk40dDFnLXBvd21aMHJaQmg2aGhpNFpVcVBVTURrWDk3Vy15cXczalJzZ21ZNGZ3WFhLaWNlNGxzbkU0S2o5UTNkWTBDLWNLMV9WZ0dNNVNjek9BOUpiYWx3RlhPcklMRktFQUFCS0pOU1FkX0Jub1hlNnJWWFRNamFGQjI0UVZfTWdEdGZVVjlqYTFzX013blNCWlhBNnVja2I1aVJ0Qzh4cHZFMWhvUjYzLVFBd3MxSUJkYmNRVTFMaEpFVjBPeFhoOWlqZHV5RmU1OENHRmc?oc=5"
-      },
-      {
-       "title": "EEUU suma 165,000 puestos y baja el desempleo al 4,1% en octubre",
-       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMlYtM3ROZzBkRTZtOG8yVGNwTUNiUE5rTTlTZDNRWWR6a1kyZFV6dDFicnVrakMzWk96NkRRZmFBR0w1d0hzYm9TTm0wdUR4TUxETmgyUnNWQy1wQlFDVkI1QktCMndZTTVTSGtiZGlCVmdleU0xZFVWMEtfSFNNaXFzQ0RNMkxUQjJWdEtyb3BOR0RTU3k0Um9nWTk5Sm1SQ2JWTDMxNzdIeDYxaDRCbGwwUzd2WHhzbnFqS0tBSGRBajdQ?oc=5"
-      },
-      {
-       "title": "¿Nerviosismo de Wall Street se ha extendido a mercados mundiales?: Esto se sabe",
-       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkQwY3RZeW1KRFFSckU3TDN4cEU4OGZ6ek1vMFFyZ1ZvVFlRMkR4cmZRY29XaC1HWEpDbzF1TXhOb0xJYmlWZVpoZ1VKWEoyRDEwZThjRVd6R0Nmb09DeURfS0lkQVBpMzdJSWRidHlXSmVrM0FDRVhGa2NtRXB4YnYtVmw3MEFidzdfM3hvVEZDQldVQ1J2TXZnNk1wVzhyTWVObUVWOENnMUtFelFOeEpadXVsRUY5?oc=5"
       }
      ],
      "error": null
@@ -70,20 +70,20 @@
        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYy02VURGV01oYTJPZWJ4RDlKSVlOUndOSFhZQi11b01mM0hRakxxTUpsWE9wMktfZnJyNXNVSGhkM3pjRkl6dnk4MDBiOEs4MllFNHVzMUpmQmUwZVAwQU5JdUdvd3dGUGNIY2xkb0VlZTBiZ0ZmQU9lVjdOeTlhTW9QdlREb0JxTlZOdGpkd0pQUnVGRFpCSXJGaXVHNU5IQ0xQOXR3VWowNXUxZWQwWFhYeWp3UFZsd1M4RQ?oc=5"
       },
       {
+       "title": "Un tribunal frena la construcción del ‘Arco de Trump’ en la capital de EE.UU.",
+       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaHZyQ2FnVWtReE5mZFMxVkcxT0pEM1gtMzV6NFRkMVg4QUY1QjdQR2h1MHpyOGxLN3pWS3ZSaUJXN1lpajJGQlBaS1dESTJsVzE4T2NiVnBmQ01kZjZsZWg0QUNuN0M1WTRHVDZrSWZ0NkJwRWxYajVZWEZUcFpmdnRLYUVJYmh2SkFXX0NzVHF0Qm9YUDdCOHBpVjJVVnY3cmFwR0JHTndBLThQVS1zNnhSTG8yczlPV1NPTDV1dlhQSmF4U1BSYVJ6dko?oc=5"
+      },
+      {
+       "title": "Resultados de las gobernaciones 2026",
+       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1lFTG5PQ0hsWFFEM2ttVTRnRjZKUjk3NUd2bE5NMmhyZEl5NTFtRDUyTVEzYUxaV3ZFdy1Dcmx2VVNLQWpmN2RSSEdGOUsyREhYUlg2ZDBtemZ0RHBmZXJGQ3JINHgwbnhVOHhlS2M0MTJQNHlVUFYtSmg4aFBwcGttQ2pLYVRleDZhbFl4NktYS3FkbFVqaFp2UlQ5aFM5T0hnQTZiWVB2dw?oc=5"
+      },
+      {
        "title": "Resultados del Senado 2026",
        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1BFWVNZZHp1Rm9zWG4tYTRGYmJ0c05ENEc0bGZNOFFqUWtBVldmLWN5amYzR2RPUHlYbDlidzZkUVQyRkx3aVNKYWlNdTltNU1nRGN5Rlc0NGpqZm5IR29SMlVxZjFaRnFyT3oyQktsMGt2eFpiWHp1eVVNNTE2bnBWMG44bDNxVDlaUnFaX3NJUG5oaG5sNVhwaVdfcXFaYWJ5NA?oc=5"
       },
       {
-       "title": "Explicamos con tres mapas cómo ocurrió el ‘tsunami azul’ de estas elecciones",
-       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0tiZDhPaWM4c1B1MGZPUkMtLWxfZmFkNkRIZERjb1d1cnJ1cE1tREctT3RaU3J0b1dVS2ZFWHo3TGNXMklfeHhnQy1Ud085T1RCdXRDWWJaX2VDRVZDbERlZzRiYnFzdkxhblJGQk1TeFV5dk9yMHhiQ05BdTVBWWpkN01TNy1rZm1MVzd4c2lBZFd4ZEpzWWpYd0RKaExXWF9SU3pONVdwUWVpTnJCVHROLTBwaEhLa0FWbll1Nm1OdkNnUVdlT09qTQ?oc=5"
-      },
-      {
-       "title": "Hay 15 millones de personas bajo alertas de congelación en el Medio Oeste del país",
-       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYV9jS0xxNmhlNHZUSk5iSTBhaWVTOXdoaGZQQTRfUDVXai1qMm5jUVN6eTA2X2ZiMlJFTHFPdk96OVlBcndsNWtNQlg0RndVMl9hTnBvOUpvYXdwekpNSG1GdEktUUNLUkU4S1kyeEZ0Vmt3a0JWMVlwd2JsXzZyUHNYSXdNTUNqN0dLLTlSVTh2VVVQYkN1S255YjhiOVVhVFhIQms4ZjJGLVJUR0VaLXFHRFljVDFkMm1BTFZSM0VSU0VYdm9Hb1FNbXdyTDVhYldwSG9kejZfa1VYV3JHSlduTlJXc3BRNUtBTUNlOGJxTGs?oc=5"
-      },
-      {
-       "title": "Un tribunal frena la construcción del ‘Arco de Trump’ en la capital de EE.UU.",
-       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaHZyQ2FnVWtReE5mZFMxVkcxT0pEM1gtMzV6NFRkMVg4QUY1QjdQR2h1MHpyOGxLN3pWS3ZSaUJXN1lpajJGQlBaS1dESTJsVzE4T2NiVnBmQ01kZjZsZWg0QUNuN0M1WTRHVDZrSWZ0NkJwRWxYajVZWEZUcFpmdnRLYUVJYmh2SkFXX0NzVHF0Qm9YUDdCOHBpVjJVVnY3cmFwR0JHTndBLThQVS1zNnhSTG8yczlPV1NPTDV1dlhQSmF4U1BSYVJ6dko?oc=5"
+       "title": "Trump anuncia que Stephen Miller sustituirá a Susie Wiles como jefe de Gabinete",
+       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWhwZVltbU1WUTdwajMzb3JkelpDemxhUmhRWEZlUUVCeXZreERzUVZ2QXQ0T1k2ZVNnTURSTXhRSjltTDJPRDdNQjNJY29OSWZad3h1ZEZiLV9hVjRLeFhITUJ1Z1h5Z1lJOGxCYXpLbnB0UDdyVUtXVkNHUGVLZWtKZGt0eWt6LUxaT1R5Y2VjRUw5Ymlja3RkSDJqRldJZ3FYNmx3cXFfMFk2RjVz?oc=5"
       }
      ],
      "error": null
@@ -114,8 +114,8 @@
        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTZVBsNW5GS21RdlplZ3FVcUxteEY4OU92LXdUeU5PQVRjcEtlT01FMmdPRVlpUTJkX0oyNkRTMVFLcTFyQzA5YlVHeEQ0TGI5TXRvY0tB?oc=5"
       },
       {
-       "title": "Could 'Decoy Dan Sullivan' ballot scheme lead to federal criminal charges? Legal expert weighs in",
-       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15RTZ2a0pPX0JGVnRzNHNqSkZpaDVKYk54ZExRMS1Ob3pza2ViNFhBOUY1MDhCei1RMlpCQ2tOaTY3TVJUbzJCR1NEc3owTks4MXNhRFRB?oc=5"
+       "title": "Democrats deny impeachment plans as GOP sounds alarm",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ob3JYRkJmQ2NnTG83VjJrV21wUDZGaFVtbGxwdFprTjQ1WXNySVBYZ2dnVXR5U3VYQlB4eTBQQXRHY0hKVG42UG5BRTFjMWkzd2xpb2Rn?oc=5"
       }
      ],
      "error": null
