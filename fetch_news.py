@@ -1,4 +1,5 @@
 import json, re, html, datetime, urllib.request
+from email.utils import parsedate_to_datetime
 import xml.etree.ElementTree as ET
 
 N = 5  # noticias por medio
@@ -23,6 +24,10 @@ def parse(xml, google):
             continue
         seen.add(title)
         item = {"title": title, "link": link}
+        try:
+            item["pub"] = parsedate_to_datetime(it.findtext("pubDate")).astimezone(datetime.timezone.utc).isoformat()
+        except Exception:
+            pass
         if not google:
             item["desc"] = clean(it.findtext("description"))[:200]
         out.append(item)
