@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:40:40.073578+00:00",
+ "updated": "2026-11-06T20:29:46.399547+00:00",
  "sections": [
   {
    "id": "es",
@@ -9,9 +9,9 @@
      "name": "El País",
      "items": [
       {
-       "title": "Última hora de la actualidad política, en directo | Sánchez: “España se gobierna desde España, no desde Washington o Buenos Aires”",
+       "title": "Última hora de la actualidad política, en directo | Sánchez defiende la gestión tras el accidente de Urda: “Hemos dado la cara con transparencia”",
        "link": "https://elpais.com/espana/2026-11-06/ultima-hora-de-la-actualidad-politica-en-directo.html",
-       "desc": "El presidente asegura que “el ejemplo de dignidad que ha ejercido Óscar Puente, Vox y PP jamás lo practican”| Cuerpo se compromete a crear una oficina para las víctimas de los siniestros ferroviarios"
+       "desc": "El presidente avisa de que “España se gobierna desde España, no desde Washington o Buenos Aires”| Cuerpo se compromete a crear una oficina para las víctimas de los siniestros ferroviarios"
       },
       {
        "title": "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
@@ -19,9 +19,9 @@
        "desc": "La UCO acude a Adif, el Tribunal de Cuentas y la Agencia Estatal de Seguridad Ferroviaria a requerir documentación"
       },
       {
-       "title": "Las ‘midterms’ 2026, en vivo | Stephen Miller, nuevo jefe de gabinete de Trump",
-       "link": "https://elpais.com/us/2026-11-06/las-midterms-2026-en-vivo.html",
-       "desc": "Reemplaza a Susie Wiles en el cargo. Es la primera ficha que se mueve en el gobierno tras la debacle electoral en las ‘midterms’"
+       "title": "Trump nombra al arquitecto de su política migratoria, Stephen Miller, como nuevo jefe de Gabinete de la Casa Blanca",
+       "link": "https://elpais.com/us/2026-11-06/trump-nombra-al-arquitecto-de-su-politica-migratoria-stephen-miller-como-nuevo-jefe-de-gabinete-de-la-casa-blanca.html",
+       "desc": "El nombramiento del hasta ahora asesor de política interna apunta a un giro más duro de la Administración tras la derrota de los republicanos en las elecciones de mitad de mandato"
       },
       {
        "title": "Un grupo de parapentistas fuerza en los tribunales la demolición de un chalé con 11 dormitorios en la mejor atalaya de Zarautz",
@@ -44,6 +44,10 @@
        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcWNwUEZCRFdxZm9KRUtUTURZRHhudmVZUFlCMFJqc3ZoaTJwT0JpMWpTRkFiTU9FdjBaWEhkMGdVZFE0T20xaXBXR01qUGRqUUJqcHFCU0FTUWNqQ2dLVnlnQ0pSU1JqZ0tvVFcxbjdYY3hDejE2UlRSQWRlWmdvZEt0NDZuZURueW5hd2VTaDJsZ0Q4T1cwV1RYbUkxOFAzcmJ4R3FnUjFjTjNmT2pkRU5peDh6eXFuZGJDRHIxbGh6dmZFR3BlQTBuSFBISDktRFo3dWZ1ZUdmUnNNYlprYnQwdHpOWS0ya1FsOHJEMV92d0dxZ3dKUXdYZzRPclBPQjRXWWlR?oc=5"
       },
       {
+       "title": "Escándalo en Ueno bank detona la renuncia de Santiago Peña y desata severa crisis en Paraguay",
+       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcGFPY0l0aWhNU0lxZHpUNks3clNjWXMwc1cyZ3ZqWVctSXhxVnVZYlBEdEM4YUF6aTQyTzNKNkxWVTY3bmZKa3FpR0ZaUTJDSy0wN0NaanFKbFdJVjlZVUpMcklVSUNYNDQ3X0RjdGNveEpsWXdWNkNRQjR0c21xaTVEdEtxa2luVlg3VXdGQ1BvS292eEhXWkJRT2pRY09CUzI4QjJ0UGVNbjZoUGdjb0FKT0xFbDFMYmZGOWk1aE9sa3E1c3I4bU5SckgxWmNlQ2VROGdYZkRCaWdsQ09GbjRCQV8?oc=5"
+      },
+      {
        "title": "Negocios de la familia Trump, operativos de ICE, archivos Epstein: Lo que podría investigar el nuevo Congreso",
        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWG1jNUF0ZlNfcExIcjdLMWp5Q2FVb0RUZFVfTllUWk40dDFnLXBvd21aMHJaQmg2aGhpNFpVcVBVTURrWDk3Vy15cXczalJzZ21ZNGZ3WFhLaWNlNGxzbkU0S2o5UTNkWTBDLWNLMV9WZ0dNNVNjek9BOUpiYWx3RlhPcklMRktFQUFCS0pOU1FkX0Jub1hlNnJWWFRNamFGQjI0UVZfTWdEdGZVVjlqYTFzX013blNCWlhBNnVja2I1aVJ0Qzh4cHZFMWhvUjYzLVFBd3MxSUJkYmNRVTFMaEpFVjBPeFhoOWlqZHV5RmU1OENHRmc?oc=5"
       },
@@ -52,12 +56,8 @@
        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMlYtM3ROZzBkRTZtOG8yVGNwTUNiUE5rTTlTZDNRWWR6a1kyZFV6dDFicnVrakMzWk96NkRRZmFBR0w1d0hzYm9TTm0wdUR4TUxETmgyUnNWQy1wQlFDVkI1QktCMndZTTVTSGtiZGlCVmdleU0xZFVWMEtfSFNNaXFzQ0RNMkxUQjJWdEtyb3BOR0RTU3k0Um9nWTk5Sm1SQ2JWTDMxNzdIeDYxaDRCbGwwUzd2WHhzbnFqS0tBSGRBajdQ?oc=5"
       },
       {
-       "title": "El presidente Donald Trump declara la Oficina Oval monumento nacional para que nadie pueda modificarla",
-       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOajNOUTRkbDlUZjVDRWUtUHhqZ0E0ZGx0T0VwLWxWbUlra2s0cTVZOFFpVWozSnRucEswSFRKNlVxaVZFbUFNS2FrNUNKeklQMTBmTUtscUgyUWR6R1ZEQ2xHSThzLW5RdThqWnZQUVVLc1VaSWlCci1FR2hpVW1SZWV2U1RocWVaVlJNYTQzM2h4UGYwMUlNekZSbHZQWUk4SnBHcUtIZ055dHFQSnBrNXJ2eDAwTjVKRnY2cEc0RGZUTk1RNDBBem10TTRGM3ByRElsSkZqbjFabk8wcDVF?oc=5"
-      },
-      {
-       "title": "Un juez rechaza petición de 15 alguaciles para colaborar con ICE en Nueva York: ¿qué cambia para inmigrantes?",
-       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbHV1Tzk0ZlBSNVNBaW5DdnlBM0pyQlR2SW5IMktxdkVSdjk4SjBFbTNqZEI0WlJrdEw2SUZNWUJmQ0daZzF2bTNyZnAxTG5jT0RhREFybWU0QVhQaDRTSFVORk1JOF95YnFscjVJTTZsUlRBbGw2S1BYcjJMTjF0c0Jad1Y5bmhUSm16Y3RvR1hESG41X3NPY2xUMXZ3cEdOVXpUdno3d2dHTkxWOG1ZbFdDZ3ZCeFNiS1JlSUdmSmltNVVYSHc3YUdRaTlzYi1KbWtfVmt5X09fSlFPQVFfZzBhLWw?oc=5"
+       "title": "¿Nerviosismo de Wall Street se ha extendido a mercados mundiales?: Esto se sabe",
+       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkQwY3RZeW1KRFFSckU3TDN4cEU4OGZ6ek1vMFFyZ1ZvVFlRMkR4cmZRY29XaC1HWEpDbzF1TXhOb0xJYmlWZVpoZ1VKWEoyRDEwZThjRVd6R0Nmb09DeURfS0lkQVBpMzdJSWRidHlXSmVrM0FDRVhGa2NtRXB4YnYtVmw3MEFidzdfM3hvVEZDQldVQ1J2TXZnNk1wVzhyTWVObUVWOENnMUtFelFOeEpadXVsRUY5?oc=5"
       }
      ],
      "error": null
@@ -65,6 +65,14 @@
     {
      "name": "Telemundo",
      "items": [
+      {
+       "title": "Resultados de la Cámara de Representantes 2026",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYy02VURGV01oYTJPZWJ4RDlKSVlOUndOSFhZQi11b01mM0hRakxxTUpsWE9wMktfZnJyNXNVSGhkM3pjRkl6dnk4MDBiOEs4MllFNHVzMUpmQmUwZVAwQU5JdUdvd3dGUGNIY2xkb0VlZTBiZ0ZmQU9lVjdOeTlhTW9QdlREb0JxTlZOdGpkd0pQUnVGRFpCSXJGaXVHNU5IQ0xQOXR3VWowNXUxZWQwWFhYeWp3UFZsd1M4RQ?oc=5"
+      },
+      {
+       "title": "Resultados del Senado 2026",
+       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1BFWVNZZHp1Rm9zWG4tYTRGYmJ0c05ENEc0bGZNOFFqUWtBVldmLWN5amYzR2RPUHlYbDlidzZkUVQyRkx3aVNKYWlNdTltNU1nRGN5Rlc0NGpqZm5IR29SMlVxZjFaRnFyT3oyQktsMGt2eFpiWHp1eVVNNTE2bnBWMG44bDNxVDlaUnFaX3NJUG5oaG5sNVhwaVdfcXFaYWJ5NA?oc=5"
+      },
       {
        "title": "Explicamos con tres mapas cómo ocurrió el ‘tsunami azul’ de estas elecciones",
        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0tiZDhPaWM4c1B1MGZPUkMtLWxfZmFkNkRIZERjb1d1cnJ1cE1tREctT3RaU3J0b1dVS2ZFWHo3TGNXMklfeHhnQy1Ud085T1RCdXRDWWJaX2VDRVZDbERlZzRiYnFzdkxhblJGQk1TeFV5dk9yMHhiQ05BdTVBWWpkN01TNy1rZm1MVzd4c2lBZFd4ZEpzWWpYd0RKaExXWF9SU3pONVdwUWVpTnJCVHROLTBwaEhLa0FWbll1Nm1OdkNnUVdlT09qTQ?oc=5"
@@ -74,16 +82,8 @@
        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYV9jS0xxNmhlNHZUSk5iSTBhaWVTOXdoaGZQQTRfUDVXai1qMm5jUVN6eTA2X2ZiMlJFTHFPdk96OVlBcndsNWtNQlg0RndVMl9hTnBvOUpvYXdwekpNSG1GdEktUUNLUkU4S1kyeEZ0Vmt3a0JWMVlwd2JsXzZyUHNYSXdNTUNqN0dLLTlSVTh2VVVQYkN1S255YjhiOVVhVFhIQms4ZjJGLVJUR0VaLXFHRFljVDFkMm1BTFZSM0VSU0VYdm9Hb1FNbXdyTDVhYldwSG9kejZfa1VYV3JHSlduTlJXc3BRNUtBTUNlOGJxTGs?oc=5"
       },
       {
-       "title": "“Quisiera haber estado con ella para ayudarla”: habla el padre de la piloto Nathalia Filgueiras tras su muerte en Florida",
-       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOGlMb2NzS0hHNHlCUUtlbjJyT3l1cmFYZ0NPQ080WHRlLVV3Z2cteFVIWElaYjNPclg3TzJEanBabkJSZWZ3emh5QW5CaDZ5Qjk0cEhGcVZZLXFWSUZxakV0SHA0cVpuaEhMSWpDbFpxOHp0cVhwS0Ezcnk4ckNtQmdBMmliQm9RbFpVcDdwMV80eXRYWHBycXhZMUpxV1FaMlZDMUpJamdsWFNsWlprY25PRjdZYUU5aHJaYm8tR1JMcFFuOUw0NA?oc=5"
-      },
-      {
        "title": "Un tribunal frena la construcción del ‘Arco de Trump’ en la capital de EE.UU.",
        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaHZyQ2FnVWtReE5mZFMxVkcxT0pEM1gtMzV6NFRkMVg4QUY1QjdQR2h1MHpyOGxLN3pWS3ZSaUJXN1lpajJGQlBaS1dESTJsVzE4T2NiVnBmQ01kZjZsZWg0QUNuN0M1WTRHVDZrSWZ0NkJwRWxYajVZWEZUcFpmdnRLYUVJYmh2SkFXX0NzVHF0Qm9YUDdCOHBpVjJVVnY3cmFwR0JHTndBLThQVS1zNnhSTG8yczlPV1NPTDV1dlhQSmF4U1BSYVJ6dko?oc=5"
-      },
-      {
-       "title": "Arrestan en Florida al padre de Meghan Markle por cargos de posesión de pornografía infantil",
-       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVG9oUU9zNWdxSm5pc25zZEY1MC1LbXRCNllTd0J1enhDWUJ2bWRwd2E2SEpsZmY5aGFCN1hBVGJrekRHRFpjTnl5b3lrSS1tTWZyRm5zTTh4NXNPdlJTNzl2dXk0d2ZPakhMa1RUTXk2YzVDVGNSZmJYdHdJSmZTaGIyTFRYTnpnWTJfamdTYXcxX2VZdzJTN1hta290U1U1Ry1LNlV3MTNHd0ZodmliTUk0V3hka1BuejZFRjFTc3d4MlpxTnNWdWR0eGFNWFhIdFBnZ0lKUEU0UUI5V2Y2VmE0Y25RcTY1NGc?oc=5"
       }
      ],
      "error": null
@@ -98,12 +98,8 @@
      "name": "Fox News",
      "items": [
       {
-       "title": "Vance ‘privately’ blasts Netanyahu as Iran war divides Trump administration and 2028 ambitions loom",
-       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1FNc2tPN1RYQnRjc0Z6OEpkTndxTm1FbHFVS0xZTGJpWElwb2pJRnR0eE02bUJPb3RkN2JUVERUMUxGQjZNMUN3Ym5jbXlfREVaVXZoQlNiVF93eWdUeEtLZFFOVVF4WWxJbi1KZWNnX0NrblQwajZMREEyUXRWcDV1X1RLU2x1NEw0Tlk1cGJIWTkxUWxjRjM2TVdBWFlOZ19MWGlHaUNRaGt2aWM2X3VOQlrSAboBQVVfeXFMTVFDeTFJR041YmdER0QwZnd1UDJUeU5TM3JMb1ZIT1NvUFRzU0tfNkd5cjhLVDNLQlBvNHhCWmt3QVNTUUpGNFJqZEZHNnZCUzRjQ1BIUmc5OFNWZHRrQ292b0M0S3FfUENONVdPUTNINXNLTzdsSFc2RGxITzlNWFQwQnFIaEFGLXpESDRIcHE2NXJ2U19zQl8wTDRiQmtvSzl3U2gwSzZMWDhGSWJnSUhRbFlXbl9KOGVB?oc=5"
-      },
-      {
-       "title": "Hegseth demands $350B for military, fires back at Dem impeachment push",
-       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQUdHT1FaWmxvQkJwSUtqMGNRZUxGb2FQckJBSzdINWppQWVtdFFjTmpudkwwV1hfQ2luelR1S0tVNWNPNkJvUndTZEFsT1ExV0Jsb2pSRl90S1NiaWFtNlE5aXV5RFQwQklQQVpCelpzd0l5bUx5TFJQTW1JeDg0dk9GSk9DMlNndVUtbHd4cFg4bE1wT0tvbGdB0gGfAUFVX3lxTE9JQUk3Sm5NY2lQN2NyOF9mT0dLRDFsNkhKN2dudnVRR3BBbXBZNHB4TGRJMFRVcTZ3ZWRtd0w0TGp4UFBwcmw3NzhfdkJEV0J3LVNiRnljS1p4aXp5bnY4Q3oxd094T1dpODM1Um9LdjZKQkJYTGdEekRHMHZzT1hURjAtVTlXZTVCcFo0WXVYeXlRRnJ0TVBwdjVUMERfZw?oc=5"
+       "title": "MATT CALKINS: After years of threats and intimidation, the bullies in the women's sports debate finally lost",
+       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONVhzbHZoUC02UVc0VUV5NEcwbDI5UU1lVjhmcE9yMWYxenpfczl0amxua2t3NjRnTkFjMWMyRXNJUnBISjV4al9IdDB0YzZiVUhVeEk1bjlLc0tTbWdVWC1oQjFDc2hNTzBtc3FRS3lROVAwdHh0aDhYeXFjUHAtOEpMYXRpRlVGUlBfeXZUR1h5MnJmcUVuUnZpemhXUHR2eWdxaVRIS2FDbnhGSnZRTWtjbGZsNHdfSlBOag?oc=5"
       },
       {
        "title": "Democrats map out legislative agenda after midterm win",
@@ -114,8 +110,12 @@
        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1ZHSF91a21OTWdmcjZnTl9SNzFmMVJpdUR6OVM5N0syeUxIMW5LcXlsWll6dm1FMUdxbkNnU2w2N1d2NjZ1QjRxT1dnSkE5bzFOVWRyUmF0eTFhbmwtcDlodVM2TURsTGU1cXlMRXhWa1p5MkRXOTE2OHNlMWRwRzYwbmh0M0RnaXlOYnU3bHdHd0dGZXNSVGJhWF9VQ2FzUXVUd3czY1nSAa4BQVVfeXFMUFpZdENRSFZETmVuU0E5SGQ4dU1faXNsSUMtMGs2aEhIZWZ6MXJ2T0pWUlFONy0tblpDWEFvVHJhYjhGR3NqUFhjT1d0ZnhLbTVKNDZMaWlZSF8zbnFiWmxjeEJOdWRCS09QM3lGb0VzM3VhR0VfQlI0LXdmcEYzZDh1NWxxS1F4Y08yNWlhUFJ0bkpObUlfQUZwX3RESE1qV0U0R0R1VUdmX2s5Um9R?oc=5"
       },
       {
-       "title": "MATT CALKINS: After years of threats and intimidation, the bullies in the women's sports debate finally lost",
-       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONVhzbHZoUC02UVc0VUV5NEcwbDI5UU1lVjhmcE9yMWYxenpfczl0amxua2t3NjRnTkFjMWMyRXNJUnBISjV4al9IdDB0YzZiVUhVeEk1bjlLc0tTbWdVWC1oQjFDc2hNTzBtc3FRS3lROVAwdHh0aDhYeXFjUHAtOEpMYXRpRlVGUlBfeXZUR1h5MnJmcUVuUnZpemhXUHR2eWdxaVRIS2FDbnhGSnZRTWtjbGZsNHdfSlBOag?oc=5"
+       "title": "Fake travel permit websites trick tourists into handing over personal data",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTZVBsNW5GS21RdlplZ3FVcUxteEY4OU92LXdUeU5PQVRjcEtlT01FMmdPRVlpUTJkX0oyNkRTMVFLcTFyQzA5YlVHeEQ0TGI5TXRvY0tB?oc=5"
+      },
+      {
+       "title": "Could 'Decoy Dan Sullivan' ballot scheme lead to federal criminal charges? Legal expert weighs in",
+       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15RTZ2a0pPX0JGVnRzNHNqSkZpaDVKYk54ZExRMS1Ob3pza2ViNFhBOUY1MDhCei1RMlpCQ2tOaTY3TVJUbzJCR1NEc3owTks4MXNhRFRB?oc=5"
       }
      ],
      "error": null
