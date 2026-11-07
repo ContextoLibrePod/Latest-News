@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:40:39.874377+00:00",
+ "updated": "2026-11-07T19:27:16.390191+00:00",
  "categories": [
   {
    "id": "top",
@@ -28,6 +28,13 @@
       "name": "El País",
       "items": [
        {
+        "title": "Al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia, en Polonia",
+        "link": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
+        "pub": "2026-11-07T18:15:50+00:00",
+        "desc": "La policía ha disparado y detenido al atacante, un hombre de nacionalidad polaca de unos 25 años",
+        "outlet": "El País"
+       },
+       {
         "title": "Sánchez llama a una votación masiva el 29-N: “La mejor receta contra la involución se llama movilización”",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-07/sanchez-llama-a-una-votacion-masiva-el-29-n-la-mejor-receta-contra-la-involucion-se-llama-movilizacion.html",
         "pub": "2026-11-07T14:01:52+00:00",
@@ -54,13 +61,6 @@
         "pub": "2026-11-07T04:30:01+00:00",
         "desc": "Un mes después, el PP ha perdido algo de terreno en todas las encuestadoras, y el accidente de Urda apenas ha movido el promedio. PP y Vox suman mayoría en nueve de cada diez simulaciones del modelo d",
         "outlet": "El País"
-       },
-       {
-        "title": "Al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia, en Polonia",
-        "link": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
-        "pub": "2026-11-07T18:15:50+00:00",
-        "desc": "La policía ha disparado y detenido al atacante, un hombre de nacionalidad polaca de unos 25 años",
-        "outlet": "El País"
        }
       ],
       "error": null
@@ -81,15 +81,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "¿Qué es el Formulario PPTC 153 y cómo puedo viajar a Estados Unidos sin visa?",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSUdWdkxtN3ZTQU1rZE9ZWTRvNE9KR3dtSWloZ1pIaV85RThYMC1CX3dJQzU5OFY4empOMVhHMFY0X0VabFZOUFZ4U0FneTFBY0tDOGFCOXNxaXk5MTdVdXMzUGUzVVdYck5QRk9jOUFNX0Z5cTU1TUhncFM2dkdHemo0NkpQS3JIc3NKTld6WngwdXM1c3ZqWm92Yk40RjdsaHd6THFDeVV1NWstQWVDNmN0ZGZ5RVFNS0VzYU9UTQ?oc=5",
-        "pub": "2026-11-07T14:56:26+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Melania Trump se asocia con la Universidad Estatal de Luisiana para ofrecer becas a jóvenes que estuvieron en hogares de acogida",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNM0ZsS215SjlyN21wZFdoeF8xQVp1YlhYWGJ1VDRxbWNqSzFTaVZFWDJQSVJiV1Vxd3FlV19RemI1UDhibTEwTzRTUDZRNlBGVnJqTlNZUkxZcDNJclVjeXBVa3hXQzlPZ0hFM2ZRbGVJNkZ2bUlYX0NxTlJiNVVNaUF2T2k2TklUb2I1N1lSQTlUODN4QnVIVUFWOHN3Q2lvdFQycE9LRllXV0h4bkROOUhlUm1kdzVTZklEb3NrT0tuNm5OX0l4b3ZDUXpMTjRsTEhfMS03a2ZxeG9xTG1YMnNxckh6ZkRXbkw3eUtnZ3VQQldlMEJFeDlyR3lNVHNBMkljN25OWkRhZw?oc=5",
         "pub": "2026-11-07T14:48:36+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "¿Qué es el Formulario PPTC 153 y cómo puedo viajar a Estados Unidos sin visa?",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSUdWdkxtN3ZTQU1rZE9ZWTRvNE9KR3dtSWloZ1pIaV85RThYMC1CX3dJQzU5OFY4empOMVhHMFY0X0VabFZOUFZ4U0FneTFBY0tDOGFCOXNxaXk5MTdVdXMzUGUzVVdYck5QRk9jOUFNX0Z5cTU1TUhncFM2dkdHemo0NkpQS3JIc3NKTld6WngwdXM1c3ZqWm92Yk40RjdsaHd6THFDeVV1NWstQWVDNmN0ZGZ5RVFNS0VzYU9UTQ?oc=5",
+        "pub": "2026-11-07T14:56:26+00:00",
         "outlet": "Univision"
        },
        {
@@ -117,12 +117,6 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Trump designa como nuevo jefe de Gabinete a Stephen Miller, el artífice de sus políticas migratorias",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWhwZVltbU1WUTdwajMzb3JkelpDemxhUmhRWEZlUUVCeXZreERzUVZ2QXQ0T1k2ZVNnTURSTXhRSjltTDJPRDdNQjNJY29OSWZad3h1ZEZiLV9hVjRLeFhITUJ1Z1h5Z1lJOGxCYXpLbnB0UDdyVUtXVkNHUGVLZWtKZGt0eWt6LUxaT1R5Y2VjRUw5Ymlja3RkSDJqRldJZ3FYNmx3cXFfMFk2RjVz?oc=5",
-        "pub": "2026-11-06T19:04:21+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Arrestan a venezolano armado cerca de la Casa Blanca que amenazaba con atentar contra Trump, según autoridades",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2FBUnhkMzBpcFl5YlZyeGFSNXdJblV6b0RickZ6RGgtMG1DdXd0Q1Fma1lkaE1LSFBqSzFPS2JLTWstT01SV1QwcTRlLXY1NmpVYl8tZ1RPVnNROV8tdEdEalFmcXhBNkt3alFvR28yMjkxeHFTcFVzZ3JWUEVRRDl0NnUzSkFHY0tJWV95U3RvOU5sUlJHZVI1bHdYWThkSnBlZVBxQ1EtQ2IwbUt2a01YeWNIczhiWGd3VGIwYnZYVndFa0lUaGVPMm9MYzl5NVRydV9JUmZLRmkwaU9URg?oc=5",
         "pub": "2026-11-06T23:26:34+00:00",
@@ -132,6 +126,12 @@
         "title": "Radiografía de la ola azul latina que llega al Congreso: 55 legisladores, más mujeres y una nueva y joven generación",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTjB4cUpLeTYzcWktT2FpYnpmd3VXdUh2WmxfazNic0VGZmhGNko3NWhpSUJ2RUVhbUk3R0F3MGllcFVLaXhqa09UZUMxaTQ4TGhSeExHcmRCQ0FwNlZTYnRQTmR3TW5UVF8yanMtbjRBNGlJMzdZTEJwS3Jia3I3c1ZubEx4d2w2dWxfbUxCbVBWdWp5ZUY3bkxrREVUcndVaVZ6VGxsMTVLNmx6SHlTVERpTXlOZUtKanhzYVhtUTA5bjJhdUlxY0pKMkN4eS1jZmhrMjFtWlRCbjlMZFFxeWJFVTFmOFlBcDRZLU5EbXVBYmFwR1E?oc=5",
         "pub": "2026-11-07T13:20:09+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Noticias Telemundo 11/06",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZnhjMkJoVGZlMTlPckU0UUs1YVozNXFJSUNCcW9tNTgxeDdJcTFraHp4TVVHaUp0TXk0RzdmMFVqZWIwRUpTMmQwV2YxN1lxeURzVkdQNlRmMUlFTU1NZWR6a01JQmg4bXN6eEhZUTlzUnRCRlN1dVJnLXZ6dnNMLVdOUHh5VXZ0bU9PRTUwMmpPeVdLYXZrT1Z0M0I5X2JucEkxdkhZbUN1SUdBNGZZMFBPZUR3Y21HUWhpdm1DQ1Y3TXBzWmpGME5vYw?oc=5",
+        "pub": "2026-11-07T07:29:18+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -265,14 +265,14 @@
         "outlet": "El País"
        },
        {
-        "title": "‘Sacamantecas’: creíble ambientación en el retrato de un monstruo",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0ZTLUhqbWZxa0ZoVkVPVWN1SWhEZk14bGlsd05ScEE0bzBReHE4cUxvWEExWWdEeXpIM2tIZXptWTM2bUxBLVBWLVEtbUNaTU1Ob253MmhiVzJid1JvX3V1cUdXSDVsS3RXU3BiWG8wUFNING8xVTVtYVRjSFNvdXFiZFRKZTVlalVGa1kwQ0hoS29FSDhvOU1RaE5CdV9YUnY0cHV1dWNxd2p3VG9n0gHDAUFVX3lxTFBHVUIyeXE1Z3ZUaVVzZUkzNGdHcFZLWUFUZHhfYk0xZDg1TDdTUmpRZ2hNYzJaNmxNYlJCVDhsM092Z2tsV1Jla0o2bHF6MmsyV012RWFCU0pOa0dtSHo4ZmY1V1RQN2hIMzdla2JzbTBqLWp5NzRQU0F4QUdIVmwzU0FiWGdfcmlqemc5MDlnUnJkMXpVc19KMVhCQzFkNUdFREFuazItdnFjZm9DNFIzQVpsQmxrakI4QnBKTnpLaGE2dw?oc=5",
+        "title": "¿Por qué ‘La bola negra’ engancha a los jóvenes?",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWnVOcmRKdEp6c3FnMGplYktTbUxtWldLZS1OaHZMZ09CX3FLTkx0ODRkSUhvZ0lnSlRGUGJwNVZZc3YtRXQ1NnpDdjZ0VXRBb1g4cnpsejBDVC13Q1VuemEweWFWLUVBTTc3NHFFWTdhWjlQZ29YWnBpcm9fWEVIbW1GZFBqUVZkZTRXcWotWk1Gc2R6WVR6cWVNdF9oMlJIbjFPdmFmQ01odEhTYXg0Mlltc1hlbENDcHkwQWt4My1maXA5MktOVWlXS2lseWVHX2tZYVR6ZW9KbGvSAe8BQVVfeXFMUDItT2g3d0MzUjg4UFE0X0JLWEVyeGNkQ09GOVR5NWhYclFhQ1VqdmxuQzJyUk9lWTg0SldCNVIxM1Y1SGFjRHhkaVd5N1hha2hzWkd6Y29icXRqSDFUQmpKVDV0RTZBVEh2ckxXMjlvN2s1Y3o3ellKVWlXWTNOd0hZVTJRREFpem1iTnFkMEQxYnhXX1AzYVdlR1ZWa0hmYW5qN3QzUlhHTTI1d2RNU2ZnUDQzNHN4dDZEeFVwdWVJM3hzUmRiWDA5dzc1S2RFQ2M1MDJudUhXclVjVW1pM0c4bHBhUmh6Uzl6NWFfUDQ?oc=5",
         "pub": "2026-11-06T04:30:01+00:00",
         "outlet": "El País"
        },
        {
-        "title": "¿Por qué ‘La bola negra’ engancha a los jóvenes?",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWnVOcmRKdEp6c3FnMGplYktTbUxtWldLZS1OaHZMZ09CX3FLTkx0ODRkSUhvZ0lnSlRGUGJwNVZZc3YtRXQ1NnpDdjZ0VXRBb1g4cnpsejBDVC13Q1VuemEweWFWLUVBTTc3NHFFWTdhWjlQZ29YWnBpcm9fWEVIbW1GZFBqUVZkZTRXcWotWk1Gc2R6WVR6cWVNdF9oMlJIbjFPdmFmQ01odEhTYXg0Mlltc1hlbENDcHkwQWt4My1maXA5MktOVWlXS2lseWVHX2tZYVR6ZW9KbGvSAe8BQVVfeXFMUDItT2g3d0MzUjg4UFE0X0JLWEVyeGNkQ09GOVR5NWhYclFhQ1VqdmxuQzJyUk9lWTg0SldCNVIxM1Y1SGFjRHhkaVd5N1hha2hzWkd6Y29icXRqSDFUQmpKVDV0RTZBVEh2ckxXMjlvN2s1Y3o3ellKVWlXWTNOd0hZVTJRREFpem1iTnFkMEQxYnhXX1AzYVdlR1ZWa0hmYW5qN3QzUlhHTTI1d2RNU2ZnUDQzNHN4dDZEeFVwdWVJM3hzUmRiWDA5dzc1S2RFQ2M1MDJudUhXclVjVW1pM0c4bHBhUmh6Uzl6NWFfUDQ?oc=5",
+        "title": "‘Los miserables’: al servicio del espectáculo en una Francia rota",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2wxTlhMR05yR0dfdjZjSGMyWXNSaU1YLTYtUnFUR0xWR3otbGxvV3Y5dmk1bk5ZaEVQZ0pvTDU2MGV0NUIxQmg3S282c0d0X0ZnMExOTld6NFl5NHFZYl9WWXhIZWNmNk5UY1JINkZ3Y1J4N3R5TEU5TFpYOUMyRWE2TjFWWEdDZklPNkNpMW1TTF9Xb0h4a3BXZFlId19PcEE4RUFEYklTcmp6dzVj0gHDAUFVX3lxTE5RU29yYkJPVnJ0eTEtR0pWU0FaSDZlaTVQbEFaM2JSRnBnVTNyc0FoendfR3FvSFJVMF9qZHRkejkyX1NfTmJ1Nkp4YUFrRi00TFBkanFObzRXRGt4WUxOVnI4MlkwcjBJLWZSUFdJODRQZTRlbVR1aGM0VkFrcVBVckE5SmR0OEdUT2EyT3gzSHNQYXhoNmhCREFEY05KajN4YzluOFBGYmJ6TmhKUFlRcGRuUWpWTlFMUURpSUZvQTQxaw?oc=5",
         "pub": "2026-11-06T04:30:01+00:00",
         "outlet": "El País"
        },
@@ -295,12 +295,6 @@
         "outlet": "Univision"
        },
        {
-        "title": "Nodal agradece a Pepe Aguilar por enseñarle el valor de la familia y él reacciona",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0RHSzhPd0JLa1lzSWpGUkFBLW5ya2xYd1JMUVgzZ3ppZzIwZUg1VGozcWR6UUY4STVjUm96d1RNemxDdHZRQnA1LWpVLUM5WGVhdlRXRmRLdTJHel80NHVEc3dMQnBZUHYwU2pyTDdxSzlRZDBYOWZMNzViWGt2YWRNRWYwNjZ6b2dKQlh2aVpPWTdXc1o1YXllRjQySksxVU5j?oc=5",
-        "pub": "2026-11-07T18:07:20+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Piden ayuda para la actriz Ana Silvia Garza, mamá de Mariana Garza y abuela de María Perroni",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQzg3X3dJRHgzaEtudFU3S2JTelNEV2dSUEd4OFBxYUhYLUZmUk5CRHZVSUFZUTdnN2pLVll2elhiWXZxdEs2VlZrS05VdGQ0QmhncXRQM0gzTmJUQ3VSaGd0VGl6TWd0Sk52Y2Z5czI4WDBFZUVOckg1MXBvWlNlWTdjM2hiNEcyRFRGOTlhenZqOWc3dDh4Z1BsX1k?oc=5",
         "pub": "2026-11-07T01:00:51+00:00",
@@ -315,7 +309,13 @@
        {
         "title": "Reportan el arresto de Rafael Kelly, exvocalista de Los Sebastianes: lo que se sabe",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWlB5R2phWS1Ib3lHMnQtYUtXcnFlRmZhUHhVaUwzSnotZ2cyZHZvWVU3dU1RZlpJeklkRjUwUklWT1lsdUJLTkVOS0FTUlVoQzhIZ0RwWnl2UU5zMHdOcnpXSWNTY0VjRDAwb0cwZ2dqNThiX2RnbVR1S2RzUEplckl0X0U1am82MUE?oc=5",
-        "pub": "2026-11-07T15:56:04+00:00",
+        "pub": "2026-11-07T16:01:06+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Toni Costa y Mimi Ortiz habrían terminado y ella ya tendría nueva pareja",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXNxdmExQmRoVmpCemhYaUlJeXhxY3pSS1lLMFhGbndpYmNlSlhZN3BJTlB4RWczYjJabjZUWGcyaWVTWFBnYjN0T0RHcVpDSndqeW90UlJialY0RGVHNHJLT1lzTXpRRVpzb01MempfWjV6eE1fYThnY19RQm5jcjRwdTVpWTJ4UGdraGhCcnBqUi1UTWQ4dWFpd0RIcjduak1SdE9HQmdrRkNB?oc=5",
+        "pub": "2026-11-02T16:48:38+00:00",
         "outlet": "Univision"
        }
       ],
@@ -485,6 +485,18 @@
         "outlet": "Fox News"
        },
        {
+        "title": "Americans will be grateful for Trump’s actions against Iran in the long run: California Post opinion editor",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kMmoyNjR1cThpRTc2dTZUYXFjZlhrV1JmWTRKNXh0WmNuWUFfZmxnbDIzXy1hV0NYRi01YVNLcWlUeTlIdDFFRDVkMVBmVnFCbnhLNnhB?oc=5",
+        "pub": "2026-11-06T20:16:26+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "American war hero details dire living conditions US troops face as Hegseth taps him to 'fix' it",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWF0S1oyZHFHclJYOUpsOGxqXzFERU1HRXJfS0RCeXdCVzV6VGJMVVBJc25mSFhrblR6OUlHMGRsOUY2bkpOV0M3MWlmdzVwcEdTUmlUa0FJUnh2U1g3UFktaGxtSHc3VUllbXR3UmJUckJUMEs0WHJzSWVCQmxodmQ2eDFTMEM2UVZlcGZHTWJnQ09vRG1CbnU5Q1FTRzdrTHlFdGZwNDIycUlubTNwLWpKN1BRZ19B0gG-AUFVX3lxTE1tNTdBUTV5Z2Z3bmF4U2xqcXZtb05md04wa3luZVVod0JUY2pqVXJOTnhIXzMtZFBVMHFrZTMtejBCcVQ1a1h3MzRNdmtIcDBpSUdnWU9VcDNiMVlTUEEzY19CMzg5RlZaQTcwZWZaa25IeUNlODIyQ1A0a2ZmWE9QQ19lSU9rQ0J1U3hLUDNMaVhGN1o3S095UFJMMl9BVkJXYUFLY3YzUjBSOWFlU2hGUExROTJoOTVMQ0V2b0E?oc=5",
+        "pub": "2026-11-07T10:30:57+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Democratic senator-elect calls Trump 'unserious fool' while defending combative political style",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnZtVjlQbVE4dDREV1VxLWNta2I0NUE0QkdFQnRkb25aVlN3elM0SjNFT0VRY1dHSzVwV09ZUU5YMVR0TEd1WEx1N2hNelNhWXNGOU5fX1oycFMyZGhzLW1ueFZQaUFZSTExSEtQZUNGMjVtOG1KU0ZVV09YWjlwd3ZGNkc0Sk9RSUFVNkxpbkF1N1NGQUxEa09LcXNtRVRLQ1ltTDF5eTJfczFFSlA5b1BLRUZFT05jb2xLX9IBwgFBVV95cUxOMjhyaFM0TnpzM0FpcUo4NzRQajczZTV2WmlGQzVfbjEzWFcyMkZhbjkzeWMyS2pOM3luRGRWSTgwZkdWMmxGOWlLa3c4OWotNUlZQlpodGVxdUN5VzI2WU94a1pBVzV1TGVRc045S3ZwYlRxMnI1UUhEZ1BzT1Y0MDlPcUxYVnRnbDYwcmVSUmVvd0trOEhnQlFqdGw0U2QyYkxjbHh1Zl81Z3o4ZllHbjlWRk1tN2hTQTNJc1FWeXpsQQ?oc=5",
         "pub": "2026-11-07T12:00:11+00:00",
@@ -494,18 +506,6 @@
         "title": "California prosecutors slam Newsom's death row commutations, accuse governor of putting 'politics over people'",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbVRPNGJoQjcxUkp4eW9RS21nTHQ5NldON001NFFDRjF4amM4VEp2eDFwa2tUQUtGdnQ1Ykk2S2Q3TjkyOHBIN2VnT0I4WUFaTUNFZzJ1NXVvSHJ1MlFsOGV2NDdvWGhHSElLcEdYNnFiR1pFWHoyb1RJaTQ0NHdDZHFOcl9Ta3VkVFJiRGlvbk9fMzBNS0xyNmVzQUhPX3N5U1o4QXU5UV9TdFRQLVdQSi15dlJzOFFxV1E0Z1NUVzZZLXVuNUk4aWZwbmp4VFVQd1HSAdcBQVVfeXFMTjZ4eExyQUFIMGg1cGI5LVdnVFA2QmxPZW82MUNlTkdCOE5Fd3dFVzh3Vm9BdjAwRTVxYWNIUDBvVjVmNmdiTWZBZTBrS2pnMnFmaVJkRTNRTXgyZi1Sd2VxOHgzYVJpYmN2bkpQbWNpT0tXWmpPWHJYZEhrbEpWUjdiT0VVUzZ0MUZsOFpKckpKQWowOER3NHhKa3dMZzNtWWh5amJPWmROcHpSdnlBSUd5RzczWDVOU2FGc0VvcDlPWXpEN29NbTc4QkNCbGpieXBtSnBNU1U?oc=5",
         "pub": "2026-11-07T12:33:13+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "MIKE DAVIS: Lame-duck Senate has unfinished business and a ticking clock",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1EwWmZtZXdZR0owQkdoQ1JUWmdxNFdUMmlCaWNzT0JSUUFpbVRlcWpEUGhBZDUtcnZOUGIyQVNmMklTWTYyQlg4d1VsT3RrOHY1V3JxN3dqMlpkZDFod2ZpaW5LYUh1ZUVkWjNhUWRpRzAyYkNoUFRoUXJhaVoyakh4YmNGTmpiSnJPOElfMUtOOWllaFBCNNIBngFBVV95cUxOb3VlN25xRjlHNUNRMUJQV1lpaTA3SXV6dGNNSEc0c3FUX2xfUWdPV0ZvdTloQUw2Z1FsLTBRaG55eFE3c0dDV1NjbHh1d01tcnJvNDFfYTVUT2RDZWk0X3dRWWljLWZXMkx2SjJtbkIyeC1iMXY0d0FxdndnX1hWQnBGdkYxN0M0TEx6ZEJfXzVLbUFjOFpTVjJmMGp4dw?oc=5",
-        "pub": "2026-11-07T12:22:04+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Americans will be grateful for Trump’s actions against Iran in the long run: California Post opinion editor",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kMmoyNjR1cThpRTc2dTZUYXFjZlhrV1JmWTRKNXh0WmNuWUFfZmxnbDIzXy1hV0NYRi01YVNLcWlUeTlIdDFFRDVkMVBmVnFCbnhLNnhB?oc=5",
-        "pub": "2026-11-06T20:16:26+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -561,6 +561,12 @@
         "outlet": "Fox News"
        },
        {
+        "title": "Macklemore claims ‘Free Palestine’ tour blocked from 9 major US arenas",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMnp4T2JuRGN1MXRaWHV3NlI5dDhEOGo1Z2RXUFBUVkl1VmFBRmhZeVZWdy04TFBvaVFlSXZSMl8zNkNRNk43R0RHR1doYkswVGlSdXBNYk5IeF8wS1NoUEQ1SmoxcFpoT1JKT0tFNTRGYmJkRUNSXzFlQmFTS1c3eDZGeDUtZG9UUm9PcVc4VFc5OGdRYjAzX3hyaVBUbGh0NnpIakJaRUVPUdIBrwFBVV95cUxQWnFqdWptdEVGWGJERWxTMS16T1pzcjhGWng3LVFhM0kxWWdNNC1PdjRIdTNsQUo1U0lFTnYtVi1HRWM2dzNGQjk1R21qQXVGVW51Y2xrYWc1cmVuN1A5WTF4emdqN00tQkphdm9DZDc3UlRTaGR2SThENktIZXZfWm54UVhBbzBvRXhQZHZXMFVuQlhsdzZ6TFA4ZldQWk1NMVUyWFFGcVY0RVJPNkVv?oc=5",
+        "pub": "2026-11-07T18:58:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Defense attorney in Tupac Shakur murder trial found dead at 55: report",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWXgzampqLXJWVUw4d2t3WE5HVVZaZTI0Z1VDdHpYdEtPM0trV3pWWjdVZ25lRU5nMTZrSE5VUDVSajFuTDVVWkFoSmxsYmpGQ0tHTjZ5RE1ybmRRaUZsbjRlUmxwX0NDRTZ2YzJIRVR4UVJGRlhmcTRzNE9GOE5xZnF1a2kyaXAzS1I2MTRrNnYtblBSSVp0TzlOWFFBS1BFeFdz0gGoAUFVX3lxTFBWN1pIRkRjdkZ1dGZ6WTJBWjBpY3VoR2RKeUktLTN6UU9xdEl6YUJWcm1tUVRGNFFFaVZUZVU1MjF3dEhhOGxnUHJ3OV9pMUhYSVVYekNsOXNlMWhuWl9nNUlxSkpVMkNGbDlMS1l1OXJOSUlJeUoxVmxHcUQ2b0lseEJHZVNWUVB3ZlRaS3VFN1RGVXJrX0JnR3RVVU10bmU3NGY0MzlfNw?oc=5",
         "pub": "2026-11-07T16:52:42+00:00",
@@ -577,12 +583,6 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVl4MUhrUVhiX1A5YlYyMVBiX283UEtXU21fTVJOX1Myd21YbDhEODNkREZoQzhtNWR3LUZOajY1RmppZzl5N0FreS1TOHp1Y3N3cHRuOUh6NmhKUzREdTZTVmxfajVyaE1TNHlGbmVpcTNuejYtdmJOLWVkdnlHbE1qbG41ZDZyR3NqOV9ZUnY2QjhhY3pxTjBNQzk4dllfSFd5UTFMbzZxWDNGRE1QcFNMV0V5QmxnMXfSAb8BQVVfeXFMTnFncEEwRW1hQW12VUsyNzhHNmdCVVFVd0xPeGlxM2N6bVhFZ0xTR0lJYXdDaEVzX1RWUzVkaV82Y3N6a2pmSVlwNEtuR0dDRG5ILTNHaGluWnJYelRjbXJvQlcyWElVUU0tRTJyaWZzdTU3ZTZqV3hyeXMtU0JIUzg1dmJPZzVRbjBaUGl1MzVPQ1V3dFo3V0pHbDg5YXBzTjg0QU85RW9SNW90R0ZxcXBESXdMRmhTYnU5THVQdXc?oc=5",
         "pub": "2026-11-06T17:43:54+00:00",
         "outlet": "Fox News"
-       },
-       {
-        "title": "Martha Stewart begs America for forgiveness after 'stupid' homeless Halloween costume sparks backlash",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcHJ3ZE04endTVnAwOUpvMzFETlhPSXhORzFjakRGMk9qenFGZzBjWjFDSEdXQXVRWENLSTFUcEJkelNrYmpkZlBiaTZkZGw1SzgtM3VvVUdQNmQwS0Z1VTRMdWlNeTFJaHBGaFc4VXZuZ1l5Y2twc2dHT2dqTDRGQzhad3U2MWJsZWJQWi1KNHY4THk5cmxrNU9kVktRZjBTdVowLTVaSlE1UTA1aHlxUVM3S09YZy1QWVBHQWVpMDY0bjFTWXpTS29NQmZVQdIB0wFBVV95cUxQNnBUUkZTRlNnQS10Um1IR2QzZnFSZnZoMDh4Mnl3U1pPYlFYTnZaZ0ota21rTlRxNmZqSEJTaXpOMlRpVUZ6bDlUNkFXUHgwcF9Lcmp3aWxmc3lzX0Z3MTdUMmlZSXpRT0d4UzhmTGdteXNVWVNHdVl0RHRyYlNPY2VPUjhJcnk4bDl2UXRlS2cxeGNkVGtXZ0xqSFlMeV9ERHJxNmVWM04zVk9nU1hHZEJ6dGR6WmJvNmxqbDgtaW4yN2V2cmNxWUVNR1E5c2RLS3dF?oc=5",
-        "pub": "2026-11-07T15:32:06+00:00",
-        "outlet": "Fox News"
        }
       ],
       "error": null
@@ -593,15 +593,15 @@
       "name": "Fox News",
       "items": [
        {
-        "title": "Tesla to wind down Cybertruck production at Texas factory next year to make room for Cybercab",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3I2RHZ3c3ZoMmNway13ZGMxOVk1TFNKYlBld2phSm9fUkJsS3NmaU42dkJLMW1fc0FuYU1uaDlzcnBtckIxbXE1d0ZPR3lacWdHaU5pREhfSjYxZXZuMzJFdTVEX0c2Z3JnVlIyU3YtdnczWVlaNkQxMHlvaUc2THBLWkJBQ1AwVGJJNEJxbHVkemlKOGxhZG42eEU4eEkzRkdDc1Q4TmR0M0JxM3JTQ0VHNXZLeDjSAbwBQVVfeXFMTjJlU0VIYUh2Y0hLdWJnSzJyUjhLdTBZejY4QjBPRUNtRFZhc1doTTNWYTJ3R2p0SmxTZEZmdzFsaHpYMTJNSVgxUjZEZE5yLXEwOXg2azZ3RXZRMlJaY25Fby1MTXFDT2JQdF9nLW40by1MR3hnb1IxTnp2VW5WdHJLNHE4SER6SjZiUnNBalF4ejA1YlBDNVNJUDljNHpUTXpzMU83YTNnb0syM2JKZXRMVUVMbmVPV2hya0E?oc=5",
-        "pub": "2026-11-06T20:57:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Companies urged to adapt as restaurant franchisee files for bankruptcy: 'Businesses want to make excuses'",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejZLZjRWU0NxWnVxNUJDS0hRRl9kakVsQUlYazNaelNRZlNWMzNhTHIxcU12a2VjMWtDTXFuNjVETUtXS1lJNUp1LTZkUXdVR1FzNnZYVmw0WDNlajlpaVhDd0ZRbnUxbkpnUWxlU0xjMGNYUFNmdFNYZ2RQazhMUUZxekxpM1VINjgzYmJnOVoxM2ZqdkY3OHF0Y0MyQzVRelRaTklvMWJsLTV4NkxMb0lzbEwwOTB3QzA3R2ZaN1FhRmvSAcgBQVVfeXFMTmFZbUlubVRSNXk4SVoxWGM4QnZVbm5LbGhvNHBXMThNRkxwVlQyTWRIczh5NTZWX3dUa2t3QUlndnFKLXkzQ0N0TWYyYW5zQnhMT0wxNDRHdlhIVGVvR3I2NmNxQ1RKal9yaDVxN0I1dGVXUF9YMzFDSFdPWGhiakJrU19HdjFWR0xHUnNZb2dVTnJkVWc4SmctQXdWczQ3Q05CYXpvc0dFTHBFcDFCMHlsVzV1NFBiTFpzYTloM25JNlZ4RFFuVVU?oc=5",
         "pub": "2026-11-06T22:58:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Tesla to wind down Cybertruck production at Texas factory next year to make room for Cybercab",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3I2RHZ3c3ZoMmNway13ZGMxOVk1TFNKYlBld2phSm9fUkJsS3NmaU42dkJLMW1fc0FuYU1uaDlzcnBtckIxbXE1d0ZPR3lacWdHaU5pREhfSjYxZXZuMzJFdTVEX0c2Z3JnVlIyU3YtdnczWVlaNkQxMHlvaUc2THBLWkJBQ1AwVGJJNEJxbHVkemlKOGxhZG42eEU4eEkzRkdDc1Q4TmR0M0JxM3JTQ0VHNXZLeDjSAbwBQVVfeXFMTjJlU0VIYUh2Y0hLdWJnSzJyUjhLdTBZejY4QjBPRUNtRFZhc1doTTNWYTJ3R2p0SmxTZEZmdzFsaHpYMTJNSVgxUjZEZE5yLXEwOXg2azZ3RXZRMlJaY25Fby1MTXFDT2JQdF9nLW40by1MR3hnb1IxTnp2VW5WdHJLNHE4SER6SjZiUnNBalF4ejA1YlBDNVNJUDljNHpUTXpzMU83YTNnb0syM2JKZXRMVUVMbmVPV2hya0E?oc=5",
+        "pub": "2026-11-06T20:57:00+00:00",
         "outlet": "Fox News"
        },
        {
@@ -611,15 +611,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Nasdaq rallies as chip stocks recover from brutal losses",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YbFR4UldUSzBaT3pnbkdCX2lETmkwbEFzMkh4YjByV0pzODNGWnBSc1dHTXpOZ05aYzFRZWlpQjlZajRaMDNpMkphdGVCV3RLS2FJTV9SbWJ6X0VFd1MzdDdB0gFnQVVfeXFMTUpTNzdXTjNteTkwcDkwU0t5R21sMFRONnNMa1RKaXhNVG43SDNzLWdQVGdqcGRtelhpTi1oZmpXNzhndXNDUGVza0EwejZGS3J4ZThYUmJhLXhsQ21hdWdabjc4TFBJcw?oc=5",
-        "pub": "2026-11-06T21:48:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "US economy adds 165,000 jobs in October, blowing past expectations",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hcUNlQlY3TW5URE81NlNvLTd2YlJ1UHg5eTlfcTV6Vm55aXA5ZU9HeVJYNkYxVXFmT29ENFpmUUtvcU5rclhSaEZmQVRxdDdfQzBZY0Q3MVo3RnItbXJlOXAydUZCOHNubmoxajJFRnbSAXZBVV95cUxQUVVZaDZiQmx5dm9iSDE4cHVfdTgxVWh0NFRPOFJibE1vNFlickNJVHlKX2x5TjJiOC1LT3J2SjRaYjBnUTVOcXFyN1hVMjV1VHFYVTFjR3VOTVlrWHJuZ1AwSnlNaEc0VzhNNk9nYUlJUEdtN1JB?oc=5",
         "pub": "2026-11-06T17:04:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Nasdaq rallies as chip stocks recover from brutal losses",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YbFR4UldUSzBaT3pnbkdCX2lETmkwbEFzMkh4YjByV0pzODNGWnBSc1dHTXpOZ05aYzFRZWlpQjlZajRaMDNpMkphdGVCV3RLS2FJTV9SbWJ6X0VFd1MzdDdB0gFnQVVfeXFMTUpTNzdXTjNteTkwcDkwU0t5R21sMFRONnNMa1RKaXhNVG43SDNzLWdQVGdqcGRtelhpTi1oZmpXNzhndXNDUGVza0EwejZGS3J4ZThYUmJhLXhsQ21hdWdabjc4TFBJcw?oc=5",
+        "pub": "2026-11-06T21:48:00+00:00",
         "outlet": "Fox News"
        }
       ],
