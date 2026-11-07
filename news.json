@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T20:06:09.733997+00:00",
+ "updated": "2026-11-07T20:42:34.097345+00:00",
  "categories": [
   {
    "id": "top",
@@ -35,6 +35,20 @@
         "outlet": "El País"
        },
        {
+        "title": "El presidente de Israel encarga formar Gobierno al líder opositor Gadi Eisenkot",
+        "link": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html",
+        "pub": "2026-11-07T19:50:59+00:00",
+        "desc": "Herzog adelanta el anuncio tras concluir las consultas, en las que el exjefe del Estado Mayor obtuvo 67 de los 120 apoyos posibles, incluido el de las dos listas árabes",
+        "outlet": "El País"
+       },
+       {
+        "title": "Yusef Yabarín, líder de la principal lista árabe de Israel: “Al apoyar a Eisenkot, hemos elegido lo menos malo”",
+        "link": "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html",
+        "pub": "2026-11-07T09:56:40+00:00",
+        "desc": "El dirigente ve prioritario colaborar con el bloque judío de oposición para reemplazar a Netanyahu, pese a las diferencias ideológicas. El jefe de Estado encargará previsiblemente este domingo formar ",
+        "outlet": "El País"
+       },
+       {
         "title": "Sánchez llama a una votación masiva el 29-N: “La mejor receta contra la involución se llama movilización”",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-07/sanchez-llama-a-una-votacion-masiva-el-29-n-la-mejor-receta-contra-la-involucion-se-llama-movilizacion.html",
         "pub": "2026-11-07T14:01:52+00:00",
@@ -46,20 +60,6 @@
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-07/feijoo-desde-valladolid-el-psoe-esta-a-punto-de-canonizar-al-senor-puente-que-falta-de-respeto.html",
         "pub": "2026-11-07T13:53:02+00:00",
         "desc": "El líder del PP insinúa que el Partido Socialista o sus dirigentes se han enriquecido con el dinero de la seguridad de los trenes",
-        "outlet": "El País"
-       },
-       {
-        "title": "Irene Montero llama a secundar la huelga en su presentación con Rufián en Madrid: “Hay que paralizar el país”",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-07/irene-montero-llama-a-secundar-la-huelga-en-su-presentacion-con-rufian-en-madrid-hay-que-paralizar-el-pais.html",
-        "pub": "2026-11-07T12:41:39+00:00",
-        "desc": "El candidato de ERC ataca a Frente Amplio: “Esto no iba de someterse al PSOE entrando en el PSOE”. Colau reclama un “vuelco” como el de Lula en Brasil",
-        "outlet": "El País"
-       },
-       {
-        "title": "¿Se mueven las encuestas desde la convocatoria y tras el accidente de tren?",
-        "link": "https://elpais.com/espana/2026-11-07/se-mueven-las-encuestas-que-ha-cambiado-desde-la-convocatoria-y-tras-el-accidente-de-tren.html",
-        "pub": "2026-11-07T04:30:01+00:00",
-        "desc": "Un mes después, el PP ha perdido algo de terreno en todas las encuestadoras, y el accidente de Urda apenas ha movido el promedio. PP y Vox suman mayoría en nueve de cada diez simulaciones del modelo d",
         "outlet": "El País"
        }
       ],
@@ -113,7 +113,7 @@
        {
         "title": "Resultados del Senado 2026",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1BFWVNZZHp1Rm9zWG4tYTRGYmJ0c05ENEc0bGZNOFFqUWtBVldmLWN5amYzR2RPUHlYbDlidzZkUVQyRkx3aVNKYWlNdTltNU1nRGN5Rlc0NGpqZm5IR29SMlVxZjFaRnFyT3oyQktsMGt2eFpiWHp1eVVNNTE2bnBWMG44bDNxVDlaUnFaX3NJUG5oaG5sNVhwaVdfcXFaYWJ5NA?oc=5",
-        "pub": "2026-11-07T17:35:03+00:00",
+        "pub": "2026-11-07T20:32:38+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -143,15 +143,21 @@
       "name": "El País",
       "items": [
        {
-        "title": "Alineaciones Chivas vs Necaxa | Liga MX Apertura 2026",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXJMQk9NSHhCMG9jMmNCakc5SWZMeHNnZ1hIa3JEUEFiNVQyUEhnNFZUQ3R6bjM0ck1GUFFuRV94Nk1HQlZFeGFSV2FaTUpTbWRCa1R1Y1psamJoeGpHMUVaUUFTbkE4d2RpbGlsTmRVUjhEc0NWMTR4M3JrRGtsTUltZkFzcmQ1a0JmaGxjYUc0aWFTVE5xVkxDQ0lZM0VOTVlUZnhNbjJ6eDAzN1BWRHJiZzlIRkQ1?oc=5",
-        "pub": "2026-11-07T15:45:27+00:00",
+        "title": "Alineaciones Chelsea vs M. United | Premier League 2026/2027",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVZ5c08zTTRiWjMzTmQzWkFXTGtvbUFmT1NpNHhQR2Yxd1NxelhiSGJzWkttdWN6S2dPXzdSTHFmQmFhQVFRV2FKUlcwV3Bmb3B4OXhiOHdVOVZIWnV1MzZnQWxCa1BzYmJ1aWdBekpaV0c5enFCZFNvbjRpaDE0Y05RTms3SWxaWXk4TDlBMzIzQnRNdS1sQmQ2c0F0SUlYZ1U1MkpLN25ELWgzOVEydUZHVDRsUDg?oc=5",
+        "pub": "2026-11-07T16:21:14+00:00",
         "outlet": "El País"
        },
        {
         "title": "Alineaciones Rayados vs Pachuca | Liga MX Apertura 2026",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUNLRFdGWU5NOUFfNDlXd3pORVpGWXlCYXJ5U05xWDZoQmpFZzBpNk9nMnozaU5fekJZVDNOVEJHX01sYkpQb2JJVGxhMGF4cWZ5SjU2eGpxOVF0UFpBeTNfM1BieGpJaFM0bERKU1lRcGFaMnN5R3FZNE02Mm9KeGpUcXI2RmF4VXdCZ0hsUXUyaWpXSHJMdUloZ19WMXdzLVFkcGFCRG54MllJYmxNSHJ6ZEZLTkNw?oc=5",
         "pub": "2026-11-07T02:28:50+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "Alineaciones Atlante vs Pumas | Liga MX Apertura 2026",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbFVoQ1piNHJ1MzJJQkxYcnFlLUdoQnR5ZlFjR0ZGZlVFS3I2YnhYRUpRLTNQRC1oU1dpT0ZmUHpCRHM4Um5vbWcxM08yNzlqQlh2NXVjOWw2NDZObTBva2N3Mk9oeFEyTkJLd0NKcUxsTXQ1VDFMelVQaFl6S1pYSlRpTkJVdmZNUXppUFlMcHdBMGxtRWVZQUNEclJIbDdDS3UtLVRiTXM5b1VJSm96X0ZiTXNrLWU5?oc=5",
+        "pub": "2026-11-07T00:28:01+00:00",
         "outlet": "El País"
        },
        {
@@ -165,12 +171,6 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnp3RkRqanN2ZG1vR1gzSUsyelpadVp6c216bkR3anBlM200QTVfeGd2cU54YU5LTkJ5eHQ5SzlKZlctcjM3b2d5b1ZKVVl4QkswWFpSTFdDSGF2bDNWVlBwYkUwMF9LdmJJdURHUzUwb0NCNFpXYlprZXhXVlJUQ0JmYzVUTk9pOGVVZWMwNDh3TDVXU3hQbXBqU2N2MGV3UVQ3d1Y3QmRMQ3hRYWRMNFV3?oc=5",
         "pub": "2026-11-07T07:22:12+00:00",
         "outlet": "El País"
-       },
-       {
-        "title": "Alineaciones Bournemouth vs Sturm Graz | Europa League 2026/2027",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlFUMkVYekljemRCUWxlWUdlWWpZdjRuOXNrWENBdE92dGtCSzh1YmFrNUpaN3BXS0RxTmNZRzg1X2MzZ2FZNElHNzJhMVMzRmJhZXZUS2Q1YTAwZ2Q1LTdjYWI3ZFE4cWRvOUJfaTJnaWxpdkRNUGpBbzhfSElGQ0M3bGt2bXZfSDVXQm5BVW1ya01qWUd3QWJMTzVRYzFkdWNBNHNMeDR4c2VkbmN4aG5sZ3FVaWxaWWln?oc=5",
-        "pub": "2026-11-07T09:34:15+00:00",
-        "outlet": "El País"
        }
       ],
       "error": null
@@ -178,6 +178,12 @@
      {
       "name": "Univision",
       "items": [
+       {
+        "title": "Arizona aprueba la Proposición 318: qué cambia para los estudiantes trans en deportes escolares",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUDdYaU5qSFo1WmhHRXh2VGlrSk1JOXNqaVk4c2Y2Y1dGMmo5Q0dQYm8tM3NEa0tsU1dOQmFBdzNRR21TdUVtYTBfTFdfRE9sUTNTVGxFNVRtaVVTUm9rejA3dUdfU2NpTU9oMldZMkctU3UzTkNVNkNvLXVvaTBNekktQ09Dal9xd2lHNlAtSmp4UnBhTlk4TzZ2TE9UVUhYY2FCeXo5eGdjNUdxNFo4cDFvUlJiY3BMU1JUUlYtdWJVSHY0THNIZ2hHRmdkMGh4c09iQWZfTGE1RnMzdGxTNGtXMkJKdW55dlE?oc=5",
+        "pub": "2026-11-04T18:02:16+00:00",
+        "outlet": "Univision"
+       },
        {
         "title": "Gemelos con becas deportivas enfrentan detención migratoria: llevan 4 traslados en 48 horas",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNTNKUmh2LUZXaWpsc042aG1PbmZxZ2pGXy15UFVrNHR4LUNDWklobFZ3RlNaekJYb29IeV9qcTV1SW5oVHZuMW1hZ1lURjU4RllsMFYxcUlXZ2xyaDhQVmNwV1Q3aUF3ZXNCcy16Vm9Ka3BzNE1td19OajZSWElZVW5IZTV4WWRpcGo0bTBxSW52Slozb2dnakd3c0t5SjhvUkhidmhCUjBSWnpxSlVuYXM5blZXTEZrbk1mVWJ3WjJ0Z05fa3gxa1pRS2k5a3hFNlpGelN2c1I?oc=5",
@@ -200,12 +206,6 @@
         "title": "Géminis, horóscopo del sábado 7 de noviembre de 2026: siembra hoy, cosecha mañana",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR21pRDZnZkVqT3hkSDlYdXBSVzJXMmJ6VVBzTnFYNlQ2MXBPSVhzSU1DTlRQUTJscjN3ZHdEd2FvdVhBelZKcFo5QnN0Q1FWSVcxckN4YWJLYkZETnRGMUtSYXpqWHZpeE9jMTFieDExNFhGZ3BpRENobDBVWE9SSGdDYzE4cUZtb2R4d2pabllfUQ?oc=5",
         "pub": "2026-11-07T04:09:06+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Virgo, horóscopo del sábado 7 de noviembre de 2026: elige el amor cada día",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMTZmUFVJTkF2cE1XN1Q5UWNySjhpMUVCbVVkczgxNVFMbFJkWkUzdk02dkItXzRiOWpqU01QWi1SNmVxbG1NeDdyMEtMdlNIZFBwdE1GUl9rYm5oRTBZclJTM2MyQy12eEdRZlBlYUJ2LW5hSXVkbEdiT0xYTktHQUlwWWRpMW8yTktaNVpQVQ?oc=5",
-        "pub": "2026-11-07T04:08:07+00:00",
         "outlet": "Univision"
        }
       ],
@@ -233,15 +233,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "¡Remontada del Everton! Doblete de Thierno Barry para vencer 3-1 al Coventry City",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVzdabmpSYnJUQzRzWFBpY1pmRVlGR3dVMWtZaEZHTW9obXdPNlBWWlJhRnhuT0FXcTdPQWNnUXZXMnNMVmhLeWd5OVlrU2tzcWRiZ1RuMjh1NFpGLUJabW9jOTVfaWZSai1waGl1RHhoNktxMG5MSXQ0Mk9SNV83d243REt6QzQ4NnVpMmtoZGJDeFZxcWxvS3NzVlNPR1dGcG1ocHBwT093QUpDU2kweGdkR1pzWlNXbFNCNi1rSmpTeXpqOTcwTUVjVUtFOHpzZWVSVWU2ank1SkZIYXR2U2x3?oc=5",
-        "pub": "2026-11-06T19:51:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "El gol de Lindsey Thomas acerca a Rayadas a un épica remontada sobre Juárez Femenil",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYjMxS0JFeFh2TTFpd2JKWDF2WmwyZjg1TERQUy1sYTNpWmpOdzJMOWJmZGIyc1lFZjJ3b1dQeVRSNnFOczJVZXNhRUdmWTc5SVVUZ1g3bjBVZy1tX3dPbGFkVTd3TFVfM1lpcnpiTXl3V3VYWmNjRDY1MHFNQnItdWoyVnNURmVja2h5azkzUW1GZmctVmthVlN1eGdRUml5bHdGTmV4TG14SFlkbmctZE9CTU9QN2RLdkFKcExyVEUtdHIxNE5ldEd2WjhqalByZUpoN3BoMjViaTZvVjhhRmVtRUJYellnbEdkSUliYldfdw?oc=5",
         "pub": "2026-11-06T06:34:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "¡Remontada del Everton! Doblete de Thierno Barry para vencer 3-1 al Coventry City",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVzdabmpSYnJUQzRzWFBpY1pmRVlGR3dVMWtZaEZHTW9obXdPNlBWWlJhRnhuT0FXcTdPQWNnUXZXMnNMVmhLeWd5OVlrU2tzcWRiZ1RuMjh1NFpGLUJabW9jOTVfaWZSai1waGl1RHhoNktxMG5MSXQ0Mk9SNV83d243REt6QzQ4NnVpMmtoZGJDeFZxcWxvS3NzVlNPR1dGcG1ocHBwT093QUpDU2kweGdkR1pzWlNXbFNCNi1rSmpTeXpqOTcwTUVjVUtFOHpzZWVSVWU2ank1SkZIYXR2U2x3?oc=5",
+        "pub": "2026-11-06T19:51:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -289,33 +289,33 @@
       "name": "Univision",
       "items": [
        {
-        "title": "Claudia Martín responde a críticas por su figura",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcDUtOFB0TFp1MDdhaVFob1NLQXExQlFHY0NraDl5eHlQVllkSF9JZUZ1M3ppbnBhYjl6VkVqcGdjTDZMVi1lQTlnY2pNaUhtLXNDWlBDbzVzT01RVTdrSjdvSFpicmhVQThuSUtFUldlLXJCeW9ZN3hzMDczWkIxRkJ6MTRVOGhOWHdSYmd2NnFDTmF4STJoUGIyYjZmdw?oc=5",
-        "pub": "2026-11-07T00:27:00+00:00",
+        "title": "Nodal agradece a Pepe Aguilar por enseñarle el valor de la familia y él reacciona",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0RHSzhPd0JLa1lzSWpGUkFBLW5ya2xYd1JMUVgzZ3ppZzIwZUg1VGozcWR6UUY4STVjUm96d1RNemxDdHZRQnA1LWpVLUM5WGVhdlRXRmRLdTJHel80NHVEc3dMQnBZUHYwU2pyTDdxSzlRZDBYOWZMNzViWGt2YWRNRWYwNjZ6b2dKQlh2aVpPWTdXc1o1YXllRjQySksxVU5j?oc=5",
+        "pub": "2026-11-07T18:07:20+00:00",
         "outlet": "Univision"
        },
        {
         "title": "Piden ayuda para la actriz Ana Silvia Garza, mamá de Mariana Garza y abuela de María Perroni",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQzg3X3dJRHgzaEtudFU3S2JTelNEV2dSUEd4OFBxYUhYLUZmUk5CRHZVSUFZUTdnN2pLVll2elhiWXZxdEs2VlZrS05VdGQ0QmhncXRQM0gzTmJUQ3VSaGd0VGl6TWd0Sk52Y2Z5czI4WDBFZUVOckg1MXBvWlNlWTdjM2hiNEcyRFRGOTlhenZqOWc3dDh4Z1BsX1k?oc=5",
-        "pub": "2026-11-07T01:00:51+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Pablo Lyle no saldría a la calle cuando sea liberado: podría ir a otra prisión y está sería la razón",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU0kyR2JXTFBTZXVOeC1hdGw5R2pTVTZPaFNoVURDendUczdMeUVxcDNZN1FoMXYwYkR4NEg3dGFhU3FDaE83Z0V3WEN1SHk2cFM0Zno5SjFSSHU4SWVaUE1RZ3RjdXl1bGozZ085MGI3eTg4dVoxdDdjLUFoNTVNeXFucS1oa3d3MGdDNjJtVTRKMDJYbGJIc21XZmRyTktsREZWYVQ3M3ZLQXVJZjhPR2J4WXVkeG5HblBwYjlMWll2aW9xaUY5a2w3enNiLW1YYnYwdldn?oc=5",
-        "pub": "2026-11-05T20:25:00+00:00",
+        "pub": "2026-11-07T00:54:43+00:00",
         "outlet": "Univision"
        },
        {
         "title": "Reportan el arresto de Rafael Kelly, exvocalista de Los Sebastianes: lo que se sabe",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWlB5R2phWS1Ib3lHMnQtYUtXcnFlRmZhUHhVaUwzSnotZ2cyZHZvWVU3dU1RZlpJeklkRjUwUklWT1lsdUJLTkVOS0FTUlVoQzhIZ0RwWnl2UU5zMHdOcnpXSWNTY0VjRDAwb0cwZ2dqNThiX2RnbVR1S2RzUEplckl0X0U1am82MUE?oc=5",
-        "pub": "2026-11-07T16:01:06+00:00",
+        "pub": "2026-11-07T15:56:04+00:00",
         "outlet": "Univision"
        },
        {
         "title": "Toni Costa y Mimi Ortiz habrían terminado y ella ya tendría nueva pareja",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXNxdmExQmRoVmpCemhYaUlJeXhxY3pSS1lLMFhGbndpYmNlSlhZN3BJTlB4RWczYjJabjZUWGcyaWVTWFBnYjN0T0RHcVpDSndqeW90UlJialY0RGVHNHJLT1lzTXpRRVpzb01MempfWjV6eE1fYThnY19RQm5jcjRwdTVpWTJ4UGdraGhCcnBqUi1UTWQ4dWFpd0RIcjduak1SdE9HQmdrRkNB?oc=5",
         "pub": "2026-11-02T16:48:38+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Entretenimiento - Página 2816",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RaWVGTlZIbjhvOVV2TWhCVUxSeVlESHI5VGszUEZqSGxDaGMzNFZOR1ljUlFRUWgwQy01anZmQjhWanZYX0NwVTIxb1dtbDJCT0s5UlFHaE5XbVdtc1NXXzdzZzdnQ2FE?oc=5",
+        "pub": "2026-11-06T21:11:19+00:00",
         "outlet": "Univision"
        }
       ],
@@ -497,15 +497,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Americans will be grateful for Trump’s actions against Iran in the long run: California Post opinion editor",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kMmoyNjR1cThpRTc2dTZUYXFjZlhrV1JmWTRKNXh0WmNuWUFfZmxnbDIzXy1hV0NYRi01YVNLcWlUeTlIdDFFRDVkMVBmVnFCbnhLNnhB?oc=5",
-        "pub": "2026-11-06T20:16:26+00:00",
+        "title": "California prosecutors slam Newsom's death row commutations, accuse governor of putting 'politics over people'",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbVRPNGJoQjcxUkp4eW9RS21nTHQ5NldON001NFFDRjF4amM4VEp2eDFwa2tUQUtGdnQ1Ykk2S2Q3TjkyOHBIN2VnT0I4WUFaTUNFZzJ1NXVvSHJ1MlFsOGV2NDdvWGhHSElLcEdYNnFiR1pFWHoyb1RJaTQ0NHdDZHFOcl9Ta3VkVFJiRGlvbk9fMzBNS0xyNmVzQUhPX3N5U1o4QXU5UV9TdFRQLVdQSi15dlJzOFFxV1E0Z1NUVzZZLXVuNUk4aWZwbmp4VFVQd1HSAdcBQVVfeXFMTjZ4eExyQUFIMGg1cGI5LVdnVFA2QmxPZW82MUNlTkdCOE5Fd3dFVzh3Vm9BdjAwRTVxYWNIUDBvVjVmNmdiTWZBZTBrS2pnMnFmaVJkRTNRTXgyZi1Sd2VxOHgzYVJpYmN2bkpQbWNpT0tXWmpPWHJYZEhrbEpWUjdiT0VVUzZ0MUZsOFpKckpKQWowOER3NHhKa3dMZzNtWWh5amJPWmROcHpSdnlBSUd5RzczWDVOU2FGc0VvcDlPWXpEN29NbTc4QkNCbGpieXBtSnBNU1U?oc=5",
+        "pub": "2026-11-07T12:33:13+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Why Larry David never wanted this biography made and how a George Costanza scheme won him over",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXpKcnpLcTJVNVpWSjdzMUlMdm5XbHRLaXBPZXA5al95SlFqUXFFWXVWS3hHV0JtTmYzQXVCQ1B0Q3VvU3RzOEc4M0YyV1JHekY2a19Ec2R5dzZNSGRYcm4wUGZIT2JrLWotUkRZZHVUclJLOVFmcXZaTElCd2RNcWJJb3U5bWVwSHhjaHBMOTczNmdCYzc1LTVmaGVOaUptZWxEUXpPWHdTUnJWd3fSAbMBQVVfeXFMTWNYeVBJX0ZNTDVIbElsV0FvazEzNjVEUWRmRGl1VVhMU0NGUVVORVljMVg4TkxlQ09EVENtZ1lrLWJweVY3c2FBaEJUVEZtMW0tdk5xcFNZaWFvRWRBNFMyWlVtTm9uSVhmbVpzMEJWd0FTcmctV0J1cjdJUHFKanRTMDA2NFY1TV91Q1JrdFktczFhMkdoOWlWaVlzT01RZWdYdzVqWnJDLW1ULTZYalJfV2c?oc=5",
-        "pub": "2026-11-07T12:00:30+00:00",
+        "title": "MIKE DAVIS: Lame-duck Senate has unfinished business and a ticking clock",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1EwWmZtZXdZR0owQkdoQ1JUWmdxNFdUMmlCaWNzT0JSUUFpbVRlcWpEUGhBZDUtcnZOUGIyQVNmMklTWTYyQlg4d1VsT3RrOHY1V3JxN3dqMlpkZDFod2ZpaW5LYUh1ZUVkWjNhUWRpRzAyYkNoUFRoUXJhaVoyakh4YmNGTmpiSnJPOElfMUtOOWllaFBCNNIBngFBVV95cUxOb3VlN25xRjlHNUNRMUJQV1lpaTA3SXV6dGNNSEc0c3FUX2xfUWdPV0ZvdTloQUw2Z1FsLTBRaG55eFE3c0dDV1NjbHh1d01tcnJvNDFfYTVUT2RDZWk0X3dRWWljLWZXMkx2SjJtbkIyeC1iMXY0d0FxdndnX1hWQnBGdkYxN0M0TEx6ZEJfXzVLbUFjOFpTVjJmMGp4dw?oc=5",
+        "pub": "2026-11-07T12:22:04+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -517,15 +517,21 @@
       "name": "Fox News",
       "items": [
        {
+        "title": "Tennis star Sorana Cirstea immediately retires from the sport after upset loss at Hong Kong Open | OutKick",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa203bzAxTHpnU05yTU16S1RRTURvLXBpUWVYM2RQeHBfWGlJRDRFYURPRk1HTXZHOHVUYnFhd3hVZlpZcFlCbmVpY3hmR2JFZXpEUVJFQ25PYW8tQzdYMm9FXzNnU1pxMkRqaTN1UTdrWVdBTVp0bzFFLWV4UjJ2UjkwYXhaY0c5a0pVc0NBVWhNWFdtVDZrUlhVV1dZako4VVZCVHhSTjBOQWFGVE5qZnhRREdkMXR5?oc=5",
+        "pub": "2026-11-07T15:37:34+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "JACKSON THOMPSON: Washington State Democratic Party calls girls' sports initiative unconstitutional",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT1I5WlJ3MmRDb2RYdjBOOTNpUE1SVGowVWFucm91cVluY0VTbVJzeGFlbktKcmFsXzFXWlNHSjZ0cGhHd1Fnd18tU195TnZNY3ljZ2xIQW85SG5td3pzQXNCNVhNRVZnQVMzWHg4ODlxaElGc3FmUlFnQVNhNWg2cUNwNDdHRGRCLWZTdTJvei14YVczejlWX0FqSHI0cDc1NEdoSUlSTENxVWVWaktxZVhuWVh2WHUxUURYa2Iya3JVcWQ3TkxWX0FINHdYNjNxT3c?oc=5",
         "pub": "2026-11-06T18:54:10+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Tennis star Sorana Cirstea immediately retires from the sport after upset loss at Hong Kong Open | OutKick",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa203bzAxTHpnU05yTU16S1RRTURvLXBpUWVYM2RQeHBfWGlJRDRFYURPRk1HTXZHOHVUYnFhd3hVZlpZcFlCbmVpY3hmR2JFZXpEUVJFQ25PYW8tQzdYMm9FXzNnU1pxMkRqaTN1UTdrWVdBTVp0bzFFLWV4UjJ2UjkwYXhaY0c5a0pVc0NBVWhNWFdtVDZrUlhVV1dZako4VVZCVHhSTjBOQWFGVE5qZnhRREdkMXR5?oc=5",
-        "pub": "2026-11-07T15:37:34+00:00",
+        "title": "Pro-trans activists hold rally against Washington state ballot initiative to protect girls sports",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY3ZDNC1lNUM4Y3BZcEFTQ3FkZHRpWmk0QTVIZnloUGpCR1Zkd0hhMkY3NjNvRWFHMmdaSG5TM2xsbWEwSGlKcUJFNGFiYlczbEVkRlZVR0J5bmhrbl8wbjNqODgtTTZYTy10X3Z1Y0lpZnZTb0pYVXEyS2VidlZUWFBrV2RuUHFaemJuSjFkb09obXdjbGRiR0ZEZGZ4MUlEVmFqWFZwODNDdDhWd3o2N1ZFY2hkTGgySXRhVjU3d0VjR08zb2FV?oc=5",
+        "pub": "2026-11-07T19:55:38+00:00",
         "outlet": "Fox News"
        },
        {
@@ -535,15 +541,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "JACKSON THOMPSON: NH school district pays $275K after banning fathers for 'XX' wristbands at soccer game",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMWlyTXRnd3dNQlMxcmlQNU5KOWVsaFY3OTRSdHlGR3d3WTYwRDFNdGxfb1hyd3ROTWFoZk9fMVVfOUo3UFV3aUdic0h4UmlET01lX2p0U2dQVEpHcVNxU08yMURPTlliMmhjOE1pLVU2ZnVLVkR2SHIzQXl3cGFNaHl3Z2VjUlpBYlJRLUFHQTdGOXdHV25UV3IxY3lSN2h4ZjdZcXA5T3dSNmNFcndINUp4OS1lUjJLYm1FTmpXLTNwTDUx?oc=5",
-        "pub": "2026-11-06T11:44:46+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Craig Carton rips Chiefs teammates for not helping embattled Rashee Rice avoid bankruptcy",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXFSQndMd2FFa1d1clNSbzFRdmlxdWNRMzVOVGtWQVZqY1ZVdVJTNm9jU2VLX21uUl9jMWJXLV90eXlBcjIybGx1NEdxS2Q2cmZmTnhxc2VaQWprYmVtbU5GRlAwVVNKSWx4anlaWGdwQTJDRG1vWUVnNEJZdlNvd04wMGhMd0pOclQ1ZWQzeUd3WmlqNUVjQmJNUDhfNFdwbm5HRFdUMDRIaS1Jckx0YmN0TlBkZ2xCOFNLcnV1MkVldw?oc=5",
-        "pub": "2026-11-06T22:27:15+00:00",
+        "title": "High school football game ends with three laterals, a fooled defense & the highest IQ play you'll ever see | OutKick",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQUdKekgwa3dtV04yS2hyRHZDSDd0UU9kcTF5WDFYTTlaV2dPZGRZUWhTdjFwUVNyQVpzZGZaV0hIYkhBQ1M4SU12QVZxcjZwbjVLclNwUmltT01OYUhrNEdWTzMxcEtjWUV1OWJja0hZNUp6R0djQWhFRTBaYkZiVXZfSEZXdlZmMWhoRjJEeVhZNFJMSVAzY0ZtcU9QYko4aDFmbm9LOG5pYzloYmplRU5YM3d6eVhzU2JILVQzc0lJNjdPM3YyQV93?oc=5",
+        "pub": "2026-11-07T13:52:04+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -593,15 +593,15 @@
       "name": "Fox News",
       "items": [
        {
-        "title": "Tesla to wind down Cybertruck production at Texas factory next year to make room for Cybercab",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3I2RHZ3c3ZoMmNway13ZGMxOVk1TFNKYlBld2phSm9fUkJsS3NmaU42dkJLMW1fc0FuYU1uaDlzcnBtckIxbXE1d0ZPR3lacWdHaU5pREhfSjYxZXZuMzJFdTVEX0c2Z3JnVlIyU3YtdnczWVlaNkQxMHlvaUc2THBLWkJBQ1AwVGJJNEJxbHVkemlKOGxhZG42eEU4eEkzRkdDc1Q4TmR0M0JxM3JTQ0VHNXZLeDjSAbwBQVVfeXFMTjJlU0VIYUh2Y0hLdWJnSzJyUjhLdTBZejY4QjBPRUNtRFZhc1doTTNWYTJ3R2p0SmxTZEZmdzFsaHpYMTJNSVgxUjZEZE5yLXEwOXg2azZ3RXZRMlJaY25Fby1MTXFDT2JQdF9nLW40by1MR3hnb1IxTnp2VW5WdHJLNHE4SER6SjZiUnNBalF4ejA1YlBDNVNJUDljNHpUTXpzMU83YTNnb0syM2JKZXRMVUVMbmVPV2hya0E?oc=5",
-        "pub": "2026-11-06T20:57:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Companies urged to adapt as restaurant franchisee files for bankruptcy: 'Businesses want to make excuses'",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejZLZjRWU0NxWnVxNUJDS0hRRl9kakVsQUlYazNaelNRZlNWMzNhTHIxcU12a2VjMWtDTXFuNjVETUtXS1lJNUp1LTZkUXdVR1FzNnZYVmw0WDNlajlpaVhDd0ZRbnUxbkpnUWxlU0xjMGNYUFNmdFNYZ2RQazhMUUZxekxpM1VINjgzYmJnOVoxM2ZqdkY3OHF0Y0MyQzVRelRaTklvMWJsLTV4NkxMb0lzbEwwOTB3QzA3R2ZaN1FhRmvSAcgBQVVfeXFMTmFZbUlubVRSNXk4SVoxWGM4QnZVbm5LbGhvNHBXMThNRkxwVlQyTWRIczh5NTZWX3dUa2t3QUlndnFKLXkzQ0N0TWYyYW5zQnhMT0wxNDRHdlhIVGVvR3I2NmNxQ1RKal9yaDVxN0I1dGVXUF9YMzFDSFdPWGhiakJrU19HdjFWR0xHUnNZb2dVTnJkVWc4SmctQXdWczQ3Q05CYXpvc0dFTHBFcDFCMHlsVzV1NFBiTFpzYTloM25JNlZ4RFFuVVU?oc=5",
         "pub": "2026-11-06T22:58:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Tesla to wind down Cybertruck production at Texas factory next year to make room for Cybercab",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3I2RHZ3c3ZoMmNway13ZGMxOVk1TFNKYlBld2phSm9fUkJsS3NmaU42dkJLMW1fc0FuYU1uaDlzcnBtckIxbXE1d0ZPR3lacWdHaU5pREhfSjYxZXZuMzJFdTVEX0c2Z3JnVlIyU3YtdnczWVlaNkQxMHlvaUc2THBLWkJBQ1AwVGJJNEJxbHVkemlKOGxhZG42eEU4eEkzRkdDc1Q4TmR0M0JxM3JTQ0VHNXZLeDjSAbwBQVVfeXFMTjJlU0VIYUh2Y0hLdWJnSzJyUjhLdTBZejY4QjBPRUNtRFZhc1doTTNWYTJ3R2p0SmxTZEZmdzFsaHpYMTJNSVgxUjZEZE5yLXEwOXg2azZ3RXZRMlJaY25Fby1MTXFDT2JQdF9nLW40by1MR3hnb1IxTnp2VW5WdHJLNHE4SER6SjZiUnNBalF4ejA1YlBDNVNJUDljNHpUTXpzMU83YTNnb0syM2JKZXRMVUVMbmVPV2hya0E?oc=5",
+        "pub": "2026-11-06T20:57:00+00:00",
         "outlet": "Fox News"
        },
        {
