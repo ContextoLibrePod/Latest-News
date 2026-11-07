@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:15:50.137000+00:00",
+ "updated": "2026-11-07T10:59:17.019000+00:00",
  "categories": [
   {
    "id": "top",
@@ -143,12 +143,6 @@
       "name": "El País",
       "items": [
        {
-        "title": "Alineaciones Rayados vs Pachuca | Liga MX Apertura 2026",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUNLRFdGWU5NOUFfNDlXd3pORVpGWXlCYXJ5U05xWDZoQmpFZzBpNk9nMnozaU5fekJZVDNOVEJHX01sYkpQb2JJVGxhMGF4cWZ5SjU2eGpxOVF0UFpBeTNfM1BieGpJaFM0bERKU1lRcGFaMnN5R3FZNE02Mm9KeGpUcXI2RmF4VXdCZ0hsUXUyaWpXSHJMdUloZ19WMXdzLVFkcGFCRG54MllJYmxNSHJ6ZEZLTkNw?oc=5",
-        "pub": "2026-11-07T02:28:50+00:00",
-        "outlet": "El País"
-       },
-       {
         "title": "LIV, la Liga saudí que revolucionó el golf, desaparece",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRGpMYWxYdEJzZTI1T1FWLUl1UktncXNxR0VrV1dNR3loQ2lNZDZhckJZNlBEdEVmNkpwU1c1MS1NLUpwbUN1Q3hyVzhmZVp5UnV5S25NdmlzX242SC14TzhISG5GbTNnS05PNXJGbHBxUjBvZURLcWRtUGlJcXgzVDNJNEJwQjdtdHNJRXViM1ZUbHJjUmcwNHRvZXbSAbABQVVfeXFMT0h1ai1Za0xPZV9jcHNVTHMwZ1owNDhwU21SUU4waVZqVERWWHdEZGhFaHhDaWdoYW1LbEVJZHNQLVB1dkE0Y0xERExmMTVwZGdFQ3dNaHBLWFhPcUpqYTNpa0FMbkVPc0JpS1BMOHoyYlR2UUN3YXotWUtoTnBYRlA1aTdzRXJacEZ3OGtfd3pVejkyclJRWHlTbFI2ZUNtM1hlT2psT0stSklMWEplX3o?oc=5",
         "pub": "2026-11-05T17:32:02+00:00",
@@ -170,6 +164,12 @@
         "title": "Emotivo homenaje a Jesús de Miguel en el Sevilla-Alavés",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTFrbkEyaFg4OC1FbXEtN05EbkR4bnVab0xmWDExZXg1SmRILUhHdGd0U0RadkV1OHBodzlGNk9NS0NacjQ5bmlqbWl0anVrZ296dmF5c1MwZE9RVlRkSURfNnBmTE1aZjFwM0Nwc1RyWkJMMm9vNnVUTlluYWthN1pTbDNERVkwdTZxUkwwRGdwLXQ0UDI1THVVOTVLZUNob3ExblhkaGVaOERCUHNhcVZvYk05SHFrQWZjNWRB0gG-AUFVX3lxTE55MWtuQTJoWDg4LUVtcS03TkRuRHhudVpvTGZYMTFleDVKZEgtSEd0Z3RTRFp2RXU4cGh3OUY2T01LQ1pyNDluaWptaXRqdWtnb3p2YXlzUzBkT1FWVGRJRF82cGZMTVpmMXAzQ3BzVHJaQkwyb282dVROWW5ha2E3WlNsM0RFWTB1NnFSTDBEZ3AtdDRQMjVMdVU5NUtlQ2hvcTFuWGRoZVo4REJQc2FxVm9iTTlIcWtBZmM1ZEE?oc=5",
         "pub": "2026-11-06T20:26:54+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "Alineaciones Eintracht Fr. vs Hamburgo | Bundesliga 2026/2027",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWEwQjNuS0xNN2hEX0YyWFZ2ZU5KSDdFZ0lKSG1ZYW9KckVuUHFZaWNPU0x6dTVrYjhvLXp2bjVMSmd5U1BZZUEtdHNDSjh0LU8zeEI3d194WUdNdjh2bUZhalVsTExOWUdtX1VjdGhfdXVTRXF3Z2VrS2RBTWcxYzhPNmw2UGdQOHZzYXQ2YV82WFRXcnZLUGNzVzBwbnIxejRsRnFzWUQ4dzlUM0s0R1FFNVA?oc=5",
+        "pub": "2026-11-06T03:48:26+00:00",
         "outlet": "El País"
        }
       ],
@@ -197,15 +197,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Acuario, horóscopo del sábado 7 de noviembre de 2026: organiza, suelta y avanza ya",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWpqREtsS1FueTQxWno1MFJCNzltdFJhdFhFc2lvVjQ5bXA5S2ItNEdzVjFNUWg3TmwxVVR0V2t2UUJZUDBBOE05QmNhZ2JURy0zUllEdHJZWUxDY1NyT1I0SjZYMXA5Ym56Um5xQ0lGb0UxS1p6VjltZldTRjMwQWxMYWZKZnJ4ZmpKempYQnJjZw?oc=5",
-        "pub": "2026-11-07T04:08:08+00:00",
+        "title": "Libra, horóscopo del sábado 7 de noviembre de 2026: exprésate o perderás el centro",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1E4TC1TTWlXSEMxbFpNWWRJWkdsWWt0YjV5U2hiSWd5cDM5OW45NENKQnFVc25hYmpYbHY3b2RCS1dyVlR2cUpyV0N5akhyc3l2dV9LQjZ1a2FjM0VnQmltVy1TRTlJZFRVRUMyeldWVTFJcHdkODlQeU1oLU5oOFhZSERMTFhxZjA4dWZEaw?oc=5",
+        "pub": "2026-11-07T04:08:10+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Piscis, horóscopo del sábado 7 de noviembre de 2026: confía en tu intuición hoy",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYTFjY2RjMkhzTHlmUGs1REdTVEdlN0RjM2RnSVozdjNGQnJGMXBYb2lQU2tza2JjdWJ2VWp6U3dVUWpOMERQT3U0YXJwTHhTQ0ZmR3dNNUFLRmFDRjhwZDFoUXNvaUVaMmlVNEUwR2tUOWgtLWoyejloQ1U2eWJfRUZkc29TVEtWWGc3RHZOME8?oc=5",
-        "pub": "2026-11-07T04:08:09+00:00",
+        "title": "Capricornio, horóscopo del sábado 7 de noviembre de 2026: siembra amabilidad, cosecharás esperanza",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUQxb2J1X2ZlVkxhc2VBQkMyMDNGRWxEZ2cwdk54bFBQVkFXbFlvczBQdUFWVnd6WC1xTDctOEx6Ylo5SXpxWklSd2dISHprY2RPU0YtbHlyZ2M1SXhmRkpqUnl6VUYzM2Y2a2Q2azhhQm85aEpQZDJ1clY4YXV5bHRTVTJPTjRWS0Niblc0QTMzVi1HRTBN?oc=5",
+        "pub": "2026-11-07T04:08:10+00:00",
         "outlet": "Univision"
        }
       ],
@@ -233,15 +233,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Robert Dante Siboldi: “No duraría en volver a Tigres, aunque sea dos meses o una semana”",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRWE1X1NwbUxNeXNseVRHemx2d201ajJGZHRuUzRJSmJZbGNaMk5DS0FzbUZpUXFVQkVkU3BnVFM3OVUzdDRUazhqZDJlb1lKM241elRSVUR3dlJUcnVyWTB1YzRrTnJCMm5SYThmQTBsVkZaRFpDLXg3bUUxUkZNdEZuM20yTjE5amRITGJlQnVSeHN0cDR4U2pJQkJXSS1URkhyRUpsRWZPalFzUW1QVGJIMnV3S2JpOExhS3pGZWhRZ3h5am5wMlg5WDJ1cGVxd2VJaFhEZlkyYkQ2MDRISkNmcUZyb2JYNG1UR1MzUVVxY3c?oc=5",
-        "pub": "2026-11-06T10:59:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "¡Remontada del Everton! Doblete de Thierno Barry para vencer 3-1 al Coventry City",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVzdabmpSYnJUQzRzWFBpY1pmRVlGR3dVMWtZaEZHTW9obXdPNlBWWlJhRnhuT0FXcTdPQWNnUXZXMnNMVmhLeWd5OVlrU2tzcWRiZ1RuMjh1NFpGLUJabW9jOTVfaWZSai1waGl1RHhoNktxMG5MSXQ0Mk9SNV83d243REt6QzQ4NnVpMmtoZGJDeFZxcWxvS3NzVlNPR1dGcG1ocHBwT093QUpDU2kweGdkR1pzWlNXbFNCNi1rSmpTeXpqOTcwTUVjVUtFOHpzZWVSVWU2ank1SkZIYXR2U2x3?oc=5",
         "pub": "2026-11-06T19:51:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "¡Gol de Gabriela García! América golpea primero a Chivas en el Clásico Nacional Femenil",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaG5zQ1diY2xNaGZrRHNSYjNJaGY0SklIam9BeENwR0tHR0l1TEhwQzlpN1hZVnVZYXBPX2MyOHp6allkeGhhM3NFY21ibFF0MUlVa0p2cXB0S0s2TjVoV2RtWTJWcE1XejhtVFl0V2oxLTB3YTJGbHFPRUFubFZOMFRJS2tOSlZNUVUtZmswbTI4ZUYyLUNUX1Azc2dxMVBhem0tUFhTSnBaLUVlb2JDUFdWekZManNYei1WckpYa2gwa0Zxcmw3RFlWNHU3Tmdva1Izd3F0aHVnS0hFU0tVWHowVm4tZzV0N3JjdlVVMllTQnFk?oc=5",
+        "pub": "2026-11-06T07:04:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -405,15 +405,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Deportaciones y economía: así influyó el voto latino en las elecciones intermedias de 2026",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaHZBZG1pRU5GTUIzQ0c3Y01kRW9jeFd6UW9tX3JNUVlYT2tzN0Uxc2JOcW9rd1NNZzFFSVJRaGJSVkliZWV0d1ZNTTEweGtZWWFZNXhqeENROFRDVlk4ZjBIQXI1ckZSc1QwVTRPbnZOUkxmTHdkdXd6VnFZeUdrYTgwRkp4UTVqMUxnTkFxbG8zQTJra3VCRzh4b2NYV3RhSzJ6TWhQM19Jc3hSdHI0amVTeFhtSXBLNy1PUXdzTUhSc1JlUG5NWU1CbVZyWl92UFBWWTZkdk0zb1lzaXpNa2taS3UwN2VKQnl2UFhZMG1LYzNiY2lWMFcwMA?oc=5",
-        "pub": "2026-11-06T05:48:08+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "No entres en pánico: Recomendaciones para cuidar tus ahorros ante la inestabilidad de mercados",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUnZCQzAyS00zZk5fUDdEVHdjVkNvOTdXSlhWZGVsYll1OElvWTB1TjNwTmZhTnhWUlJnQXh0T0pPS3JQQmxRdno0SVp0RjctY01STFFVX01pekJtMmdDSnRabkFnX01NVU82LWR1QmdqQ0Q5RlVrSC1UV3FzaHFrWW85OFhPZDVaWjBERHZGdG1QcEs1MHJMLXNIcXp4WkxJQWtlVVF5TEVsX0VKamdiemRDT0pYYmFjaXJJSUJZZnRQWnVCSUJYSXFZY3lhV3FnMTgwMGtCb3FRQ3l6bXhpY2JPNUtodw?oc=5",
         "pub": "2026-11-07T00:54:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Deportaciones y economía: así influyó el voto latino en las elecciones intermedias de 2026",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaHZBZG1pRU5GTUIzQ0c3Y01kRW9jeFd6UW9tX3JNUVlYT2tzN0Uxc2JOcW9rd1NNZzFFSVJRaGJSVkliZWV0d1ZNTTEweGtZWWFZNXhqeENROFRDVlk4ZjBIQXI1ckZSc1QwVTRPbnZOUkxmTHdkdXd6VnFZeUdrYTgwRkp4UTVqMUxnTkFxbG8zQTJra3VCRzh4b2NYV3RhSzJ6TWhQM19Jc3hSdHI0amVTeFhtSXBLNy1PUXdzTUhSc1JlUG5NWU1CbVZyWl92UFBWWTZkdk0zb1lzaXpNa2taS3UwN2VKQnl2UFhZMG1LYzNiY2lWMFcwMA?oc=5",
+        "pub": "2026-11-06T05:48:08+00:00",
         "outlet": "Univision"
        },
        {
@@ -447,9 +447,9 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Cristiano Ronaldo se despide de la selección de Portugal y Harry Kane renueva con el Bayern",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWktJVTRyWHBaRXd0SFB0WGw1TWIyQXZVa05fVVYtVTZEU3FzNm9FS3JJdWJtYVRsSFhNRzZKYWgyR1hlRWt1NDVHakR5VzdHcU9kTF9ROXNoZ1FaV2c0ZGRUT3doQWkzcERGTy1CY0E3dVowQnFScXlCZGgxZEg4b0kzNlYtQzBoa2FKck5DSGVIYzdEWXlIaUprbU1oTlFkVjlRdVV0VW9Ja3hySm5TZnA4NWZyR05UVjlEckotRFVndGdOelRYSWMxZERER2FqZ210a2JsYUpCMmhBS2xkNk02c1c?oc=5",
-        "pub": "2026-11-06T16:06:58+00:00",
+        "title": "Ha*Ash, Banda MS, Olga Tañón y más celebridades llegan a Premios HEAT",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON3Q0TmZPeDBzNzB0RWx4cHlJZ2hkMEN0ZmtqalBYT1F0LVhZdUlONEdlQXpOYkVPVGxQUTNkdWd6ZVZ1dUZ5MENtSG1LYkZ5cWFkeHBCb2k0RFBtaFk3MDhwdWEwTzYxX0VuelBrdHhRY09oMWExR2REQmxvallVeW9YQkFGNXlVX0VxY1dsMi1hcjBXdFRBZVZKS0U0eGptcjhrb3RXcktTWW54dUFwclJrdDBZMkx5eFZ0cE1nR29ZcTg0?oc=5",
+        "pub": "2026-11-06T06:56:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -579,9 +579,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Matt Damon's wife had brain surgery days before Oscars, pulled off 'heroic' surprise for actor",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR2V4R3BBNnhNc3ZXTnB2ejR0UWdwOC1haGxLZDE0dzJGX2dFS1ZyRWdoVjdNdDBwaFlVWS1BclhMMkZ3YkhwZGtwN3YyN0xIdWx5OEk3aEZYYkl6ZVZDT3RSd0lxU0NNUFhDS29xbklTRHlkeGdZZVAzT2dDY21oV19laTk4cmFzdVlYZE9pSlZqM2pGMU1Na0lLU2JUMDR4WEtROFdyY2xTTXhOMThWWW93S2c1bnkybzc2ZDE0Q0dud9IBxwFBVV95cUxQcVhjaWdGM0lZTVpaaE9YTWRhUHAtUFJVTENLVEFrWkQ4TkZ1NF9Bb25tMnVUZDQxc3h0ZDhxZHpMc25oa0hRY2VuVlZYWE8tNkRtLW5MdE82ckRQLTBGaFZYMHlJQ0d6Nl9hb2syM0FRaEtwZFNzeHQ0Mkk5aEpNSjlyMlBFVUxfcmRwYTlBREtMMGVxcElwQnMwMmZBTjFKUldOYVFLRi0zRUdQcEIxVWp1UjF4SGpDOHBiNnVXeWdqeXJBQzlv?oc=5",
-        "pub": "2026-11-05T20:52:44+00:00",
+        "title": "Bill Paxton's son takes on Western role late father never got to play: 'I could literally hear my dad'",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVl4MUhrUVhiX1A5YlYyMVBiX283UEtXU21fTVJOX1Myd21YbDhEODNkREZoQzhtNWR3LUZOajY1RmppZzl5N0FreS1TOHp1Y3N3cHRuOUh6NmhKUzREdTZTVmxfajVyaE1TNHlGbmVpcTNuejYtdmJOLWVkdnlHbE1qbG41ZDZyR3NqOV9ZUnY2QjhhY3pxTjBNQzk4dllfSFd5UTFMbzZxWDNGRE1QcFNMV0V5QmxnMXfSAb8BQVVfeXFMTnFncEEwRW1hQW12VUsyNzhHNmdCVVFVd0xPeGlxM2N6bVhFZ0xTR0lJYXdDaEVzX1RWUzVkaV82Y3N6a2pmSVlwNEtuR0dDRG5ILTNHaGluWnJYelRjbXJvQlcyWElVUU0tRTJyaWZzdTU3ZTZqV3hyeXMtU0JIUzg1dmJPZzVRbjBaUGl1MzVPQ1V3dFo3V0pHbDg5YXBzTjg0QU85RW9SNW90R0ZxcXBESXdMRmhTYnU5THVQdXc?oc=5",
+        "pub": "2026-11-06T17:43:54+00:00",
         "outlet": "Fox News"
        }
       ],
