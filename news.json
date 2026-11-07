@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:59:17.019000+00:00",
+ "updated": "2026-11-07T11:35:41.416078+00:00",
  "categories": [
   {
    "id": "top",
@@ -35,17 +35,17 @@
         "outlet": "El País"
        },
        {
+        "title": "Última hora de la actualidad política, en directo | Sánchez: “No vamos a permitir que España sea el patio trasero de la internacional ultraderechista”",
+        "link": "https://elpais.com/espana/2026-11-07/ultima-hora-de-la-actualidad-politica-en-directo.html",
+        "pub": "2026-11-07T11:33:20+00:00",
+        "desc": "“Este 29-N, diremos que España se gobierna desde España, no desde Washington o desde Moscú”, asegura el presidente del Gobierno y candidato a la reelección | Feijóo interviene en un acto en Valladolid",
+        "outlet": "El País"
+       },
+       {
         "title": "La inflación diluye el impacto electoral de los buenos datos macroeconómicos y el ‘efecto Cuerpo’",
         "link": "https://elpais.com/espana/2026-11-07/la-inflacion-diluye-el-impacto-electoral-de-los-buenos-datos-macroeconomicos-y-el-efecto-cuerpo.html",
         "pub": "2026-11-07T04:30:01+00:00",
         "desc": "Mientras el Gobierno presume de liderazgo en crecimiento y récords de empleo, con su ministro de Economía como el más valorado, la visión social sobre la situación y las perspectivas de futuro se dete",
-        "outlet": "El País"
-       },
-       {
-        "title": "Burlas con IA, injerencias rusas y extremismo: campañas tóxicas al servicio de los algoritmos",
-        "link": "https://elpais.com/ideas/2026-11-07/burlas-con-ia-injerencias-rusas-y-extremismo-campanas-toxicas-al-servicio-de-los-algoritmos.html",
-        "pub": "2026-11-07T04:30:00+00:00",
-        "desc": "Las redes sociales son un elemento clave cuando llegan unas elecciones. El grupo de WhatsApp con el que Lula organizó a sus votantes y los vídeos con inteligencia artificial que usurparon la imagen de",
         "outlet": "El País"
        },
        {
@@ -69,6 +69,12 @@
       "name": "Univision",
       "items": [
        {
+        "title": "ICE arresta a un policía estatal de Wisconsin y amenazan con deportarlo a Sudáfrica",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGtWQmItd3U5SnAxTlN6alhSRXBBc0lHaTNxVjU2cHJwTlF0d1lmYkFaMnRXejk1cDhEbmdKQW40RzdXUmRuMEhTTVY5UEJ2NG5uTWtEZVBxcTVwU1Z6bVJBZzF6YUZQNVpNR3BEY0RDVllLalliSjVoWnNaaU1BR1hCMnV0dVVSZkc0TFlTOFZGRXNjX1A2Nlo4bWphNHc4VWg4dk4wbnhPUXUzZFVydWRSMlRvSjMtUTliWUI0dTAzSGdmd0FXYzJn?oc=5",
+        "pub": "2026-11-07T00:01:28+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "La estafa de los falsos ejecutivos: usaban IA para engañar a empresas de todo el mundo y realizar transacciones millonarias",
         "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcHJPZ1p1T0pkYThsN1lHaFZxOXNXTXBSdGRTV0c3bVRfSHNBaHpsN041VWhvSjZwNnlMSXd3WmJiMkYtNFQ0aklQaEtxMzI0b1NLU09SNS1wbFpTSFZIZmtIYXBQTG9vT0JtQVlFQ1pqQjNIb0p2TjdMRlI2ODlMdWw0Z3ZFOXRBaTFfa0pxWVpvRl9yWDlBb3EzZTVEM1RKbURCT2hJUm5RQktvYUozZ21MRjlxNUFsNEFlLXpTekkxWXg2WW9DUnRYTldLcEwzTEFGaURialg2ZmJtX1dDb1BuRjRlYXNUd2pic3ZWeFdPMFJwcmJ6WkNWNlMxX1k?oc=5",
         "pub": "2026-11-06T22:15:15+00:00",
@@ -81,21 +87,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Houston limita la cooperación con ICE tras la victoria de los demócratas en las elecciones intermedias",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSndJWTFycXZGUW1HaTFiQXdJTHY0TG50cElCVmstdlRfVkF0a3o5bEwycEN3NHZQMU9nYjY3RHdjNTVnQlBodUp1UU0wbXJfWngyS2REbFBjSVBxZDk5a3lLYUJIbXk3dm5XRWFpNkhrX1VFZjNuT2owS2VuUDRVQzJtajhTYXhDdEQzYm1VYUotMmduWnQwRXpjWXpEY1RsNkZLSEdjVk4xX0RiZm9mTDUyUERjM1FEaEtmblpkbnJkWTFucTljSTRPVlgtM2lnNU83VG85LTVuWVBaV21ONFZLY3Z2OVZtdE5rWE9XeHMyU3Z1aFE?oc=5",
-        "pub": "2026-11-06T20:20:01+00:00",
+        "title": "\"Queremos resultados en el tema de la inmigración\": Congresista demócrata Adriano Espaillat llama a los nuevos líderes a dar resultados",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdUJZLV9UTi00ZzB2ck5GNndsZDRWNjFHTVVsekZWSzgwZ1IyMmlnZnVaRmc3UzNhUUFsSnBNYnA3MG1pMU40OGtSb3VJOVBGaHNiaGhrZzdld2xPT3A2UkM2Q05DdFFxdUpoOXlSVGdQbjN1LUk0M2FyVzUxQVZteXdFR0Q5Wmh2My01OUtXcVByZG5hOXVpdHA3cldlQkhQVFdpNy1NbUQ0LWFNcVN6LWhHN1hYbXRKZktIOUF5S3RQNTdpR0FUYk9sMXZ0U2VzZzNyM1pja0lIQVVGV1oyMTlVV2lEdFJtTU9n?oc=5",
+        "pub": "2026-11-07T00:40:52+00:00",
         "outlet": "Univision"
        },
        {
         "title": "Hablemos de Inmigración: ¿Nuevo Congreso fiscalizará fondos y demoras en trámites de ICE?",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYVB2SzRQNS1YUE01Vk5UZ0FwN2h5V2RyeE0tU1pMSWxxWDNYQlUwQVhfQ1hkYTN5NENKd3YzaE9qeDJJSmJLMEcxdC1yUVhCN0NveVRRTjNSOTVYb2xpR2dLUWVrZnNONVRVeXFCZTJuN1BNeG43OWFubGV5SVl6ZWIzb0I0dS15OW43Y2FONG1QT3FlaDVhQjQ1UEZNNFNpYldTU0FZMFVFQ0E0M1dTYk1JVDBSWlRuS0NMeWhNVFNLRE54VUE?oc=5",
         "pub": "2026-11-06T18:46:49+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "ICE detiene a una madre y a sus dos hijos cuando acudían a la toma de huellas para su caso de asilo",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdGpKU1ZtU1RadXNxVU9jZ1RKTS1TN01zZlBSQ0UxeFZTQ1IwajJ1LUFzci1kV3ZySXhua1ZJek44MTFUS2d1SEhadmYxd1dQQUtUNVlBMHpvblV6VndHOE1xR0NhRUNsWXZPSXd1V1V6V0Q1R3lIdzFXdW8yVy1nOFppckR3X3BfWDZUR1VhaWt2WkN1cUR3ZU04LWYyRjRGbUxpSWIzN2ZheWpBdjRtY2JHUzJldzkwNDJubW4yUVFleUxBNkN2YXcteVZ2TjYtcmx6MnU4eFFrX2NDeWQ5ZmJBMXJHLTgwUTY5UV8xN0JOaDBqR2xndEJmREJYY3M?oc=5",
-        "pub": "2026-11-06T21:41:07+00:00",
         "outlet": "Univision"
        }
       ],
@@ -125,7 +125,7 @@
        {
         "title": "Resultados del Senado 2026",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1BFWVNZZHp1Rm9zWG4tYTRGYmJ0c05ENEc0bGZNOFFqUWtBVldmLWN5amYzR2RPUHlYbDlidzZkUVQyRkx3aVNKYWlNdTltNU1nRGN5Rlc0NGpqZm5IR29SMlVxZjFaRnFyT3oyQktsMGt2eFpiWHp1eVVNNTE2bnBWMG44bDNxVDlaUnFaX3NJUG5oaG5sNVhwaVdfcXFaYWJ5NA?oc=5",
-        "pub": "2026-11-07T07:27:11+00:00",
+        "pub": "2026-11-07T11:02:49+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -155,21 +155,21 @@
         "outlet": "El País"
        },
        {
+        "title": "Alineaciones Lazio vs Parma | Serie A 2026/2027",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnp3RkRqanN2ZG1vR1gzSUsyelpadVp6c216bkR3anBlM200QTVfeGd2cU54YU5LTkJ5eHQ5SzlKZlctcjM3b2d5b1ZKVVl4QkswWFpSTFdDSGF2bDNWVlBwYkUwMF9LdmJJdURHUzUwb0NCNFpXYlprZXhXVlJUQ0JmYzVUTk9pOGVVZWMwNDh3TDVXU3hQbXBqU2N2MGV3UVQ3d1Y3QmRMQ3hRYWRMNFV3?oc=5",
+        "pub": "2026-11-07T07:22:12+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "Alineaciones Bournemouth vs Sturm Graz | Europa League 2026/2027",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlFUMkVYekljemRCUWxlWUdlWWpZdjRuOXNrWENBdE92dGtCSzh1YmFrNUpaN3BXS0RxTmNZRzg1X2MzZ2FZNElHNzJhMVMzRmJhZXZUS2Q1YTAwZ2Q1LTdjYWI3ZFE4cWRvOUJfaTJnaWxpdkRNUGpBbzhfSElGQ0M3bGt2bXZfSDVXQm5BVW1ya01qWUd3QWJMTzVRYzFkdWNBNHNMeDR4c2VkbmN4aG5sZ3FVaWxaWWln?oc=5",
+        "pub": "2026-11-07T09:34:15+00:00",
+        "outlet": "El País"
+       },
+       {
         "title": "Entrenamientos libres del GP de Catar en directo - Moto2 2026",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTZ1U2xHUmFlRFhNLU9IaVBFbHJkS3A0VWptcXpaMGZFcEx6VlRkLVRzQ3VaMEJCVExCV0o4TG1PY0lyck1Qc2JFMVNYWl9KYTU2elhBamwyWEtpcWMtbTlKN1BZNUNueFRoNHk5amxvTC11ckhMUTA3MmNSbjIxVngtTnlubkJLSmU4?oc=5",
         "pub": "2026-11-06T13:42:04+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Emotivo homenaje a Jesús de Miguel en el Sevilla-Alavés",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTFrbkEyaFg4OC1FbXEtN05EbkR4bnVab0xmWDExZXg1SmRILUhHdGd0U0RadkV1OHBodzlGNk9NS0NacjQ5bmlqbWl0anVrZ296dmF5c1MwZE9RVlRkSURfNnBmTE1aZjFwM0Nwc1RyWkJMMm9vNnVUTlluYWthN1pTbDNERVkwdTZxUkwwRGdwLXQ0UDI1THVVOTVLZUNob3ExblhkaGVaOERCUHNhcVZvYk05SHFrQWZjNWRB0gG-AUFVX3lxTE55MWtuQTJoWDg4LUVtcS03TkRuRHhudVpvTGZYMTFleDVKZEgtSEd0Z3RTRFp2RXU4cGh3OUY2T01LQ1pyNDluaWptaXRqdWtnb3p2YXlzUzBkT1FWVGRJRF82cGZMTVpmMXAzQ3BzVHJaQkwyb282dVROWW5ha2E3WlNsM0RFWTB1NnFSTDBEZ3AtdDRQMjVMdVU5NUtlQ2hvcTFuWGRoZVo4REJQc2FxVm9iTTlIcWtBZmM1ZEE?oc=5",
-        "pub": "2026-11-06T20:26:54+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Alineaciones Eintracht Fr. vs Hamburgo | Bundesliga 2026/2027",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWEwQjNuS0xNN2hEX0YyWFZ2ZU5KSDdFZ0lKSG1ZYW9KckVuUHFZaWNPU0x6dTVrYjhvLXp2bjVMSmd5U1BZZUEtdHNDSjh0LU8zeEI3d194WUdNdjh2bUZhalVsTExOWUdtX1VjdGhfdXVTRXF3Z2VrS2RBTWcxYzhPNmw2UGdQOHZzYXQ2YV82WFRXcnZLUGNzVzBwbnIxejRsRnFzWUQ4dzlUM0s0R1FFNVA?oc=5",
-        "pub": "2026-11-06T03:48:26+00:00",
         "outlet": "El País"
        }
       ],
@@ -203,9 +203,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Capricornio, horóscopo del sábado 7 de noviembre de 2026: siembra amabilidad, cosecharás esperanza",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUQxb2J1X2ZlVkxhc2VBQkMyMDNGRWxEZ2cwdk54bFBQVkFXbFlvczBQdUFWVnd6WC1xTDctOEx6Ylo5SXpxWklSd2dISHprY2RPU0YtbHlyZ2M1SXhmRkpqUnl6VUYzM2Y2a2Q2azhhQm85aEpQZDJ1clY4YXV5bHRTVTJPTjRWS0Niblc0QTMzVi1HRTBN?oc=5",
-        "pub": "2026-11-07T04:08:10+00:00",
+        "title": "Piscis, horóscopo del sábado 7 de noviembre de 2026: confía en tu intuición hoy",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYTFjY2RjMkhzTHlmUGs1REdTVEdlN0RjM2RnSVozdjNGQnJGMXBYb2lQU2tza2JjdWJ2VWp6U3dVUWpOMERQT3U0YXJwTHhTQ0ZmR3dNNUFLRmFDRjhwZDFoUXNvaUVaMmlVNEUwR2tUOWgtLWoyejloQ1U2eWJfRUZkc29TVEtWWGc3RHZOME8?oc=5",
+        "pub": "2026-11-07T04:08:09+00:00",
         "outlet": "Univision"
        }
       ],
@@ -227,9 +227,9 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "El gol de Lindsey Thomas acerca a Rayadas a un épica remontada sobre Juárez Femenil",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYjMxS0JFeFh2TTFpd2JKWDF2WmwyZjg1TERQUy1sYTNpWmpOdzJMOWJmZGIyc1lFZjJ3b1dQeVRSNnFOczJVZXNhRUdmWTc5SVVUZ1g3bjBVZy1tX3dPbGFkVTd3TFVfM1lpcnpiTXl3V3VYWmNjRDY1MHFNQnItdWoyVnNURmVja2h5azkzUW1GZmctVmthVlN1eGdRUml5bHdGTmV4TG14SFlkbmctZE9CTU9QN2RLdkFKcExyVEUtdHIxNE5ldEd2WjhqalByZUpoN3BoMjViaTZvVjhhRmVtRUJYellnbEdkSUliYldfdw?oc=5",
-        "pub": "2026-11-06T06:34:00+00:00",
+        "title": "Rayadas de Monterrey se roba el triunfo en los últimos minutos ante Juárez Femenil",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPc0FIMkJtZGhMV1ZBdkx1MF9RZFhhSGhidE9aUXZTS3B3X21ySW1YMXM2YU1leTNORDB6TldYUXZPdEl3SjFjUzFDUnk5RFRQOWxwbDM0N3hyRUJReFBQVlY4N1U0RVprUW4xSmkyTXVPQ2JRcGo1amJKdWxiRkdCUk53VURrM0RPUklZZ2tkOC0tbmNtQXkzcmE2TDVMaVUwQ05JczdqYTJCYWdmb0ZPcGZEbWhtT3B3X1NVWi1kbUR6aVZhTi1lRVd1SVlnQ1pTVFMxdVlLVTR5WEp4NkJYTEd5d0d2NkJqeE5uRDRESng?oc=5",
+        "pub": "2026-11-06T19:57:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -337,12 +337,6 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Kate del Castillo debuta como directora con el cortometraje Zumbido en Guadalajara",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYUUtdndCU2hHUWJzRTVvZXhHbXkweVB1aUo0dDlld1VZZDIwd2EyMTNVU0NoN2NvWFB5YUh4Ql9GcTRLZS1LZ2tEanZUV1UwYmthR2tnZGx4cVBvaXU0TjFieTJpcTdTR0hVb3RsNEUwdk9BeEJmZDJ3WXRDQ3dLV192NDdzcnpXMkVPUGVMaXBJZ3RkWFcxbVhkU1NWeHY5WE9CN2JnWnhubzJVRmZ2SGZvaURCZmNzLUFhU195LTUyUFlGOGNUa1JHS1B5ZVRibVNVeHlzWDZkSjlLUVBVRGxGWDFRME8wMFE?oc=5",
-        "pub": "2026-11-06T05:30:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "¿Tu ex quiere volver? Ana Laura Místic revela qué hacer durante Mercurio retrógrado",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG5zU3RoWGxWOVdjLUE3VDY2Q3pXMXRjZ0gta1BPMjcyWVZaX1M1ME92b0NfQ2lYSW12NG5CZ2U5ci0xams3dzFjbDZNT3ZLZXk3b1pPRERuUDl5M2JTR1RsTG81bkFxZC0tZWxKZzRxRmJ2dEJmT3c4ekx5SnFUVWEyNzZtcEJVZGZqUTFEZ2NPeUVpU1lqTEc5Rk9rendsUk1RV09RQWNKcWItMVNESXpHNE9FTFdpNElFNlRTV3VsYnYxTlpjaE9tNVZtd0twZkQ5NDNzMVFZRDRyRzdwWjItTQ?oc=5",
         "pub": "2026-11-06T09:57:00+00:00",
@@ -352,6 +346,12 @@
         "title": "Las noticias de la mañana, viernes 6 de noviembre de 2026",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWw2VzZ0Rk5zVm54OHNCM2pLcnl3VG5fYzNMZHF6M1RIck5JaTJTMDhwRjlhX2JqVS1kVWNURmZHQlM5MzJvTC0wT2JPTmEyWGpvLXRnLXpWUUc2ZEFHamEtaFFnU0VuekZ4eExLM3NBTlF0TjFxUGJoeFppdGExWFFvY0lNbm9jX2hTZDhHTWRZVENGZTlscDNZYjV5YWtES2NEVTg0bTVxWXZCY1dDRzh4bzBVM3NzNGdWaVlpb3dZN2hqNFlvbA?oc=5",
         "pub": "2026-11-06T23:43:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Kate del Castillo debuta como directora con el cortometraje Zumbido en Guadalajara",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYUUtdndCU2hHUWJzRTVvZXhHbXkweVB1aUo0dDlld1VZZDIwd2EyMTNVU0NoN2NvWFB5YUh4Ql9GcTRLZS1LZ2tEanZUV1UwYmthR2tnZGx4cVBvaXU0TjFieTJpcTdTR0hVb3RsNEUwdk9BeEJmZDJ3WXRDQ3dLV192NDdzcnpXMkVPUGVMaXBJZ3RkWFcxbVhkU1NWeHY5WE9CN2JnWnhubzJVRmZ2SGZvaURCZmNzLUFhU195LTUyUFlGOGNUa1JHS1B5ZVRibVNVeHlzWDZkSjlLUVBVRGxGWDFRME8wMFE?oc=5",
+        "pub": "2026-11-06T05:30:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -447,9 +447,9 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Ha*Ash, Banda MS, Olga Tañón y más celebridades llegan a Premios HEAT",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON3Q0TmZPeDBzNzB0RWx4cHlJZ2hkMEN0ZmtqalBYT1F0LVhZdUlONEdlQXpOYkVPVGxQUTNkdWd6ZVZ1dUZ5MENtSG1LYkZ5cWFkeHBCb2k0RFBtaFk3MDhwdWEwTzYxX0VuelBrdHhRY09oMWExR2REQmxvallVeW9YQkFGNXlVX0VxY1dsMi1hcjBXdFRBZVZKS0U0eGptcjhrb3RXcktTWW54dUFwclJrdDBZMkx5eFZ0cE1nR29ZcTg0?oc=5",
-        "pub": "2026-11-06T06:56:00+00:00",
+        "title": "Cristiano Ronaldo se despide de la selección de Portugal y Harry Kane renueva con el Bayern",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWktJVTRyWHBaRXd0SFB0WGw1TWIyQXZVa05fVVYtVTZEU3FzNm9FS3JJdWJtYVRsSFhNRzZKYWgyR1hlRWt1NDVHakR5VzdHcU9kTF9ROXNoZ1FaV2c0ZGRUT3doQWkzcERGTy1CY0E3dVowQnFScXlCZGgxZEg4b0kzNlYtQzBoa2FKck5DSGVIYzdEWXlIaUprbU1oTlFkVjlRdVV0VW9Ja3hySm5TZnA4NWZyR05UVjlEckotRFVndGdOelRYSWMxZERER2FqZ210a2JsYUpCMmhBS2xkNk02c1c?oc=5",
+        "pub": "2026-11-06T16:06:58+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -503,9 +503,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "James Carville cautions Democrats to stay away from DEI policies after midterm victories",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeG1MYlNXcktaamNNeW5ySkl3RFlZdWJJRmVaOWdkQWRxUnlkb01fQzgtTzFuNjNYWnFHZV96TXNQQW9oRnp3LVdxQThCUlA3VHhmVWtEZ2s0bjE4eTM4VTFKb3d6a1dTNnlWV2tiUEtibVgxNnFvRTNmRHNadlktMklvTnF0ck5mS3VER1k5dFNYamcwT3dvMU5mS3FvLXlzUlhMQnNCMFhoVGtHamNUc2VnQWF1d9IBuwFBVV95cUxNbzNuM0NSelVhRENLbmNvZFljRDJyclRSV1VGZjdGcmhOZ3hOOXI4RGRVMVdlaTBhcXlSdHpYZVd6ckhFd3FFQ1hLT1MzQTc5THFfSFo4Wm9HX0xKMFZJWExZUlk0S0R0bEg4cVMtWENXUFQ5blc1aE5zNmtXTmhqTEdLSHNHeGd2dUFoV3pSSk9LOTZHQ3RzZU5LeWtQN2MwUmZXRFJkN1ZXTkJiM05Fb2JnaDJ1cEFJcEN3?oc=5",
-        "pub": "2026-11-06T13:23:32+00:00",
+        "title": "Blue wave battered GOP strongholds across America, but one red state held the line",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTV1b1RlUE1qOGZ0ZmhoU05Qa01wRlk3OUxVVVNtQ0FWTEEtXzRwZ0k2WE9LaEhuaDA3QmduNXM2dU1BZGxpS3ljbHhBVDM4RVdpd2x0T0hFZmNGRnNjWEZKcEhkWGIwMFY3UnFRNWFGVFc4MGNLVEhUeGdxMWlyN2JWQ3pRbUJpcnhiOS1MX2VycUZNZDdKNldRQWUtVzlaRy1xOTdKNi1BZ9IBrwFBVV95cUxQUUJKNk9nXzVGUFFFUWQxS1NoQnpiUlptRjhUNzRybEljME5YSGxnX3pQZ3dkMVpPdllfWXVmQ2JtSzhJbXVIbURBeDNhX1VwQ3ZFU1N0dzBwUm1CbUdoSUNiam4xQ0FDMXUteUZYRS1NNUdpbDZDd1BrbGRUXzdIRlA1aUpxVm5SWE10dXU4WGxuRkZtNmdvS2xZbzB2SjBKZVNhdjhYa1pBSjlsY293?oc=5",
+        "pub": "2026-11-06T16:31:02+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -573,15 +573,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Sylvester Stallone says Hollywood abandoned Middle America as Taylor Sheridan found an ignored audience",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWjI3ZmJ6OU5CQ29RQkdzcjVGenFmUkp3elkwR09hNXdVVWxVcmN1ZlNRT0hTdDltQTlVQ2JyRnExZjlONUVmZmVFUG9ZYlFWZWZSQ2NNQTRhaEJDQk9lU3lFTGVGT3h5dUZKRnFxWXhBVERoZWZtS0NpdUhBQThwMWw3OVVpUmx2ZWZmTTVCNUViVXNwdkFnaWdWaWhfTjBpZGlscGZISDhfSmoyTmNQLUxrZGFyQWFIUnRDQVFHS0d5dEpHWjhSdll30gHPAUFVX3lxTFBwYm01X29vUElmamhhTUpwZFhrT0lmMDloQ1gzRDM0TVJVOEhwNV91QzF1RWN2UWl0YVBIYm9xMWlaeWxUeW1hb0o3WlQ1V285VTB5UXBiUTNmak9XWFhrWEhSYXF2Nl9RZ3IwMDhWWjh5VGFELWxLZERMUnZVbWdJZkRHd0htX3lVLVFDNWtYMEVYUGxETG1wTmlnTnNoLXJDTlktdEY3SE1qeGhNam9JbUVkN09WMmRPTnlTRllTcllIYjQ4QnJnZmtuaFI2VQ?oc=5",
-        "pub": "2026-11-05T23:03:40+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Bill Paxton's son takes on Western role late father never got to play: 'I could literally hear my dad'",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVl4MUhrUVhiX1A5YlYyMVBiX283UEtXU21fTVJOX1Myd21YbDhEODNkREZoQzhtNWR3LUZOajY1RmppZzl5N0FreS1TOHp1Y3N3cHRuOUh6NmhKUzREdTZTVmxfajVyaE1TNHlGbmVpcTNuejYtdmJOLWVkdnlHbE1qbG41ZDZyR3NqOV9ZUnY2QjhhY3pxTjBNQzk4dllfSFd5UTFMbzZxWDNGRE1QcFNMV0V5QmxnMXfSAb8BQVVfeXFMTnFncEEwRW1hQW12VUsyNzhHNmdCVVFVd0xPeGlxM2N6bVhFZ0xTR0lJYXdDaEVzX1RWUzVkaV82Y3N6a2pmSVlwNEtuR0dDRG5ILTNHaGluWnJYelRjbXJvQlcyWElVUU0tRTJyaWZzdTU3ZTZqV3hyeXMtU0JIUzg1dmJPZzVRbjBaUGl1MzVPQ1V3dFo3V0pHbDg5YXBzTjg0QU85RW9SNW90R0ZxcXBESXdMRmhTYnU5THVQdXc?oc=5",
         "pub": "2026-11-06T17:43:54+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Matt Damon's wife had brain surgery days before Oscars, pulled off 'heroic' surprise for actor",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR2V4R3BBNnhNc3ZXTnB2ejR0UWdwOC1haGxLZDE0dzJGX2dFS1ZyRWdoVjdNdDBwaFlVWS1BclhMMkZ3YkhwZGtwN3YyN0xIdWx5OEk3aEZYYkl6ZVZDT3RSd0lxU0NNUFhDS29xbklTRHlkeGdZZVAzT2dDY21oV19laTk4cmFzdVlYZE9pSlZqM2pGMU1Na0lLU2JUMDR4WEtROFdyY2xTTXhOMThWWW93S2c1bnkybzc2ZDE0Q0dud9IBxwFBVV95cUxQcVhjaWdGM0lZTVpaaE9YTWRhUHAtUFJVTENLVEFrWkQ4TkZ1NF9Bb25tMnVUZDQxc3h0ZDhxZHpMc25oa0hRY2VuVlZYWE8tNkRtLW5MdE82ckRQLTBGaFZYMHlJQ0d6Nl9hb2syM0FRaEtwZFNzeHQ0Mkk5aEpNSjlyMlBFVUxfcmRwYTlBREtMMGVxcElwQnMwMmZBTjFKUldOYVFLRi0zRUdQcEIxVWp1UjF4SGpDOHBiNnVXeWdqeXJBQzlv?oc=5",
+        "pub": "2026-11-05T20:52:44+00:00",
         "outlet": "Fox News"
        }
       ],
