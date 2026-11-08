@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T11:55:10.490028+00:00",
+ "updated": "2026-11-08T12:35:35.905571+00:00",
  "categories": [
   {
    "id": "top",
@@ -35,10 +35,10 @@
         "outlet": "El País"
        },
        {
-        "title": "Última hora de la actualidad política, en directo | Sánchez promete blindar en la Constitución la revalorización de las pensiones",
+        "title": "Última hora de la actualidad política, en directo | Sánchez se compromete a blindar la revalorización de las pensiones conforme al IPC en la Constitución",
         "link": "https://elpais.com/espana/2026-11-08/ultima-hora-de-la-actualidad-politica-en-directo.html",
-        "pub": "2026-11-08T11:50:40+00:00",
-        "desc": "El presidente del Gobierno y candidato socialista a la reelección participa en un mitin en Bilbao, mientras Feijóo se desplaza a Málaga | La candidata del Frente Amplio, Ada Colau, viaja a Palma",
+        "pub": "2026-11-08T12:28:39+00:00",
+        "desc": "“Se lo vamos a exigir a todos los grupos parlamentarios”, ha dicho el presidente del Gobierno y candidato socialista a la reelección en un mitin en Bilbao | Feijóo: “Menos mirar a Trump y más mirar lo",
         "outlet": "El País"
        },
        {
@@ -75,12 +75,6 @@
         "outlet": "Univision"
        },
        {
-        "title": "James Talarico rinde homenaje a Lorenzo Salgado, el inmigrante que murió a manos de un agente de ICE en Houston",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMU9NVUR3c0V2R3BUTldobEI0TFJndm9oOF94WEpORTFRb2g3aUxfcDU3YUdUZ2RTbDhKNmVrRkFnQTU4alFZQThLSzZaZ1lIWlFleHBaTVdoS1J5MW9NeTR3dk84Y2pmRjkydjJDczYyRUpFMzFXZVVLRUNGaDhEMk1xcmo0WFJla0s1VnBMUlcxdlZjQjRXeFY0Nm5FaG5JYXpJNTYyYjhlUXpxaXJ6eXRGX0hfRk1oMk9pTXFLQWltdXhta0hSZU1NbUNDdm90eXNueDl1OC1ZQ1NpXzFiRUM4WQ?oc=5",
-        "pub": "2026-11-08T00:24:55+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Rescatan a dos limpiadores de ventanas atrapados en un edificio de 42 pisos en Washington",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNXBadGxDWFplOWFWdkRrQXp0Q252ekw5b2l5VU9iclp1REE3bDV2bW5lQ2J0VHdDdTd0OEM0aUF5ZENTYlRmbFV1VXMwd0daSkU3WDBsT1dFNkNNQW9kVl8yZmRHd0VwTXY1RlpaNmJlTDZVanlHaHA4VTJtM0ZvSEZtVUNBWjE4WS1FOG1OSC14RUk3SjY0LXlLQUN3MmlaRUJQZGw5V0Q0OC0ydzdOcEEyazEwQXdXSFNxcTJEaDVTN05jVGtxWk1FWjdDb1Fjc1FPUWdB?oc=5",
         "pub": "2026-11-07T15:03:07+00:00",
@@ -97,6 +91,12 @@
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbDFoNTdseDZsZ3ZSMmpqX3V2Rm5CdUE4NGMySnhjOUZuTDVxVm5TWVV2cEh1UVhJV3ZJbEZOZTU3NWNZNks4OGt0Y2IwTU5zRkNoNmg3dHBSY01QQkZQb0VDNFNzWHBKZVpyV0lpMUpSd3l0SDBzMVlKZERNclVvbzAtdkJzdTBXVnZWejlfTENVbzdyRmNYajg4NjVEcVNqWUtpRnlrWDk0TGxDb25wWHdhMWtERU92QXJEc25meEdiV3dta1VWSFFVazE0cE9IS1VQU0syblR5QUVNOE9ZRHBRX1NMQklIZzdzdzN3?oc=5",
         "pub": "2026-11-07T21:47:06+00:00",
         "outlet": "Univision"
+       },
+       {
+        "title": "Los demócratas de la Cámara de Representantes priorizarán la salud y el fin de la guerra en Irán",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVk9iWFZlYUdqTkx5eDFMM0IyUUhMeVh3ZG5reGFKTWdrSUtYMlhMZHBJV054dnRVVHFMeUZlMV9qaVVSZlZPcnBzYlU2S21kTXdoRkpiNG9NdmhFRGJfZENkUjNMaDYxVmJXc1RhMFgzc1JvaVNoem56YzZRQ19SbFB3YmZCU2JDU0V0MG9lbkFrMmhhcXBhSU92NmloYkZJQzBLTi12Z3lhWURidFl3blRreTZHYXg5bEhKRm16ZkZDMHhvcDFfVk0tdGRiSFItNGQ3Nk05RQ?oc=5",
+        "pub": "2026-11-07T21:39:18+00:00",
+        "outlet": "Univision"
        }
       ],
       "error": null
@@ -105,15 +105,15 @@
       "name": "Telemundo",
       "items": [
        {
-        "title": "Resultados de la Cámara de Representantes 2026",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYy02VURGV01oYTJPZWJ4RDlKSVlOUndOSFhZQi11b01mM0hRakxxTUpsWE9wMktfZnJyNXNVSGhkM3pjRkl6dnk4MDBiOEs4MllFNHVzMUpmQmUwZVAwQU5JdUdvd3dGUGNIY2xkb0VlZTBiZ0ZmQU9lVjdOeTlhTW9QdlREb0JxTlZOdGpkd0pQUnVGRFpCSXJGaXVHNU5IQ0xQOXR3VWowNXUxZWQwWFhYeWp3UFZsd1M4RQ?oc=5",
-        "pub": "2026-11-08T08:16:39+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Resultados del Senado 2026",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1BFWVNZZHp1Rm9zWG4tYTRGYmJ0c05ENEc0bGZNOFFqUWtBVldmLWN5amYzR2RPUHlYbDlidzZkUVQyRkx3aVNKYWlNdTltNU1nRGN5Rlc0NGpqZm5IR29SMlVxZjFaRnFyT3oyQktsMGt2eFpiWHp1eVVNNTE2bnBWMG44bDNxVDlaUnFaX3NJUG5oaG5sNVhwaVdfcXFaYWJ5NA?oc=5",
         "pub": "2026-11-08T08:16:38+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Resultados de la Cámara de Representantes 2026",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYy02VURGV01oYTJPZWJ4RDlKSVlOUndOSFhZQi11b01mM0hRakxxTUpsWE9wMktfZnJyNXNVSGhkM3pjRkl6dnk4MDBiOEs4MllFNHVzMUpmQmUwZVAwQU5JdUdvd3dGUGNIY2xkb0VlZTBiZ0ZmQU9lVjdOeTlhTW9QdlREb0JxTlZOdGpkd0pQUnVGRFpCSXJGaXVHNU5IQ0xQOXR3VWowNXUxZWQwWFhYeWp3UFZsd1M4RQ?oc=5",
+        "pub": "2026-11-08T08:16:39+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -203,9 +203,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Géminis, horóscopo del domingo 8 de noviembre de 2026: nutrido con generosidad, creces",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM2RldFV6dTVxdmllb19ZOXhlY2k5cVp1LWQtdWMtOWd4bVIxM2xjcnJmcmVWT0liUEFzeXAwcDVqUUJUbENqV3NUY1IxQVdYRUdDdVc0TlNZZzZfa24zVGV5V0xJbHJJdlVEZlFia3lsRmJmUzBMeDhMSXZiUEJWUC0wZWY0ODA5WlpNTmt4ODFKak0?oc=5",
-        "pub": "2026-11-08T04:14:09+00:00",
+        "title": "Cáncer, horóscopo del domingo 8 de noviembre de 2026: avanza con determinación; sorpréndete hoy",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2lmcHVYOFBCNmE3aWZxcDhDZkhvOXJmVkxiMlNkX3V1bTFxZXdlVEJ4YkQtdGd5Y0hYekd2QjdEaWYzWVB2bWlRSDZBWDNncEdoQ0x5eWNqNjUwR3VJYlBBSEM1NkpockhRa2dqd3prTjNtcUFoSWNlVzNkNk1tUEROM0I1UC01cURQSkpsWm12dw?oc=5",
+        "pub": "2026-11-08T04:14:08+00:00",
         "outlet": "Univision"
        }
       ],
@@ -479,33 +479,33 @@
       "name": "Fox News",
       "items": [
        {
-        "title": "House GOP erupts at Stephen Miller as Trump elevates him after midterm massacre: 'Megalomaniac'",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdy03MThZT2Q5VW9VY2Fid2VucU1HMlJ1MkZRUVZ4RHdXSFhmc1RGZnhBTGRNcnVRUTF1TnQ2RzBZSjh6ZUtJd1QxS3Z4Y2wyRGdHTEloVEhOQVR5ckxhckM0Y2p1Yk1qQnpfcW1MSW5tcUNLeHcydmZRYXowbmVWNG5uRThpLXBFZl8tdlZVUlQ5cDNsdGNhSmZpQjJrWUZnTUYta1FkcEFpMXhyT29VOHRrQV9hTmV4SDY00gHAAUFVX3lxTE4yWk5OZ1NNMGE0TVBKd2Iwd2Q3ei1HM0c2VGM4WWFvdEFYcFVTVUZUS2ZWZkpXc3Fkb21PR2RtTG1palRtRks1eDVDOW5aTEExWDB0ZnhXY0JHV29jdW1SNmtIQUtWUTVMakhkQnV5aDdXM1FjTGp3MjNvZkdqOUpGbEVLM0l5clJlejNGSzU0YWNlMmJMM0o4Nm5rYU95Vmw0ODBSLW0yZnluRWVtMUJDOEdveXJGM3NJa3NmRzI2bg?oc=5",
-        "pub": "2026-11-07T12:30:07+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Popular drinks linked to heart attacks, cardiac arrest in young adults, study finds",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenVqaUg0dmZPdTAxT3daVHpJZjJzcm94b2hJX1ExaUpXVGRtbHRJLWUxbGlPSkJCZnhwZkNWWVY2X2hmVzVTeFA4YnJCYkNrZ0xiX3hTUHBtSEh2SF9UNnhmYVdfRmpMQ3ZlN2lnOUVYb2FnWjNqTXdCa0tnekJKbDBBRzlQek9oWTJXLVdYX3Y1ZWJsX1FDMzdiOU1KMmhkTElJRGttVjlJUdIBrwFBVV95cUxPQkxCdVd1U21hbENLcFdnUm04dGhTZFZWWGI5UHpQZzI2OVg3ZldMRDdRcjFzLTA1MVRfODRDQmVPSkl5c0R6S292WTh6VHpOV20xTUJpR3NOUVJYM0V5SDVsTEhpTlktR1RvcFFfWnkxclJRX1NjdlNmS0VQbnJ3UHpvdVlUZENfaGRTcGo3SWIybTVTOGJOVlNUQTA5QVJHUDlvUDYwblhvRVkyYmhZ?oc=5",
         "pub": "2026-11-07T13:00:19+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Miami Hurricanes face biggest test of undefeated season at Notre Dame without Malachi Toney | OutKick",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUFEQUQ0YmpmeDA3NlNzYlE0dVRyekFhNVg0OXRjMGVfNkN3N3ROSkQ4akNCYXpKLTBMOFZWUFhackIxZDhhQVFtXzZUUEE3ejNSTUxrQm4zcW8xaW1Wb0o2T2dvSklnYzVYS2JfQ0thcld1RVpFQUhNLTUyVjU5bW9zOGNUTDdyTkVZRkxfY0ZfUVZmZDVOWlFZM3d3LWdxaXg3TUtIU0U5NWM5dEZfd2wtN1g1SEJSUEV1Si1pck1RQ28?oc=5",
-        "pub": "2026-11-07T12:33:39+00:00",
+        "title": "Defense attorney in Tupac Shakur murder trial found dead at 55: report",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWXgzampqLXJWVUw4d2t3WE5HVVZaZTI0Z1VDdHpYdEtPM0trV3pWWjdVZ25lRU5nMTZrSE5VUDVSajFuTDVVWkFoSmxsYmpGQ0tHTjZ5RE1ybmRRaUZsbjRlUmxwX0NDRTZ2YzJIRVR4UVJGRlhmcTRzNE9GOE5xZnF1a2kyaXAzS1I2MTRrNnYtblBSSVp0TzlOWFFBS1BFeFdz0gGoAUFVX3lxTFBWN1pIRkRjdkZ1dGZ6WTJBWjBpY3VoR2RKeUktLTN6UU9xdEl6YUJWcm1tUVRGNFFFaVZUZVU1MjF3dEhhOGxnUHJ3OV9pMUhYSVVYekNsOXNlMWhuWl9nNUlxSkpVMkNGbDlMS1l1OXJOSUlJeUoxVmxHcUQ2b0lseEJHZVNWUVB3ZlRaS3VFN1RGVXJrX0JnR3RVVU10bmU3NGY0MzlfNw?oc=5",
+        "pub": "2026-11-07T16:52:42+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "California prosecutors slam Newsom's death row commutations, accuse governor of putting 'politics over people'",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbVRPNGJoQjcxUkp4eW9RS21nTHQ5NldON001NFFDRjF4amM4VEp2eDFwa2tUQUtGdnQ1Ykk2S2Q3TjkyOHBIN2VnT0I4WUFaTUNFZzJ1NXVvSHJ1MlFsOGV2NDdvWGhHSElLcEdYNnFiR1pFWHoyb1RJaTQ0NHdDZHFOcl9Ta3VkVFJiRGlvbk9fMzBNS0xyNmVzQUhPX3N5U1o4QXU5UV9TdFRQLVdQSi15dlJzOFFxV1E0Z1NUVzZZLXVuNUk4aWZwbmp4VFVQd1HSAdcBQVVfeXFMTjZ4eExyQUFIMGg1cGI5LVdnVFA2QmxPZW82MUNlTkdCOE5Fd3dFVzh3Vm9BdjAwRTVxYWNIUDBvVjVmNmdiTWZBZTBrS2pnMnFmaVJkRTNRTXgyZi1Sd2VxOHgzYVJpYmN2bkpQbWNpT0tXWmpPWHJYZEhrbEpWUjdiT0VVUzZ0MUZsOFpKckpKQWowOER3NHhKa3dMZzNtWWh5amJPWmROcHpSdnlBSUd5RzczWDVOU2FGc0VvcDlPWXpEN29NbTc4QkNCbGpieXBtSnBNU1U?oc=5",
-        "pub": "2026-11-07T12:33:13+00:00",
+        "title": "Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2F2Qy1FalE5YVJRQkV6OXNDejFLazBQVk9jdmxxTnFXbzI5N2hEVnNaRGJmREFuUk95ZDVjZWYwVl9DdWdvbGV0ZUN6OFY4ZGJwd3hLLUYyR1phczFZNzZmcHQwVFM3RDQ5X0RLV3pIcW1DRU5CdXNPZjRQOHNMRzVNRGE1ZnRZUUtxOTRFeU4tRWdsWDdQWFVfdloxc25PbkJBaTdKYzJzUG9nRUHSAbMBQVVfeXFMTzNWS1FQZ1ExX0pkM1BFcWhwU0dTaXpNNEVSako3a0VHY1NoOHFxcFBVN01jdGstZGhyTk5lOTBxOTRrbDNjdTlBQmhvNmRMMFNDT2tpTDlMUGFzSjdCXy1UenlLbk5iYkFOYkJrZG9qUE4tX1Mwb3ZKRndJczNCSHd4eW8xX2dvU2c2ODJKSXFwRC10aFBQY0ZBcWxwWGhRcVVTdjNCeEY3SlVjTlVodlkxNnc?oc=5",
+        "pub": "2026-11-07T17:37:33+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Democratic senator-elect calls Trump 'unserious fool' while defending combative political style",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnZtVjlQbVE4dDREV1VxLWNta2I0NUE0QkdFQnRkb25aVlN3elM0SjNFT0VRY1dHSzVwV09ZUU5YMVR0TEd1WEx1N2hNelNhWXNGOU5fX1oycFMyZGhzLW1ueFZQaUFZSTExSEtQZUNGMjVtOG1KU0ZVV09YWjlwd3ZGNkc0Sk9RSUFVNkxpbkF1N1NGQUxEa09LcXNtRVRLQ1ltTDF5eTJfczFFSlA5b1BLRUZFT05jb2xLX9IBwgFBVV95cUxOMjhyaFM0TnpzM0FpcUo4NzRQajczZTV2WmlGQzVfbjEzWFcyMkZhbjkzeWMyS2pOM3luRGRWSTgwZkdWMmxGOWlLa3c4OWotNUlZQlpodGVxdUN5VzI2WU94a1pBVzV1TGVRc045S3ZwYlRxMnI1UUhEZ1BzT1Y0MDlPcUxYVnRnbDYwcmVSUmVvd0trOEhnQlFqdGw0U2QyYkxjbHh1Zl81Z3o4ZllHbjlWRk1tN2hTQTNJc1FWeXpsQQ?oc=5",
-        "pub": "2026-11-07T12:00:11+00:00",
+        "title": "Liberal podcasters apologize after laughing at joke about digging up Charlie Kirk's body",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQW9KeVZaMUYzeXViZEZkbkNCcU9YbXZNWF9KZ1poZXc4QW9TcXNRckJtYXpZR09GYnAwVGl4WjRLRnJaNndoNDhQenlYV1F1bzI1ak5zZDI5b19sdVZUXzd4WTUtNzd4MnNqSWZLT0RTSEk5RWtmUUk2REtzLXVhSTVKWE1rQTZ4X2JWNGF3aTlpdXhrNVVTUTVyWE5LN0lZT2NxTFpvbUx3eU1WLU1OdmhOdVY?oc=5",
+        "pub": "2026-11-07T21:28:35+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "OutKick Shows",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zZUFuY04zRmlhS01MZE0zR2hUMDdhTFdBVGJabWRWMnBGeHo4ZjVZcXQ5cmlCZUt4WUllWVNha0VNek9HX0E?oc=5",
+        "pub": "2026-11-08T10:31:43+00:00",
         "outlet": "Fox News"
        }
       ],
