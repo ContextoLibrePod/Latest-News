@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:38:14.996032+00:00",
+ "updated": "2026-11-08T10:23:40.671510+00:00",
  "categories": [
   {
    "id": "top",
@@ -117,15 +117,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Noticias fin de semana 11/07",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd3JEOEd4a2RhU3plNWRkYmFyOVFnZHpBc2pZOGhPSmpTXzB2OVNFdmJDQUdxX1lsYXloUWp6RFZzMlBnbkQwaTFQc25vRUgtUjdhRWVTY2ZTV3gzZTIxSWhIVmVPZFQyYURqMW4wVENFQVVWQ1p5c3dEbGFhVnAzQm5Db1ZtOXg2MDhTaUhzd1N4SjNXSmJiOEVMcTNWSlFGTnRaMXp6UEpqOVBONjN3VTFGM0J5Y0xybk5KRkFVbjFEcDFlRldJTkFnZ2RkUW8?oc=5",
-        "pub": "2026-11-07T22:12:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Noticias Telemundo en la Noche 11/07",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcFlaYlpxLXBfQmdjVGVDUEh4eVVybmpzV096S1FWQmFLTmFBd2FuN0dFNDB2azlYS2VxRHRJYkpKcGt0OENWc0w3NEJOb1hRSXZ2aWNlZ1Vndy1hTG1YcERSVjdHZjVOWGFucHNERVVLbHZ2TjZ2OXNmdHUxUV9McWVzdm9xc3lmMXVCdXpxaVdVSVFTS2ZHSllFQkU0ZWxfV2FhdGRPQWNxVXhLUmN0YmdieTlIUThuLXNYb0FfR1lHaVJPdkdQODFEd1padUttWmVjQVU4TE1saEthQU1HQg?oc=5",
         "pub": "2026-11-08T08:50:01+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Noticias fin de semana 11/07",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd3JEOEd4a2RhU3plNWRkYmFyOVFnZHpBc2pZOGhPSmpTXzB2OVNFdmJDQUdxX1lsYXloUWp6RFZzMlBnbkQwaTFQc25vRUgtUjdhRWVTY2ZTV3gzZTIxSWhIVmVPZFQyYURqMW4wVENFQVVWQ1p5c3dEbGFhVnAzQm5Db1ZtOXg2MDhTaUhzd1N4SjNXSmJiOEVMcTNWSlFGTnRaMXp6UEpqOVBONjN3VTFGM0J5Y0xybk5KRkFVbjFEcDFlRldJTkFnZ2RkUW8?oc=5",
+        "pub": "2026-11-07T22:12:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -155,6 +155,12 @@
         "outlet": "El País"
        },
        {
+        "title": "Alineaciones Chivas vs Necaxa | Liga MX Apertura 2026",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXJMQk9NSHhCMG9jMmNCakc5SWZMeHNnZ1hIa3JEUEFiNVQyUEhnNFZUQ3R6bjM0ck1GUFFuRV94Nk1HQlZFeGFSV2FaTUpTbWRCa1R1Y1psamJoeGpHMUVaUUFTbkE4d2RpbGlsTmRVUjhEc0NWMTR4M3JrRGtsTUltZkFzcmQ1a0JmaGxjYUc0aWFTVE5xVkxDQ0lZM0VOTVlUZnhNbjJ6eDAzN1BWRHJiZzlIRkQ1?oc=5",
+        "pub": "2026-11-07T15:45:27+00:00",
+        "outlet": "El País"
+       },
+       {
         "title": "Resultados deportivos del 14 de noviembre de 2026",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KZGdzVUFYWUNJTlRVNndLTDVNbEgxQUUxM2NsdjgtUlZjX0U0LWVXaVZtQXk3UGI5R3BCQlA2NGhmZ2ZvSXhxc0dxeGVlS3RrSVhSanE4R0xQa0ZBUTJPVmZLYmVEdw?oc=5",
         "pub": "2026-11-07T23:48:51+00:00",
@@ -164,12 +170,6 @@
         "title": "Norris emerge en el aguacero del GP de Brasil",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmNWUVVIdkR1d2tTZEdETk1zamZPNHNEemV5MzFOMHFZR2dqUzJQOTVSdnBrWlFDSG52M3lXYWtVeExKeFByTVVKQ21aZ3p3dk52MmVZNDNmcEZTd0k1ODF4eGp0YTZrVU01WkI4ckFKeUZfbHg5cC0xdzU0SU52SElJNlBac3QtNjEwRXVQWVZWYjJGWENuZ1dOeXpkYktZVUVLTmZNYkpZc0RJOEpxNDhjOULSAbQBQVVfeXFMTTJjVlFVSHZEdXdrU2RHRE5Nc2pmTzRzRHpleTMxTjBxWUdnalMyUDk1UnZwa1pRQ0hudjN5V2FrVXhMSnhQck1VSkNtWmd6d3ZOdjJlWTQzZnBGU3dJNTgxeHhqdGE2a1VNNVpCOHJBSnlGX2x4OXAtMXc1NElOdkhJSTZQWnN0LTYxMEV1UFlWVmIyRlhDbmdXTnl6ZGJLWVVFS05mTWJKWXNESThKcTQ4YzlC?oc=5",
         "pub": "2026-11-07T21:17:26+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Alineaciones Saburtalo vs Mjällby | Conference League 2026/2027",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTl0OFlMVW5ReWlHSDM3UTlCSklzemtfWlE5Ym05c0U0dzlTUjVFLWtiTmNadFUxZk4tMjk4bDJ2dmNWa2stcEJRV0dpMkQ3em5rZXNEeWFQeXhqVHluMmU1bGkydEk3STNLRVh4a3lzdDF5RDE4Q3J5d3JCZmhqR3JaUklVbXVkUWNOVzFSeWdZeHF5NVE5ZGZ2Ri1DajVsMXZ5QzRJQTQybjlDeEF4M2xQWWp1WFI2TW16STFzWEU?oc=5",
-        "pub": "2026-11-07T19:38:12+00:00",
         "outlet": "El País"
        }
       ],
@@ -191,12 +191,6 @@
         "outlet": "Univision"
        },
        {
-        "title": "Nodal agradece a Pepe Aguilar por enseñarle el valor de la familia y él reacciona",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0RHSzhPd0JLa1lzSWpGUkFBLW5ya2xYd1JMUVgzZ3ppZzIwZUg1VGozcWR6UUY4STVjUm96d1RNemxDdHZRQnA1LWpVLUM5WGVhdlRXRmRLdTJHel80NHVEc3dMQnBZUHYwU2pyTDdxSzlRZDBYOWZMNzViWGt2YWRNRWYwNjZ6b2dKQlh2aVpPWTdXc1o1YXllRjQySksxVU5j?oc=5",
-        "pub": "2026-11-07T18:09:27+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Hijo de Biby Gaytán y Eduardo Capetillo demuestra su talento montando a caballo",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRzFWZDl3czZ1VF9USTg2Sjlha2Z2eTI2NTBYcXk3RmRicHBGaU5qZkdaUVhxMkV0RnJoT24tRWw4QXBSR1ZNd3paa3doOHRGWVpYZm02NkczODRHSWtvTlBPUXFVbExKRkM0aWd4MUkzbEVwcGYzRm1SQ1VLaE9CbmVVdUZFT1NoTk1YSUVSX20xSkpfeHF5ZDJPQ01sV05RaDBTekQyNUtFTjVjUEJ4R0EyOFFyMkVENUtUOTZXNVlTT29Fa2pr?oc=5",
         "pub": "2026-11-07T21:52:00+00:00",
@@ -206,6 +200,12 @@
         "title": "José Ron reacciona a críticas a su faceta como cantante",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3p3cnJoQzlUTjdVWVJCbmREX1FVQjNEUExBTDhLZ09CaWZ4bmxBTWdaX2dtNGdNNlQxTFhERk1XR1I4WUVzMGphYk50UDVEV1pkc3pTYmZUNkZVNUJiandLenZQNUZWblNQdXlFdDJhdEk2VHUwSDFETXpSTFd4ZnFEUmhLUVFkU0JRejU5NTN2UzY2VWp0XzlxSThqVGJ2aEpIb0FINA?oc=5",
         "pub": "2026-11-07T21:55:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Virgo, horóscopo del domingo 8 de noviembre de 2026: transforma retos en oportunidades hoy",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRnA3ajdITnVnb3dINnRUMVZZekY0VGF2dWVnWk9PTVoyTHowOWQteHI5a1VUeGFFSWp1bnhGYVRCa1huMHNXTDJXZHRkbmlBQ0hXY242LW1MUk9BWjZIcHNmMG5aQmVwY3FnNnlxSnR5bWpHeUdRUlgyQTlkUkdHYkp1M0wtSzlSdGFGX2ExdEU?oc=5",
+        "pub": "2026-11-08T04:14:07+00:00",
         "outlet": "Univision"
        }
       ],
@@ -295,15 +295,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Nodal agradece a Pepe Aguilar por enseñarle el valor de la familia y él reacciona",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0RHSzhPd0JLa1lzSWpGUkFBLW5ya2xYd1JMUVgzZ3ppZzIwZUg1VGozcWR6UUY4STVjUm96d1RNemxDdHZRQnA1LWpVLUM5WGVhdlRXRmRLdTJHel80NHVEc3dMQnBZUHYwU2pyTDdxSzlRZDBYOWZMNzViWGt2YWRNRWYwNjZ6b2dKQlh2aVpPWTdXc1o1YXllRjQySksxVU5j?oc=5",
-        "pub": "2026-11-07T18:09:27+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Migrar no significa necesariamente encontrar la vida que se imaginaba; la aventura literaria de 'Ceniza en la boca' en el cine",
         "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUGRaYWJRdWtSTWdkLU5GaDR5NjExTFhwWjJvNTFEcVMtSzVHaW1Md3o5NGxMRlNxdnc1d0p6LTJvNnNZT2h5aUZDRDhMS2JyQldLeDZGQWlIYndudW1ZbjNuTzk2Qm9VQTdhZG81M3hrVjRMNFB6cG5tV3piSGV2WXlESlQzNUtyY0FOdC13Q25IMDJUUTdwS1lsU2hWTVJtVnRIcVVJVEVXbWtkY01aTFluZTczb3F3YklfZENPaEZLcWhFTnVyT1R0QlFpa1c2S0FWM3dORUZuUnpVSG5BTGxWSE5PbVV3VnVrWHVBZWJCT19VS1RMZTBBYmdWY2M?oc=5",
         "pub": "2026-11-07T04:39:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Nodal agradece a Pepe Aguilar por enseñarle el valor de la familia y él reacciona",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0RHSzhPd0JLa1lzSWpGUkFBLW5ya2xYd1JMUVgzZ3ppZzIwZUg1VGozcWR6UUY4STVjUm96d1RNemxDdHZRQnA1LWpVLUM5WGVhdlRXRmRLdTJHel80NHVEc3dMQnBZUHYwU2pyTDdxSzlRZDBYOWZMNzViWGt2YWRNRWYwNjZ6b2dKQlh2aVpPWTdXc1o1YXllRjQySksxVU5j?oc=5",
+        "pub": "2026-11-07T18:09:27+00:00",
         "outlet": "Univision"
        },
        {
@@ -337,12 +337,6 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "¿Tu ex quiere volver? Ana Laura Místic revela qué hacer durante Mercurio retrógrado",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG5zU3RoWGxWOVdjLUE3VDY2Q3pXMXRjZ0gta1BPMjcyWVZaX1M1ME92b0NfQ2lYSW12NG5CZ2U5ci0xams3dzFjbDZNT3ZLZXk3b1pPRERuUDl5M2JTR1RsTG81bkFxZC0tZWxKZzRxRmJ2dEJmT3c4ekx5SnFUVWEyNzZtcEJVZGZqUTFEZ2NPeUVpU1lqTEc5Rk9rendsUk1RV09RQWNKcWItMVNESXpHNE9FTFdpNElFNlRTV3VsYnYxTlpjaE9tNVZtd0twZkQ5NDNzMVFZRDRyRzdwWjItTQ?oc=5",
-        "pub": "2026-11-06T09:57:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Jacky Bracamontes y Carlos Adyan conducirán Miss Universe 2026",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVmpObGlKUWFJV19nUFFXV29RSkRXcUN4MHRmUHZhemFWQTY1WGZyTU5KVUxkZTduT3hPY01qZ2tDOEllWW0wTFlZLVNFWkM4cnNwTkY4czFQb0MzM050Nm91aE9qZGJ5ODRIbjdjN2RnRUg5dEQwS1FpeHlVUWU5VGRXRXR3WkIyMFpPdGhwbEFUNktnU21xNC12TjJfR19lRVZtNXh1THBfRjRNU2Vjb0FKcUZma0phcXNr?oc=5",
         "pub": "2026-11-06T15:59:45+00:00",
@@ -352,6 +346,12 @@
         "title": "Hoy Día 11/06",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaTRTVW1ia0xFMTNLYzlHa2RqWFpfWG53eWZxcWJ4eko4WS0yeF9NNk1hVHNDUWNDei1fRmdHamYwbDZGcFg2Ykt4VGVDa21hNkk1QmFDOEhjb21ZU3VhMXJ0WDlSWkQ4dWh6dXU1b0JUcFFfS0ZBYThPN2h5V01jbkdFY0FmVmE3NXpHS1gxYm11WEl0Uld5aXpXYmp3Y0k?oc=5",
         "pub": "2026-11-06T23:29:54+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Jair Cunha recuperó en tres cuartos y definió con zurdazo para sorpender al City",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY1I2R0JvamxacDB4WlI1a1ZQQnBzcUtnQzBBQ2hfUTRNaFJaWGpFRWxBcS1BcjliVzVxMEZVRzhBQ1dicHlCZEZTWnJya3lWUWhGSldwc3FxMEEzU1Q5OHlMeTVWRjhiVjFNQ0lpd2RUb1hDZFByUEZ5a3dtVnItSHp5cnd4SkhydjRBRnN5ano1anYyWW51cnRKMGxxQUt3dGcyX0poNkxmclZrQ3VGcW0xNWJvYW9DTmFsdUlKaWhoNXB4WGFDa3lmd2QxdkhFdm5kYzdLdTMyQl9PcXM0RmJpYw?oc=5",
+        "pub": "2026-11-07T07:27:00+00:00",
         "outlet": "Telemundo"
        }
       ],
