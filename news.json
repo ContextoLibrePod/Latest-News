@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:16:40.227977+00:00",
+ "updated": "2026-11-08T14:56:51.891833+00:00",
  "categories": [
   {
    "id": "top",
@@ -37,7 +37,7 @@
        {
         "title": "Última hora de la actualidad política, en directo | Sánchez se compromete a blindar la revalorización de las pensiones conforme al IPC en la Constitución",
         "link": "https://elpais.com/espana/2026-11-08/ultima-hora-de-la-actualidad-politica-en-directo.html",
-        "pub": "2026-11-08T13:47:25+00:00",
+        "pub": "2026-11-08T14:41:18+00:00",
         "desc": "“Se lo vamos a exigir a todos los grupos parlamentarios”, ha dicho el presidente del Gobierno y candidato socialista a la reelección en un mitin en Bilbao | Feijóo: “Menos mirar a Trump y más mirar lo",
         "outlet": "El País"
        },
@@ -105,15 +105,15 @@
       "name": "Telemundo",
       "items": [
        {
-        "title": "Resultados del Senado 2026",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1BFWVNZZHp1Rm9zWG4tYTRGYmJ0c05ENEc0bGZNOFFqUWtBVldmLWN5amYzR2RPUHlYbDlidzZkUVQyRkx3aVNKYWlNdTltNU1nRGN5Rlc0NGpqZm5IR29SMlVxZjFaRnFyT3oyQktsMGt2eFpiWHp1eVVNNTE2bnBWMG44bDNxVDlaUnFaX3NJUG5oaG5sNVhwaVdfcXFaYWJ5NA?oc=5",
-        "pub": "2026-11-08T08:16:38+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Resultados de la Cámara de Representantes 2026",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYy02VURGV01oYTJPZWJ4RDlKSVlOUndOSFhZQi11b01mM0hRakxxTUpsWE9wMktfZnJyNXNVSGhkM3pjRkl6dnk4MDBiOEs4MllFNHVzMUpmQmUwZVAwQU5JdUdvd3dGUGNIY2xkb0VlZTBiZ0ZmQU9lVjdOeTlhTW9QdlREb0JxTlZOdGpkd0pQUnVGRFpCSXJGaXVHNU5IQ0xQOXR3VWowNXUxZWQwWFhYeWp3UFZsd1M4RQ?oc=5",
         "pub": "2026-11-08T08:16:39+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Resultados del Senado 2026",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1BFWVNZZHp1Rm9zWG4tYTRGYmJ0c05ENEc0bGZNOFFqUWtBVldmLWN5amYzR2RPUHlYbDlidzZkUVQyRkx3aVNKYWlNdTltNU1nRGN5Rlc0NGpqZm5IR29SMlVxZjFaRnFyT3oyQktsMGt2eFpiWHp1eVVNNTE2bnBWMG44bDNxVDlaUnFaX3NJUG5oaG5sNVhwaVdfcXFaYWJ5NA?oc=5",
+        "pub": "2026-11-08T14:06:43+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -149,9 +149,9 @@
         "outlet": "El País"
        },
        {
-        "title": "Alineaciones Tigres vs Cruz Azul | Liga MX Apertura 2026",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbjE4ek9JaS1ZLXhyeGQzeDF1YnBTNDY1YWgzbjRFci1EYjFranJwdS1KbVZvOUw5ek1FS1VqOXpXYUhIT1QwaHdnbVNudmh6UnVhajZ5aTVsM1ltQnVQcWduQ0c1cTRReXJHRy1CUHYweThTNEp3UTJTRkJsTl9kZXRiZTNONG5rMUc1cEJMZmtzaml1M0ZEU25fSlBxY2J3REQ2OGhwVWNmQ0ZiaHdNSzNLWVJHWXZN?oc=5",
-        "pub": "2026-11-07T22:40:49+00:00",
+        "title": "GP de Catar en directo - MotoGP 2026",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0VZV1B0VURMcU9tbnpNTks2eVQwTEdiN282UV9lWXdibmEwNUpJU2NYa1VZaDhaaWlVTDFNTUVMYnUwRTJhNlM0Sk40MGVLbUY0alZUMk9QTEJaZ0VrT0VqaU9qMkczdGVoY2F4Y0ZJZnM1V3Rocm1uUUI2RnNQUHo3LUVOd0ZvZGJTbHNIZnJrdUhwSHA0?oc=5",
+        "pub": "2026-11-08T13:13:14+00:00",
         "outlet": "El País"
        },
        {
@@ -179,6 +179,12 @@
       "name": "Univision",
       "items": [
        {
+        "title": "TUDN Radio",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EWVk4bjlFemZMZld3UFFBRnA3ZTRPSERWT2R0dUNqY0lpWmtLOFcxN0duNzVBMXEtZXRUYXp5d0xxNFhRTHF6ZjRxYjA4X01VeVItUW5n?oc=5",
+        "pub": "2018-03-21T15:06:16+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Gemelos con becas deportivas enfrentan detención migratoria: llevan 4 traslados en 48 horas",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNTNKUmh2LUZXaWpsc042aG1PbmZxZ2pGXy15UFVrNHR4LUNDWklobFZ3RlNaekJYb29IeV9qcTV1SW5oVHZuMW1hZ1lURjU4RllsMFYxcUlXZ2xyaDhQVmNwV1Q3aUF3ZXNCcy16Vm9Ka3BzNE1td19OajZSWElZVW5IZTV4WWRpcGo0bTBxSW52Slozb2dnakd3c0t5SjhvUkhidmhCUjBSWnpxSlVuYXM5blZXTEZrbk1mVWJ3WjJ0Z05fa3gxa1pRS2k5a3hFNlpGelN2c1I?oc=5",
         "pub": "2026-11-06T23:26:00+00:00",
@@ -188,12 +194,6 @@
         "title": "Migbelis Castellanos pide rezar por su esposo… ¡para no dejarlo traumado!",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcE9IOTRYYkhTN3lPYjVnUXp0OXJxOUVJbDZUTDVPdXJ3SjV4eDBEdTZpN0czeUl2bk51X01aQ3NORFdsbnZqUTZnMGVjd1hTc3RNSE5GOWp3X1pCN0NrVlUzZV9sSEU4NGxxMXlzUGJVVEo0VHdhZ3F0UEFYRFkxbUtXby0wcVJGbDMtV05yTi0zUzlIUy1KUThDN0libmI3YVV2MTRpdEtoczNxUGhnMDBLWER5R25pZVVj?oc=5",
         "pub": "2026-11-07T21:58:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "¿Anuel será papá por quinta ocasión? Foto levanta sospechas y su ex Yailin reacciona",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjRRX2kyMEZMREw0c2pHTkhwZ1R2dXVzMzNIb2ZJblhpY1F4RE1kYldWZWxVVW52SU5WQ0c0eHFRaWdQSzFMNUdCbmRNRnpxaUZia1VyU09VVXFLbVVNUi1KWXIwdTJHVUhpdGFRZ3FlNTR2SkxmeldJLVBuY3JrS0xsT2k4TWF6THA2U0Jn?oc=5",
-        "pub": "2026-11-08T12:44:25+00:00",
         "outlet": "Univision"
        },
        {
@@ -479,9 +479,9 @@
       "name": "Fox News",
       "items": [
        {
-        "title": "Killer’s chewing gum blows open 40-year-old murders, detective warns there may be more victims",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2tSUS1kT0c1cXpwbldCaWdZZnZ4Q1FjS2lSYXdGUHN0MEh5MEVlWXBVN0EtTTAxTzB4UHZFYUcwTU9rWkRQME9IbnRuS2ZkYVJtU182eTFhbERtVzJNeDRfaFhkalFEOWJMSzI4cUdaRzM4ZHZLM2NCSW9VSmlvYXF3Nmw1VjN6emFHSk40SkJROUNwdjVzQ1g2RW0xNmJkS2g4X1ByUlA4blgxMy0yWm9GQWJqQTlaQzdn0gHAAUFVX3lxTE9kSFEtRjJtRmVEVUZseTBaVWFTR3g1X2Z5RUJXdVBDSDduWWhWNVZLMmNOWmpXWkMyeU5NeThTNWVHYUlST0VGbG5aUHNsblRPYWpOMkJPTHAyZUhyRXZyXzZjUzJzXzh5YXg4ejg2OHhYbzBXNDBmQVVLdktFcXlOOF9YcVdKbHNsYzg2ckx4ak1INEFoaHJjbExmOHZTS21HWEJ2Y1A0ejhIWGM1NkgxbG1hOGQ2OGtIOVVaZnFtcQ?oc=5",
-        "pub": "2026-11-08T12:00:48+00:00",
+        "title": "Liberal podcasters apologize after laughing at joke about digging up Charlie Kirk's body",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQW9KeVZaMUYzeXViZEZkbkNCcU9YbXZNWF9KZ1poZXc4QW9TcXNRckJtYXpZR09GYnAwVGl4WjRLRnJaNndoNDhQenlYV1F1bzI1ak5zZDI5b19sdVZUXzd4WTUtNzd4MnNqSWZLT0RTSEk5RWtmUUk2REtzLXVhSTVKWE1rQTZ4X2JWNGF3aTlpdXhrNVVTUTVyWE5LN0lZT2NxTFpvbUx3eU1WLU1OdmhOdVY?oc=5",
+        "pub": "2026-11-07T21:28:35+00:00",
         "outlet": "Fox News"
        },
        {
@@ -497,15 +497,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Liberal podcasters apologize after laughing at joke about digging up Charlie Kirk's body",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQW9KeVZaMUYzeXViZEZkbkNCcU9YbXZNWF9KZ1poZXc4QW9TcXNRckJtYXpZR09GYnAwVGl4WjRLRnJaNndoNDhQenlYV1F1bzI1ak5zZDI5b19sdVZUXzd4WTUtNzd4MnNqSWZLT0RTSEk5RWtmUUk2REtzLXVhSTVKWE1rQTZ4X2JWNGF3aTlpdXhrNVVTUTVyWE5LN0lZT2NxTFpvbUx3eU1WLU1OdmhOdVY?oc=5",
-        "pub": "2026-11-07T21:28:35+00:00",
+        "title": "Killer’s chewing gum blows open 40-year-old murders, detective warns there may be more victims",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2tSUS1kT0c1cXpwbldCaWdZZnZ4Q1FjS2lSYXdGUHN0MEh5MEVlWXBVN0EtTTAxTzB4UHZFYUcwTU9rWkRQME9IbnRuS2ZkYVJtU182eTFhbERtVzJNeDRfaFhkalFEOWJMSzI4cUdaRzM4ZHZLM2NCSW9VSmlvYXF3Nmw1VjN6emFHSk40SkJROUNwdjVzQ1g2RW0xNmJkS2g4X1ByUlA4blgxMy0yWm9GQWJqQTlaQzdn0gHAAUFVX3lxTE9kSFEtRjJtRmVEVUZseTBaVWFTR3g1X2Z5RUJXdVBDSDduWWhWNVZLMmNOWmpXWkMyeU5NeThTNWVHYUlST0VGbG5aUHNsblRPYWpOMkJPTHAyZUhyRXZyXzZjUzJzXzh5YXg4ejg2OHhYbzBXNDBmQVVLdktFcXlOOF9YcVdKbHNsYzg2ckx4ak1INEFoaHJjbExmOHZTS21HWEJ2Y1A0ejhIWGM1NkgxbG1hOGQ2OGtIOVVaZnFtcQ?oc=5",
+        "pub": "2026-11-08T12:00:48+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "MAGA voters reveal who they want to see lead GOP in 2028",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORnM0U0FkenNnQzJ4d05Hdk1lZ2tkbnVrN2drYy01WWFpTG95eUhicFVJbFNROG5uWnR4NE5PWktKUTBMWjZ0UndhU0pwUnZXVGdKc28tekpEVU84d0VqU0FMYzluMF9YRWhjVEtUVWFGS0JhTlJobU9fYnRwUFduVkxnOUM2QVF1c25r0gGQAUFVX3lxTFAxRjQyTnlnUUhscW1ncWhFMmp1YU1IUi1KWlRNSVdYZjBzZnM1ejZwOUR1d1pyWGdhMldOM2ZYU1FKaWhmeXlrVUFVMVJ4N2RwZkljbnNfRnhRVDZDMm4xZkxDRks0RFI5aUY2anhiNDI0V2JYOVp5U1lIRFhNUnFxSzlKd3dCdTQ4ZDRrel9TRA?oc=5",
-        "pub": "2026-11-08T12:00:35+00:00",
+        "title": "Israeli president taps Netanyahu rival to form government as coalition battle looms",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVZaUjNMMFh5OGxXc2NCU0NJcFU3UWpIVml5RjNvRTQycHM2WmFjYkJhZm5BczRBMTJfd0w1UXRPTVd2em92N0x2dWZNa2RDV2hQOTh0OGw2TV93MHRLS1lfM2xhRE1HVHBkcUVaWHlobzV0Q1l2WkJwLXJpYkxva3JYY0Ixajg0ZGhyN1E2OFB3SFc0SDNEYVpOX0lQR05YbGpqb01USkxDcE9w0gGyAUFVX3lxTE5HMUpTUzdQM1dCVGlYbG5ibGpHNXBRdklRdXJMYktEbE1ma1pWRzBfU29paFd2YnRqV1dGTHB4aXdBcGtGenBpTEhTY0xmT1Q4cnZUWjVSQUFkZTEwQkxqMWJBSy1PU3NRVmxIUkJrckNLbE9TazNlMURSQkVFYjZjeHdlNm9yajZiSFFfSUpGeTBuR3ZOc3FZWTBjVXV5QmotbUxwOC1zQnpDeGJZLV82NVE?oc=5",
+        "pub": "2026-11-07T22:17:37+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -529,21 +529,21 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Craig Carton rips Chiefs teammates for not helping embattled Rashee Rice avoid bankruptcy",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXFSQndMd2FFa1d1clNSbzFRdmlxdWNRMzVOVGtWQVZqY1ZVdVJTNm9jU2VLX21uUl9jMWJXLV90eXlBcjIybGx1NEdxS2Q2cmZmTnhxc2VaQWprYmVtbU5GRlAwVVNKSWx4anlaWGdwQTJDRG1vWUVnNEJZdlNvd04wMGhMd0pOclQ1ZWQzeUd3WmlqNUVjQmJNUDhfNFdwbm5HRFdUMDRIaS1Jckx0YmN0TlBkZ2xCOFNLcnV1MkVldw?oc=5",
-        "pub": "2026-11-06T22:27:15+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "JACKSON THOMPSON: Washington State Democratic Party calls girls' sports initiative unconstitutional",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT1I5WlJ3MmRDb2RYdjBOOTNpUE1SVGowVWFucm91cVluY0VTbVJzeGFlbktKcmFsXzFXWlNHSjZ0cGhHd1Fnd18tU195TnZNY3ljZ2xIQW85SG5td3pzQXNCNVhNRVZnQVMzWHg4ODlxaElGc3FmUlFnQVNhNWg2cUNwNDdHRGRCLWZTdTJvei14YVczejlWX0FqSHI0cDc1NEdoSUlSTENxVWVWaktxZVhuWVh2WHUxUURYa2Iya3JVcWQ3TkxWX0FINHdYNjNxT3c?oc=5",
         "pub": "2026-11-06T18:54:10+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Alabama finally puts it all together, dominates LSU and leaves Lane Kiffin staring at $40 million CFP disaster",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNms3LWh0eDhaNUJNZEhlZmVRUDYwa0wtMHNNWmFja29jaUhmMHhUSjBlZ29TUHdTbkFkYTJJTjBSZkQxLTNBbzVpSXk3OVNmYnhGRC1iY0liUFpnSmM0MFZvaFA0YzhMd0tQaF9oRjE5QjVncVQzanl2WFFySURkQTh6VkpNQ184QWV0WUh6MzV4Nk1kUGVVVzRabEFEYWkzNVR2bzRXMXp3dXRBRllDdUxTYmFoTUhYNWFnNG00cnQ5Nkk?oc=5",
-        "pub": "2026-11-08T01:06:09+00:00",
+        "title": "High school football game ends with three laterals, a fooled defense & the highest IQ play you'll ever see | OutKick",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQUdKekgwa3dtV04yS2hyRHZDSDd0UU9kcTF5WDFYTTlaV2dPZGRZUWhTdjFwUVNyQVpzZGZaV0hIYkhBQ1M4SU12QVZxcjZwbjVLclNwUmltT01OYUhrNEdWTzMxcEtjWUV1OWJja0hZNUp6R0djQWhFRTBaYkZiVXZfSEZXdlZmMWhoRjJEeVhZNFJMSVAzY0ZtcU9QYko4aDFmbm9LOG5pYzloYmplRU5YM3d6eVhzU2JILVQzc0lJNjdPM3YyQV93?oc=5",
+        "pub": "2026-11-07T13:52:04+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Craig Carton rips Chiefs teammates for not helping embattled Rashee Rice avoid bankruptcy",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXFSQndMd2FFa1d1clNSbzFRdmlxdWNRMzVOVGtWQVZqY1ZVdVJTNm9jU2VLX21uUl9jMWJXLV90eXlBcjIybGx1NEdxS2Q2cmZmTnhxc2VaQWprYmVtbU5GRlAwVVNKSWx4anlaWGdwQTJDRG1vWUVnNEJZdlNvd04wMGhMd0pOclQ1ZWQzeUd3WmlqNUVjQmJNUDhfNFdwbm5HRFdUMDRIaS1Jckx0YmN0TlBkZ2xCOFNLcnV1MkVldw?oc=5",
+        "pub": "2026-11-06T22:27:15+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -593,15 +593,15 @@
       "name": "Fox News",
       "items": [
        {
-        "title": "NASA unveils $10B Moon base contract as SpaceX, Blue Origin join lunar gold rush",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanpSbHlYTHFlRTZiRFBUMTNTZkl0aVNPOXdrZi10Z1VveWo1dnRvQ1owZWstbEhTczVMZTVtbXpibGE4NXNmVWhmZU9OYVpOOEgtTHJTR1FTbHJNTnB4bVJkUWVRaDNOVUhsazZKdmN2LW5ZYWdLbUJkTURfdzJaMXZ1LThCVFZVSldRcnJvZmJlbHR1ZHNQcnVFSHViTmk1TVpvR1NGYXV6LUUxbEhIOEhNT0ROeThhVXVFNVlvUdIBxAFBVV95cUxNM3VTaDlyV1dzbF9yQ0c2Y2VQVklzQjFOdzUtYXRKaHRqZzY2VktJUld3Nk5mejd6VHpsamJSWEM0NFFBQUZhcGZ2RVUtQlZSejRNNGVWVjNLLUVKaTJTNWx4dHRhRnFyb2owWnlUN0JjMy1vUWRvNGJmQ2RzdEFZNlJ0ZmNTanBybDQxQTlhNEo3VUFpeGxmb3ZNWW9Vc1Z2SnQ1NGRVeTF3b0Zjbkt1b3p0b0xyaVE3LXFDdnk3c0o1VFhP?oc=5",
-        "pub": "2026-11-08T03:09:00+00:00",
+        "title": "Binance names new CFO days after $6.3 billion cryptocurrency hack",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQlhVMklhbzMtMjg0SnRkR0J6Wm0xSEstaE80bkFJUENCeTYya05SUERKTkhPV1dpSF9oZTRoaFN5WExhcUdfeWs1WHQ3amlTcnQ3Y09Ea2dJdGJvSk9ack8xR2hKa0JUT0w0QVgxejVyWlpSRkdyZ0F3ZUZnTkdxd2Q1TzVtMmJybVRlbkRTODgzd9IBlwFBVV95cUxQNmVPZS1PeUhwQUJqNjJ3U1BaY2JNU255VUpVNWJjRTVhcjEybVF0ams3X2RNSXdBQURxaHlmSG1BYVRUZHd0Y1dKVDVYRTRqR2k0Mks5Vk55WjU5MEZtdXRTOThuaEJlQTc5Sm1yWWMwN09nazZ1Um02T2gtdUwyN0dDY2hTUjc4UnB0cnUzdWtudnFMNlBV?oc=5",
+        "pub": "2026-11-08T13:42:00+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "IRS announces 2027 tax changes: What taxpayers need to know",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1dKSTFGMmhTOXp4WjhhYU1xTXFvSXhYY0poUHhscEk1dXhxRWhvX08wV09ZeERFRVJPRGdEcXVrWWZmbHJ5TEcyZU5KMkYzb2ZwU1pYUDNST0lXaWk2Y3ExblB4NlBxNU9fUmVrZDhLeVZEU3NQUXVLekRUUVJ3OXVWbkdxNmFKLTZoSFNRYllSSUIwVnfSAZsBQVVfeXFMT0FrQlFGVXlBdlBCbk95LVVJdTdZTzhMVFZXbElEeXZodWJqeU9VSjl4a2VreUpkS2F4QjJuYjFDWlctcVRyNlNWUlZScTE1NE9Nb2lSVWJMcXdWR1pGLVJtamNxY2luOGpUaUpicWhnMjc5SDFuU2lESnFobjFhX01wZ2dBN3RzdVhhT2tTNzZUMTd3TWZ3cW9wNnM?oc=5",
-        "pub": "2026-11-07T17:10:00+00:00",
+        "title": "NASA unveils $10B Moon base contract as SpaceX, Blue Origin join lunar gold rush",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanpSbHlYTHFlRTZiRFBUMTNTZkl0aVNPOXdrZi10Z1VveWo1dnRvQ1owZWstbEhTczVMZTVtbXpibGE4NXNmVWhmZU9OYVpOOEgtTHJTR1FTbHJNTnB4bVJkUWVRaDNOVUhsazZKdmN2LW5ZYWdLbUJkTURfdzJaMXZ1LThCVFZVSldRcnJvZmJlbHR1ZHNQcnVFSHViTmk1TVpvR1NGYXV6LUUxbEhIOEhNT0ROeThhVXVFNVlvUdIBxAFBVV95cUxNM3VTaDlyV1dzbF9yQ0c2Y2VQVklzQjFOdzUtYXRKaHRqZzY2VktJUld3Nk5mejd6VHpsamJSWEM0NFFBQUZhcGZ2RVUtQlZSejRNNGVWVjNLLUVKaTJTNWx4dHRhRnFyb2owWnlUN0JjMy1vUWRvNGJmQ2RzdEFZNlJ0ZmNTanBybDQxQTlhNEo3VUFpeGxmb3ZNWW9Vc1Z2SnQ1NGRVeTF3b0Zjbkt1b3p0b0xyaVE3LXFDdnk3c0o1VFhP?oc=5",
+        "pub": "2026-11-08T03:09:00+00:00",
         "outlet": "Fox News"
        },
        {
@@ -611,15 +611,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Companies urged to adapt as restaurant franchisee files for bankruptcy: 'Businesses want to make excuses'",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejZLZjRWU0NxWnVxNUJDS0hRRl9kakVsQUlYazNaelNRZlNWMzNhTHIxcU12a2VjMWtDTXFuNjVETUtXS1lJNUp1LTZkUXdVR1FzNnZYVmw0WDNlajlpaVhDd0ZRbnUxbkpnUWxlU0xjMGNYUFNmdFNYZ2RQazhMUUZxekxpM1VINjgzYmJnOVoxM2ZqdkY3OHF0Y0MyQzVRelRaTklvMWJsLTV4NkxMb0lzbEwwOTB3QzA3R2ZaN1FhRmvSAcgBQVVfeXFMTmFZbUlubVRSNXk4SVoxWGM4QnZVbm5LbGhvNHBXMThNRkxwVlQyTWRIczh5NTZWX3dUa2t3QUlndnFKLXkzQ0N0TWYyYW5zQnhMT0wxNDRHdlhIVGVvR3I2NmNxQ1RKal9yaDVxN0I1dGVXUF9YMzFDSFdPWGhiakJrU19HdjFWR0xHUnNZb2dVTnJkVWc4SmctQXdWczQ3Q05CYXpvc0dFTHBFcDFCMHlsVzV1NFBiTFpzYTloM25JNlZ4RFFuVVU?oc=5",
-        "pub": "2026-11-06T22:58:00+00:00",
+        "title": "IRS announces 2027 tax changes: What taxpayers need to know",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1dKSTFGMmhTOXp4WjhhYU1xTXFvSXhYY0poUHhscEk1dXhxRWhvX08wV09ZeERFRVJPRGdEcXVrWWZmbHJ5TEcyZU5KMkYzb2ZwU1pYUDNST0lXaWk2Y3ExblB4NlBxNU9fUmVrZDhLeVZEU3NQUXVLekRUUVJ3OXVWbkdxNmFKLTZoSFNRYllSSUIwVnfSAZsBQVVfeXFMT0FrQlFGVXlBdlBCbk95LVVJdTdZTzhMVFZXbElEeXZodWJqeU9VSjl4a2VreUpkS2F4QjJuYjFDWlctcVRyNlNWUlZScTE1NE9Nb2lSVWJMcXdWR1pGLVJtamNxY2luOGpUaUpicWhnMjc5SDFuU2lESnFobjFhX01wZ2dBN3RzdVhhT2tTNzZUMTd3TWZ3cW9wNnM?oc=5",
+        "pub": "2026-11-07T17:10:00+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Tesla to wind down Cybertruck production at Texas factory next year to make room for Cybercab",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3I2RHZ3c3ZoMmNway13ZGMxOVk1TFNKYlBld2phSm9fUkJsS3NmaU42dkJLMW1fc0FuYU1uaDlzcnBtckIxbXE1d0ZPR3lacWdHaU5pREhfSjYxZXZuMzJFdTVEX0c2Z3JnVlIyU3YtdnczWVlaNkQxMHlvaUc2THBLWkJBQ1AwVGJJNEJxbHVkemlKOGxhZG42eEU4eEkzRkdDc1Q4TmR0M0JxM3JTQ0VHNXZLeDjSAbwBQVVfeXFMTjJlU0VIYUh2Y0hLdWJnSzJyUjhLdTBZejY4QjBPRUNtRFZhc1doTTNWYTJ3R2p0SmxTZEZmdzFsaHpYMTJNSVgxUjZEZE5yLXEwOXg2azZ3RXZRMlJaY25Fby1MTXFDT2JQdF9nLW40by1MR3hnb1IxTnp2VW5WdHJLNHE4SER6SjZiUnNBalF4ejA1YlBDNVNJUDljNHpUTXpzMU83YTNnb0syM2JKZXRMVUVMbmVPV2hya0E?oc=5",
-        "pub": "2026-11-06T20:57:00+00:00",
+        "title": "Companies urged to adapt as restaurant franchisee files for bankruptcy: 'Businesses want to make excuses'",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejZLZjRWU0NxWnVxNUJDS0hRRl9kakVsQUlYazNaelNRZlNWMzNhTHIxcU12a2VjMWtDTXFuNjVETUtXS1lJNUp1LTZkUXdVR1FzNnZYVmw0WDNlajlpaVhDd0ZRbnUxbkpnUWxlU0xjMGNYUFNmdFNYZ2RQazhMUUZxekxpM1VINjgzYmJnOVoxM2ZqdkY3OHF0Y0MyQzVRelRaTklvMWJsLTV4NkxMb0lzbEwwOTB3QzA3R2ZaN1FhRmvSAcgBQVVfeXFMTmFZbUlubVRSNXk4SVoxWGM4QnZVbm5LbGhvNHBXMThNRkxwVlQyTWRIczh5NTZWX3dUa2t3QUlndnFKLXkzQ0N0TWYyYW5zQnhMT0wxNDRHdlhIVGVvR3I2NmNxQ1RKal9yaDVxN0I1dGVXUF9YMzFDSFdPWGhiakJrU19HdjFWR0xHUnNZb2dVTnJkVWc4SmctQXdWczQ3Q05CYXpvc0dFTHBFcDFCMHlsVzV1NFBiTFpzYTloM25JNlZ4RFFuVVU?oc=5",
+        "pub": "2026-11-06T22:58:00+00:00",
         "outlet": "Fox News"
        }
       ],
