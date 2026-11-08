@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T10:23:40.671510+00:00",
+ "updated": "2026-11-08T11:10:46.359503+00:00",
  "categories": [
   {
    "id": "top",
@@ -35,6 +35,13 @@
         "outlet": "El País"
        },
        {
+        "title": "Última hora de la actualidad política, en directo | Sánchez participa en un acto en Bilbao y Feijóo se desplaza a Málaga",
+        "link": "https://elpais.com/espana/2026-11-08/ultima-hora-de-la-actualidad-politica-en-directo.html",
+        "pub": "2026-11-08T11:09:07+00:00",
+        "desc": "La candidata del Frente Amplio, Ada Colau, viaja a Palma",
+        "outlet": "El País"
+       },
+       {
         "title": "Sánchez se sube a la ola de resistencia progresista americana",
         "link": "https://elpais.com/espana/2026-11-08/sanchez-se-sube-a-la-ola-de-resistencia-progresista-americana.html",
         "pub": "2026-11-08T04:30:01+00:00",
@@ -53,13 +60,6 @@
         "link": "https://elpais.com/espana/2026-11-08/nena-dime-algo-el-ultimo-mensaje-del-marido-de-una-victima-de-urda.html",
         "pub": "2026-11-08T04:30:01+00:00",
         "desc": "Javier Barrio relata en una carta la desesperación que vivió con sus hijos mientras esperaba noticias de su esposa",
-        "outlet": "El País"
-       },
-       {
-        "title": "Iñaki Barrón: “El ferrocarril tiene mucho que envidiar en seguridad al modo aéreo, sobre todo en entrenamiento”",
-        "link": "https://elpais.com/espana/2026-11-08/inaki-barron-el-ferrocarril-tiene-mucho-que-envidiar-en-seguridad-al-modo-aereo-sobre-todo-en-entrenamiento.html",
-        "pub": "2026-11-08T04:30:01+00:00",
-        "desc": "El expresidente de la autoridad de investigación ferroviaria CIAF y portavoz del Comité de Seguimiento del Accidente de Urda del Colegio de Ingenieros de Caminos, reclama más formación a los profesion",
         "outlet": "El País"
        }
       ],
@@ -155,12 +155,6 @@
         "outlet": "El País"
        },
        {
-        "title": "Alineaciones Chivas vs Necaxa | Liga MX Apertura 2026",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXJMQk9NSHhCMG9jMmNCakc5SWZMeHNnZ1hIa3JEUEFiNVQyUEhnNFZUQ3R6bjM0ck1GUFFuRV94Nk1HQlZFeGFSV2FaTUpTbWRCa1R1Y1psamJoeGpHMUVaUUFTbkE4d2RpbGlsTmRVUjhEc0NWMTR4M3JrRGtsTUltZkFzcmQ1a0JmaGxjYUc0aWFTVE5xVkxDQ0lZM0VOTVlUZnhNbjJ6eDAzN1BWRHJiZzlIRkQ1?oc=5",
-        "pub": "2026-11-07T15:45:27+00:00",
-        "outlet": "El País"
-       },
-       {
         "title": "Resultados deportivos del 14 de noviembre de 2026",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KZGdzVUFYWUNJTlRVNndLTDVNbEgxQUUxM2NsdjgtUlZjX0U0LWVXaVZtQXk3UGI5R3BCQlA2NGhmZ2ZvSXhxc0dxeGVlS3RrSVhSanE4R0xQa0ZBUTJPVmZLYmVEdw?oc=5",
         "pub": "2026-11-07T23:48:51+00:00",
@@ -170,6 +164,12 @@
         "title": "Norris emerge en el aguacero del GP de Brasil",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmNWUVVIdkR1d2tTZEdETk1zamZPNHNEemV5MzFOMHFZR2dqUzJQOTVSdnBrWlFDSG52M3lXYWtVeExKeFByTVVKQ21aZ3p3dk52MmVZNDNmcEZTd0k1ODF4eGp0YTZrVU01WkI4ckFKeUZfbHg5cC0xdzU0SU52SElJNlBac3QtNjEwRXVQWVZWYjJGWENuZ1dOeXpkYktZVUVLTmZNYkpZc0RJOEpxNDhjOULSAbQBQVVfeXFMTTJjVlFVSHZEdXdrU2RHRE5Nc2pmTzRzRHpleTMxTjBxWUdnalMyUDk1UnZwa1pRQ0hudjN5V2FrVXhMSnhQck1VSkNtWmd6d3ZOdjJlWTQzZnBGU3dJNTgxeHhqdGE2a1VNNVpCOHJBSnlGX2x4OXAtMXc1NElOdkhJSTZQWnN0LTYxMEV1UFlWVmIyRlhDbmdXTnl6ZGJLWVVFS05mTWJKWXNESThKcTQ4YzlC?oc=5",
         "pub": "2026-11-07T21:17:26+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "Alineaciones Saburtalo vs Mjällby | Conference League 2026/2027",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTl0OFlMVW5ReWlHSDM3UTlCSklzemtfWlE5Ym05c0U0dzlTUjVFLWtiTmNadFUxZk4tMjk4bDJ2dmNWa2stcEJRV0dpMkQ3em5rZXNEeWFQeXhqVHluMmU1bGkydEk3STNLRVh4a3lzdDF5RDE4Q3J5d3JCZmhqR3JaUklVbXVkUWNOVzFSeWdZeHF5NVE5ZGZ2Ri1DajVsMXZ5QzRJQTQybjlDeEF4M2xQWWp1WFI2TW16STFzWEU?oc=5",
+        "pub": "2026-11-07T19:38:12+00:00",
         "outlet": "El País"
        }
       ],
@@ -295,18 +295,6 @@
         "outlet": "Univision"
        },
        {
-        "title": "Migrar no significa necesariamente encontrar la vida que se imaginaba; la aventura literaria de 'Ceniza en la boca' en el cine",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUGRaYWJRdWtSTWdkLU5GaDR5NjExTFhwWjJvNTFEcVMtSzVHaW1Md3o5NGxMRlNxdnc1d0p6LTJvNnNZT2h5aUZDRDhMS2JyQldLeDZGQWlIYndudW1ZbjNuTzk2Qm9VQTdhZG81M3hrVjRMNFB6cG5tV3piSGV2WXlESlQzNUtyY0FOdC13Q25IMDJUUTdwS1lsU2hWTVJtVnRIcVVJVEVXbWtkY01aTFluZTczb3F3YklfZENPaEZLcWhFTnVyT1R0QlFpa1c2S0FWM3dORUZuUnpVSG5BTGxWSE5PbVV3VnVrWHVBZWJCT19VS1RMZTBBYmdWY2M?oc=5",
-        "pub": "2026-11-07T04:39:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Nodal agradece a Pepe Aguilar por enseñarle el valor de la familia y él reacciona",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0RHSzhPd0JLa1lzSWpGUkFBLW5ya2xYd1JMUVgzZ3ppZzIwZUg1VGozcWR6UUY4STVjUm96d1RNemxDdHZRQnA1LWpVLUM5WGVhdlRXRmRLdTJHel80NHVEc3dMQnBZUHYwU2pyTDdxSzlRZDBYOWZMNzViWGt2YWRNRWYwNjZ6b2dKQlh2aVpPWTdXc1o1YXllRjQySksxVU5j?oc=5",
-        "pub": "2026-11-07T18:09:27+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Migbelis Castellanos pide rezar por su esposo… ¡para no dejarlo traumado!",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcE9IOTRYYkhTN3lPYjVnUXp0OXJxOUVJbDZUTDVPdXJ3SjV4eDBEdTZpN0czeUl2bk51X01aQ3NORFdsbnZqUTZnMGVjd1hTc3RNSE5GOWp3X1pCN0NrVlUzZV9sSEU4NGxxMXlzUGJVVEo0VHdhZ3F0UEFYRFkxbUtXby0wcVJGbDMtV05yTi0zUzlIUy1KUThDN0libmI3YVV2MTRpdEtoczNxUGhnMDBLWER5R25pZVVj?oc=5",
         "pub": "2026-11-07T21:58:00+00:00",
@@ -316,6 +304,18 @@
         "title": "Reportan el arresto de Rafael Kelly, exvocalista de Los Sebastianes: lo que se sabe",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWlB5R2phWS1Ib3lHMnQtYUtXcnFlRmZhUHhVaUwzSnotZ2cyZHZvWVU3dU1RZlpJeklkRjUwUklWT1lsdUJLTkVOS0FTUlVoQzhIZ0RwWnl2UU5zMHdOcnpXSWNTY0VjRDAwb0cwZ2dqNThiX2RnbVR1S2RzUEplckl0X0U1am82MUE?oc=5",
         "pub": "2026-11-07T15:56:04+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Hijo de Biby Gaytán y Eduardo Capetillo demuestra su talento montando a caballo",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRzFWZDl3czZ1VF9USTg2Sjlha2Z2eTI2NTBYcXk3RmRicHBGaU5qZkdaUVhxMkV0RnJoT24tRWw4QXBSR1ZNd3paa3doOHRGWVpYZm02NkczODRHSWtvTlBPUXFVbExKRkM0aWd4MUkzbEVwcGYzRm1SQ1VLaE9CbmVVdUZFT1NoTk1YSUVSX20xSkpfeHF5ZDJPQ01sV05RaDBTekQyNUtFTjVjUEJ4R0EyOFFyMkVENUtUOTZXNVlTT29Fa2pr?oc=5",
+        "pub": "2026-11-07T21:52:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Miss Universe República Dominicana 2026 sufre accidente: el auto en el que viajaba volcó",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd09CYVBrbzFlaUFOTmc5b1J5UDFOQmtQNHhMMWMycnRuYXpuNHNBX21CZkh6UGhtZ05VSEtsRlJCYnVIdU5QQ1dqWVowWEZJaDRIOXhWVlQ4d1RHdENGYlh1bnZNc1FiQWpNcjVPbEJEUEtUNS1WWlZDMEstQTFtYm5yTUVhM2dnM0stU0N6bHJrX0E1RktoMS1CVDhJQQ?oc=5",
+        "pub": "2026-11-07T19:45:42+00:00",
         "outlet": "Univision"
        }
       ],
@@ -497,15 +497,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Defense attorney in Tupac Shakur murder trial found dead at 55: report",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWXgzampqLXJWVUw4d2t3WE5HVVZaZTI0Z1VDdHpYdEtPM0trV3pWWjdVZ25lRU5nMTZrSE5VUDVSajFuTDVVWkFoSmxsYmpGQ0tHTjZ5RE1ybmRRaUZsbjRlUmxwX0NDRTZ2YzJIRVR4UVJGRlhmcTRzNE9GOE5xZnF1a2kyaXAzS1I2MTRrNnYtblBSSVp0TzlOWFFBS1BFeFdz0gGoAUFVX3lxTFBWN1pIRkRjdkZ1dGZ6WTJBWjBpY3VoR2RKeUktLTN6UU9xdEl6YUJWcm1tUVRGNFFFaVZUZVU1MjF3dEhhOGxnUHJ3OV9pMUhYSVVYekNsOXNlMWhuWl9nNUlxSkpVMkNGbDlMS1l1OXJOSUlJeUoxVmxHcUQ2b0lseEJHZVNWUVB3ZlRaS3VFN1RGVXJrX0JnR3RVVU10bmU3NGY0MzlfNw?oc=5",
-        "pub": "2026-11-07T16:52:42+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Democratic senator-elect calls Trump 'unserious fool' while defending combative political style",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnZtVjlQbVE4dDREV1VxLWNta2I0NUE0QkdFQnRkb25aVlN3elM0SjNFT0VRY1dHSzVwV09ZUU5YMVR0TEd1WEx1N2hNelNhWXNGOU5fX1oycFMyZGhzLW1ueFZQaUFZSTExSEtQZUNGMjVtOG1KU0ZVV09YWjlwd3ZGNkc0Sk9RSUFVNkxpbkF1N1NGQUxEa09LcXNtRVRLQ1ltTDF5eTJfczFFSlA5b1BLRUZFT05jb2xLX9IBwgFBVV95cUxOMjhyaFM0TnpzM0FpcUo4NzRQajczZTV2WmlGQzVfbjEzWFcyMkZhbjkzeWMyS2pOM3luRGRWSTgwZkdWMmxGOWlLa3c4OWotNUlZQlpodGVxdUN5VzI2WU94a1pBVzV1TGVRc045S3ZwYlRxMnI1UUhEZ1BzT1Y0MDlPcUxYVnRnbDYwcmVSUmVvd0trOEhnQlFqdGw0U2QyYkxjbHh1Zl81Z3o4ZllHbjlWRk1tN2hTQTNJc1FWeXpsQQ?oc=5",
         "pub": "2026-11-07T12:00:11+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Liberal podcasters apologize after laughing at joke about digging up Charlie Kirk's body",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQW9KeVZaMUYzeXViZEZkbkNCcU9YbXZNWF9KZ1poZXc4QW9TcXNRckJtYXpZR09GYnAwVGl4WjRLRnJaNndoNDhQenlYV1F1bzI1ak5zZDI5b19sdVZUXzd4WTUtNzd4MnNqSWZLT0RTSEk5RWtmUUk2REtzLXVhSTVKWE1rQTZ4X2JWNGF3aTlpdXhrNVVTUTVyWE5LN0lZT2NxTFpvbUx3eU1WLU1OdmhOdVY?oc=5",
+        "pub": "2026-11-07T21:28:35+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -562,14 +562,8 @@
        },
        {
         "title": "Meghan Markle's father arrested in Florida",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMG9vYkdlWWh1QkpBODdHMEppWUtjMk0wMmcxNGd3QU95alpjZ3UxVTl0MTY1TDZlYmlsNzFqNDE0d1ZCeVVaWU9zQmlNNFRNQkNXX1g5azl2X3dyazE0djVOYlZOOUMwSG95SzlTdmZLd2sxeU9jUHFvd3VOV25CbndR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMG9vYkdlWWh1QkpBODdHMEppWUtjMk0wMmcxNGd3QU95alpjZ3UxVTl0MTY1TDZlYmlsNzFqNDE0d1ZCeVVaWU9zQmlNNFRNQkNXX1g5azl2X3dyazE0djVOYlZOOUMwSG95SzlTdmZLd2sxeU9jUHFvd3VOV25CbndR0gGHAUFVX3lxTE9nT2NuZFhIa1V2cVJmTTZvT19Rd25nZ1JCaEZ0MDdMRndnNlhXa0ZGOTEwOGRTS2tweHRIaWc1V2lqRml1UHlhb2tUbW15dGhxTkJWNXpOYVpwdVRzU1lPbjlxNHpwMHBvb1lVMVJFWmRLdzJmN1ZUTG5yOHN0ek5jUGhZZ2NfQQ?oc=5",
         "pub": "2026-11-06T14:58:18+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Nicolas Cage walks back 'homeless' claims after $10M Malibu mansion sinkhole disaster",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVlVrNnZPNElWaXZvN0tlb2tweG9zai1YMVhydXY5TmpqVmd3ejBvaWN3T0NpMFpjbUNhbGdiYl9veEY2dTdnRlpmYkFxZ1dYc1ZCUXBlOTZveXJoUFNtMnZ3RFFVeVFycFVFcGxPY3UzMi1OdjczWGZ3SGg0NjNUZHEwWGdHX1cybFdhd0lHa2NBZjhLZzdKbmVOT2d0UlNUci1pMkhTZHpVY2p3YmI1TXVROVDSAboBQVVfeXFMUHFXZ2k5ZEI2bmZGcDByU2xzMk5oVmxOLTZjYlFMM0l0NXQwS2hxd29hRjlydHZmZklyWGsxb0VZdXFwRkdwRlNPZmZkbVhpVVVoQm9kdkN1THl1Q0tRWWk4dDc2ZUlJRHBxcERfYkNTMi0td25NNFJXQTlmMmhmc2tDOTBlNnV3ZzdDQkVmc21Qeks1M0pNYmtuZDJlaGZncW5ubzExNUVkZmVUMjRmX05NQWU1ZlNKRThB?oc=5",
-        "pub": "2026-11-07T20:24:16+00:00",
         "outlet": "Fox News"
        },
        {
@@ -579,9 +573,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "'Jimmy' star Jen Lilley says keeping Jesus at center of marriage helped through 'extremely difficult times'",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMnJ3S2tHM05zeHo0ZHFVSWp2b1FCLWZhcXFOdVBLQWF2cE1CTDZCRWFabWplVEJ3U2xMX0d3UFpCdlM2MTZRMjh4UXRzc1dEdDR3Y3lpLWgweVhvLUwzaEtWYm13MlNpLWlhS2dZZnZuLTVHLU4zODZ6MmlRR1AwYXU2UDMtVGNHQWh6WlZUbVMzMEZnQ3NEVzNPYTdPM3dwWUs2OERIWnN6eHF5V3pRa042a19OYlVTSi1FVEJ6Q0thdlR4UW1BOGJpa3VnZ0xC0gHWAUFVX3lxTE5RX0NKQjYzZi12RHpOZkM2OXVJWjJzY04tN0RuR0JDOW5hS21kaHhGUU10N0VPM3QxT2V2QU5IS0tLZFRNbXJldlVCeV9GZGc2Yjk4bU1KdGwxWE04WE0xVHFUa1lUejFHbG9wR3pLNldjd2VTcnpwZGVzT0lVN1d0U2lXMjBRZE1MRjZRZTZZeXByV0FwbmQyZnRvejBOUUwwdHo5cS1VT0N1Mk9zN0FPOFRIa1lmZ25TeUx0ajdkV2dkOTVKVUVHalk3M2ZRVFJHeENveEE?oc=5",
-        "pub": "2026-11-06T16:00:52+00:00",
+        "title": "Macklemore claims ‘Free Palestine’ tour blocked from 9 major US arenas",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMnp4T2JuRGN1MXRaWHV3NlI5dDhEOGo1Z2RXUFBUVkl1VmFBRmhZeVZWdy04TFBvaVFlSXZSMl8zNkNRNk43R0RHR1doYkswVGlSdXBNYk5IeF8wS1NoUEQ1SmoxcFpoT1JKT0tFNTRGYmJkRUNSXzFlQmFTS1c3eDZGeDUtZG9UUm9PcVc4VFc5OGdRYjAzX3hyaVBUbGh0NnpIakJaRUVPUdIBrwFBVV95cUxQWnFqdWptdEVGWGJERWxTMS16T1pzcjhGWng3LVFhM0kxWWdNNC1PdjRIdTNsQUo1U0lFTnYtVi1HRWM2dzNGQjk1R21qQXVGVW51Y2xrYWc1cmVuN1A5WTF4emdqN00tQkphdm9DZDc3UlRTaGR2SThENktIZXZfWm54UVhBbzBvRXhQZHZXMFVuQlhsdzZ6TFA4ZldQWk1NMVUyWFFGcVY0RVJPNkVv?oc=5",
+        "pub": "2026-11-07T18:58:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Bill Paxton's son takes on Western role late father never got to play: 'I could literally hear my dad'",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVl4MUhrUVhiX1A5YlYyMVBiX283UEtXU21fTVJOX1Myd21YbDhEODNkREZoQzhtNWR3LUZOajY1RmppZzl5N0FreS1TOHp1Y3N3cHRuOUh6NmhKUzREdTZTVmxfajVyaE1TNHlGbmVpcTNuejYtdmJOLWVkdnlHbE1qbG41ZDZyR3NqOV9ZUnY2QjhhY3pxTjBNQzk4dllfSFd5UTFMbzZxWDNGRE1QcFNMV0V5QmxnMXfSAb8BQVVfeXFMTnFncEEwRW1hQW12VUsyNzhHNmdCVVFVd0xPeGlxM2N6bVhFZ0xTR0lJYXdDaEVzX1RWUzVkaV82Y3N6a2pmSVlwNEtuR0dDRG5ILTNHaGluWnJYelRjbXJvQlcyWElVUU0tRTJyaWZzdTU3ZTZqV3hyeXMtU0JIUzg1dmJPZzVRbjBaUGl1MzVPQ1V3dFo3V0pHbDg5YXBzTjg0QU85RW9SNW90R0ZxcXBESXdMRmhTYnU5THVQdXc?oc=5",
+        "pub": "2026-11-06T17:43:54+00:00",
         "outlet": "Fox News"
        }
       ],
