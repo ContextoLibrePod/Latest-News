@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T05:14:31.478587+00:00",
+ "updated": "2026-11-10T06:11:02.136346+00:00",
  "categories": [
   {
    "id": "top",
@@ -52,7 +52,7 @@
         "title": "Broncano y Abascal, deconstrucción sin éxito",
         "link": "https://elpais.com/espana/2026-11-09/broncano-y-abascal-deconstruccion-sin-exito.html",
         "pub": "2026-11-09T23:21:03+00:00",
-        "desc": "Iba a entrar el líder de Vox en TVE con motosierra y lanzallamas, y lo ha hecho desde la oposición mientras le gritaban “presidente, presidente” y le hacían la ola. Cosas de la dictadura",
+        "desc": "Iba a entrar el líder de Vox en TVE con motosierra y lanzallamas, y lo ha hecho desde la oposición mientras le gritaban “presidente, presidente” y le hacían la ola",
         "outlet": "El País"
        },
        {
@@ -68,12 +68,6 @@
      {
       "name": "Univision",
       "items": [
-       {
-        "title": "Cilia Flores pierde más de 25 libras, dientes y pudo haber sufrido un infarto en prisión, según reportes",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONmM3NVdtN0F1bm12VThDLUEyVzBQc0dTM1JWSG9qZnBRWE1wcTRpQmVBdGM4WFUzY1RYY1NDU2YwbTFPeE5jODhJNTRscWR1eUFYMGlHRzB4OUhXUGRLa3pOb0w4TGg0V3hDajlDR2pvSVlwdE1CUUdxQk85MjRmVVY5UGdMZzc4ZlhqVmY1VUMwZXk4a0lPTEpteDdLVFNnamJxcjdwM0ozcDBIOEVYbGkxT2I0UEJQTUUyZVRhbjVqbHA1R3Bydm5kNHdkVmZJYUF4R3h5aDVjRWZTZTVPSVRCZkV4dHc?oc=5",
-        "pub": "2026-11-09T05:18:15+00:00",
-        "outlet": "Univision"
-       },
        {
         "title": "Alaska y Mississippi: las dos contiendas por el Senado que siguen sin ganador. ¿Cómo se va a resolver?",
         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbm5yR3pzaTJ4cktpYzlDdXdZMjVFdy1sN1NLcWZFWkMxUDBCYnhvM29zSllPYWUtZW5NdU1XLWo0c2xmSjgtSHQxdlU0Y0ZuZVozZ2RUZDhWcEdzaER1bFVNV05JM0U4UTdjaUYwYy1ieFIxSm04TjFMNWZNUlVWbjc1TlZjR2RhRDBVVGE2X0JFby1XSzNDbzROWHQxaEk0WHl0NXV3Qy03RzgyaE9JMjVkRDJrQ3hDY0xGUlRNay1jNFBMN1pKRWNrZHZJb3dieFpuRlo3bFBpQ2RlNTJEN3k2eWxvTVVTVDhfcWk3X2UyNnN5ZUdYc19wOFAyTjRkcmcxLVhFcw?oc=5",
@@ -97,6 +91,12 @@
         "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdTZwcUhickpWMGR1a203OGEtakVPQnNCaG5QUDJ6aUV2NmYxUUc4dmN5MzIxanpRaHlzc2FnbXl6aEFXVzdwTG95SzZBTE5EU29NMFQtRXI5a3p3UGUtakMtV0d3OWg4TnhBVFR3Mnl2ejhlLTNQa3V4QzlSSjhrUGlOYTBVQUQ0WWFjeFdwZlhoNTEwcUdlRmVRUnY0NFNGTFhNcGpOMzgybmZ2SFBfWk1NWGpxek44T29SZGkyV0VYNUhFNEkxbmJxVDlXSk90YklFcTJ2MUtReGJzLTlaYUE4LUZZS2NoTktXWnZ6b3U?oc=5",
         "pub": "2026-11-10T01:12:25+00:00",
         "outlet": "Univision"
+       },
+       {
+        "title": "Lo mejor de N+ Univision de la noche | lunes 9 de noviembre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbkJlRTJlZVIzSHVabnVfT2N3TEgyNlJFN3ZCSjNNTjV5aGlWQ2pqWGs3aks3UmhoRXlkTk1HNlZrTERhNWdKTUFXVTg5cW15NVY2OTdxZmxhTnNTeHlEZU9acHhMM3Z2ODJ6a2pRcmd1VjRmU3IxampieXlvV0l1TjgyaEJ5Nm9XLTU0dVFFdFF4Yi1FODc1NWpxSnhXTnVHVUZsS19WYko?oc=5",
+        "pub": "2026-11-10T04:47:00+00:00",
+        "outlet": "Univision"
        }
       ],
       "error": null
@@ -117,21 +117,21 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Talarico, El-Sayed y otros congresistas electos llegan a Washington D.C.",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMlFUZmhxMHY2ekt4NVZac0prcWRSUFdfXzFmLVBjZklHY29lMllUZngzM0V3dG8xN3RNSDdfcm1hR1l0RWhNSjBKbGltOHRDVy1QdGM5eWpBTEZmT0lzYUpXOFhQcmQwbXVXMDU5dlpGTXZrTXBkVFU3MkNkckszWG51UF9tMVFiUmtsdkRscDRNS3RETXlvZXNRTFotUUVPeEdvb3l5U2Q5VTJOQlJ1aHp0NURJT2dVOW4xNzhiVlpYemNUODVoUmRwQ3BPNVkzYXBJbTFKTnROX0VfMmQ0N3RsYzM4MHk2eUJYalh4a2dIUTg?oc=5",
-        "pub": "2026-11-09T05:36:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Expertos aseguran que vacunarse aumenta la protección contra la influenza H1N1",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNN0R0ZDdBWU5WRElMcjEzR3lyUGsyVEVXYjZmc2tCbmJMS1piQ0t5RHk2UWg2eDI0d2NzUFRTc3dleVgxbGxYTloybl9UZExJYm5sZkdzNkMxeGlhOExpWUdaTE5XaVZpeDFJQVhCWkJtSVNRZ0tWSFM4T2EtRjVSbkJWeS0wOGJHTENUVjNKV25MQ2ktN2NuT09PM25YWEtRVmZvTFRFcVJZWHFOT3ZScUM3d0pTam1vek00RnhaU1lvOVNOb05IU2JEZ3BDRnFtOXhJV2ZCVW5IQUlQYkExcFFlb0xORV9IR3ltcVZIV1M2UmIxd3ktdXJR?oc=5",
         "pub": "2026-11-09T07:04:00+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "Otro incendio mortal sacude a una comunidad de Nueva York",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNFB6VGNsRXkzNkxuRUZ2cHk3U3JvSGpCNFRsWlRocl9SRWQxZmVZWFRxb2pCOWVGVmZmVmRKT2kyTDdUazljbEU4eXdKOGV4RW1pdk5oNzNQcldab2Vfbk4yQ205N3pRRjctRTNxS3hIQk02UmNZWjdmeTFma2dGcGRrSTJSWDhjeFZjZDZ4SERCRnpFaWhGaGJVWTVyeURfQzU2bVl1YndaUEc5cnBwVEhJUWx2SXZzaE44YlRYTm4zUkQ5VHZsWENHQTdnaXdhcG1MNTVMMjBQS1pfN2c?oc=5",
-        "pub": "2026-11-09T05:54:00+00:00",
+        "title": "Piden la liberación de dos gemelos venezolanos universitarios detenidos por ICE",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN3loZU0zdlpiSnEwNXlCcnR2M2QyNW51am1oeXQ4cnpxSUhPZjZ6N19CdU9NQUx5RTgwVFRVZGFoUlB4NEpMM2YzSVpZdF9ranFWeFFTY1FneWJHeG5TdUxCMTdUQVZQbDAxZTZhR1R2Q1NmNDlaaE1UdDJqSFhnTjlYaUxYYXZvaXgwNkp0N1NKem5SNVNUYktRVDhESWVJZWFOaE0wMDh4ei1nSjBkWm9Cb3NLcXExZkVCdW1SZTI5aG5XcUlGLWYtVUhHYXdiZ2ZlUFhsUEFnTTY4TWVoaVU4UklmbmFodnZfdG5YUERJMHpHY3p3?oc=5",
+        "pub": "2026-11-09T07:20:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Las noticias de la mañana, lunes 9 de noviembre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRG9HNmJTWEdORG4tamYyQVlIYmh4Mm1oTUlnZUhPM2pFNENlLXhXejZHUWcxRU5pVUlvU0g3em5HVUhMWWtpRFBLX0NpdXZNWXZCekp1cktIOXZ4cmdrTUZGdGVPbVY0R3N5NTlHM1pOMjFYQmdQVEg5QnNIUHkwRF9BZzdMem9jbEJzWTdvOHZDcjIxcnBWTEo2LTNTdGN0NmoyMWxDd0FKYmdscF9EWmRPeUI3WUZmRHdrRU5Uc1dMLVZxbGc?oc=5",
+        "pub": "2026-11-09T22:01:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -146,6 +146,12 @@
         "title": "Valdano: “El portero Owono es la segunda víctima de un accidente”",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd2RidG4yQjZwenVPbWVNTkdINlJMUV9SNnhSMHpkVGRuSlpIQ2U3bktBa3Q1TXdqRjQ3UWRrcWxtMko5SGIzVzdTU2Y0VGQyZV9DMjNsWDJCSHBWaEhOOExEWUtGaUtPdGswUmF3TkpPSHBia0dxcVloVHV2T2RzdlhrVEVDYUQ3Vm95NDF4ZDhOVm1aZW5HMGFaWEVIOE5fRlJkZVQ1czJMUdIBvgFBVV95cUxQVjJxSDF6Nzg4T216UnJWVmJySXBrQnBLRjFPTllJVDItQzQxMUhxSzhFNEFEc0xCa2NrU0psSVoyZWhYb2pOa29aRXZ1OEI5d3o4VjJmRlkzTkRZRUliWEZTYjJ0YW1rS0REVEJxeU5HUXpaLU8ydXJnNV8tT1hIUXVxZE1tYkhNVXdKWjVnMnRNR3RhcXppeHdNM2tfMmZDTDZJUUxfV1VaRDhETm1wb180M1kwTDl5bF9UZG1n?oc=5",
         "pub": "2026-11-09T04:30:01+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "De Jong, más fútbol que política",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObW9VWXQxWTVZTWx6dFpxb1ZWa05iY3huLUZjU0ttSFp1ZHBQVkxIejc5M0dfOEp3WnUwdnNianVVNnhZQlkzSnpETEkxM2FCZUVmM3hLY2FYVXhraTdkOWpQbmx1c3o5TTdvbGpOTzc1eUJ5dE1DQUJhNkJEM3FhbklCYU1yWG5QOEHSAZ4BQVVfeXFMUFpsRU4tZ2JPczY3c1NHOG9zVTdEeGdRdC1BZnQ1WkJ3OE9QMV94NlZuU3BCWlEtNjltZU5IWnlzNFlsQXRteDNrb09nRXIzV0Z0ajAtZ1UzVWxWU3VEZW1vNVUtNXkwajJOZWhHaVEyUEw2dEpXbVFzemVlV0pTQWZEd0xFM1BHdUFJOVNqWUtNMU41UHlnRFNGaHp5bXc?oc=5",
+        "pub": "2026-11-10T04:30:01+00:00",
         "outlet": "El País"
        },
        {
@@ -164,12 +170,6 @@
         "title": "El viaje también es el partido",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMGVQRjRsS0xKTUtreXdUYU1kUzdCdEdId1k2QmU4OHEyOWZ4cFE4ZVhlQWF6ZURvYUpZaHRuZ1Y4SHlwMC0zUlhEVG5ncHdaYzlOWE82RkdoVGxCUU16OHM1Uzh3RlM4ZWpObExpZDR2WDVvSGd1Wl9lWTdkTFJOVDRFTExoNUt6VlHSAZwBQVVfeXFMTTVaT3Q0S3RXMWxFQ0tOVm5XYUQ4SHlIbDRMSTBxVzB1bHlfN0FxYlBrWUNObTVNdUJRX2oxVjVvZkNWN1BsXzZaaVk2cVdLaU8tRm9ockY0dU5ERERYVThjTHB5RDZablVCT0dJZHFVNG5ReVU3YTFjOE5la1VsY2xxalpYaV95UVZWM2duUnhlNWxvei1kYzRCejUz?oc=5",
         "pub": "2026-11-09T04:30:01+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Cubarsí se lleva el trofeo Golden Boy",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNW5mbG1XdGVjZk5jTEh3UFBfd1JkYkJoSnowVzEzaURwTUx2cGl0RklwMTJQamdWZTBaczRoYmNibDhGRXdKemdjSVZOZThLMHJrcTYxOXdlUUZsSV9RckRVUWFDLWxCU0NUcU9PUkZGYlhLZkY3Y2JfSEJXbVkxVFdXaWJnMUUxVnlGMVVQODF4LWFpNHNmREJXdFRReklaN2oySXNn0gGmAUFVX3lxTFA1bmZsbVd0ZWNmTmNMSHdQUF93UmRiQmhKejBXMTNpRHBNTHZwaXRGSXAxMlBqZ1ZlMFpzNGhiY2JsOEZFd0p6Z2NJVk5lOEswcmtxNjE5d2VRRmxJX1FyRFVRYUMtbEJTQ1RxT09SRkZiWEtmRjdjYl9IQldtWTFUV1dpYmcxRTFWeUYxVVA4MXgtYWk0c2ZEQld0VFF6SVo3ajJJc2c?oc=5",
-        "pub": "2026-11-09T22:30:52+00:00",
         "outlet": "El País"
        }
       ],
@@ -191,21 +191,21 @@
         "outlet": "Univision"
        },
        {
-        "title": "Calendario de Adviento de Kim Kardashian provoca críticas y reembolsos",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1lkQ1VnU0pRU1cwQWNZTWk3cXhjSGhfalFoTUQzZ3ZEOXpndU1tcUxSR0JVLUxNMWlRMGJMT2pNdWRwNGlmc2lZcWZsUGZRRE5iQndJSUc2NE9CREVVazVNbExUOTF5ZGl5OVpKNFR3MEJ4V01acTNIOWxvVVB1X091LXJuc2Zib3NGWTI2Wm54d2oxU2RRZ28xU1hFOFdIODNVZ3Q5enhmUk5vYlNEZHNPV1VfSHctY0xZ?oc=5",
-        "pub": "2026-11-09T22:35:00+00:00",
+        "title": "Acuario, horóscopo del martes 10 de noviembre de 2026: crece despacio o sucumbirás",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUkRXWFBSSjZHamY5eUdsMF9JdDFiek9ab1hyRl9CWnVFaUM0LWpuZXJvNExWeVllZUpwQzgyNnFmRlRxVGdBNkRMcjFXTlU1TER5Uy1rTTY0d01McC0zSS11cWM2SnJqZ0pnQTB6YjVISGIwdFo2ODBUb0U3OG0wenB5MTNrZkpOQmtfblNTcUxsQUk?oc=5",
+        "pub": "2026-11-10T04:08:05+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Libra, horóscopo del martes 10 de noviembre de 2026: rodéate de aliados, establece límites",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVZ4REZ1bFJXbzJvdjV2ZHhKTVo5QlFZVlFuUmdEdy1vNXYybWtYRGk1UDhEd19WYnlMaDFfczFJck5yR3dTNlhqWnJiVnQ2Ml9hRzU5RndERVhtV2hqbTc1ZW41YjFLUldJeTVBeVRraXlTN1JQeEF0dkE5dTNrd0QwamZILXRiaWhIMnZWd2c?oc=5",
+        "pub": "2026-11-10T04:08:11+00:00",
         "outlet": "Univision"
        },
        {
         "title": "Sagitario, horóscopo del martes 10 de noviembre de 2026: descansa o perderás tu camino",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVjNOel9JVnNpNkNEc2xRZlVRNXVDdE14VC01UzdoUnRIOXpzaERxcGhiNGwyTVFvQ2tzNXBrbnI2SWFuWnF0REdtTTlOM2NEMHdCN0Q3c1FTUmYxaGFSUGxhZk1BODlqcks0TzJIUG0xUm1RcVdfVE5PRXVGVF9GSEZKQV9kVWVrblktd1Z3X25RTDFabVE?oc=5",
         "pub": "2026-11-10T04:08:06+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Piscis, horóscopo del martes 10 de noviembre de 2026: transforma miedo en impulso poderoso",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdk1jMEtsSms2Zjl5dWZsWVVSYTNvcXBSQ1RCWHRhVjJyeEdDT25jemEwdGUwU2wzOWtDNDQ4T2ZOX0dKUnRPQzdXREdQOTNQd3lwUHZTMnVzdEtkaWVSclluQnAteVNzWWltMVY2ajU1cjZPbkZ1WHRfUnFsRmNpYklTRkU3VWNwSk5JVU5EWWJDUQ?oc=5",
-        "pub": "2026-11-10T04:08:09+00:00",
         "outlet": "Univision"
        }
       ],
@@ -307,15 +307,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Paola Dalay confiesa uno de los desacuerdos que hubo en su relación con José Eduardo Derbez",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSk1Td0ozY2o4S2xTWWNucFlseFlMUVFzZUk4LVdtbEdUczFYR01lcWFrNHJzV1ZDbEUxekdEeDV2TXhrcWNmXzQ5QkQxX044MHdmZUxRVC1ZdFpla00tV1piQ2FfbU5lYk1FczN6OGc1LV9HQ0pPZEN0UG5sUG1zejV0SV9faUphbVd5SWhMbw?oc=5",
-        "pub": "2026-11-09T22:08:40+00:00",
+        "title": "¿Vadhir Derbez tiene amparo irregular ante denuncia por presunta violación?: autoridades no han podido localizarlo",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTXJEWVh5dWxBVUhFTVNzR0RCQ2lKYW5jalJNcHdXTTRDSmI2S1BFZFRGbVZQYVBDcUdNS1ZkYkFzVUVUMmtmWG9jLXBOaWozR2VldEFJNUh4dE5OWDBmRVlPRmtrT3FsR0JWZjF6QUE0bUJTVnZQa2VsVm1BSU5kRDdQTFYtZFpVRzAxM3h3eFc0cUpQX1FUZUI4TW80Y2UtYkY5LUh0YXZTRWc?oc=5",
+        "pub": "2026-11-10T00:17:21+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Exsuegra de Inés Gómez Mont tendría “esperanza” de ver a sus nietos tras detención de la presentadora",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOXzNVRmtCRWZwUmtDYUpEX3dzRElCMHVZUDVURHNyZjFrOXVtYUdhTjRrNHJLTC0yQ2hUM3B1emlUQ2cxR0NYaGlnQlpkNW54anVQRmFzanBuWUhLa05RV1ZReEVlNERwcFd2cEN6ZHlsQURnR1pkNERuY0tIdjFwS1AwVlVFUQ?oc=5",
-        "pub": "2026-11-09T22:21:53+00:00",
+        "title": "Entretenimiento - Página 2817",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jQkJSOWUzc25MSzVNSFdJUVpyaWMtcUI1RWdFTkhCbDFLTG5HQWhYV19YeG4tLTNUczN1NjlSRmdyeUdvVTk0T2JyTVNjVHY5WUc2UjN0QWJQdGlvMFBoWmYtMlZjaWhP?oc=5",
+        "pub": "2026-11-09T19:41:32+00:00",
         "outlet": "Univision"
        }
       ],
@@ -555,6 +555,12 @@
       "name": "Fox News",
       "items": [
        {
+        "title": "Donna Mills on why she never married despite decades-long romance: 'I was always so independent'",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3VMN0VXOVhFX2sxcGRhUWRRR21SS1BOb0d1bnJfQWlhVlBtRGZkLWdYQkNkS2pYVVlfRkl6SXFZa09odHpxaDRiU3RabDNSZ3B5eGxCTE51Y1pJNkN3SnhiQ0FoZ0FyeXZtUmtDZ180Q0dadGl2XzhLLUp4OVdqMklKb0RibTc5V2dsVzcyVWFXa3dOVlkxeE1FRGttZFg1dDhJTTZ1cVNtaEnSAbABQVVfeXFMTlRBMWUteC1vcWxlNWY2WExDZzFvMFVLbzl3Q0ZKbTlEZTRzUHNiSHVucDl6by1sUTBoU3I2WWNaSXdmZVlDWXIzck5rQnRmTGVpZDNhWlRxcktKd2I4Vm5qakppaHRvMUVlS1JETVlEaGdmQVNnNW1ETnhpeVl1ZEtWX1B1T2h6QVpfUkJUUkRENU51czNadEpKcnVUZHAzbEk3dFdqdEU4ajJmWktPWEc?oc=5",
+        "pub": "2026-11-09T01:06:38+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "'American Idol' star Justin Guarini endured dark spiral after Hollywood dream collapsed",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHg4NExFcWlLTy1aS2Z2MWJVRUtlSjRrajBVVEN3aFhuajlReGVXcXA5bWttZXVwTXQxbVNueWo2LUNHRG1IekpibWk4RDROUVZpZmc5SmpJSUZyb2JmSEJZaDBMUENMTkN2N0tBQmI1X2FlWk45QlpoSVZkZFVFNGlNS3VLbjFpMk9KckYyR0JTYTlFNHRPZUxsQUVwWmN0TGFJVVllRzhVbzZrRVVJRGFad05UVGxT0gG-AUFVX3lxTE1wRWFXd01hRFltVDY3RXZDSWhzY3R5VWotdVIzd3Myalkyb3BxRG92UEFHTlVPangyWW96RE9NQzF4VElkVHkxZGZqT1Etb1ctMVpwM19xdWlYLVdIUUFIQUszenpsQ3JZWE9pa2tFd1FuWTNQZzNaVHRBVGxBZ3VOZjJfM2FaX3NwcU5Rb3ljV1RnOXVzX0N6MHQySFY4TnByVTd0RzlRa2NfQXlzbWNnTnF4Qm5vOG8tTEhmU2c?oc=5",
         "pub": "2026-11-08T19:00:45+00:00",
@@ -570,12 +576,6 @@
         "title": "Bear Grylls addresses Russell Brand's baptism, calls victims 'heroes of the day' after verdict",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0kzZkI2Ui1iMG45S19kNlh1Wk9FZkNUanIyX0J5UG96YVpyTVhVcUZXRHFDN19qbDFDNlAwV1RJdFdwOW81RHRGR29YcEVHYUs4VkdmakRpcDQ0dDNQcklVbTA1ZE1UeVh5VGRudk8zdEdOSEdvUmlqamJGb0psSnQtXzdWVmlaNWotZmJadENHMHo3a3o0V29UTXJSU3RzWlZmcXVMd1hNN0ZQOWRTazdveDd6LUhySXJlWW5B0gHDAUFVX3lxTE5YY21KalExMFJGUF8tLWVkQXcwYmZJM2ZCU2xZSlB3YjlFODhOM1NwZ0o4VWJTbUVEeGMtVnhfdlhwd21ZNEtRajVReE1qLWJmT2RJeG5VZFNKcHN4dnBtMXlwVUkyWE9KdnZzVzBoWnJaVmg5dmZSX3RjVHlWc010THV6TTRsRlBYVVREZWcwWllvemJfbE5VRXA1R0xhUjVxeWhqeU5tZ2dFcFZfbWNaelI2cERTQ0swZ2dGUUtSMW1FNA?oc=5",
         "pub": "2026-11-09T00:16:15+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Donna Mills on why she never married despite decades-long romance: 'I was always so independent'",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3VMN0VXOVhFX2sxcGRhUWRRR21SS1BOb0d1bnJfQWlhVlBtRGZkLWdYQkNkS2pYVVlfRkl6SXFZa09odHpxaDRiU3RabDNSZ3B5eGxCTE51Y1pJNkN3SnhiQ0FoZ0FyeXZtUmtDZ180Q0dadGl2XzhLLUp4OVdqMklKb0RibTc5V2dsVzcyVWFXa3dOVlkxeE1FRGttZFg1dDhJTTZ1cVNtaEnSAbABQVVfeXFMTlRBMWUteC1vcWxlNWY2WExDZzFvMFVLbzl3Q0ZKbTlEZTRzUHNiSHVucDl6by1sUTBoU3I2WWNaSXdmZVlDWXIzck5rQnRmTGVpZDNhWlRxcktKd2I4Vm5qakppaHRvMUVlS1JETVlEaGdmQVNnNW1ETnhpeVl1ZEtWX1B1T2h6QVpfUkJUUkRENU51czNadEpKcnVUZHAzbEk3dFdqdEU4ajJmWktPWEc?oc=5",
-        "pub": "2026-11-09T01:06:38+00:00",
         "outlet": "Fox News"
        },
        {
@@ -599,12 +599,6 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Nvidia shares fall after investigation into CEO's relationship with alleged Chinese spy",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElrbW85azhvSnFxT0dzcktBTkd5Wm5CQVN5c2N1ZzR0TmdVRFBQTmZqazNXeFFPUmI1SEVmaDY1U0hNNnJqeHhQT0dLWVhCc2d5ZGxXQ1pOck5wUGxqSkllRzJIUU95RXk5VmdXOXlUSkFpQlNlbHI1RmZSM256ckFQN2dpbEkzekJlZllyZDdDanBXXzB5a2RpbjVxLTh4eVBZcGpwZ3JZSVlnNnJOMjdn0gG3AUFVX3lxTE5pckgtWWRpZUxvQm1HbExydzN6MXBtd1dLY3NpdTB4WXZ6S19vX0oxY1k0ZGZDcnQtTWt3a3p5YThFd1lFY2FoX0x1MHVwREtOTDlKYjRsRGpwZDRIQjRfcVhoTGFRRHpUZ0UyNHFmVmNOZVFZSTNXOVBkVU1OWXFpSHFpbzhqMnlVcGpiVDBFdmg4YUJ1Ukw0cnV3YWxsUXp1d19LamRxbWNaOE9MbjEzM0xjTjd5TQ?oc=5",
-        "pub": "2026-11-09T18:19:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Fanatics, American Express debut credit card featuring sports stars",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0hTNk1vbXFLZFBpMEtMLU5STGZJMmVuWHF2cHFxX0JqQ0l4VGZybm9ZbHFjWG53bl9MbEVncm9jYTJtZGJDQVRlOUZiQTN1ZUVkYzd0ZlBLY1diR0lydDRHOTgzZlpWRzBNUEJDcVgzWnc4RDFaWW9STVhRMGFWZ1RYRzlxWDVIMldQQmR2Wm5WWnNHTk9xZ01sTi00VEhvaWk40gGoAUFVX3lxTE1QQU9vcF9welJRNE9mVWFYc0dPYldhNl9ZS2FENm9QdF9QNFFyUjFxRy14NmRGbW1vb2hjdUd1YkU3d2FvLWl5bEdFRVd5N1gwOERXbTZiZGtnOS1jN0RPU29kclN5dk9lQnBlSFpLbm9mdWRGQ1hkY09JN19zUm1yTTNBdTdRT3hzanJhWHNQNHlENmk0Y0ZxM0Y0dFZNSTB0Wm44djhpRQ?oc=5",
         "pub": "2026-11-09T14:52:00+00:00",
@@ -617,9 +611,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "China denies spy plot targeting Nvidia CEO Jensen Huang, calls allegations ‘smear’",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZi1QTHVsNGF3VGlvVWJTMGkzTDZMb3BjaFd6UElfbTdDQmQ3S3RVZkQxemJ6TWpuUnNOOWFNblQzMW9FSUppVk5wMHN4bkp4aGZZSWY1SzEyWXp1OU1nOWFQS2Zuem1aSVdVRVQ5WmFCdldrOFp6dUtieWw4Z0dXQlJEdkptMk0xWU1LNzRfS3RLb1RDNlVrNGhlRE9EZkVrQ01HTDhyYkxoa1NDMFNyVE9uZU14bXFHaVHSAb8BQVVfeXFMUEZMazhJX0VBOFEzeVFIQzVzcURhbGVwWkVYa1BaNmIwN08zUXZ2czFkYlBleXZCcG9CT1JEUjVVSUs1OW5kVHV6anA4WGdhUWwxTkZVbEw3QjR2engzNXdjOVBOUWZBMl84V211OFZjTlU5aElxN2xJa0NWUEgxc3JLSHVUXzVSZHFEUktlUlJtZHg4anAycDJCV2JvbVFtcHJlbUlEWW9PZElxamxvTzI4bmw0SEVfNlpycUl0SkU?oc=5",
-        "pub": "2026-11-09T17:15:00+00:00",
+        "title": "Nvidia shares fall after investigation into CEO's relationship with alleged Chinese spy",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElrbW85azhvSnFxT0dzcktBTkd5Wm5CQVN5c2N1ZzR0TmdVRFBQTmZqazNXeFFPUmI1SEVmaDY1U0hNNnJqeHhQT0dLWVhCc2d5ZGxXQ1pOck5wUGxqSkllRzJIUU95RXk5VmdXOXlUSkFpQlNlbHI1RmZSM256ckFQN2dpbEkzekJlZllyZDdDanBXXzB5a2RpbjVxLTh4eVBZcGpwZ3JZSVlnNnJOMjdn0gG3AUFVX3lxTE5pckgtWWRpZUxvQm1HbExydzN6MXBtd1dLY3NpdTB4WXZ6S19vX0oxY1k0ZGZDcnQtTWt3a3p5YThFd1lFY2FoX0x1MHVwREtOTDlKYjRsRGpwZDRIQjRfcVhoTGFRRHpUZ0UyNHFmVmNOZVFZSTNXOVBkVU1OWXFpSHFpbzhqMnlVcGpiVDBFdmg4YUJ1Ukw0cnV3YWxsUXp1d19LamRxbWNaOE9MbjEzM0xjTjd5TQ?oc=5",
+        "pub": "2026-11-09T18:19:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Trump signals Iran breakthrough as Tehran issues 48-hour ultimatum",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XZS1fWmlVZGNRMzJjYlREYVZ5bWM0Yk5GVWdmcHhYQjJqSkphWFYxbV92TGEzM29FZ2syNU9fV19XZ1pJTzJsd0VJdm5ubi04TTdYNTNycDFIaWM?oc=5",
+        "pub": "2026-11-09T17:05:00+00:00",
         "outlet": "Fox News"
        }
       ],
