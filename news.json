@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:33:02.817238+00:00",
+ "updated": "2026-11-10T08:33:39.276012+00:00",
  "categories": [
   {
    "id": "top",
@@ -49,17 +49,17 @@
         "outlet": "El País"
        },
        {
-        "title": "Abascal califica a Sánchez de “dictador” en el programa estrella de la televisión pública",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-09/abascal-califica-a-sanchez-de-dictador-en-el-el-programa-estrella-de-la-television-publica.html",
-        "pub": "2026-11-09T23:11:34+00:00",
-        "desc": "El líder de Vox asegura que la ley de violencia de género “tiene que ser revisada”",
-        "outlet": "El País"
-       },
-       {
         "title": "El público de Vox, menos “chistecitos”, la falta de “huevos”... Cinco momentos de Santiago Abascal en ‘La revuelta’",
         "link": "https://elpais.com/television/2026-11-09/el-publico-de-vox-menos-chistecitos-la-falta-de-huevos-cinco-momentos-de-santiago-abascal-en-la-revuelta.html",
         "pub": "2026-11-09T23:24:47+00:00",
         "desc": "David Broncano se enfrenta a su entrevista más incómoda con frases largas, tartamudeando y poniendo frente al líder de Vox todo con lo que está en desacuerdo",
+        "outlet": "El País"
+       },
+       {
+        "title": "La entrevista de Abascal da a ‘La revuelta’ una audiencia histórica",
+        "link": "https://elpais.com/television/2026-11-10/la-entrevista-de-abascal-da-a-la-revuelta-una-audiencia-historica.html",
+        "pub": "2026-11-10T08:20:00+00:00",
+        "desc": "El programa marca su mejor dato y es la emisión de entretenimiento más vista del año. La Séptima logra superar a La Sexta gracias a la visita de Pedro Sánchez",
         "outlet": "El País"
        }
       ],
@@ -69,21 +69,21 @@
       "name": "Univision",
       "items": [
        {
-        "title": "Congresistas estarían dispersos ante decisiones tras elecciones y pedido de juicio a Pete Hegseth, según experta",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONklxNzgzcUo4cDhTWXZ6VEtXX0FwclVXTk93V1drcFdKZ1BabWFyYUxRNURNaGtOVnVLeUpGeFUxMlVhR2N5cWhXc0E4ak0wd05oWVFYTmw5alotdkNmUk9JaE41dzFaMjFlSlkyUlVsRElteU40UFhqUzhGQ0ItVTdSMlFrZ1JjVE00SlUwYUJuelYzcFJLNGFzMU5lcFhRT1I0bFZicWZ5OFFqanduZkNpMUl6dGYtWldkOU9rVGNjLUVMTGg5dVpGbjhvcDg4VDYtRV9xU09NemkyamdLWUR1NmtUTjQ?oc=5",
-        "pub": "2026-11-10T05:09:00+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Alaska y Mississippi: las dos contiendas por el Senado que siguen sin ganador. ¿Cómo se va a resolver?",
         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbm5yR3pzaTJ4cktpYzlDdXdZMjVFdy1sN1NLcWZFWkMxUDBCYnhvM29zSllPYWUtZW5NdU1XLWo0c2xmSjgtSHQxdlU0Y0ZuZVozZ2RUZDhWcEdzaER1bFVNV05JM0U4UTdjaUYwYy1ieFIxSm04TjFMNWZNUlVWbjc1TlZjR2RhRDBVVGE2X0JFby1XSzNDbzROWHQxaEk0WHl0NXV3Qy03RzgyaE9JMjVkRDJrQ3hDY0xGUlRNay1jNFBMN1pKRWNrZHZJb3dieFpuRlo3bFBpQ2RlNTJEN3k2eWxvTVVTVDhfcWk3X2UyNnN5ZUdYc19wOFAyTjRkcmcxLVhFcw?oc=5",
         "pub": "2026-11-10T01:20:08+00:00",
         "outlet": "Univision"
        },
        {
+        "title": "Congresistas estarían dispersos ante decisiones tras elecciones y pedido de juicio a Pete Hegseth, según experta",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONklxNzgzcUo4cDhTWXZ6VEtXX0FwclVXTk93V1drcFdKZ1BabWFyYUxRNURNaGtOVnVLeUpGeFUxMlVhR2N5cWhXc0E4ak0wd05oWVFYTmw5alotdkNmUk9JaE41dzFaMjFlSlkyUlVsRElteU40UFhqUzhGQ0ItVTdSMlFrZ1JjVE00SlUwYUJuelYzcFJLNGFzMU5lcFhRT1I0bFZicWZ5OFFqanduZkNpMUl6dGYtWldkOU9rVGNjLUVMTGg5dVpGbjhvcDg4VDYtRV9xU09NemkyamdLWUR1NmtUTjQ?oc=5",
+        "pub": "2026-11-10T05:09:00+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "La Universidad Estatal de Ohio suspende a una fraternidad mientras investiga un video que muestra a hombres envueltos en llamas",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPb3FjU0RRWlUyUF96d2R2MDB0X1FIOU5sWk9zTXJQX0R5Zk5hZWxPVTdzZ3pQbmZIOFFjNGhtRUZ1bmZPck9scGNIU0pvcmdoTUxscjN5RnRJZ3NjUXNibFZZX0hQeU13SmRkRTFWQVZqVEZrd184UGNlWXNxLTRmNnlWeFFEaWtGMXh4Ymw3SXh6ZDBHNnZNbGhiZzljNVVVN2NQa21XckFxYnBTZ1k5RnFzNlJucnhOVTdha1czcjc5cmpYTFNMWXN0Wm1VUzRsU2JFYlRTZlNFaUt1X0N0NFhtVGhCMFhtT2NzQzhxWHF6X3hRSHIxWW0xN0RmQUJnWHc?oc=5",
-        "pub": "2026-11-09T23:41:49+00:00",
+        "pub": "2026-11-09T23:47:17+00:00",
         "outlet": "Univision"
        },
        {
@@ -167,9 +167,9 @@
         "outlet": "El País"
        },
        {
-        "title": "El viaje también es el partido",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMGVQRjRsS0xKTUtreXdUYU1kUzdCdEdId1k2QmU4OHEyOWZ4cFE4ZVhlQWF6ZURvYUpZaHRuZ1Y4SHlwMC0zUlhEVG5ncHdaYzlOWE82RkdoVGxCUU16OHM1Uzh3RlM4ZWpObExpZDR2WDVvSGd1Wl9lWTdkTFJOVDRFTExoNUt6VlHSAZwBQVVfeXFMTTVaT3Q0S3RXMWxFQ0tOVm5XYUQ4SHlIbDRMSTBxVzB1bHlfN0FxYlBrWUNObTVNdUJRX2oxVjVvZkNWN1BsXzZaaVk2cVdLaU8tRm9ockY0dU5ERERYVThjTHB5RDZablVCT0dJZHFVNG5ReVU3YTFjOE5la1VsY2xxalpYaV95UVZWM2duUnhlNWxvei1kYzRCejUz?oc=5",
-        "pub": "2026-11-09T04:30:01+00:00",
+        "title": "Cubarsí se lleva el trofeo Golden Boy",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNW5mbG1XdGVjZk5jTEh3UFBfd1JkYkJoSnowVzEzaURwTUx2cGl0RklwMTJQamdWZTBaczRoYmNibDhGRXdKemdjSVZOZThLMHJrcTYxOXdlUUZsSV9RckRVUWFDLWxCU0NUcU9PUkZGYlhLZkY3Y2JfSEJXbVkxVFdXaWJnMUUxVnlGMVVQODF4LWFpNHNmREJXdFRReklaN2oySXNn0gGmAUFVX3lxTFA1bmZsbVd0ZWNmTmNMSHdQUF93UmRiQmhKejBXMTNpRHBNTHZwaXRGSXAxMlBqZ1ZlMFpzNGhiY2JsOEZFd0p6Z2NJVk5lOEswcmtxNjE5d2VRRmxJX1FyRFVRYUMtbEJTQ1RxT09SRkZiWEtmRjdjYl9IQldtWTFUV1dpYmcxRTFWeUYxVVA4MXgtYWk0c2ZEQld0VFF6SVo3ajJJc2c?oc=5",
+        "pub": "2026-11-09T22:30:52+00:00",
         "outlet": "El País"
        }
       ],
@@ -182,12 +182,6 @@
         "title": "¿Nodal se tatuó el símbolo de la familia de Ángela Aguilar?: fotos lo revelarían",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbElralhXeWl4NWM4OFozQWVBLUlSdUdxVVJqbkV2QnI0VkJOQ0RDTUFsbVl1S19OLTc3a1FhQ1BhS3dkTFJtRFM5clF2bG1fVVJfTUd1Mi12b05RUnVPSU1sb3o1Wl83TTFMakd1LW5GbGEwcnhCcnlPTDA4aERfaE11dmZVOGVWTk1FellVdVFBQVVGeWF4Ynln?oc=5",
         "pub": "2026-11-10T02:57:43+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Hijo de Arnold Schwarzenegger es galardonado en competencia de fisicoculturismo",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHpMNll2ODVkY0I3M2F0QTc1VnV4X1h2dkdoUWxHeGpDbFBuU0RmY1lMOXFpLVNlQlZObDZ0UklrVkZOTmRqWE02a1ZuaHB2Yy14Qy0yZURWRzNHX0R0cVZpaGNYZFU4eUlSMHhWZDFOZ0dqZmpiT211Z3NoWS1yczBFeU9qOWFwak8yclRqY18tcTFBWS1xd3U0OTBndHpHdDVWSzJtRWw4bE03OVlDMVFvUHJ2TVJMVnAwcWVUVkp1bVJ4QnNB?oc=5",
-        "pub": "2026-11-10T00:44:00+00:00",
         "outlet": "Univision"
        },
        {
@@ -207,6 +201,12 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUkRXWFBSSjZHamY5eUdsMF9JdDFiek9ab1hyRl9CWnVFaUM0LWpuZXJvNExWeVllZUpwQzgyNnFmRlRxVGdBNkRMcjFXTlU1TER5Uy1rTTY0d01McC0zSS11cWM2SnJqZ0pnQTB6YjVISGIwdFo2ODBUb0U3OG0wenB5MTNrZkpOQmtfblNTcUxsQUk?oc=5",
         "pub": "2026-11-10T04:08:05+00:00",
         "outlet": "Univision"
+       },
+       {
+        "title": "Sabor a ti, entre historias y secretos Capítulo 29",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXy00TGd3UHFHdzA4cEVHMzJWTlN0Nm95SjkwV1J6Yks5SGVDRzQyNE1QSm40Y0NqSWpQTHFGZ28wbnFEd0NSanVOR1Q3WHM2cXd3OWxObTdZYUNRSTBZZ0stVW1QM3V6ekptOUN2WWMwNU83MFFzWlA3dHNGYmkya0RyOG94OTI5bFg3Q0Q5dGQwWW1MQUtZTUF5YjFGZzZFNGM2QW9ZRHpadw?oc=5",
+        "pub": "2026-11-10T08:00:00+00:00",
+        "outlet": "Univision"
        }
       ],
       "error": null
@@ -221,6 +221,12 @@
         "outlet": "Telemundo"
        },
        {
+        "title": "Fiorentina vs. Juventus",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOG8wWDBCYTZUOFhEeDVCenBfNllDcjB0ekVVWUt1VlFmczlyWF9uVi1MY0F5RHk2dUdxaUpDbWl0aVQ2a1k5elQ2WWxDdlNrZTVDU3lTTWxOSDZtU3F2Qnl0bWNpbjF2Y2Y3OVN1bU9HTHdsbHk0R1dKWFJwa093MHAtVXhLQlEtX1pLbVFueExmMHlaVmFtN3Z6eVVmY1VIRHM1ejVVZzRpS2pvMWc?oc=5",
+        "pub": "2026-11-09T07:15:44+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "El letal cabezazo de Mac Allister, una joya del Top 5 de golazos de la Jornada 10 en la Premier",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTXpBZnFNc0QyOVNmMTVRRFJIUm0xMTJyWDBicDIzUWFkdDBTSjAyQUdNTm5RaWhFVS1rVi13UUw1a2tpRFNfUEJvcGQwUXpOdVpGRTB3Zmx0eFRxcEhSU1F2cWtaWThyMmkxODBMZkFrQ29FNngwckJaVWtiZjZSclM2LVRNQ05XY3RoTDQxTlRoTWlOUFN4NVA5S1hSRDVnT21wbUVaR0l6eV9XX2xQMFlFcjU4OEtqeldWQmR4cHB1M0tqdUYtaFJkaVpabzJNdEdPeEE5QzVTcUtjZUlaNjYwdXJHZ0d1T2VZZ0tPWDNPOThvUlE?oc=5",
         "pub": "2026-11-08T12:58:00+00:00",
@@ -230,12 +236,6 @@
         "title": "¡El partido de la jornada! Manchester United rescata un agónico 4-4 ante Aston Villa",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWHFEZzdDWWMwYUZiZzM2NGRNQ1U0X3ROUFBNLUJ5OUFVbFZMZk1GV0hsbGVyTUxkcHltWmg2NTJaUTNVbU1IX1B0aGpoTGVaNWY5bVpOaWZQcGUxN0ZUVkJab3hvMlliQ3Q4VWxJZmhHQmQyUFYwLUd6VmE3V3NYdVNjMmstOHNzempqRUN3YncyZXBCSUN1T2xxdlM5VEU3ckVmUVdRamNXaWY4U243X0VzczlLU01rWkk2R0pneXBDMnJwNWcyNFFQWk92NmY2c05IY3lKVHhfNi12ZXQtQkt1eHktdw?oc=5",
         "pub": "2026-11-08T19:58:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "La razón detrás del regreso de Chicharito al Manchester United",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObUE3d1BkUXRtNUpwUllFd09YU2FsZENpVDItZWhaYjV5WjNCblJKM0ZVOVpLSU5aeTlXQ05Kb3gydVpWRk55LXNYQkpFNlpTTE9ZNk9kdDFXR1FTRUtaaW00bVVHb0NtZFV5cVdJOXo1UDhZbEtzd25hS3g4UlUxd1hqUElLbTRkMDZQYTc4TlpZS2JUS2tTT2YzY1QwUFVtTnFsZnR4eEx6WXRrNmhuMWpCd1lJcm4zN21kQTJSNmxoSzVqblJB?oc=5",
-        "pub": "2026-11-09T06:54:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -307,15 +307,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Géminis, horóscopo del martes 10 de noviembre de 2026: escucha tu voz interna antes",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3pIN0lUR1QyMkFxTlc3YTFNblM4TW5ON1owcVlwSDZCRVhkTGFON25QR003NzQ0N0JCMGc4UHpRdGdXd0gtakdmWVdEMzlKNXpNMVZwMkgyUVZIWk51N19mQVlCQ05QeldPcVNzZGNzNjQwbi1MUF8zME5yejQ4THBiTkZ3emlPNTVjekdsVTc1djA?oc=5",
-        "pub": "2026-11-10T04:08:10+00:00",
+        "title": "New Hope Band graba su primer álbum navideño y celebra la inclusión",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaFhaWkk4N0lqWEVzcVpWYkxXR2hWYTRhX3hjcnAtX0hpaDJhbXhmQ1BhbWdFOUtGM2FFU25nX1ZnaDVrOURnaGZSTWd3NXd1Q2VIcXVRbjRYRHNyNzNqTmNuejg1cGMzcXVNQjdPbHVuMWs0dnRuTjRBd0FuQ3JiVXRmb3RRampCb2xqbEZHV1BkRS1vY2lKX1lIb3ZrRld0clJILXpqNXNOQjZING1naGoxTTRaVVB4eHpJT1VxSnNvZw?oc=5",
+        "pub": "2026-11-10T07:33:00+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Acuario, horóscopo del martes 10 de noviembre de 2026: crece despacio o sucumbirás",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUkRXWFBSSjZHamY5eUdsMF9JdDFiek9ab1hyRl9CWnVFaUM0LWpuZXJvNExWeVllZUpwQzgyNnFmRlRxVGdBNkRMcjFXTlU1TER5Uy1rTTY0d01McC0zSS11cWM2SnJqZ0pnQTB6YjVISGIwdFo2ODBUb0U3OG0wenB5MTNrZkpOQmtfblNTcUxsQUk?oc=5",
-        "pub": "2026-11-10T04:08:05+00:00",
+        "title": "Géminis, horóscopo del martes 10 de noviembre de 2026: escucha tu voz interna antes",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3pIN0lUR1QyMkFxTlc3YTFNblM4TW5ON1owcVlwSDZCRVhkTGFON25QR003NzQ0N0JCMGc4UHpRdGdXd0gtakdmWVdEMzlKNXpNMVZwMkgyUVZIWk51N19mQVlCQ05QeldPcVNzZGNzNjQwbi1MUF8zME5yejQ4THBiTkZ3emlPNTVjekdsVTc1djA?oc=5",
+        "pub": "2026-11-10T04:08:10+00:00",
         "outlet": "Univision"
        }
       ],
@@ -331,12 +331,6 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Las noticias de la mañana, lunes 9 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRG9HNmJTWEdORG4tamYyQVlIYmh4Mm1oTUlnZUhPM2pFNENlLXhXejZHUWcxRU5pVUlvU0g3em5HVUhMWWtpRFBLX0NpdXZNWXZCekp1cktIOXZ4cmdrTUZGdGVPbVY0R3N5NTlHM1pOMjFYQmdQVEg5QnNIUHkwRF9BZzdMem9jbEJzWTdvOHZDcjIxcnBWTEo2LTNTdGN0NmoyMWxDd0FKYmdscF9EWmRPeUI3WUZmRHdrRU5Uc1dMLVZxbGc?oc=5",
-        "pub": "2026-11-09T22:01:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Miss Universo 2026: Puerto Rico comienza a recibir a las bellezas que sueñan con la corona",
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGV3aEVwNm04bXNfVUU2a3k0cHNUR3RoTW5MQnY5c1c4aHpmUVVIQ19NR19uVUxZWlJHVVVra0hoMVprb21LSnBRdzJHMXBlUmlBMzM2YlZZa3lVT3BuTkJoVVZVSHB1SklfTkNiWDVzWE5zWmZQbVZmV2hURWk5TUhBMlFKRERONldsTXkzSW04TEVTYVU4NDhRV1EyNERobjJZRVRoSjNhS2RpOFZlUGMxZ0NmWmV5U2tldnlhR0d4dXpMWDFfWTY4STlMOHdHemxpejc1bGlBazJpVlZFSnJsMWhsM1NWSkFsbXZnNk9ObmlxZG9uR2ZsOA?oc=5",
         "pub": "2026-11-08T09:37:00+00:00",
@@ -349,9 +343,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Reportan que apuñalaron a un hombre en un Halloween en casa de Jamie Foxx",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMnJhendwaGl3SEdWUHRRTlFSY2hxUUg1bnhSRmlVLVlRY2hFX1gyM2QtVFgtZlFHQ1lJUnFjUUQ0Wk1JN1d5WkdPMEg1TTBfbFJtYjBQVDlVSXdhLW5TOXVyOGlSMDBVMEdaSXdsRk9ZQVVqOTBGZ1NHYlNBSUVHSDBBejNQVHRUbTVKMDBzcGZFYlJpdy1QZE5OblNxa1lySHMtUVVObmVrQlFMLW9pSWd1bDlSUUJ0a3pZNm8ybHNiUktSdGRYcTJ1VjU3SElNN2k3YV9zUk9HYW42TTlSb0xId2ZhOUo3cVE?oc=5",
-        "pub": "2026-11-09T05:59:00+00:00",
+        "title": "Las noticias de la mañana, lunes 9 de noviembre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRG9HNmJTWEdORG4tamYyQVlIYmh4Mm1oTUlnZUhPM2pFNENlLXhXejZHUWcxRU5pVUlvU0g3em5HVUhMWWtpRFBLX0NpdXZNWXZCekp1cktIOXZ4cmdrTUZGdGVPbVY0R3N5NTlHM1pOMjFYQmdQVEg5QnNIUHkwRF9BZzdMem9jbEJzWTdvOHZDcjIxcnBWTEo2LTNTdGN0NmoyMWxDd0FKYmdscF9EWmRPeUI3WUZmRHdrRU5Uc1dMLVZxbGc?oc=5",
+        "pub": "2026-11-09T22:01:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Victoria Ruffo es cuestionado sobre las polémicas de José Eduardo Derbez",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTzYtbGsyRXBoT2EyQnVIQXpPc3JlSXlxQk9RNEhpbjZlNGRVN0FOU19STXBCeUQyNnd4RkRlN0VPckIyZktjMkxXeUs2ZHQzUnZ2eFVvOFZXWVFGbnl4OHlaeDVwQVBsSW5MT2xHcHRxQURZM2RMMU1URTUtT3ZuOE1IVlpsN0pmQ2ZtODEyUHJDRXA2WmEtUVZ0MVk5c1N6R0FjQ0hKRVZBX0RCQzFMMHBaWnhnNW1GVE5HYlVXNndXOHhIVnhHcmFjV3dQZ0lTY0dGbzgxUjYzdDJ2cGhqQ1pHT2g1YlVF?oc=5",
+        "pub": "2026-11-09T07:32:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -485,9 +485,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "‘Yellowstone’ star Dawn Olivieri traded LA for Arkansas ranch",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqTFRCT0czcXBXeFVacWRKWEdjN2dEeG5vRU50d1k5ckZVSWJXQ0xjLWZCclF5V19Jb2drQ0M4RmxQbWx5YUNRXzFwSkFUYU1aYVA0Q093?oc=5",
-        "pub": "2026-11-09T23:34:13+00:00",
+        "title": "Jordon Hudson reportedly files lawsuit seeking damages over shirtless Bill Belichick video leak",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGtmWm03bElwRWh6OG0xcWlJUkMwX1RyMDBKd2x2eDBHVG5Wb3dWd3p2S0hwM21YalpoaWFHS1VxRkE4b3ZwSUN6OUFkSEZhX2xwSmZBQ0JTcTBlenVFaEZDNDdpc2ZmMVRrNkV1XzBwaHFlNDRvTkxtM1RTT3RwSENXcURvWHJERkZHMDF6SFFLckxwSUR3RER2WFJmWE5TNnh1dzE1Q0pDOE9rMDMw?oc=5",
+        "pub": "2026-11-09T18:17:34+00:00",
         "outlet": "Fox News"
        },
        {
