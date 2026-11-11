@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T07:45:42.539662+00:00",
+ "updated": "2026-11-11T08:41:03.146516+00:00",
  "categories": [
   {
    "id": "top",
@@ -30,7 +30,7 @@
        {
         "title": "Última hora de la huelga general y la actualidad política, en directo | La jornada de huelga general arranca con cortes en algunas carreteras y el transporte en servicios mínimos",
         "link": "https://elpais.com/espana/2026-11-11/ultima-hora-de-la-huelga-general-y-la-actualidad-politica-en-directo.html",
-        "pub": "2026-11-11T07:43:17+00:00",
+        "pub": "2026-11-11T08:31:22+00:00",
         "desc": "Los sindicatos denuncian cargas policiales contra piquetes en las cocheras de autobuses de Madrid | La demanda de electricidad cae un 10% en las primeras horas, según CC OO",
         "outlet": "El País"
        },
@@ -56,10 +56,10 @@
         "outlet": "El País"
        },
        {
-        "title": "700 barras de pan, un centro de datos y 4.000 personas en un grupo de mensajería",
-        "link": "https://elpais.com/espana/2026-11-10/700-barras-de-pan-un-centro-de-datos-y-4000-personas-en-un-grupo-de-mensajeria.html",
-        "pub": "2026-11-10T22:29:49+00:00",
-        "desc": "La huelga general empieza en el mercado de abastos de Mercabarna tras semanas de preparación y unas últimas horas de llamadas, bocadillos y la constitución de los primeros piquetes",
+        "title": "Un piquete irrumpe en el plató y corta en directo la emisión del programa de Gemma Nierga en TVE",
+        "link": "https://elpais.com/espana/catalunya/2026-11-11/un-piquete-irrumpe-en-el-plato-y-corta-en-directo-la-emision-del-programa-de-gemma-nierga-en-tve.html",
+        "pub": "2026-11-11T08:02:39+00:00",
+        "desc": "“Los periodistas somos considerados un servicio esencial, pero hoy no podemos hacer nuestro trabajo”, ha afirmado la presentadora",
         "outlet": "El País"
        }
       ],
@@ -111,6 +111,18 @@
         "outlet": "Telemundo"
        },
        {
+        "title": "Noticias Telemundo 11/10",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbURCYmtOTlBONFc3bUR4VGVxTTFRa3BMTk5CeksxTmktRUQ2RzRNcHFVRGwzVDFLVnZxTXNYaW5JT3AycEpJMzcyZUl2aHE0VjJpNDlQbldHVVY3d3BkdHdJR3RrcGlyQUFQSE1yUFJUNmY3bS04bnMyWUhPZkZmWTFfRU5Ib0doMXA2bERlR29ZTUVsWjIyUm9qSUdsa21BbTRrV3ZjZXFLdkZYNGVnZXZHQlZveUc3dVN2MXBubVgwNWZMdXJiSVZUZw?oc=5",
+        "pub": "2026-11-11T03:51:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Noticias Telemundo Mediodía 11/10",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVnNtQ0JIa1RFdnA3U0pNRTdQTmlHYUZmdFFDajV6alQ0TFREZXpJRHRERkdxc0h2UVlibTlVWE5aRWVtTUNQamVma0g0UHhrVzFHcUlmbS0zbXRIWFhFdXRvZlhkUnpNLUNGaFNKSmFFUnBVcXNuSEFqMER4RkN0Sm9MRzk3VXhGWmJxck1GOUxiTnZJUzB2UU5sbXlocUlHeFEwajZrV2FUam1qX2pVQjNWb2Q0UWl2ZV9GbDNQS1lONjlWd2k4RE1ra2ktR2szMWdVZHJicGo?oc=5",
+        "pub": "2026-11-11T02:04:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "Noticias Telemundo en la Noche 11/10",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa2xRdklWOU55OTlSOEs2Y0RuU25QdW1vLXRGUWpfaE1ud3JUcVBVOWNsNktNYXJMWmwwcVpoRFBMZkN5c3paYlhJR3hUaGNFSnMteUZwaTNveGRPUlBoV19paEdBb3JYUE95cGJYczhGN1hMdXZqLTJCTlNTUlZSMm1JWVJwcUE2V0ozQkVoTHJfXzhkVkZ4QVAzZXhSSGlSbDV2NTZNYzVBcHRmY3U3dVRIX3JucHdWazY1UksyV2N4QnJDM0dUNzAxTS1kYXhuNnRwRFIyTWk2ZVFaY1lPZw?oc=5",
         "pub": "2026-11-10T23:37:00+00:00",
@@ -120,18 +132,6 @@
         "title": "Crimen en un crucero: hombre de Texas es acusado de matar a su esposa tras una discusión en el camarote, según el FBI",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ3o3TkUyVHlCTC1HX1FGNnd3bFJ5YmJfZ0VJenFBU0x2dlVncENVejctQWRaTDA5c3ZoeWhNTjl0Y2RERDRrbHBOX1R5eDBaeTR2TmJ6NzFZMjZjcDBSSzMwb2VoeG9rbFpyUnVNbFp6bVpDRjRzaG16MDg3RkVMcXRBa2ptcm5maHhpdE1HVnJwOVBlSEh4V3BlNkM4d0djNVFIWlJOYWpjZmMxTUszUVJtbmktckxMMFFQLXJRNHF0dkRURDB6Z0hnN25XR1R2b3BxVGlnM3FHN0NwOFIzSnRxZnQyZUlYRFE?oc=5",
         "pub": "2026-11-11T04:31:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "El demócrata Darren Soto derrota a Dan Green en Florida y obtiene un sexto mandato en la Cámara de Representantes",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOV3dPVUdvWkd4OTljT2NRU1VJMWJNamo4bWRiSkVIbmZFd1NjWVU0WjFNUlJYci1DWDBFWF9lajFNRGJ5REo4Ung5QVdYX0NjV3hQeUVKU3hxclI0bFd0WWZNZ1VrUmQ5NFJpSl85dG9VRFFMNHVDZHNHQWRyQXltTnUxcG9PMW1NR0Vac2xjRDlNbC1Dd2Q0TmVYRGtSNllUbm51M2xxNVBPeksybWZteG50ZVhLVVBFcGZTZW80VDhGSDF1cjUxWFZCbHFYNU94LW5zY2JCWnNENVppcU9IUHhBMlByOXlIZmFXNVpGVFJMZFFaSkhrZ3lR?oc=5",
-        "pub": "2026-11-10T19:37:31+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Exatlón Estados Unidos regresa con la batalla más extrema",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWk9NWW41OVhTRUFHS1l2ZGZoSHdsSGtyNXUwdUMwd0hRLWprTmhxamw0UG1tMlhiQjdWczJxdUtJRjlJSUF5VG9VQlZsNE1kYm84TUtVd0pET0NQY3J5YzNKcDZaa2w2X3VIamg1SC1CNWhJUk91OFJjbmpYcUQ3NzVGRHlsekUybS1yZmt3UF9CZ0I4dy1MMlVZUmhNNWZ2VHliX09NVlJWd3paN3U0dlE4VnR0V0VqRDRXYm9SZw?oc=5",
-        "pub": "2026-11-10T20:56:58+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -253,33 +253,21 @@
       "name": "El País",
       "items": [
        {
-        "title": "Una carpa VIP para políticos y famosos en la misa del papa León XIV desata la polémica en Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUkFlZGljd2o3NGFZdEJoUjRZM2toNGRRUGowQ1M5QzhRVjNac3RlOHJIVVVzVUpiSWNoVFlZM3hFUUNMenpQTWtyX1prdzl2aXpaOVVXS1I1a1JOaFI2dFoxaEN4UjJaTHkxNjBDMHh4M3h3XzhibHJMT2hycHN0QWY5bXU2aHEwZ2dvcnpaTmx6ZUZ2MVVuaEdGaEdCWEt2NWd5czZERW0wc3ZJdkE4VkhrYldlRF9waWxRQ1RoNEFoWnl6Y1F2eHEzbktxM3R6TE0yS2tZLWptUdIB7gFBVV95cUxNaUhNeXVoeWduNHo0Umk4TzBhYkgtbnVWdDhhVWI4MkE4X1BEVXRJS2tPXy1odFJvZXlRRTQwc2lRNm9WcW5NeHNXOVdSWS1Vc3poUnV4LTFFb2lXZ05oMDBuYl82N3JkQnZNQ1dyRzFPMEtDbml6cGpiakx1dFdKMEZZdm9XWVowbTQ5RVBZcjhEa1ZndTRiTkhiaGRUMGtfcXh6T1BXWWVSWlpCUHdzTmNMMHJGdm9qTWxDaDhOeThyVUlBQmtjM3VUb3hmdWU0VjBZZS02U0ZLbFdHZlh5RjNiU0RCcl9MYndYMUV3?oc=5",
-        "pub": "2026-11-10T17:43:24+00:00",
+        "title": "Cómo puede la victoria demócrata cambiar las reglas para elegir presidente en Estados Unidos",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVBIaE05WklUNFc2azJVNjRtZk5fQ25Za0Q1ZVNtbzhucEI1eUhkZDFpWEZReEVSLV90ZGQ1UGtfZVdCS3J2Wm1Tdk5KbGFaaWZqNThYR2pQM1hGZzBsS3BObERzVnRPSTE4cVdSc3pFUkRibnJtVGZtMGpZTENZLXIzUWg1QWdiZWV4b1VsMjM2STYxUlh6RmZ5TEJjbVNMUXYtaWJTcmJSVnRvOGthRU8tLXZLTDRkdHl0WkRlNXgzTGtMY3ZIbUNn?oc=5",
+        "pub": "2026-11-10T09:30:00+00:00",
         "outlet": "El País"
        },
        {
-        "title": "Auge y caída del imperio audiovisual de Reese Witherspoon: de ser comprado por 900 millones a valer menos de 50 y despedir a media plantilla",
-        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOU3I4U0gxSlR4b1ZvVnpjTy1NV0MtYl9RLVpuMXhVUExIcEVZZlZCUmJKYTh3S1ZKMFJFRDJBODdPa0V4Zkd4aGdncUxZQU1DNmJBXy1FTEg1X2h6UkttU2ZTcWc4U2N1c2ttcTgxbWNDelRJZlZhUEVBQzVUMlJmNmVCYTFfMjh1bWYzU2FTTFl0YzlwUzdQdnlUVHB1VllqbjlaUERUbDFiTFZyckoxYVZiMG9aYkNHc1k0clMwYzFvaUh2Q0tsbVZ4T19MOWxGNFFpdXd2U2w3WS0xREI3dlczVEU1ZGxXQUx0SjJEV204VUxLcGVpVlNhYXozY1NMM1JXWnJYSXVuSnpwMC1FNy1pNkJsSjZFLUx2dmJR0gGyAkFVX3lxTE9PRWxVdHVMVTBZcllSZEREaXpIZF9XelBvNlBvcVdPbTlGT1hIeWpVNElDWUlPZWVKUUxjRTdMY2pLRmxFUkotZ2ZTdDdnckV0d3YwZzNhOUtFdFVUd0xJT2pSc3FsdzZzZ2JCaktiX1BQTllzbzlhTEE5Ni14bURDSktYaWsyLVFiLS1LZmRUZHgwMkd6Mk5sVXliVU5fb2lyTGtuUG4xR3JtMDFMS010amwyamtIRGgtTDJ4ekhoMXZGVEFSU2huLVQ4aTJ5TDBGbEFQWEFuVm9Hc1I4TUVmblVORzNDdWI4TUpNOHVfa3piQUlfN1V0cHRKbzhqdU5MOTFnSnVxWVFyTDBQV1pRM1JEbzA2WGpacDVCWE05SzhqTlpGXzFkejlRYk1ZSlRqUQ?oc=5",
-        "pub": "2026-11-09T09:30:00+00:00",
+        "title": "La congresista María Elvira Salazar revalida su escaño en Florida tras el recuento de votos",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXIwV0tkUmhzR1ZLSVBTTnJaOUVvaUpjMkozWGJMQm9VVUxCT3ZYZ21KMkswM3RSNWNna216cm56SEVGdXZWQU5YaHJrR1ZmcU5ITjU3TVNBemJuSllZMkZkMWpLRXhuN25CVW9RMnd3R3duQ3BZcTZlNVg1OXBoemJPNmNzR01ONXJjdGstRG8yWHJ0UDNSVVE3aTZrbUZFcHJZMWlGLWFVem53aXNVMUVXTnJKVWl1MFHSAc4BQVVfeXFMUFltbjA5dlJvOWVOdXVXS3dLZ1g4Vi0xd1ZqSUtiUWxvYk5pdWU0S0M1TUZiMURWWVl1SnNFeHhCUXR0NlNLY2ZxVDhBWVJpNEQzM3BBZUNQMm94UkdmRXhPLUdiRzNYWG51M0h1TnJqaVZxS3FsaWJ1OEUzRXB5RlE4ZUY5NnQybVBCN0J6M1lJcjRIZGxuRmt3X3piX0tZeEFrQmNZMFhiLW9XTlZRYzZNekJaNUgzalJxMUVPYTE4TklqcUU3Yjk5RHNvdUE?oc=5",
+        "pub": "2026-11-10T23:09:47+00:00",
         "outlet": "El País"
        },
        {
-        "title": "Michael Bloomberg, exalcalde de Nueva York, de 84 años, se casa con Diana Taylor, su pareja desde hace un cuarto de siglo",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdVVNMlp4S2kxamJRd3l3V2NOWVFhdmFRYjRzOWpiVHNWWVRseGYyNWotVU5fTWRfd0FKMnNmUnpBSm5oMVVBWlI0QUgwUFVkZXZFa09YY0ZXeDB0YWN4M2hDRUxvMWowMTMwbGJTc3JRckNIQzlMTkZoTmtLMmpiNE5pQ3JFWm4zeXk3MDFtUmNhb2g1RXp6dk1NblFKYVNna3ZVc1lXdVNFVDA2Z2tmSHdVNFc0V0lFbDhuLXlqdWtQWUlDNXJFOHlPdmdPdUh3cTJ6UExYTjBEbFZObWhya3VrUTNoX3JOOGt2RHJIeEZSQ1VheUpnd2hmaEozQmRP0gGUAkFVX3lxTFBNSFpWbXZEYzZhcy14Z2ZkU2c5cnZRbWlUQzdpcGl0aGZUVk95TlpESFBRTnlCZmpUWFZtUUUxa2I5TGhTMEUzZDkyZzVlNy14bkhMbDR6dkZCU2lxdWxjTFY1Z1VkMkR4aTk0ZzFjRDlTWm1YSzh3ZUJFXzVYc1RxNHgtSzJwREtld0dBTlV1aWFHOUxadXVqb2trT1YyV1h5WFgyaGZKQlBCdGt5WEw5QXZqRllXUTk3UE93alNfbm9JRE9FTjVUUWNMSWwxN3dCcXdYSm1IczA5Y2dWb1lXU0xuMzVPZmx0TkliYzlMTmxzLWxPbzV2OEtlNkw1SVdDTUhtVVEwbTVYYTJQcl96RldTXw?oc=5",
-        "pub": "2026-11-10T00:29:31+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Thomas Markle se corta la pulsera electrónica de vigilancia y la jueza decide meterlo en prisión sin fianza",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcW15djZELTFVRzBfWlJLM3V5Z1Fra09rUDhudzFxZHVhNXJxV3ZRMzlZbGRZSG84TVhwYTdkZ2w4R29DNGZPY3hpeGdHQWxRdUdkLURrbzhLVS13SDNOUVkyN1Z1MGJ3RTNLZl9RR1hHcFlEN0NtbkFXRXVCOHNGYlRsQjAxUGljemJjY2NrYV8xaHdaRFJla1Nfb1pjZkxqb2NoandyUzRJaEdVR3loQjhVRkFUdng5c0VrQm5KNTl6M1Q2Q1B2c05jblY1c0RlekZrMS1xTkxnYXVzMXBfOURhZ3lKX2NCZEHSAf4BQVVfeXFMTlExOEJ6bzZESW52a3lsRUNwQkM5YU9MQXYzWlltTGdtMzg4YnBwd0pSZWpiU3lWUXY0dGRvbVVJMmgzUk80U3k1ZU9fbjRrcmwybnVPUkoybnZJNjFpVEFCZHBJZDZ4enVuN2h4WnFHU1NjWENCbEJVOERuUXliNmhmZzRadmVueE1qXzk4MnBld3B6dUFrbW9OeDQtc2FhRmdvZHBxdlk3NUN4OTJWUEF4NDF3cWVzV3E5Nk80bVphNzVQMHZ1YU1sendBS05LYlNlYUtmX1ZCa1lHZEJraEUzc0JBTl9JRi10NDg1SVZDUUVjaEFYTlhkVHd5WFE?oc=5",
-        "pub": "2026-11-10T20:45:26+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "La entrevista de Abascal da a ‘La revuelta’ una audiencia histórica",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV242akRmOV92MTBmQ203WDFqaTFrRE9IV19fdjBhaG9pSmphaEI1MlhIYzlzeVk0Z0FMOXR1N1p1bU02VGozYUVpbUJWV2pkRUxCRGNvQW1kMUZNbU9TRklZeFVvMkNwVVFBa2pwTlU4a3Bxelh4anpueVdNdXJVVEpMbnJ0eGdYdUtPVHJDTVRYVHlrVUlPSHdSZmN1S1BWbUdRRldHU21BcW5udkgwVdIBxAFBVV95cUxPcmY1aTlEc1otOXlVMGF3OFZ1RUp6WGd2dmNNdlM1RnJQVTlHelJqQjh0RXhjSXplR2p2ZWJRcGtSM2VIWmloREV4bnZ0ZFBKU2RhcFVyVzBwblY3WFNwMWF3dWVCVXBURW5HVTNlR0l5ZmNMajc0MVJrZGFwanZBRUpaOFJSakVyWHJLTEZZbXE0cXpuMWpUMEVTT3FqeXVWR0pGek93dGk4bVl5WGdvYnBXRHVOTXh1a1F3NGpSVUdZRWNT?oc=5",
-        "pub": "2026-11-10T07:54:52+00:00",
+        "title": "Un congresista de Texas denuncia un “trato equivalente a tortura” del ICE al inmigrante mexicano atropellado por uno de sus agentes",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUTh1aG1wLVUwUERuWG1RMnJPS0Rnd3R1VS1qSW9GYk5qdjBiZ25SZGpGOEJ2N3lrYWZjQTR3eEg3aklQWGpqMzE4QkZXU1RMTzlaSzVwZmhXU196XzI5ZzdyaTZIQlBWNC1XaGhUWGRMREo4eWhfVHlnNlFMZWhyRU9tZHRlMTgwTmtNRzJsTmRUMzlJWWxWdmhXdHFIbkFyZjJPUmdZT2MtYkVwSjJ1c01JaC1OZkFIbTB0eE1KRFQtdnJCY0xBaXhLWmZBLWx2SUhjQVowWU02cmpZby0tQk9QRW9sc2pOOUY2SnRpbUUxbE9WY3h1RlZ5SzROalJHVE9HSm9WTlTSAZwCQVVfeXFMT3FUOV9OYVV0RjRuTC1PN2ZwY3ZpOHlocnNFUnZUX0E5R3BEUnJRLWZZdWdVbzY3dXVhbndVMzhPeW80c3JTTU5UcHFPd0ptaWk2ZnhCclo5TGpza1JLWTIzWHAwbXlmN1hLQXBtLWI0VEdNQUwxTEczNFlyMzhsNktSdGFMZ1NZdTlFcWtkNGhZUDdXYVdtTU5uTFNkZDdrYkRPUllyQUtQczBCT1RnT3BhV0JqSC1LSkxSZ0NqYzJrdWJqakd5SDVnUlRMVWhSc2dHX2dNQXM4emZPNlRRaGFBRkZ2dDNQcEt5ck9ZXzZVVHctNzBwSFRURDRmZjdsaTBBczN0OGhfNmhjcWhPUEs4QnNVYmtiSUV0djc?oc=5",
+        "pub": "2026-11-11T00:56:12+00:00",
         "outlet": "El País"
        }
       ],
@@ -307,15 +295,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Inés Gómez Mont continúa detenida: autoridades están “haciendo los trámites para traerla a México”",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHlGemJTTEZXdWhENFZUQU1XLS01YnpNS1lPYWcyX3V4Z1BCUTVmUkhWN09zOFl0NFV0dHJrb2p2MWNEYUxTdWMxSWV3Y1c5ZXY0TnJIWjg5NFpxRy1OQXRZMW9wbDRuaGFwb19oS254NXh6VWFzcXFaSkJfYWRJSFhSRGRtcTd1SDJzVS0tdw?oc=5",
-        "pub": "2026-11-10T22:01:28+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Libros gratis, música y actividades, en el encuentro de escritores que honra la herencia hispana",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2piekJuaUVwNm9uTUJjMVJvR2g0Y0ZyU3RoeHJMRXZJeDRPUFhvdG5HNkViQUdQZzY2YXlkUEowb2U5Wm5Xb2JDZHA1OGtaMHZjRVZrdzZoRF9WSUV3cDk4VGZJUEpZbEpnbXRraEFjTXhieUJjS1cyRmZ6X0pLY1h3UzNzSFd4WTBJQXFkOGQ3cl9ZV0ZTVVFwYWRlakg1MWg4ZFp5WFJWbDZBNlotME9EdzByTFdPYkpGdmZmRW9Wb0p1R3lFc0hfNEpQRGdqcHpGSUZHNy1IUHVmYlE?oc=5",
         "pub": "2026-11-10T19:28:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "¿Vadhir Derbez tiene amparo irregular ante denuncia por presunta violación?: autoridades no han podido localizarlo",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTXJEWVh5dWxBVUhFTVNzR0RCQ2lKYW5jalJNcHdXTTRDSmI2S1BFZFRGbVZQYVBDcUdNS1ZkYkFzVUVUMmtmWG9jLXBOaWozR2VldEFJNUh4dE5OWDBmRVlPRmtrT3FsR0JWZjF6QUE0bUJTVnZQa2VsVm1BSU5kRDdQTFYtZFpVRzAxM3h3eFc0cUpQX1FUZUI4TW80Y2UtYkY5LUh0YXZTRWc?oc=5",
+        "pub": "2026-11-10T00:17:21+00:00",
         "outlet": "Univision"
        }
       ],
@@ -343,15 +331,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Vadhir Derbez frena orden de aprehensión con amparo; su familia evita hablar de las acusaciones",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRFNZclFURWF6VGJwWktHS2JVbjlmaWFJZFRLTjhHLVF4ckduYTZHeHF2SFlMZ19Dak02WGpucW9EdHNGY3VjN3lPRWNGa3BnWjhmbGxjS3pOUDk4LUpGOVBSU1dscDg1WFZCaXRYYU9BVE5UZFlfRmhvUzNhdDNxWEFhTkZ1Q3JjZ3owR05VLUJUaFhZWHNOMGlPbl9pS2YwdXU2a0UzWlU2aGhaWkp0RTY4djJacXVmUkV0SEpUeXotVnZ4SXNZSEp4ZnVTd3B4Y3ZOeWtWY2VyN3BtYlk2dTZGek81c0FtLVN5SzIwUm5JV1QtaWNma1ZRRU5MUnc?oc=5",
-        "pub": "2026-11-09T08:06:00+00:00",
+        "title": "Denia Agalianou habla del final de El Señor de los Cielos y su personaje Dalila Zuk",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOHV1NUxHQ1o5TDlhRFl6T3ZNYjJlNmgwVWNIa2VJZmt6eG1jQWpoWXRxc0J4eTRVblpRSmR1cVM1aUxpQUZma25oLUdWX3EtUGxtVTQwV1Y0UzNNSXhyTlhQaU95MjBPTmxESkxqQjVYVVB6SVJ5UTducEpkNUR6WTJGcm84NmwyMGpNbC0xNlZiSHZDcWRmMHd2TVRHVjlwWklqUHNyS2hlYnZScEtKX1M4LVBkYnhNSWNvMGwtV3owbjMxZUdYN1ZIVXNCRjREWF9MR2ZCU2dhVGN0b01HZkxYVm0?oc=5",
+        "pub": "2026-11-09T08:52:00+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "El comediante Raymond Arrieta revela cómo está diversificando su carrera",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXlmdEJkX1R5WTYtYVJQUFMtNUd4OEJ1TFVTMTNJZEF5RlVITWRDYTFORWM3VjZodXk1S1dWRk5WNE5yTVJKT2cwSWlsT3B3VDc0S1JteUNYSGlUTC1FcG1FOVdqaU05dFdzbXdDZ2NLMGtSd1l5YjNQODUyNlVEdHdsOXItcFF3TUMzcWpoemlLeFVSelVCendzXzJDOXAtZUY4T2F1UDNjaWtWRjh0MWZMVmtKSVAtUExkbEF2RjU5bXNDaFU3bE1IX0pWdDNUUVV6cmZ3?oc=5",
-        "pub": "2026-11-09T09:23:00+00:00",
+        "title": "Kimberly Flores rompe el silencio sobre su pausa matrimonial y habla de su nueva etapa",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQjFpSHV5LVY4MGFKeXdxNGd6X29SamtDUU11LW9BeDNVczVzcXJWMThCV1pQOVZSSW0wX2pBVFBjamRoU0RTaER4N0hjNmNDTHRRZmRVcUhZQ243eHJSSDY4NmJVOXJOcjJvd2pzS2pRSzZCcUpudHNGbzQ0X3FVQlhPdk43dDUyUWdmQzJkT0NDaHdGV2FqbUE3aG56eUE5QXYyWWxCcjV2VW9iRHhIMHFZQ3ZNWEp5WjNGdjd0akVNMldrT3h1X3dRajNwRWo1Z0RJa0tONHVJVElGYlFCOGZ3Y3dIamQ2RE5KYTI4d1FkVW45?oc=5",
+        "pub": "2026-11-10T10:54:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -417,15 +405,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Cada dólar cuenta - Página 50",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95bEVtMWR5cXJlU2FfY2lxSnNhWkx3UXV1YkxQX2M1djZHSVR6Y1JTd3JEODY0eVZiOXRtOXBrQ1FiOWxNaGE4R1czdktKX2oxdUtBVk53b0ltTWxaSVF0MlQtLXhlSnZY?oc=5",
-        "pub": "2026-11-11T02:35:53+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "El IRS aumenta la deducción estándar y el crédito tributario por hijos para 2027 en sus ajustes anuales por inflación",
         "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVVhyUFpuQjc2WUN0Z19xWlJ6RVNkMGJTdUxmRDQyVE10UE9Cb0dfQ1ZTZ2ZlUTE5ZUMtTUNDbmM0MmN3OEk3THFDTGhjX1JZa1hkNlU2akRhNGJzUmNLU2ZBd3R2Ql8wS3dBUmxvTEpySGFOTDlIQTRLR0NKemRsZEtLbDNET0NyZjNxRzVMc003V3hZUjVHSnRsZFFGTnpBejY1ODN2RU5ZSDdUVlVQcjNYZDc1SWpYSDRBMml6V05oMzdCZEtPbGJXc3pwN0VqSHYwMDVOZ2swZXJmNTFvQldIUVZNUkt0aC1hOFdoVlY?oc=5",
         "pub": "2026-11-11T00:49:38+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Dinero",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wOG53ZG5RNl9yMzNIenlGMTVhZlpKakZTazVma2dlZEJPOVIxcEMxam1WaHE1MTlhVF9OMF9IRFFTT2wtT19BZmU4c1VMMnBaazRnTG9hemJqb1l0?oc=5",
+        "pub": "2026-11-09T15:16:34+00:00",
         "outlet": "Univision"
        }
       ],
@@ -517,6 +505,12 @@
       "name": "Fox News",
       "items": [
        {
+        "title": "White House doubles down after Trump angers base by floating illegal alien deal with Dems",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNczdRWVZZZUtObWFfWW1tQjh0eWxyR3NZaloxMzBaYmlKOUtLeUF6NnBkTGxCY1l4THJRcUs4NG1jRldfbnB6UWs3VUNGUG5BU0dscl80bXFOTGU1MTBpMWd0VXFENmJ0cFg5QURPTG1NRjcyOVZ1UTRNUFczTy1FSURMWHFFTEYwdm44TU8tUlhOLV96bHJhVm05VDFCUl9YZ1Z0SW1DelFrZ3lt0gGyAUFVX3lxTE9KUVpZTFRPU2FKLXRSal93b1RVZkdDYS1QTDZZRGtPZ19wRnJxclpFVldkWTlCYXZtYzZOUlFwZzZiVU9XUzFsZmFDYXprQ0FSMUptWEJvYVdtTmxFb2hmdDlmaTBDZU0taGhGNE5jREtxcWxKY0NRU195TFEyTXppNjhXbmZqTXgyMWNTX0ZVODlFNHp2MVNRVWtDWTAyWlluVjdLZEktZjZoLWNLSlVkWVE?oc=5",
+        "pub": "2026-11-09T19:25:31+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "JACKSON THOMPSON: Seattle school board authorizes legal challenge to ballot measure protecting girls' sports",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRm1DUUswaks5RWtqdjhLUzN5WktIdkZPYXh6RWpzTDJQT3ZseHpLQVNUOTU3eTU2QjJub0cxZWVUVmRhQ1J5Zk1xeFZGTmltWWZIVG5SXzh0MXBpTy1rcU1pZHQ4S3dwUUNhSXZ3a1U4ZGNyTzZYNy01LUlOeldfWmNSd0ZYUTAwb0NaYTJ4aWg2Q2U1cXZ5N3pVV1BjUnZjSGFHcHhLOFlJSEZnckRDZ190b2p1ZGktbnh4X3JHMHFYRG8?oc=5",
         "pub": "2026-11-10T18:51:44+00:00",
@@ -538,12 +532,6 @@
         "title": "Colorado mom who said daughter was secretly transitioned helps lead effort to ban boys in girls' sports",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamE1SlVNUmF5T1doQ1NZelpJdE03MFRMOE50bFJGY29Wek9YdF9sRV93T2dod0o1akZPVHViUzRRNE5XTmhiUWpRSnVHbE1IWElUeTJPdFNGNDVkTmNFWmMxdTFKRjJRQ3lIRDRJTi04bWpBZDAtZ3NTQWNNSWM3QnVDTnJiYThFNi1yLWNNSndLTU50Mlh0UE83NFgyZ3ZGVlhmRjVnV0ljOERmWjZGZU1KaFhpZmV0MkIyNTdTUnB0Z9IBxwFBVV95cUxOV3Rvb1dneEo2ZmZOX21RUEM0ek1pVmlQT1E3Y0JnU1ZFSjRrWnh5dGM1NnAtX1VRamotUGgtUzRfX2taQUlRVnItNWw2Yk0yekhreUtiWlJuLWRNQWR2N0o5T1FtR0d6bTk4bG1qM3BYczk0M0tTNEFOMzZkU1hlQlRCeHNtaEtFaFNRWV96S3M4cmM2eW9UWWhjVFBkT0FoTnFWTWJvSW50ZVB1VnVGazExcjVPZnFQVGZTVzFkQ0ZHa3Y5Y2xN?oc=5",
         "pub": "2026-11-09T22:01:13+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "MATT CALKINS: Democrats' push to overturn girls' sports vote shows they don't actually care about democracy",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWlZFU05hLTFGNF83UnY2d2JEbkNtV05uTDlhTXpmUlBkS3liSk1xQ1poa3QtWTRSNDMyRlZSSms1bzl4WmR1STBaOGNZNDhYSW12Y2k3QTJFejUyUzd4Uzk5SW55S3g3dFRqVjdEeTRJNWRnbkhSZVFOUXdhbjQyUU1FaEdHN2JRNXZZM3d3OHVvZ1ZXZk1jajFhcFVGTmRjWWRhX0lpX0ViUWMtZVR5VlRPTVpWemx0aGJySzkzZnYtVFlDa00xUlNOeVJEdw?oc=5",
-        "pub": "2026-11-09T12:25:02+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -567,6 +555,12 @@
         "outlet": "Fox News"
        },
        {
+        "title": "Kim Kardashian faces furious backlash as shoppers demand refunds over $148 advent calendar",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUzc4YWxfUFh2b191bnAtUjJhWjR5ck05VWd2QU5qSEJnSmJJZlpidklGa2M5dklPMnRuRDAxYkpKS1BGREs0ZG9NOVpMZzZlUWVHX1dHdWNoTXo1cjZmekxvT21OYkx6Mm80ZXoxYVQ0UWtiR2w3SEVXTTQ4ajNwbU9EXzBnSGx1WGJSaVVrWHJBczZfZ1A3bTJhSGJ0eFRIaUVzM3Nmc09IMzBNY3pqNEtLSHBiMFAyTGJnRGVrWFdYUdIBxwFBVV95cUxOS0dadFhRTUpjWkpwaTFmWWM3WV9EN0V5QzZfY2w1OURSTy1HTHBVNDd1MmNqM2pia1M4QVp1ZVhQbnREaFRvcmhFNHlhUXJhejNjUHlzZHNCZ3ZSazczN2R5cGwyZk9GWHNKUzlyX1h0X2g3bEViZzJHQTZ4azlNM3lUU0VoR2F3d09xakZHUE01djc5QzlPanhYbXAzM045NjFoVkw3X0phSTB0MkZDWjlZQkdrMVJTaVZBTlRtU0NWY0hqZmZB?oc=5",
+        "pub": "2026-11-10T19:57:18+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Hilary Duff says child stardom left ‘scars from the past’: ‘People don’t survive that’",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGZOcUU5UXluMmpCck5naF82YmFSSGdtVnoyQW9NZjBrVzdMTXpQZjdDNDVwbHFUcFFlYkdZWUNVVUJDajFtdkhqNjBEOWdwTGpBNjNFQnhNcmpnVW1mbGZhVGlTZ3RUOUN5SkRiTzZZSkpPT3hWUW1Jc3hjUWlQRDJ4ZDJjWERkdnowd3F2WWhCcl9GeEV3UEYtVy1fQWhYRWgzY25qVkMxcEFGVkHSAbMBQVVfeXFMUERTQVMyV280Sm52ak9weGM0Q3JhcFQ1TkZWdG1BYmotdFZSTjlyUkZpbHl0aHNuaG1jcHhJNFpqUFBXU0l0YjZUMHd0cVgyOTY3eHk2akxmZmpXLWNOQU1xRHV6OW85Y2c2RzRZUTZ1TDJrdWllMnVSZ0JJOTU4THlOQjVDWFUwei1PZHJGNnZHOExHRElqc0QxUG9wMXVueHR3eFMwU043Wm5PSDBxVEJ0dDg?oc=5",
         "pub": "2026-11-09T13:30:47+00:00",
@@ -576,12 +570,6 @@
         "title": "Bruce Springsteen fan club founders say political fights, El-Sayed endorsement led to shutdown: report",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHV6ZHdOVk9iZHJxVDgybVR4bzl4TElxaVNtRDM2Ni1RTHJodE1fbXNBd0c1YUlFX1FqQlR2MVV4N3VueDVYNkdub05VYk1vaTJWYjVoNmhpMHRJOE9kSXdnZzRocmRaRWNsOU5QTzFqdGlTU1hDTXJuMUwwd1hfTkJpS1RSY3VTd2pJdXRpdUxPU2pGeUhBTHRtU2EtaDZvYnRNYTBvNlZIZ0p4dVBFazJHSksxMXpmSnA4SmJ3Q1Y5ajA4czBZYlVOSEk5S2dn0gHWAUFVX3lxTE5RYVhtLWNJQnZEVENMNzBnZkNoNF9RckVXWHAxaFo2Z1lmbFQtNEVCRXhwT1VveVp3SU5odEZTUUJMU0h5ay1YaWYxRmZKTGRXVUNDbW1WYlJ5MDhtLVdVUWxnZ2NjMUEydmJ4eElrNXdNQkVXbk5yMWlFU3FvMGdDbkNadHc4NjhOazVEaTNIZHpJejFIZnR5WGxfSzNCRVFRbmpjMUJGNWIzV0NHcUJDRnh4OVZtcUxWUlRzcHdJTElEZG1uQ01ZR2J4OTFCeE5hcEtWRGc?oc=5",
         "pub": "2026-11-09T23:54:47+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "‘Yellowstone’ star Dawn Olivieri chose Arkansas ranch life over LA to reclaim her ‘freedom’",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcF9YNDRMMVVXeG1xeG94R3lmd0t6TV9rUnI1cTZTcXR0NWtlbXB2c0FzdnBMcVlDbmlCSHBfVDQ1UHU1MjJYYnNYOURQNkZ2RHk1UUV4YVZhYW9acjhkWVF6NFA3enl0dEJRNUNMTlhGRnVyaUt2VUl4OWpsSEhQem1wWkJRQTliMUlDRXc3UU15Q1l3NU5XYmJjVURPVmY4TEYwMTZ3eVg0RWk0cVJaaF9ORHNsX0hYRXfSAb8BQVVfeXFMUEpTdlpaVjdIRUVRMm03RUhsczZteUl6dWswVUM1dGpmQWpTRTVSUVMtd1ZOS3Z4NTVOeHZPaFJGUEpkc2dPNHVycWFZVENWMFh4eVNYRDdfYU9PR0dyemE2SUVzM3FscXFsb3RsVUhrbTRCajhDU01ub1RtMC1QcDhQZkVWMXVhRkVmSERoclczSTlNXzNXOEN5ZzFITXpLMHNfYnpXNmlidFlLYmd1RW9EOUdSaWlZajhIV05sTXM?oc=5",
-        "pub": "2026-11-10T15:00:41+00:00",
         "outlet": "Fox News"
        }
       ],
