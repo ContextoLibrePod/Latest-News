@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:29:49.070125+00:00",
+ "updated": "2026-11-12T17:26:51.005596+00:00",
  "categories": [
   {
    "id": "top",
@@ -49,17 +49,17 @@
         "outlet": "El País"
        },
        {
-        "title": "Última hora de la actualidad política, en directo | El CIS se desmarca del resto de encuestas: da ganador al PSOE y deja a PP y Vox sin mayoría absoluta",
-        "link": "https://elpais.com/espana/2026-11-12/ultima-hora-de-la-actualidad-politica-en-directo.html",
-        "pub": "2026-11-12T16:23:35+00:00",
-        "desc": "Sheinbaum mantendrá una conversación telefónica con Pedro Sánchez esta tarde | Lula viajará el lunes a España para apoyar a Pedro Sánchez en la campaña",
+        "title": "Lula viaja a Madrid para hacer campaña con Sánchez tras su remontada en Brasil",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-12/lula-viaja-a-madrid-para-hacer-campana-con-sanchez.html",
+        "pub": "2026-11-12T17:02:52+00:00",
+        "desc": "Claudia Sheinbaum, presidenta de México, mantendrá una conversación telefónica con el candidato socialista esta tarde",
         "outlet": "El País"
        },
        {
-        "title": "El ‘error Wild’ de Vox: Abascal tropieza ante el grupo de votantes que más lo apoya",
-        "link": "https://elpais.com/espana/2026-11-12/el-error-wild-de-vox-abascal-tropieza-ante-el-grupo-de-votantes-que-mas-lo-apoya.html",
-        "pub": "2026-11-12T15:02:19+00:00",
-        "desc": "El ‘youtuber’ tiene una masiva audiencia de varones veinteañeros, un sector donde Vox disfruta de su mayor intención de voto. Dos consultores políticos ven un “error” de Abascal, mientras otro cree qu",
+        "title": "Última hora de la actualidad política, en directo | El CIS se desmarca del resto de encuestas: da ganador al PSOE y deja a PP y Vox sin mayoría absoluta",
+        "link": "https://elpais.com/espana/2026-11-12/ultima-hora-de-la-actualidad-politica-en-directo.html",
+        "pub": "2026-11-12T17:17:31+00:00",
+        "desc": "Sheinbaum mantendrá una conversación telefónica con Pedro Sánchez esta tarde | Lula viajará el lunes a España para apoyar a Pedro Sánchez en la campaña",
         "outlet": "El País"
        }
       ],
@@ -75,9 +75,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Al menos una persona muerta y cuatro heridas en un tiroteo en Washington D.C. El sospechoso permanece atrincherado en un edificio",
+        "title": "Un muerto y cuatro heridos en un tiroteo en el noroeste de Washington D.C.; el sospechoso se disparó y murió",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXBPMjRicGw5SDBBMFlFVjE2amV1bUVWNEwtRU5FdHNOdkJXY1hGSnRDSmlhRUlEcjJwYnl2MFIzaU9QMksyb0pCcnlfTzBTVHFMUFZGNU1pRWpnZFhwZGhsbGY3RzRqckU2LTd5TFJIcXBoRlhPZ0ZKcG5XQ1NaUW95YnJ2RnJZNFRXS081WTY3WUN4ZTQxQ3BfRUdLcDRaSFRfbnM2VUZULXM?oc=5",
-        "pub": "2026-11-12T15:11:01+00:00",
+        "pub": "2026-11-12T14:07:35+00:00",
         "outlet": "Univision"
        },
        {
@@ -105,15 +105,21 @@
       "name": "Telemundo",
       "items": [
        {
+        "title": "Cuatro personas reciben disparos en un exclusivo barrio de Washington D.C. en las cercanías de la Casa Blanca",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM3J5SUM3REd3Mk0yRWQ1ZG11LUtkcF9zaWVzLUVwUDJUbjRNUUl0OWY5WWZXME9ITU5xQ2pnRHZjeHhfSjhKTjFPaWRmNVpWOFI1NlpqWU5SMFBUaG1fLVdOUmtjNndwbXQyZGJZSWZvRTN6bzBTcnB2VWY5WHJwY3I5Mm54Y1hscXE5SXlLLXBDaXhxanEtV3l1VjVlNkZKM3h1TElncUlaQnpBWEVVQ0hZMHQtclRfX2Npd0tNVHVheE5aY01MOG1iU05Zby15SXJtLW1walptVU9SODA3eUMyellKZTZV?oc=5",
+        "pub": "2026-11-12T13:52:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "Momentos de tensión por reporte de tiroteo en Washington D.C.",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZWQ2dDhYZHpsRGpubG9zUjZjSFhBMU11ekdaQ2diRldGM3F3UlZTRldDY2k5VXQ2RFpkZG9ZY1ZGRUNlZjctZXlBSWlWbVRycjVydzIyb1plRHdpYVcwdVVnbnN6YVdNa0gyZ0phT1Rka0Qtb0FzbnVxUlNueWVqdlA0Q2ZPZGVmbGN4MzRDb0piUHVMMWh1LWhkZnF1b3R3YlJ2RzlxeWp1RDBBTlpvMk91bHpNTW9PTWZfSy1IMXA0Z2ZMMUFlSVRDTEhHUTA?oc=5",
         "pub": "2026-11-12T15:54:51+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "Cuatro personas reciben disparos en un exclusivo barrio de Washington D.C. en las cercanías de la Casa Blanca",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM3J5SUM3REd3Mk0yRWQ1ZG11LUtkcF9zaWVzLUVwUDJUbjRNUUl0OWY5WWZXME9ITU5xQ2pnRHZjeHhfSjhKTjFPaWRmNVpWOFI1NlpqWU5SMFBUaG1fLVdOUmtjNndwbXQyZGJZSWZvRTN6bzBTcnB2VWY5WHJwY3I5Mm54Y1hscXE5SXlLLXBDaXhxanEtV3l1VjVlNkZKM3h1TElncUlaQnpBWEVVQ0hZMHQtclRfX2Npd0tNVHVheE5aY01MOG1iU05Zby15SXJtLW1walptVU9SODA3eUMyellKZTZV?oc=5",
-        "pub": "2026-11-12T13:52:00+00:00",
+        "title": "Asciende a 8 el número de muertos tras el derrumbe de un edificio residencial en Nueva York",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMHBwSzFPRVI3NnN6MzNJM2tHeFlYN1paeFFtUW5xbzZZQ2d4RjJnemJVaTBQWFNDUEhBNnQ0WUxSU2JvWGhUMGhsTnZYbHdKLV9FR1dvN2JVdkpOSXdMd2hvcFd0WHI4UVJ4OVQ1aDRIOW1FakJJWVRKOGEzWm52cnA0c05jRlZ2VWRrdjFhNzIyWU11YloyaHc3aVNpdWsxbmdrRHdVRW1CQkNQNmRSRWNSMHBpOEhBOTRXM3lTclFoZjQ0S0NYaENCVXhlVVVNMUNTaXlvVUE1S1lCSGxLWjR2OTk?oc=5",
+        "pub": "2026-11-12T13:10:04+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -126,12 +132,6 @@
         "title": "Dramáticas escenas tras colapso de un edificio en Nueva York",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRi14eS0yQzBXWTd1b0Jaa3lHeGpTZTJBVGdMZWtWSmlfUndNZzJuUF83VUZOUzFCNXJWX3JnZzgtNWhYaXRIdXU2TE9PaUdFV1lYdENWdEh2UmFfdXpFYVVRbFpheWZZSTFSTVkxMmp1TTRVZUFxbWVTa3JiVTRKYVB4SmJqUXVjZFJVVGdtdUR6UUZkZjVzS0x4VGhnRW1iZkRXd3JNTEFaV0dhQXBNM1dQM1VjSmZCc0N0UENuZElEWEliWFlNTDJPVExkb1k?oc=5",
         "pub": "2026-11-12T12:54:51+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Las noticias de la mañana, jueves 12 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQejB0YzJ2dXMtVno1eWpZRFVfSXY2QnRTeVUzZDBzR0t1akpRWFQ0TFRCU3pxSTVqNldiYldmc0g3YVZGTFFQTi1PMk56SDFPU21GVUFuMEx0alhFbWJRZy1ESWlYZFd0RHRIa09YRGNaYUZSTm9OT0NsLVJ6RUNvRFVlN3otME02UVk4MENpNUxKYmZCaG1GSWlnWmJlUndwUXJob25EUXRBc1I3SGRfQTF4X2syZU1xRk45QUtUcE9iZ0NFb29vZA?oc=5",
-        "pub": "2026-11-12T12:52:19+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -203,9 +203,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Cáncer, horóscopo del jueves 12 de noviembre de 2026: renueva tu energía con calma",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVp6MWhJb0tOMWpET0szemhmckk5d1hDbWxuaEVWdW4zd2FzS2NwazhveUtPcjNPWlBvZTlBVkZIZ2FsUExNbWZoTWlROE9QenBjdjlOeVN3eFptd0tDako1ZkZ1YnZWZ2FTNTdfUU5DQi1iNjA4LTU0cExWdUd3SDNpdTMwOEw3Q1ZkV3pRZXZRZw?oc=5",
-        "pub": "2026-11-12T04:23:02+00:00",
+        "title": "Daniela Álvarez aparece con su ex en México y aviva rumores de romance: “Un ángel para mí”",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY1J6bzBPd0FtYzRPb3lwbkhIRVNWc0pULS12TTJwTTZXOER1S3gxM0JNX01lQXNBYXgyZTJQZjRMTXZUQVd4WWhZLVpxNkdpRndIYmcwWXprVXFiZ21LbGx3RTBiOW9UdTVkMzVkQll3c3FKZUh2b29wbnlnSkZWUjBwNlhOXzI2alJueFFXVGZ6V3Uta1JBN1UxNnhZSXBoUnV0Ni03dklRQlpzZkVmb2hvRmdMMTN4RHg2aXZFRTdZczM2Ync?oc=5",
+        "pub": "2026-11-12T16:45:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -215,15 +215,21 @@
       "name": "Telemundo",
       "items": [
        {
-        "title": "México estrena casa con Rafa Márquez obligado a convencer",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWZVUTZfQ2tsb21ScEhHTlNPOFRsY0ZNZGZud0JIaVBheFNJZTRfMDFWVndvSzBkcWhyNWNsdHdtcHVtRE1hS2otRUQzRF81Ukh0SXU1YUlmRzF1ZEtMaE41WmhrQjVLTWtPWkNTamtBeWE1UEhpNEtXTVJUMDFCZms0VXR6TGhVNmVsZ043dEdXM0dCWHAwTWRYc05TSlRCYzhNbUZXMDJmU0FMeXVFTmcwUlpxdnJsamRwRDJPcTJTTjQxc2g1ZmhvdklUb00?oc=5",
-        "pub": "2026-11-11T06:51:00+00:00",
+        "title": "El Pelotazo 11/11",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZjRqeXNDUHI4TVYxTmhQV0xGMFV1VzV2U2NFaHUyTkFydGVqa2djUFdfejBOLUsyYVFscFlPTFNlVEhZcVpxMFRrQ21Hdl8xZHl5WUNjQ3lwNmNhcGJPTGo5ZExJay1ZMUJLVXVGMjhwc2ZodVlXeDYyLWxiOTJ5VjVJcVZ6LW1wUGxrTjdBcE5pU3YydjYydWVLUEtsWkd6VUhEekxuekgtZw?oc=5",
+        "pub": "2026-11-12T11:06:58+00:00",
         "outlet": "Telemundo"
        },
        {
         "title": "Gilberto Mora tiene como referentes a Messi, Cristiano Ronaldo y Paulo Dybala",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNR2EybE1lRnRyN3d3a05CM3h1TVgtRFF1YXhEYzlVTDRMYndHZUFDcDRMNVBtTWIwRTZLNVJ4a3lLVlNLbDNTb3paOEFFMjNtcDVHa3Bwb0xvT2tFZTVveWhpWThqcmpmWEU2czFCZjB1NUlXT2dzc3U0QXNfZHJzZDNKbmV4ZmMtbGdIemFJNFBUc3Z6WnBuX3hzSzdzQ2JvdEV4VGN2RlF2eWRLRU5wU3k1cjBYY29iS09oYXhyU3B6SVktS3ltZVFGSXRRR05STTJ2ZjB2LUtlOGwzVkxzQkkybmtuVE14?oc=5",
         "pub": "2026-11-11T06:29:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "México estrena casa con Rafa Márquez obligado a convencer",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWZVUTZfQ2tsb21ScEhHTlNPOFRsY0ZNZGZud0JIaVBheFNJZTRfMDFWVndvSzBkcWhyNWNsdHdtcHVtRE1hS2otRUQzRF81Ukh0SXU1YUlmRzF1ZEtMaE41WmhrQjVLTWtPWkNTamtBeWE1UEhpNEtXTVJUMDFCZms0VXR6TGhVNmVsZ043dEdXM0dCWHAwTWRYc05TSlRCYzhNbUZXMDJmU0FMeXVFTmcwUlpxdnJsamRwRDJPcTJTTjQxc2g1ZmhvdklUb00?oc=5",
+        "pub": "2026-11-11T06:51:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -236,12 +242,6 @@
         "title": "Nations League: dos jugadores de Estados Unidos valen más que toda la selección de Haití",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRTZYWnpwVkJKVkNKa2FXRWEwZGtqQW5YMkJXd1Q1Z0xETDh2cmNLQ2lJRHFCejFSQzJEQmxYRTU5MFJlSF9zMFhXdzdTaFlDR2M3X3Y4dzFOX1BQLWJ0cXZxbk5yOXZfZjd1MjV5NVk4Q2pqRmNrR2lqMXVNMFJfTmpmNDBmZmhibDBXdDBGdGxWSkpRTjlCMzhlWDNEYW1HR3BCZ0QweTJ3RnpGenRQMC1qSFRGTUw2d01ScGREc2c5ZkhLNnlQd3JlQ1BENV85RjRxaEpkejNGRmZlb2dhYl90QnFfQ2hT?oc=5",
         "pub": "2026-11-12T07:46:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "El Pelotazo 11/11",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZjRqeXNDUHI4TVYxTmhQV0xGMFV1VzV2U2NFaHUyTkFydGVqa2djUFdfejBOLUsyYVFscFlPTFNlVEhZcVpxMFRrQ21Hdl8xZHl5WUNjQ3lwNmNhcGJPTGo5ZExJay1ZMUJLVXVGMjhwc2ZodVlXeDYyLWxiOTJ5VjVJcVZ6LW1wUGxrTjdBcE5pU3YydjYydWVLUEtsWkd6VUhEekxuekgtZw?oc=5",
-        "pub": "2026-11-12T11:06:58+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -271,15 +271,15 @@
         "outlet": "El País"
        },
        {
-        "title": "Ana de Armas: corsé y transparencias para oficializar su relación con Beto Montenegro",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcmYzVU5LcnFaNmpUVnZ0RDFsWDRGc1NrZmVDV3p3cE5OSDlRZ2lKMW9ReEtyMEdZc0pFZngtTDhka3RPUVRvUFF0YmxYM0t1N0R4SFJxaTZFLUpJdWJZWEhscnN0VkFtU2c0SmNBWWJaOTlTTmpYdjcyTWJXOEZqLWNac3ltVjVFSWlfVHpCbmxNajl2M0lLMFZYNFllWTRrVk9UN0RrdG1iQVA3cGRwNHNEcjZXWjVzMWFZekNaWTFaeEk?oc=5",
-        "pub": "2026-11-12T13:44:45+00:00",
-        "outlet": "El País"
-       },
-       {
         "title": "Muere Stacy Keach, el actor que dio vida al detective Mike Hammer y al alcaide de ‘Prison Break’, a los 85 años",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSXFENEZIQ1N3Unk3Y1I1WHFlV2tPQmhtWHVYald3b2lXbDVQcEdYb1JOY0szQTNvUDZfWkNIeG1Qb2xJaVlVUnR6eWl5U2k3amFzcUZ6ZTM4Umw2a2ZGTVk5aWRYT1FpMkpkSVVmNlYxQ2dzSDRndFpXUHVZcnhHcHBkME5WejR4NUNINThBVm9NTWVnallMcU5femN2dEdTVWk0bFktNHI3YUloWXpRa1R0Mjg3Rk92RDBneWJ6aXZkTm5ZRm5pT1owOWxjRnBYakJYcUFWTDJwR2dnUGRVOVdtMnpBbWVH0gH8AUFVX3lxTFBOcnoyLWZJMFRsWUVmUDZYSlJHSVQ5VGhpLXVtMUczZ1VPMkRwNnZabU9pMkZOWnVicUlDTWVrekd6MTB4eVZoVWdMNnZqY3ZFNWhCRWV3cUp3MDl0NEdMUzNaWG5USDVXcGkycEF4eV9JN0FoMkQyT1h5a2RLd2JOZW5DU0hpVnZZcTNtVE1aY1pfYXE4UmgxQWFRTTRaMXAtS0FpSG9TTTlrRExJUHlja3BlSWlpT3FnSVlHdjh5ZzlSLWFlSkRCa2FBeUVvVTlrMGtCOWxsdmFzVkxvZ0czbE5haHNnWVROdkhyNVQtWmV0UTd0cjR0c2JPUA?oc=5",
         "pub": "2026-11-11T14:22:28+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "Los venezolanos nominados al Latin Grammy que cruzan el país por carretera para evitar al ICE",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMlFSRTczcXVzVUpsbm1XaHJUU3lWcWdwQ2dXVFR4NGtUeVBORXJBcjNPQzNIQ2RYZXNEWE1JT2pBS3FoNEZyXzZBNU80cUNDaGtmamU0Y0VSSm16ZzVOcVQ1UDlYd01uT3hWRWVwS3RoNUhpSGVHNnl4OVEwWEZ4Z1RGMFNJYlFZVFNhYmdFNE8tdDEtRkpkbTRfQ0ltejd0R3lrUnBjS2NzSjZDOUpEV1BxWmYxMFRPTGs3UUhvM0FIajNNVFYzMTFpdUY0TWFERmNnQzdjXzXSAewBQVVfeXFMTnBqQ1ZYWUVvU0xKQmxMTlk0eUdkRzhaczVSLUkteFNFSnZhelJfUndOcFVnbG5GV3BubWZGYUFRUy1ZNGdBeUxDNGhzOEwtYV8zZ1ptaEgyRlNaUjZxd3ozUWpOT3ZMOHVYZXlMQXEyQTJGSXJpVzhWYlNNdnBmTTdiSExtZC1BdjFmbUVyU1VQVWdldWozLWo2VjJ2V3pLOEZpNnUzaDRYamJwNDE3aGx6c0djYTljREdMay1pV0tnbU5mUkhZMlpDWjExVFhTWXlPSTJIcUhveW85RkFhUXpaWTk2amlnZFhaeVM?oc=5",
+        "pub": "2026-11-12T09:30:00+00:00",
         "outlet": "El País"
        }
       ],
@@ -301,21 +301,21 @@
         "outlet": "Univision"
        },
        {
-        "title": "Mhoni Vidente hace fuerte predicción sobre Vadhir Derbez: “Yo lo veo preso” y con “brujería”",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnhOQmFyZHNtMzZfTlFPMnpIdWZtSURzWm5TNmJyYXB4amFwMXRHS2FkLWV5QXczT3pvenJqZ1FsREpDa21icElrVXZic0MzbGlJbWU0NEJDOHgxdWVGcUJlamJ3clNGb3FNX0hLbnE4NjV5R1o1NUxvVEJLWGJmNkNfdklFSkhUNzVhMzJfTkRSd0ZvS0g4bnFUQUxFU29OenZHOW1jSnVRLV9hQlRBTzNNM2pjMHBfMy05TFo3b3ZJOVZuX2c?oc=5",
-        "pub": "2026-11-12T14:52:00+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Regina Torné habría dejado de visitar a su hija en prisión antes de morir: cometió atroz crimen",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbUtoV2puaUhYUG12MFpraWFGWDhCdEszcWZCLVQyMzhxRlduajh3NVdRWDhqcGtyZVZObjlDTGxwRC1xbllaaHktNnlFNGRTbk1mcVdFdldtSWRQR0FDS1BFZEV0dFpkdGltZ0p4SVYzMEtrU0N6c2dSVGdaTGNCQVpaVEcwNXUzOWVKN3JHbnpNWFp1cWlZcmI5SVN5VmlSajVBa3VtUzlncjJNUHZnSEJjWERXSEtHUG1vWnIwdXh0UG5OSnNfTG1sRjlEN0k?oc=5",
         "pub": "2026-11-12T12:55:00+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Lyn May no quiere andar con hombres “colágenos” porque “no tienen dinero”: “No estoy para mantener”",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmlrTUhhVy05RkRhRzVSMk9PVzFSS3ZmRUJLNnRTRVc2eWhJa2pRWTZmbHJvcGhKcGtXaThzUTRQN3FpcDdzVWVSUHVITUN2aEFKR090ZGdiSGFpVUNoazZWMWxlQm96LUppUElHd19adVE3Qk5zM3NFS3RCeF9uRzFfUkh1MnFNLU1sR2VkOUFDd29IdmYzZGRFM2lUakI4WEVoSDRDcElKczRpNVNycTJyRGR4M3VmcmtwR0FteXBSbFBkUjczQ1cyTXE?oc=5",
-        "pub": "2026-11-12T15:11:00+00:00",
+        "title": "Mhoni Vidente hace fuerte predicción sobre Vadhir Derbez: “Yo lo veo preso” y con “brujería”",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnhOQmFyZHNtMzZfTlFPMnpIdWZtSURzWm5TNmJyYXB4amFwMXRHS2FkLWV5QXczT3pvenJqZ1FsREpDa21icElrVXZic0MzbGlJbWU0NEJDOHgxdWVGcUJlamJ3clNGb3FNX0hLbnE4NjV5R1o1NUxvVEJLWGJmNkNfdklFSkhUNzVhMzJfTkRSd0ZvS0g4bnFUQUxFU29OenZHOW1jSnVRLV9hQlRBTzNNM2pjMHBfMy05TFo3b3ZJOVZuX2c?oc=5",
+        "pub": "2026-11-12T14:52:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Daniela Álvarez aparece con su ex en México y aviva rumores de romance: “Un ángel para mí”",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY1J6bzBPd0FtYzRPb3lwbkhIRVNWc0pULS12TTJwTTZXOER1S3gxM0JNX01lQXNBYXgyZTJQZjRMTXZUQVd4WWhZLVpxNkdpRndIYmcwWXprVXFiZ21LbGx3RTBiOW9UdTVkMzVkQll3c3FKZUh2b29wbnlnSkZWUjBwNlhOXzI2alJueFFXVGZ6V3Uta1JBN1UxNnhZSXBoUnV0Ni03dklRQlpzZkVmb2hvRmdMMTN4RHg2aXZFRTdZczM2Ync?oc=5",
+        "pub": "2026-11-12T16:45:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -523,6 +523,12 @@
         "outlet": "Fox News"
        },
        {
+        "title": "Sports world reacts to the sudden passing of legendary broadcaster Dan Hicks at the age of 64",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXBONkdFLTNTV1g0M19JX3UwQkkwcVJjYURzT0ZzUXJVU01iQWhDaGljQ244YWYtcTRjQTgxdThncWEtb1pSbGM1M3pjUXZGOUo2TUdabUREeFhPM3Y4N2hWcU1vaGoxS0dPV0NhMUw3Z3RiaVYycENtM184Wm0yT3Y0QnctNnl5bmFGRlNlc0c5dFhiTjBBRDVxZlhSVFlPd3g3eHF0OER3VlBJSmE5dUtB?oc=5",
+        "pub": "2026-11-12T15:57:20+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Former ESPN star Sean Salisbury says political arguments wore out fans who just wanted sports",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDBlNkZ4Y2VDc1JWemtZTjl4cncwTC1sSmJxZGpIVWVvSUhlRDNndTF6R1pOdjItZTZYZk5yaV9ubGM1aXJVLVp3SmtFSTdKVkN3b0RjUnlBTldBTjA1YURvcEJoa1M2dFQxd1B1S2ZKYm9OMkcxRkZROHNObklQeDh2V1I2aE15dHk3OWpjNEZ5cVczczB0RzhGR2ZUOFBxcGhDLXdhNXgycGQwaXA1QVh5NzRmLWZRRlNCTEVXRkk?oc=5",
         "pub": "2026-11-11T19:24:55+00:00",
@@ -538,12 +544,6 @@
         "title": "Sean Salisbury says ESPN lost its way when it stopped putting sports first",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42S3V5TGlfNG82NV9OUlNReFY3eE1PLTBjRmtHSWhHRmJGVUh0eG1VY3JrdTZWZnRuOHEwNnU4R0dzTTkyTkdfZnVhT3d6bXl3SWZjTE9R?oc=5",
         "pub": "2026-11-11T18:28:49+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Memphis football coach Charles Huff leans into job rumors with brutally honest comments about recruiting | OutKick",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRlo1bkNRbTdmNWpvZUlvQzl2WE43SmhTRjJtcmxQUG1sd3BWamg3eUpTU2ZPRGhPcE9PaVpkS09ZX3lXX2J1M1RTdERURU9mT3FtbWpEbHZmLVRQUmxON0xFS2Raam9ESkZnM09ickpNblhkTVExT25QQlJndUx2Wi15ZWxROHFEYWhhWTlZbXd4RG1FRk9uUk5VXzgtdjZJbmJyYXhEbzNfX0hHQ0hJVDJ0dUZQa1Y3cFc3ZmxLdkRhQWVjbEE?oc=5",
-        "pub": "2026-11-11T16:37:40+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -561,15 +561,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Antonio Sabato Jr and Virginia Madsen's son arrested in fatal hit-and-run",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcFFNQWtCUC1acmFlVWU2QUtXa0JKM1dJUzRqdVJlZk9MaGZTdFJleDZaMThwNlNjUVI4bVQ4QWRyM2RfdHVIbTA2VXRUeWhBNVFBeHZMc01iUGRvdFA1blFLUlVfSkVyLXNQbWhQMjNfSjNybjc4bkJHQ0R5UEt6cmZYRm9lcm1xbXpQdmpCeGYza3JySUlZTThGSlBwNElTTUwzRFFn?oc=5",
-        "pub": "2026-11-11T16:41:08+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Stacy Keach dead at 85 as ‘Mike Hammer’ star’s wife shares emotional tribute",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTW05MC13bFVKTkdZcDZUbGU2UEVabkUwd3Q4ek5Ea1JkZkRnaVFpMVA0RzI2X1pKcUVoSnExeE40aU9zMG83aS1QaURGTXhhZFNUZGpDdGNDN1BRdi1OU2drLVEweG5JUmppMHBHcjdBVDRfTlJPWExZNkpQOFNpTmR0clZRaFNPVHp3UllRVldlMFRVNk8tdU5RRTV2NFl6WFRYY2FMTVTSAa4BQVVfeXFMT20xNUxLVjFCNUh1N1dDZmhOU0VVcHYyWUE3b3lFdlYyUGxHQVMycUJHNmpWSktiZjFVdlRyVUdmd1RsVjVHcnM5clRncHZ6ZVZOZXkycHlyMmNjRlF6WDBNc053b0xEOTZ2aXFDb0dSY29Zbzh4d01zLUYwTUdLUUZfbmNzVEotTU1wVzhXSzk3WDc3Q2tFTFcxbm84VzREVDFfZXV0THBGbFUwbXdn?oc=5",
         "pub": "2026-11-11T03:05:59+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Antonio Sabato Jr and Virginia Madsen's son arrested in fatal hit-and-run",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcFFNQWtCUC1acmFlVWU2QUtXa0JKM1dJUzRqdVJlZk9MaGZTdFJleDZaMThwNlNjUVI4bVQ4QWRyM2RfdHVIbTA2VXRUeWhBNVFBeHZMc01iUGRvdFA1blFLUlVfSkVyLXNQbWhQMjNfSjNybjc4bkJHQ0R5UEt6cmZYRm9lcm1xbXpQdmpCeGYza3JySUlZTThGSlBwNElTTUwzRFFn?oc=5",
+        "pub": "2026-11-11T16:41:08+00:00",
         "outlet": "Fox News"
        },
        {
@@ -599,9 +599,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Nvidia shares plunge more than 7% in premarket trading as CEO uncertainty rattles AI stocks",
+        "title": "Nvidia shares sell off as CEO Jensen Huang resigns",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWWFuV2IxejFCSjNhTVFHLXZLQk9faUxRYXFWODUyLUlJV1FLWG9rY1ptOUNXZS0zTFZHdGJYVVRnb2N6VUR6WngtdEFMTEVyZkR2Y0o0TDFwN0xEaGZtbUtsMWF6OU50RGs4Y2I1MllPbXd2SXNyQ2QtNm9ZMEg5cTJvVXNjY3JmQld1OGxMWEM3VnU0WmNrNlV5RFJWSlgtLXZEVTRad2lJa3Q1b1F2UW8wLTZrd9IBuwFBVV95cUxNbnRCbGYxU0lwTXpSa0tQZWp4WFdQbUJQTFNJNHF3cDNNWmRJVzJ6bTRzOU1FMVdqa0lTYkhXTUJzOWNiOENXRmZyMGNzMEpXcGJKMTBnT2xfTUFjcFk5X3pwTkVmX185ZVBVNmV3eHhOUHdvZThSVHgxclptRTVaYWl0TzI0TGl4RE1iR2xDc1F0dnc3eEhEV0ZYQkdyTWF1MnNIX0NfdElQQ0lkTjZMakY3TTljZWVtcnF3?oc=5",
-        "pub": "2026-11-12T13:01:41+00:00",
+        "pub": "2026-11-12T15:28:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Trump says 'there is only one man' to replace Jensen Huang as Nvidia CEO",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNODlvdVMxVEZtQXN3THlxUnpaNVl5T2J4SVFDZUVoRTRCYmhiT3FscF85cGQ2ZmZsU3NGb1l5VDdvbDNMTUZqNVVnQlRjLVFHZkN6ZVBfRnE4RlN2TU1tazBmLWRRUkp2OWpLTEkyWU1WbzJ4eG16UHdzNEFRa1RiOEJoSdIBiAFBVV95cUxPMHdXU0dNQ2RucnN3M1RSZ0ZQN2hmcUJVQjVHdlg5b3BPRG1LSmp3WGg0ZjFadEdyMEx6T0YzdHJQRVNma3g1ek5Dai0wXzJENFhNNDJjWXQwNjB6WnJUWGIwMjA4ZUt5Qnhzb19CX0Z5YlI5SUQxSDVsYlhoRHVsMVRaVUJ2RzVK?oc=5",
+        "pub": "2026-11-12T15:38:02+00:00",
         "outlet": "Fox News"
        },
        {
@@ -611,15 +617,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Nvidia preparing to replace CEO Jensen Huang as second alleged affair emerges: report",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWN0ekV3QWFzaGtVZkZ0bzZDWVZ0WWdITi0zQ3ZDRG1ONVo5TFo3a3NmcHJIcE9QeUFWZmFfT0xqQ2ZPckE3S0g3Q2dMZDFqT0pXVU54R3V1RjJ0dl9LNlJaVWJYaV9ZT0E4SFhuWk9kWVFaV0lsZF91NmpWWFpjZVpzVEdXWnZxMzNNRWJHRG5CVHluWE5VZ0lKTjVTRzhIUnJZVVF4bS1ETXJReTl3Rlp3YzPSAboBQVVfeXFMTnZxcUR0OXRBUHlvbXpCMTl2VXk2Z1h4RzI4X0RrMTdYYk1OV3VESmJRcExhc0RvS2NSVFF6cXd0MnJyd2lvRkpMSVBlODNReEtIbEtKZWhxbzd3ZW92VFVucThWbENtT29oWWdnT2I3NzNuZ0luUi1zaTlBcUlnamhxNmVzTEh0aDhzb3hfRVhwNnVIam1HYkhFd1cwa1RwN1NBaThkcTROZVlpc1F5TEdUYkQ0clR6MG5R?oc=5",
-        "pub": "2026-11-12T00:13:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Silicon Valley is 'a center for espionage,' former FBI agent warns after Nvidia spy scandal",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0xkNlU1bnJXZ2p3LUxCLXVLTTl0OERDSHRKNk9TLWY4THRBbFJqdTd4NXNhbFc1aXJWcURNRmtsTW83aTYzM3BveWZ3aldsalZyUnczQk1tRWVibG9KTU5ER0Vfb1lCZEZSTlJQdlE2YjRNQWVVTjdmUEV1RmxjNlhTZ3ljZXU5bkxMdUhlQndvZ0tkQXZuaE5DYk9FZTJuYWZ0WjN3eVZxR281dWfSAbMBQVVfeXFMUGxvajNROVZBWVh0NjhXdWFqS1NZNEtWN3Y2TGV5aE5tOWdWbkRSU1FsNjQ1dDlsa0VmLVVYU1JBRUlWVzZzb0VaVkpkR3JyQzBUQnVuSTF1eFdydTF1OVdwUmprbzUycEU2VEtYZWNkLUphNEFfNFRtbkJsc3VIajNTeE54dFp5dGRWRWw3R1czZlhFZW5XVGlqU2hsdlpfdmF1d3loRmFxSkVZeWZHdzM2Wlk?oc=5",
-        "pub": "2026-11-11T18:53:00+00:00",
+        "title": "Musk says it would be 'an honor' to hire Nvidia's embattled Jensen Huang",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkVDbFZFci1WemJULWVNcEtjNFhOZU9fclFuV3dKSXE1aHN1ZmtlMVIzbUU3b3hZSk5yR1d2bncyOTdUdmpFTHBkaGhER1NHUmEyODNVM1B5WVRLTThfclhORFZWREM0di0wV0hHdkNPOVF4a29URmQtbVBTdmd1TXJ0ckFTM3A0TkYxS21iVzJEVVVNcFdPQVJR0gGfAUFVX3lxTE9aVTRFRWplVjg1dW9VbnhjNjNWSWRnY3NHQk9EZ24yMXRlZUZoV3prSHZobHM0YV9oV3FzWWZucm9TcW9xVGRJTllsajVQNWhOUmZ1QUdKcFN0ZTd4ZV9WRlk2Nm42bnlMZV9HRWlUMjFNdkdmaERYbHFMWEVweThXVzBPdkVxQ0V4cmlRYU9rQlpEM1RuWkJUalhqbkxETQ?oc=5",
+        "pub": "2026-11-12T12:51:00+00:00",
         "outlet": "Fox News"
        }
       ],
