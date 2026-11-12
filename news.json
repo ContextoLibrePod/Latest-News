@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:28:09.228515+00:00",
+ "updated": "2026-11-12T15:26:12.115887+00:00",
  "categories": [
   {
    "id": "top",
@@ -28,6 +28,20 @@
       "name": "El País",
       "items": [
        {
+        "title": "Jensen Huang renuncia como consejero delegado de Nvidia forzado por el escándalo sobre sus infidelidades y el caso de espionaje",
+        "link": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
+        "pub": "2026-11-12T13:59:47+00:00",
+        "desc": "La relación extramarital con una presunta espía china y con una subordinada de su empresa precipitó su salida",
+        "outlet": "El País"
+       },
+       {
+        "title": "El ascenso de los hijos de Huang en Nvidia aviva las dudas por la gobernanza: de chef y barman a ejecutivos de la mayor compañía del mundo",
+        "link": "https://elpais.com/us/2026-11-12/el-ascenso-de-los-hijos-de-huang-en-nvidia-aviva-las-dudas-por-la-gobernanza-de-chef-y-barman-a-ejecutivos-de-la-mayor-compania-del-mundo.html",
+        "pub": "2026-11-12T12:50:39+00:00",
+        "desc": "El yerno, Nico Caprez, exmonitor de esquí en Suiza, ahora dirige una de las áreas más importantes del negocio",
+        "outlet": "El País"
+       },
+       {
         "title": "El mapa electoral: ¿Qué dicen las encuestas en cada provincia?",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-12/el-mapa-electoral-los-escanos-en-juego-en-cada-provincia-segun-las-encuestas.html",
         "pub": "2026-11-12T04:30:01+00:00",
@@ -42,24 +56,10 @@
         "outlet": "El País"
        },
        {
-        "title": "El discurso de Pablo Motos y “¿cuál es mi cámara?”: los momentos destacados de Feijóo en ‘El hormiguero’",
-        "link": "https://elpais.com/television/2026-11-11/el-discurso-de-pablo-motos-y-cual-es-mi-camara-los-momentos-destacados-de-feijoo-en-el-hormiguero.html",
-        "pub": "2026-11-11T22:32:22+00:00",
-        "desc": "El líder del PP acudió al espacio de Antena 3 mientras que ‘La revuelta’ no emitió programa por la huelga general",
-        "outlet": "El País"
-       },
-       {
-        "title": "“Se ha cagado”: los ‘youtubers’ reaccionan al plantón de Abascal con Jordi Wild y la órbita de Vox lanza teorías conspiranoicas",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-12/se-ha-cagado-los-youtubers-reaccionan-al-planton-de-abascal-con-jordi-wild-y-la-orbita-de-vox-lanza-teorias-conspiranoicas.html",
-        "pub": "2026-11-12T08:11:00+00:00",
-        "desc": "El Xokas pide no votar a Vox. Ibai Llanos y AuronPlay critican al líder de extrema derecha. Y hasta el agitador ultra Vito Quiles: “Un error”",
-        "outlet": "El País"
-       },
-       {
-        "title": "Jensen Huang, destituido como consejero delegado de Nvidia tras destaparse el escándalo sobre sus infidelidades y el caso de espionaje",
-        "link": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
-        "pub": "2026-11-12T13:59:47+00:00",
-        "desc": "La relación extramarital con una presunta espía china y con una subordinada de su empresa precipitó su salida",
+        "title": "El ‘error Wild’ de Vox: Abascal tropieza ante el grupo de votantes que más lo apoya",
+        "link": "https://elpais.com/espana/2026-11-12/el-error-wild-de-vox-abascal-tropieza-ante-el-grupo-de-votantes-que-mas-lo-apoya.html",
+        "pub": "2026-11-12T15:02:19+00:00",
+        "desc": "El ‘youtuber’ tiene una masiva audiencia de varones veinteañeros, un sector donde Vox disfruta de su mayor intención de voto. Dos consultores políticos ven un “error” de Abascal, mientras otro cree qu",
         "outlet": "El País"
        }
       ],
@@ -69,15 +69,15 @@
       "name": "Univision",
       "items": [
        {
-        "title": "Scott Colom gana el Senado en Mississippi y será el primer senador afroamericano del estado en más de 140 años",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaFNQb3psblVRNFhqbVNSbHNzeU9NVklMbTFpQ25GbWFqUzFSWE5FNGxTc1hOUlBBMXB5SVRDWmY4bGEwT21McEd1Wm1rOW9oaTJPVDZfUDJUSEsxY2JsT3dISHdtcUdMRjhNYmtZVVhadHg4TjkxSnlPTkp4WHZqWTlUM2xDNlo3OVhvVmV6Z3FTQUNwbjZUelh3QldjWmhwYkJSeS16LUw2X3BtSWxaWjB2NHhfVFZEZzZrYzBYWmtZaWVlTW9MaC10OEJBdXZCN293Q3BKbnB4ZnQ5dmc?oc=5",
-        "pub": "2026-11-11T23:28:20+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Al menos cuatro personas heridas en un tiroteo en Logan Circle, Washington D.C.",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXBPMjRicGw5SDBBMFlFVjE2amV1bUVWNEwtRU5FdHNOdkJXY1hGSnRDSmlhRUlEcjJwYnl2MFIzaU9QMksyb0pCcnlfTzBTVHFMUFZGNU1pRWpnZFhwZGhsbGY3RzRqckU2LTd5TFJIcXBoRlhPZ0ZKcG5XQ1NaUW95YnJ2RnJZNFRXS081WTY3WUN4ZTQxQ3BfRUdLcDRaSFRfbnM2VUZULXM?oc=5",
         "pub": "2026-11-12T14:07:35+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Scott Colom gana el Senado en Mississippi y será el primer senador afroamericano del estado en más de 140 años",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaFNQb3psblVRNFhqbVNSbHNzeU9NVklMbTFpQ25GbWFqUzFSWE5FNGxTc1hOUlBBMXB5SVRDWmY4bGEwT21McEd1Wm1rOW9oaTJPVDZfUDJUSEsxY2JsT3dISHdtcUdMRjhNYmtZVVhadHg4TjkxSnlPTkp4WHZqWTlUM2xDNlo3OVhvVmV6Z3FTQUNwbjZUelh3QldjWmhwYkJSeS16LUw2X3BtSWxaWjB2NHhfVFZEZzZrYzBYWmtZaWVlTW9MaC10OEJBdXZCN293Q3BKbnB4ZnQ5dmc?oc=5",
+        "pub": "2026-11-11T23:32:11+00:00",
         "outlet": "Univision"
        },
        {
@@ -105,6 +105,18 @@
       "name": "Telemundo",
       "items": [
        {
+        "title": "Cuatro personas reciben disparos en un exclusivo barrio de Washington D.C. en las cercanías de la Casa Blanca",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM3J5SUM3REd3Mk0yRWQ1ZG11LUtkcF9zaWVzLUVwUDJUbjRNUUl0OWY5WWZXME9ITU5xQ2pnRHZjeHhfSjhKTjFPaWRmNVpWOFI1NlpqWU5SMFBUaG1fLVdOUmtjNndwbXQyZGJZSWZvRTN6bzBTcnB2VWY5WHJwY3I5Mm54Y1hscXE5SXlLLXBDaXhxanEtV3l1VjVlNkZKM3h1TElncUlaQnpBWEVVQ0hZMHQtclRfX2Npd0tNVHVheE5aY01MOG1iU05Zby15SXJtLW1walptVU9SODA3eUMyellKZTZV?oc=5",
+        "pub": "2026-11-12T13:52:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Estas son las 5 noticias más importantes en Noticias Telemundo AHORA, jueves 12 de noviembre",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSUliVXRPX3hnbmNFdHlZUFdiZHlWSDNiV1pZU2pOdmE3eXFCWWptQTY0eVRqRDcyS1Z3QVNIYVV1NUlnaHhpVUljTGRRUGdwSXp0b1ZIVGR4c0dfTXdFT3l3ckthUkRMMWt6RFFjNFMxVHQ3ZzhaWE5yRGNEX3hzMU9xNFhDY1AyR2JZNzd4UkpxY1pvV1BWeXR6LWd1dDhXWmZMMTZFV2JSbVg0SENGVGV1aUo1SlFQNE1LbGY2aFN2UHlJOFdMVzJwQzB5ZUdXV2pBQWJldHVjcGxhV1l0MWVIWWdONGd2Vk5lY0p0MjF1NUcyb2RIeVB6V3d2TGd3ZU1qZlFkbmdGM2s?oc=5",
+        "pub": "2026-11-12T06:49:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "Dramáticas escenas tras colapso de un edificio en Nueva York",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRi14eS0yQzBXWTd1b0Jaa3lHeGpTZTJBVGdMZWtWSmlfUndNZzJuUF83VUZOUzFCNXJWX3JnZzgtNWhYaXRIdXU2TE9PaUdFV1lYdENWdEh2UmFfdXpFYVVRbFpheWZZSTFSTVkxMmp1TTRVZUFxbWVTa3JiVTRKYVB4SmJqUXVjZFJVVGdtdUR6UUZkZjVzS0x4VGhnRW1iZkRXd3JNTEFaV0dhQXBNM1dQM1VjSmZCc0N0UENuZElEWEliWFlNTDJPVExkb1k?oc=5",
         "pub": "2026-11-12T12:54:51+00:00",
@@ -120,18 +132,6 @@
         "title": "Noticias Telemundo 11/11",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnl2TGtUeUxiZXllTGpoa1B3dmo4LXNQOGpvcDNGaUpkVEp4V1llTTlYWm1ITzNMalAwMjBZblBLSEwtc0dzb19Bd2NFM2RQM0szMGprWk55YnRMc18yZ3U2WHpoV2Z3czB5c01DUWdpQm1wWHNBWWkxX2ZJLVcweHRzS3QzTlpEYl94amVLZUhxZnBqcWt0RkRvSk1kYzBPMDRJWDFjbEpUc0I4aW92WGotQUpQd19CYUdfWVh4MGlEaVdidDVmSzBiOA?oc=5",
         "pub": "2026-11-12T03:42:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Noticias Telemundo Mediodía 11/11",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeVh3YU5zWWhxQk16c2hSSXlJWW15MjdkVzBIUWFxbUtCbVpVd3RldTJ0UnlfNTJGZTVOT1hhV1VTcko1OGU5c1dIZ3NjYjJncV9EWWdkQklUb00zVkF0MWRTU2FuZWlMOVktYzlsOG9oRHlzbElBN3pqbnRULU9nX1ZZS3FsY0NqWmdYeWVXUGFveV9URnlqRzJKT0VrTHpGZTlZM1Y4Zmd0YjhiM202RlBwQ21XcW9HcUVGTnNJbDVjNzhBdUt2U2hZS0laMmF2UGZQeVNFQXI?oc=5",
-        "pub": "2026-11-12T02:05:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "EN VIVO: Derrumbe parcial de edificio en Brooklyn deja al menos cuatro heridos",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazMwZ3FWY1cxVnFodUx0ME1oQ09VOVBvc3d3R0pkV2c1T2pFMjJSQ2FGdHNfTHJFbGFLbUV1Z3lXdXNHX1RSNWVXN0VtMFg5cnJpZE1FVS1IeUFEYXRiUzNOSUhycEZ0b2pMS0lxeDFabndGRjl2X3FDckdoSGlqU1pIT0tUZHhpQ3lfUWE2dkI1NVh6cXpnZFdPVEhwaDYxblJsMjlqQmJYUS1STWthODVxVkxqVzQ?oc=5",
-        "pub": "2026-11-11T22:10:27+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -197,9 +197,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Géminis, horóscopo del jueves 12 de noviembre de 2026: escucha tu intuición hoy",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWV8yY1lDUWgtZzFxZkJzQjZrekRyRlVaWVV0bU1HLXc5STQ2cWxaYnp0Wkw4XzRHQ2hUNnQ5aVRhUFFfT3hOTXYtZVo5azJpeXVEN1FxeWotSFY4U3lFYVdyNFA1TDgycWxjYzBFT2tUQkh5YmxOVDB2UWJkZ2FWWHBnQjd0a0NoaDUySEZ2NzQtM00?oc=5",
-        "pub": "2026-11-12T04:22:08+00:00",
+        "title": "Leo, horóscopo del jueves 12 de noviembre de 2026: escucha y transforma tu mundo",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjZWN2puTGhDZ1RhbXVvcm01b0JjRVota2NzNG5kSmxReVJBaUlRVHJwaGc2X3BjdVZ0NGxtdE1JRm5nUEl2QmtNVFZIVWdfN0N1d2U2M0RsSjJNckdGOWJrbVpMVk5KQ1FLWG0yODZMTWNiYTRHdGlyVXB1bk5BUDV1eUVWMUlqYVRxampR?oc=5",
+        "pub": "2026-11-12T04:22:04+00:00",
         "outlet": "Univision"
        },
        {
@@ -239,9 +239,9 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Chivas se afianza como cantera de la Selección Mexicana con 14 convocados en todas las categorías",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUzdpQ0Z2dnVqcmtLeWhiR2o0OHNaek1ZOUtTbVRJVDhXTVlSTGp2cEktaHpkbXhnVHB5czQ1d2diaGJnTU9yWF95RzZFYW9JeE1zbWVhcWJSVnA2ZXBUbVdfa0pSRVlkZUtQSmhLREdQR2xTR09VS2gwNkZqaGk1WXNVWGNIeVdJS0NNMTlxM3dBdV8wZWstX1Q5djhxZTBlNnc4am80WHpwSWlkZEhnT0VyVnRucUZWWDJmWFpMVEZ3alVQUTdN?oc=5",
-        "pub": "2026-11-11T20:14:35+00:00",
+        "title": "Promesas que todavía deben elegir el país al que van a representar",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTXNJQ3VfN2p2RGtTOUZweTZaSjVnOFFLZTBnR3A5WGhLUWRJNEpSRnB5VElxNm02elR3QXNwRzZNQ1RETGVEdHZSM0hlXzlvY2xkTTZBVWhBaklrU1dmTUFNX0h3cWVfd29ZUmtTQk1nZnRrY2FrQmN4NHlNNzRvT2gzbW9rMVdCV3RYT18wWmtGWHktWi0yYlh1aEhmaDZZWVRjZzhBbkxTNDVVQjJnd1B5SWtWdHlFdzVJSHFybWVsUQ?oc=5",
+        "pub": "2026-11-11T22:41:07+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -301,9 +301,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Regina Torné habría dejado de visitar a su hija en prisión antes de morir: cometió atroz crimen",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbUtoV2puaUhYUG12MFpraWFGWDhCdEszcWZCLVQyMzhxRlduajh3NVdRWDhqcGtyZVZObjlDTGxwRC1xbllaaHktNnlFNGRTbk1mcVdFdldtSWRQR0FDS1BFZEV0dFpkdGltZ0p4SVYzMEtrU0N6c2dSVGdaTGNCQVpaVEcwNXUzOWVKN3JHbnpNWFp1cWlZcmI5SVN5VmlSajVBa3VtUzlncjJNUHZnSEJjWERXSEtHUG1vWnIwdXh0UG5OSnNfTG1sRjlEN0k?oc=5",
-        "pub": "2026-11-12T12:55:00+00:00",
+        "title": "Mhoni Vidente hace fuerte predicción sobre Vadhir Derbez: “Yo lo veo preso” y con “brujería”",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnhOQmFyZHNtMzZfTlFPMnpIdWZtSURzWm5TNmJyYXB4amFwMXRHS2FkLWV5QXczT3pvenJqZ1FsREpDa21icElrVXZic0MzbGlJbWU0NEJDOHgxdWVGcUJlamJ3clNGb3FNX0hLbnE4NjV5R1o1NUxvVEJLWGJmNkNfdklFSkhUNzVhMzJfTkRSd0ZvS0g4bnFUQUxFU29OenZHOW1jSnVRLV9hQlRBTzNNM2pjMHBfMy05TFo3b3ZJOVZuX2c?oc=5",
+        "pub": "2026-11-12T14:52:00+00:00",
         "outlet": "Univision"
        },
        {
@@ -447,6 +447,12 @@
         "outlet": "Telemundo"
        },
        {
+        "title": "Consejos para renovar el seguro médico en Estados Unidos. Una experta explica el tema",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa2hMSXVRMUVtYXlIUEdjYmFpazgxeDczWkFWVDc1bkFSVjZRQTNyYTdWTzlBOHppeHR5cFE4WHk2Vk95NGxmV0QzMnNfcHRBdlJnU2k0MlJFS0MybkppWUhrd2dJSHlyc3cxcTRnSlpCbnllYVllbUNBT0t2b1V0bURwUC1sS1g1Ymo5WW1YWFZxNi1EVWdKTnJHY08yY0RSM1djbVZxTl9jZnhLRkVUT0JjQUFHTGJZMHdVZi1mRDh4SHN0aERWcXdCMjhIOHZ2YldRVkhnV05oaTExbzFaQWRHRy1lYnVFV1MwNFNHSUlwSXJMOHc?oc=5",
+        "pub": "2026-11-12T09:18:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "El precio de la fórmula infantil alcanza un máximo histórico",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUmhWRHpJcjVmQ2xTTUxkdFIxWEthamdqaDZCTVk0M21qQndwVExkSGVMek9GSnlWREpRYnkwOVJSNmF4bnMydnFIQ1RyQjBmUHBUUnA5UUVBUHlfWHc5MTZ4dFo1dWFSRVhTNEFyWm15STlSQTVhMXZaQzJyVnJMcGt3cU9MaTNjYUFQQk82YzZyQjFiVkd2V1doQjhOMTZPVjN1c1BYbk1zVjZEdmoxc09YWEF5Qm9nQnJKbzBnWkVlYVVyQ2l1YVNLU1RCbTNxQmliSGRwcE12ZlJWQ1ZFYjA3R2Jydw?oc=5",
         "pub": "2026-11-11T05:20:00+00:00",
@@ -456,12 +462,6 @@
         "title": "Un experto comparte claves financieras para iniciar o expandir un negocio",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMkdCUGIwU2NtSGxlbms5dUI3bGZXamJEMXZEVGIyNDZmWUlwSVhKbEVvNXh4ZTVIWW5Ja21JMWZVTXlJWElpbm1tb1NPOTJyYWIzY3NUMWhDSVlrTkVmNEtvQjREdUZLYmRScWZkQS00ZjdWWE5LOERnT0FhNzFlNDB3THpDZE90RUhubHphSlAzR2hOdS1BYzc0N3hNNHhXTVVkV243MGNIVFFoSzNtb0J5S09JLVdEeVFtVE43UUpoWFhrQU9tVGhFaVFraDB5QzVxRzBaekdsVFJ5WldRcFZ0Zm9naUxfT3pZ?oc=5",
         "pub": "2026-11-11T08:14:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Estos son los cortes de carne que puede pedir para ahorrar unos dólares en medio del alza de precio",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOVRSYlZTMHM0aGkzeGZyc1h2bTB5UFVqeU40UWxIanJfNW9oWlZWc0h4el9MT0FieV9PZUc2b1RFVEFXWElmZmc4dFVTWEJ0QS15UC1SV1lzdl9FN2U4N1lINHNMXzhwTnRkdDNCWG5Lelg2Q1ZkWG50QnJtVngtR184MXFkbTNadDlBQlRjUG81MEt0SnN1MHlzYzgtaDNYbXdNV3Z4cm9RS0lmVzYxanBZUTJpZU1zekd4cEd5UlVTSmhTV2l2T29tVmtERWxGME0za25wVGo5cUF5Q3pjSVJQUlVUVDljUkRGSEVMV1RGRWFUb0t2WlJaV21TOFI2YkJZU0YwMHY0YmpsR1E?oc=5",
-        "pub": "2026-11-11T09:36:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -491,12 +491,6 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Wife of former Jets and Alabama Crimson Tide quarterback Richard Todd arrested for attacking him with pliers",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFZ5NE90Rzl0dG1IUWRyMEtQLU1PT0RHX0JJaUVXbzd6UkRGLVNQaVRUVXVCU1NyOWtqc2VBemZkSEszTTJsbVQ2bmNZSGdfal9lNW1maGJTUlJ1TURtTnAyVXV2Mi1jMUEzUE9LY2hjVmQxc0JJVG40cm1kZXNaeVFfdWVsYXRIcW45TV9UQXdXS1dRYXZMMFQxbi1jWGRNN2xSUUt2Zm5sbHBVUnZ2RXowWVNBN0wtRmF6dDg1UU9RWURRRVE?oc=5",
-        "pub": "2026-11-11T22:04:15+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Dems projected to score historic upset in deep-red Mississippi, topple Trump ally Hyde-Smith",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRWdkdFpHdnlnazFsa1RPdWRSQUtjZXQ0QzQ4UkZaQS1wc1pldXh0cUVBSnVzbVhFV1M2c2hROTVfb2FVTDB4dzhoZHBjbHczU3FqcC1Yd2xjMXZlYkNIZU5Vd3Rtc2I1X19HRmNHZFdYYV9GWTRzcHBFZEwwVmVUTnloeGJGdmxlY1NPZFdIaGhLOUpqTDVTLTVMX3hCY1ltbGpSMmhadFVTTHI3QVA5Qnl2VU54cVVhcmfSAb8BQVVfeXFMUHZoZ1JhSVB5WWx4eFVEMURwS3hlZUg0dnF1MzRjWHNCNGRjejRiZGl3ZWYtQTdoNzVyZW04bnZHVHZaWGpYQ0wtcllib3hpUl9OZmVuU2NzcGtLcDRnYy1PTW1LQkdYTHdPV3ZDVGlzZXpSaDdXSGpmMWFreHg0SDk3MllqdFNrX3dKWjFwRXNRZTZfdkRXSFIxVUVoRFBGTnYyUUo1NF9SWmRwdGxiTXZUT3hsYlE1cGE2a181X1k?oc=5",
         "pub": "2026-11-11T23:11:32+00:00",
@@ -506,6 +500,12 @@
         "title": "Russian Ambassador to US Alexander Darchiev dies suddenly at 66",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEFMWTFELTlLUHZpUjdHdXJUNkRnakZ1bnIwLW9ZRW5ES21nTlg5YlB1eXNzMjVYS2FScVFfY2g0SWVUUEVMUVY5cTgxdW9mcXRoYlpwb01iREFKU0NkS1ZtUndPaW5Xa0M5OFpqUXJLa0ZnUEJ1Y2J6UHM1elFZdmlYaUlQVGNqbXJFTDRUaS3SAZYBQVVfeXFMUGVPZUpFT0NYcllqb1V0clRQWi1sZ0pCQWxJdlE5YjJQYW1hV3RjaklxV3VHbXVEN2c5N3pycHhjQnp4VkhmblQtazJJemJrZUhoWmVQUDl5Zmk4R0M5STVrUHA3bFpkb0lJUVRBVmRpVGJfMjRma0o4TGFBd3dsUUFoNUU3ei1ZMXE5aV9lUEgydV9rTW9R?oc=5",
         "pub": "2026-11-11T19:02:20+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Women debate what it means to be a 'trad wife' on Chris Harrison's new dating show",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CQUJKVENHeXpVbUJ5dEJUS1JORmZaWHFXUXBGMTJpa3ZYbEhfdWllRlFLa1FyTlBHV0NsNkJodUt2VWN6d25nbHB5VzRXUjBtV1hiWUNR?oc=5",
+        "pub": "2026-11-12T02:50:50+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -529,6 +529,12 @@
         "outlet": "Fox News"
        },
        {
+        "title": "Ex-NFL coach Rex Ryan turns himself in to Nashville police for allegedly running over two pedestrians' feet | OutKick",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWVFXVHNwLXRpRExtRWxVNE5yT3B4eUlxRnhFUDVQLWhaVk9KdjJhZTEzVldKRjdMVVhsZkFWSS1CTHBsMExHQWtaY25TNjJGNFhvVXA4M1ZIdXBaTDE5Q2hja1dmTF9BOC1oVWFfelVDX2dRUHVCSWpJdW5vSnFMMnlZcjR3TnYtTmhVTFg5ZGFmQnNocXNadDBJVXZQQ1pTVjlhWTlFcUszMnUtQ0hoQzFNSXdjdlV5alVFNW1vYjg4alB5Nm5LQW1R?oc=5",
+        "pub": "2026-11-11T20:04:23+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Sean Salisbury says ESPN lost its way when it stopped putting sports first",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42S3V5TGlfNG82NV9OUlNReFY3eE1PLTBjRmtHSWhHRmJGVUh0eG1VY3JrdTZWZnRuOHEwNnU4R0dzTTkyTkdfZnVhT3d6bXl3SWZjTE9R?oc=5",
         "pub": "2026-11-11T18:28:49+00:00",
@@ -538,12 +544,6 @@
         "title": "Brittany Mahomes announces baby No. 4 as Patrick Mahomes, Chiefs gear up for AFC push",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3JKQi1LUUFyaWdLWV9MYzgwRnVlejdwdWRtQmRFeGxhV0gwSzNfaFNaQ0FwMEJNbF9qNGw1WjVlN1RMaFpwVFlXa3N1NVRibnN0eVMzS0F3ZDhDQ0ZtdGI5dlVpVE1zNzd2dmhwMzR0SVNHaUtmYjBHT19DV0o5Z2N5XzNaUV9lc0R4Q0FVejdfZUs5QlEtWTk1anZydGljdW9GX0I3blZzRTMxNHlBZFlmdmRwUQ?oc=5",
         "pub": "2026-11-11T02:51:32+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Memphis football coach Charles Huff leans into job rumors with brutally honest comments about recruiting | OutKick",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRlo1bkNRbTdmNWpvZUlvQzl2WE43SmhTRjJtcmxQUG1sd3BWamg3eUpTU2ZPRGhPcE9PaVpkS09ZX3lXX2J1M1RTdERURU9mT3FtbWpEbHZmLVRQUmxON0xFS2Raam9ESkZnM09ickpNblhkTVExT25QQlJndUx2Wi15ZWxROHFEYWhhWTlZbXd4RG1FRk9uUk5VXzgtdjZJbmJyYXhEbzNfX0hHQ0hJVDJ0dUZQa1Y3cFc3ZmxLdkRhQWVjbEE?oc=5",
-        "pub": "2026-11-11T16:37:40+00:00",
         "outlet": "Fox News"
        }
       ],
