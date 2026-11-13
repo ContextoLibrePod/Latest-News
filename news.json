@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:21:08.837294+00:00",
+ "updated": "2026-11-13T21:16:48.597355+00:00",
  "categories": [
   {
    "id": "top",
@@ -35,10 +35,10 @@
         "outlet": "El País"
        },
        {
-        "title": "Campaña elecciones 29-N y actualidad política, en directo | Sánchez pide 176 diputados progresistas en el Congreso para “llegar antes y más lejos”",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
-        "pub": "2026-11-13T20:12:34+00:00",
-        "desc": "El cara a cara entre Sánchez y Feijóo será el próximo jueves y estará moderado por la presidenta de la Academia de Televisión | Abascal deja de lado el reparto de ministerios con el PP: “Vamos a ver q",
+        "title": "Sánchez insta a una participación del 75% el 29-N para reeditar un Gobierno progresista que llegue “más lejos y antes en las conquistas sociales”",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/sanchez-insta-a-una-participacion-del-75-el-29-n-para-reeditar-un-gobierno-progresista-que-llegue-mas-lejos-y-antes-en-las-conquistas-sociales.html",
+        "pub": "2026-11-13T20:46:11+00:00",
+        "desc": "El presidente ironiza con que Abascal le llame dictador y al mismo tiempo diga que no tiene una opinión formada para no pronunciarse sobre Franco",
         "outlet": "El País"
        },
        {
@@ -75,12 +75,6 @@
         "outlet": "Univision"
        },
        {
-        "title": "Peruanos esperan \"balconazo\" del Papa León XIV",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZFZleWpzYUQ5S2dyVktKZVRKSDhyTUhlbkhwWEtwNFFoWE01Rmt3ZkV2REdyWmN0X3FMYWhDX3lKM045ZmQwRlo5NjdjQ0dfOWlYX2NneWtpTnQzaU9jYmhFdVpDSTZocENQY2VHVFFTNEd5UXdSRVB6QlhjWjdyVFVxZFo0eXgtdHY2NV9KZzZUdFd6MlR6TGpR?oc=5",
-        "pub": "2026-11-13T16:17:00+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Lo mejor de N+ Univision de la tarde | jueves 12 de noviembre de 2026",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjEwZ1paWVowZ01RdW83TVVla2xkN3RsbGU3QmZ5bnNGQ1M0czRlcC1DelQyNFpvRkJRaVloZkl1QXNaX0x2YVFiM1FsSVBmOXhJdFRhTU5OZmpBdGFLNUtQMmVEay03UVZ3b2xXTGFsZGdmNEFiWTRSRUVCNHdtVmgySWZKdmpCOGIxaTN6d0J0T0JGNVh5QmRMVzZBNkdMSDJBVWVzeWxMVGM?oc=5",
         "pub": "2026-11-12T21:30:26+00:00",
@@ -90,6 +84,12 @@
         "title": "Músicos, empleados y comensales quedan en libertad tras ser detenidos durante la captura del \"R2\" en un restaurante de Jalisco",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMkVkTHpLeVcxbWZmbDc3ckJwbmdUeWhFcERHQURVZUxaaGlFQzBzcDNvRDh4dkwyLXlnZG9GaUNoejQ2eEdmbUN1R003cmN5a253TW83WG9SSUVBTmx5b2daVWxmcEhNMkV2aHVvaGtzQzVwNm94UkFsNEtWeWtGb3VjUzhuaVdOSGs0bVAzYkJJTzktck5WOXFWSk9TbTI3YkZvcF9heHJRQTZJb19uZWxfUUJFRmVyTWItenFhbEVJOURXYi16bVVTNVFfUWlUSTlKdXB3MURDZFR2ZjZ2WFRYbFBQcHlJWWlfZkVqRmJ0V083WVVNNkh4STlQM1dT?oc=5",
         "pub": "2026-11-13T00:25:08+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Peruanos esperan \"balconazo\" del Papa León XIV",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZFZleWpzYUQ5S2dyVktKZVRKSDhyTUhlbkhwWEtwNFFoWE01Rmt3ZkV2REdyWmN0X3FMYWhDX3lKM045ZmQwRlo5NjdjQ0dfOWlYX2NneWtpTnQzaU9jYmhFdVpDSTZocENQY2VHVFFTNEd5UXdSRVB6QlhjWjdyVFVxZFo0eXgtdHY2NV9KZzZUdFd6MlR6TGpR?oc=5",
+        "pub": "2026-11-13T16:17:00+00:00",
         "outlet": "Univision"
        },
        {
@@ -111,6 +111,12 @@
         "outlet": "Telemundo"
        },
        {
+        "title": "En Vivo Equipos de emergencia responden a choque de embarcaciones en Nueva Orleans",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdUxRQk9ja2VSSm5WbTRoUmYwUGw4VUpLS25BTEdjREhXSW45MTU2NjZtNzFLZENUcWlHRk43UkVuZ2tIMVR1bG5aaWVsZW1VaXpYYWdJWEI1QjJHMzY2Mm5ucmcxQ2VEVF9RQkpPSW1QVTR1RlJFekZTdV9uVEdIeGpHUDlaQ2hlek1FZmZCWkNHYjZHNXEwU1k0NHZ4ZFNEU3VhZktwMHNEUlpRaVh2a3hweTN4TDVfeGozVERR?oc=5",
+        "pub": "2026-11-13T06:08:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "En Vivo Autoridades y líderes comunitarios hablan sobre el derrumbe fatal en Brooklyn",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHYzek5uYnJaOHh0X1lKczNINDNNR1JxRzlUOEVtWmYwT2VwOUFKQktGTTFmcWoyMUJvU0N3YlItSk80Sjl3QzRUN1pTMWNIVURrT000Z21NT3ZXZ0VDUUZkOVZJTXIzdDlCa2h5RmUtZnlUSjVPb3YyZnhBa0VXWGFxcFpYbm16NG5MWF93cEtuUGRBR0tNbXhHNlE3dzFIU1ZkdDh1elVOWE5BNmxDVGwwam9YZDVaRXZLd2VmcG1UQQ?oc=5",
         "pub": "2026-11-13T15:55:15+00:00",
@@ -126,12 +132,6 @@
         "title": "Estas son las 5 noticias más importantes en Noticias Telemundo AHORA, viernes 13 de noviembre",
         "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPekRnc2tiUHA3UzA0WmZhTWkyMmpxem1OSnZDNHhhNFR6OVk5Wlk0Q2h1bWZEZ1diSjVrME5mTWN3dHVIaF9KMXhrNW5oaWNBV3BBM0k2OTN5OXZHZXNHdWxkNmdFR3hVVWZiODd2RGRMS0Vya2Ytc2lwSU5ydGp3WVdNeG1vd3JSTkM4RG9CZXY4aTJBYTQyWlktXzdPUXFqeTVXTFZmYUU2TTh3bEFXVTZLUXNpaFR0V1hRa2hoTHdER1YwT3h2V09OYWtjODBpVmJlQXVWZjUwN1J0MXNSa3NCRXdXTTNiQ3FXZWw0dmxTcmZWbE1IUUlabVVZTlZMLW9jTUgxa2hIWXJv?oc=5",
         "pub": "2026-11-13T06:47:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Las noticias de la mañana, viernes 13 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUJwMjdsVm9vd0MtRkRwbzVVbmRqQW5CU19UeXpnS1hVV3Uwb3RYS25vdFctdFlMMFMyQ19SQTNSVjYxcmRyZFZ3VnZiSFJsT0RwTjVRUF80YU9DaXBBLThiSXJoNERYTW01SGlZeUswV1JraGdzYjZKYVF4U0k1SXctTXN6M1NPX0RpZUhyV1ZUNDVCY1oxVEVEcVdUcXFEdjRjV1duMXJucWpaOHRXSVppVEJMaGdCcnFjRGpCVFhFVHBnYllkNkxR?oc=5",
-        "pub": "2026-11-13T18:48:06+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -155,21 +155,21 @@
         "outlet": "El País"
        },
        {
+        "title": "Alineaciones Pamplona vs Eibar | Copa del Rey 2026/2027",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMzBCTUNPNDBQWVJrREN1dkRFcGFUYS1jNlZWZkZ1NkNjbWNoNmVhWW5IU2d6Zi03X2xpNDU2MDZ1NGo4S1FJa0VMX3lrbnV4MU56aHk3S3Z4cGFPRmtrVnE2elJJNzZyaURBNjJsaHJfcG5yeWhablcyQUZtdVlrVnpTQTV5TFhJOUlaUmVhbDE3cWlSQXpScUFENXpNa0VqMjNGcnFIT09PNFNXYjFsWVo5VkdaU19VZnYtUHhBQVpYWG1oOGJKVUh2cw?oc=5",
+        "pub": "2026-11-13T08:22:19+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "Alineaciones Navalcarnero vs Betis | Copa del Rey 2026/2027",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUDJQQWJveWU0Yy1TenNfa0RwUmUzLVBiQmlmNVM2Z1hHMi02TFl4TFQ1aUs4WEY4YzZKa0RTR0lMN25tX0szRGludnFxV2tFd2JKaFBnelgzVjBWYVBsRWJGemVzWUhHdE91UmIyWnhvWDdLU2lmd25ROFM5MnFqVXRCRnk5UmZBb3BzVDQ2WWkyVmUzVzZaUXRWTUR0T1cwOUJwQjBpcVdaR2FqdUc4RHp1cTZLUjZoelAxNGg3a0gxRUdpYlA2VXlvbw?oc=5",
+        "pub": "2026-11-13T00:53:11+00:00",
+        "outlet": "El País"
+       },
+       {
         "title": "La corta absolución de Frenkie de Jong",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDg4QTVBTEZZSWlydFhrdmpob0JqNWNKMDB1T3JDVEprVm9uM0lOelY1RjMwUUtPbFB5UzUwUmVSR1ZnQUxPQWZ2dzJEVk9pS1lCSTJKUGItMi1OREVibElhdmxzLUxZTmNnejNENVROc3ZuSFYtQV9sT0VEUTliZGJtc0lGS19vVDl4Z2drRm44YVhGN3dLNTE2RS1mUjMyU2Rkd1NvUdIBpwFBVV95cUxQSDg4QTVBTEZZSWlydFhrdmpob0JqNWNKMDB1T3JDVEprVm9uM0lOelY1RjMwUUtPbFB5UzUwUmVSR1ZnQUxPQWZ2dzJEVk9pS1lCSTJKUGItMi1OREVibElhdmxzLUxZTmNnejNENVROc3ZuSFYtQV9sT0VEUTliZGJtc0lGS19vVDl4Z2drRm44YVhGN3dLNTE2RS1mUjMyU2Rkd1NvUQ?oc=5",
         "pub": "2026-11-12T04:30:00+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Resultados deportivos del 18 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxbVBUOEJJUzFEOGFnc1hIRVYyLUpaY19xSnpMdWxWVEg2ZGdSajk3LTZRdmxKNl9OYU1oNDZHaTN0V0xkZHprLVRDRjJ1aFhtOW9Wb0I3S2NzT3ZjNzI2Rl80LWxUUQ?oc=5",
-        "pub": "2026-11-11T23:40:06+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "La familia de Jesús de Miguel emite un comunicado por las donaciones recibidas: “Cada gesto ha significado mucho para nosotros”",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQR2ZxejI1U01TWlYxZkEtU1hUa0NwdC1JdDhsTmdUNWF3ME9JNUYxa1hReDloWjVIVm1IWm1GMXd3NTRhcUptN1VNaUhnZnRGZGlXbVZrMmN4YjRCMWtzZkgta0YwUFB0cXgyVkRkZ25tcGphTllld2s3TnljWWxpemhFNmt6MEhsejFCb3dyRjFKT2FaWG1HNldUREEyVnAzQUQzckgxcE5tUzd6bUdjZzZseGl0YUVCTXpWcmRENVRBQng0OTdrNHotMDltTTZrQjc3NDJweXF4dzRrZWhLeWY3cFplc0g3T0hBUXF2U0pvSlhSUzZqRmRuLW9VSnpxX29BakljTURNYjZs0gGMAkFVX3lxTFBHZnF6MjVTTVNaVjFmQS1TWFRrQ3B0LUl0OGxOZ1Q1YXcwT0k1RjFrWFF4OWhaNUhWbUhabUYxd3c1NGFxSm03VU1pSGdmdEZkaVdtVmsyY3hiNEIxa3NmSC1rRjBQUHRxeDJWRGRnbm1wamFOWWV3azdOeWNZbGl6aEU2a3owSGx6MUJvd3JGMUpPYVpYbUc2V1REQTJWcDNBRDNySDFwTm1TN3ptR2NnNmx4aXRhRUJNelZyZEQ1VEFCeDQ5N2s0ei0wOW1NNmtCNzc0MnB5cXh3NGtlaEt5ZjdwWmVzSDdPSEFRcXZTSm9KWFJTNmpGZG4tb1VKenFfb0FqSWNNRE1iNmw?oc=5",
-        "pub": "2026-11-12T15:49:44+00:00",
         "outlet": "El País"
        }
       ],
@@ -178,6 +178,12 @@
      {
       "name": "Univision",
       "items": [
+       {
+        "title": "¿Dónde y a qué hora ver en vivo Jamaica vs. México este sábado 14 de noviembre?",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnVpY2NsaUpocjdpeHZsT21KM0pPeUtnVVgycEdVdkZ4QzhmMk9QaGVFbDVyRFA2ZTFxdkNBdjh2WWdHOTY3ZEFWY0E0QUtpcERBRzRoRU5qTmFNQjRHRmJCR2NmSXA4bWpXTnp2cnBVNm5JMG1FUEpwczB4aHZPTU1qaW81bWxIMkNlZkRlR1h5LXRyalJLME1XMkVMMld3Qi1VQV80c0VfZXktdXQ5NzB6TTRqX0xa?oc=5",
+        "pub": "2026-11-13T19:56:00+00:00",
+        "outlet": "Univision"
+       },
        {
         "title": "Hijo de Galilea Montijo le da emotiva sorpresa en pleno escenario y la conmueve hasta las lágrimas",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2dIRURBakhqQXZPYTBOd0FKYThZZTZBeU1oZmM3Q0ZWZDhBNTBibWVHYVJRUEF4RzdrRjY1eDMxTFpia0xpTjlfTDZKT1RqSGJHcjYwRFozRHk2NlNZcXlnajVQbUIzY1lyNHRSTlg2V25mVmZsTnRzNXR3eHI2blNCUU5nWUdzSURCWEg0VTZoTC1peXg4dE8yaG8yamZxVFFiZzAwci12QXUtdndWdzUyQ050MEpMU2llNGVuWTcyTFo3aUk5MjhXY0VqRHV6cmI3bA?oc=5",
@@ -191,21 +197,15 @@
         "outlet": "Univision"
        },
        {
+        "title": "Ana Brenda Contreras no descarta tener más hijos y dice que ¿le gustaría “tener 10”?",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ3lUdU5CdXdtaVhmcjlOU3YxU0hydGRJRXgxWjR6dnVtWGdJcGdXRDVRSVB1VjQxNWFsYmcyT1BjelpBdmZKS1ItSW9JMngtb2pmUEFZYkM4R3ZIbjNfX2N3clBnWkx3b2hiVjNHVW1XNmhHckJZTThqcnNLdDFyU0tZNVFEYk05Vm5hRGxUdC1CMWxWVExJN0FHdW9HNUNBbGR1Z1dxZmRXWWlSaWU4dG9pTnVuZUl0WDVUZw?oc=5",
+        "pub": "2026-11-13T20:20:00+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "'Esposo’ de Adamari le ‘reclama’ que fue impuntual en una gala de los Latin GRAMMY: “Me va a subir la presión”",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHVYazJOaVc4OWZoZndHMGoxU1pRZVJCbDVLUVZ3cDVuSUFjVTl6TU1wcURmRC1mSE5lWC0yNms1NVhnaENoZWJPVW14Um1oSllnb05BaC02dmZfUDdMSm9tVUc4ZmFvY1ZMMUZFRlMyeUhxNXZVenNjclRrcEJ2d1ZVYjVlSUQwT3Npb3dhR0plVExVbVpWamxHTWVtOGs0ZjVZSC1YbTRMeDVKMVJJRFZYN2llVnc1TlhjYXdMVnBsQ3dJVU9lbDNPMGxScFZWdGx1WE9ySVJIWlU?oc=5",
         "pub": "2026-11-13T17:57:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Chris Hemsworth sufre robo en su mansión: su esposa estaba ahí y esto se llevaron los ladrones",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02MzhyUDFpd2h5QVM4aUNad1l2S2dzSU9ZV181OVc0NDlHbWFwd2h1QWxBS3Eyc0prelRmSkVRcmFxcEVfT2gzQnRFd2k2U0c2LTlfWXRIdzVsSUhZdzRNSDljOFd6dDNGaWpDZUZJYm1zUkdjOWEw?oc=5",
-        "pub": "2026-11-13T17:07:47+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Protagonista de 'Malcolm in the Middle' reaparece tras accidente en carrera: esto dijo sobre su salud",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGI2WHl6NE9RemdsSnhScVF3R21VbHVMak1XcEZGMnkxVXVtMHoxMFFhRFdzX3kzMkNLT2hWamlqaFJrc181bzVEbFcyQkJ3RXJDTmMxbFJVZmlXRk04bFFwS3BDRTlfLUVuM050RGU4WEw2YjBpRFlDN29sd3RVSWp0NDBSOVk4ZEtOWEU3bHVqSVo4aHZnSGN0TGdxT3J4RTZ1eTRPLW9QR19udThQLXYzbmFENGl3b2FCd0NfQ2tTYWRycjdfejVwOF9URGNzNFdzcg?oc=5",
-        "pub": "2026-11-13T15:31:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -313,9 +313,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Rosalía envía un mensaje especial en Latin GRAMMY a quienes señalaron su música como \"demasiado rara\"",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ3VhaFhTbnVFQmV3VkN3TndVYUxTeFF6YUdJb1R2TWxNOTJZYm9vWi1TcmlNZnlCeHFRSUdDZFZJNUtVWTlYN2F0ZGVwUGFPOVdVd1RFZTZENlh1d0tOOWtZbGVsTTRRd3ZtbkpLN2ZrMG85dzJYcjg2aHVWYUFwZ0NmY3F1bFBZTWRzRW9NcnZtUTBWcUw1QWZFekJGWkpMSGNtT19aZlNsS1k5RjRmcWdpLWVGbnpVWmFFZUJkOFdwaWtYVzdyY2tJTTk2VnN1OXpQQ0tlQzFMQ01oWkJSYQ?oc=5",
-        "pub": "2026-11-13T03:31:00+00:00",
+        "title": "Ana Brenda Contreras no descarta tener más hijos y dice que ¿le gustaría “tener 10”?",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ3lUdU5CdXdtaVhmcjlOU3YxU0hydGRJRXgxWjR6dnVtWGdJcGdXRDVRSVB1VjQxNWFsYmcyT1BjelpBdmZKS1ItSW9JMngtb2pmUEFZYkM4R3ZIbjNfX2N3clBnWkx3b2hiVjNHVW1XNmhHckJZTThqcnNLdDFyU0tZNVFEYk05Vm5hRGxUdC1CMWxWVExJN0FHdW9HNUNBbGR1Z1dxZmRXWWlSaWU4dG9pTnVuZUl0WDVUZw?oc=5",
+        "pub": "2026-11-13T20:20:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -491,21 +491,21 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Brittany Mahomes is pregnant again, so it's time to buy a Chiefs AFC futures bet",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMExSMW1hWHFUTlhpc093OWNFT3RrS0FmSDNYb1VYTGh0UFJEY0I4OTNRUjNpQ0FyZ0pSLV9TVDVfQzhqaXY3NDZYVGN3TWhYWVNpNEl0U1pUOXpvVXh4U0hzaU13LXhvLVBZSnUxTy14ZThkVWJmSUdSSHE3YjJJSVRROXZDSEppTzAyNnJXUEdpZw?oc=5",
-        "pub": "2026-11-12T20:27:31+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Democrats in leadership showdown on Capitol Hill",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xM2VHaEhTVVE5X3hNeGZKMTFiUW1FOWNxRENKM1lpZ0ZQTlZEUDNXLVlEOFhHcXdzck1RWTB6ajAtS2huUHMtU3VrdWVRRld6S3lUbzBB?oc=5",
         "pub": "2026-11-13T11:21:24+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "New York Giants favored at -2 over Commanders as NFC East division lead hangs in balance",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1hSSWYyUmt6QU15WDVaTXplR0NyN0VMLTU0YVI3UWVRVDVGM2pJVko5dUFlZ3VaUUwwSGt6Y0Y4NG5WOExFVGYzQzJmVHBjY3FKSWJhSFlnVnZDVGI1Zy1BTGE2dVhRdkVUczRsRjlaZFA4S1h0eUkxRnBQUlFrVDNqei1fREIzWkdOUjVvUHFQcnJjNXRVTlc0cExFd1Uzb0dJbTgxNVlLNEtrcFpFZXgxZExVZjJtbkE?oc=5",
-        "pub": "2026-11-12T20:59:41+00:00",
+        "title": "Nationwide Microsoft email service outage disrupts business and personal accounts across US",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ycjBwWHF1UDhiSmFOOS0zcHg3Yzc2c2dHdzdLT3h3amMxbHdnQ1NsM0czVmtKX1huRmU0R0dRaWJpVXM2M3Q3WndHam82c25CQkJLNndB?oc=5",
+        "pub": "2026-11-13T00:12:02+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Sen. Bernie Sanders supports Chris Van Hollen's bid to challenge Schumer for Senate Democratic leader post",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3NXMmRhdWtBOVBrel9jRGNNM2VLRW01TEN0SkVGdUl6MlloSGYtR3E2YXJ4NThoUzJudzkwenRvX3V0cTdWYXdCT1UybDhWbHB2bWs3MmJhelBYZmZpemkweGQxVkJkQ3BBTHVXT2RXcTFqSWlGdzcySldJRkk1VHBSZkMwWjBZcEFBNldlZFhMNURETjdnUGRSV3p0QjIyZ0lTeUxEb3NNUlBKSXJyT0hoZ0lJbktPYmJIQTh5SnI3dUQ2R0RBddIBzgFBVV95cUxNVjNqdFE5M0xkM0lOdHRpSFN5LV81ZFk5WW5FdTc5enM5Zy0zdThUZGh3ZDRBSWphTEFhWmJhUEJDQXJVeFRTQ0hWcnBhcW0tRTZGRzMyT0ViaElJbU5pcmxTZzN2VjZyWTFrODhiUXlIb29aRjE3dk14WU9JYkRnOU1ITWN6NnJ0ZnZFU2plUGxfRlloQWw1MmlmUTVUWnhvem5BeU9Kbmhta1Rza3J6TkVSYVdyOUlkS1FkRFpwMGMzMFA1aGZGbDhEMnR0UQ?oc=5",
+        "pub": "2026-11-13T11:06:30+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -535,15 +535,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Sports world reacts to the sudden passing of legendary broadcaster Dan Hicks at the age of 64 | OutKick",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXBONkdFLTNTV1g0M19JX3UwQkkwcVJjYURzT0ZzUXJVU01iQWhDaGljQ244YWYtcTRjQTgxdThncWEtb1pSbGM1M3pjUXZGOUo2TUdabUREeFhPM3Y4N2hWcU1vaGoxS0dPV0NhMUw3Z3RiaVYycENtM184Wm0yT3Y0QnctNnl5bmFGRlNlc0c5dFhiTjBBRDVxZlhSVFlPd3g3eHF0OER3VlBJSmE5dUtB?oc=5",
-        "pub": "2026-11-12T15:57:20+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "College basketball arena sits nearly empty for an actual Division 1 game in jarring scene | OutKick",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2c5TzFGcXZpVGFTbnIzT3hKTlVwTWEwSjFZRndHNEJ6T3NJOUNjbTlfaVdOVGpOMkhXWThvTElqZ2RvdHRJRE9Ma0szUUJ0OUw4SmF3SXRWOTk4ekEzRjlmZzlVeENaTU05a1ZhdHlMX0Utb2ZUWXg1NXRoTW5xMVM5UEtpWGM2dmpCZnlWNk9vUjV1cU5tR1Y0b3k1WGt0Wm1MamJZQWF3MEhhcVlWRg?oc=5",
         "pub": "2026-11-12T15:22:57+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Sports world reacts to the sudden passing of legendary broadcaster Dan Hicks at the age of 64 | OutKick",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXBONkdFLTNTV1g0M19JX3UwQkkwcVJjYURzT0ZzUXJVU01iQWhDaGljQ244YWYtcTRjQTgxdThncWEtb1pSbGM1M3pjUXZGOUo2TUdabUREeFhPM3Y4N2hWcU1vaGoxS0dPV0NhMUw3Z3RiaVYycENtM184Wm0yT3Y0QnctNnl5bmFGRlNlc0c5dFhiTjBBRDVxZlhSVFlPd3g3eHF0OER3VlBJSmE5dUtB?oc=5",
+        "pub": "2026-11-12T15:57:20+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -567,15 +567,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "'Yes, Dear' star Anthony Clark dead at 62",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ENF9vV1liQnZBUl9NSWMycTRPRG1QLUpGajRZbk1Cdl9MS1Q2WERtVjZLMnRzNUFUQ29BbVh0ajlkdEt6SGlLWHJJUnpheEpwNWZ5MlpJWDNCQmtFVWwzQy1vZmVzSGtNVURCWFpvYmllZTZCNGVrbERxSnZ1QQ?oc=5",
-        "pub": "2026-11-12T16:52:35+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Jim Caviezel says he’ll ‘always’ be disappointed he isn’t in ‘Passion’ follow-up, hasn’t talked to Mel Gibson",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN01nNjhFU0d5TkRyaU5Kam9acmdleGcwcEdsd0dad0NabjNwVTdkN2hXN01xRGNxbDNsT3VZb09OYUM4cjV1WWJIYmE1RVJhSUJSc1U2QjFFQXlSX0dBbTJWUDlaUy0tQndLS2hKRkhPUEEzTUN3bmViODZ4ODZYeHYxdURGQU5wNkloNDl0akNCcXZZLTR6SkhWUmFQSWRsaTl3RXpwd1JVQ0VPaXRQM1lxQ01IOVdmcUJ0bm1uYzMyUmx1RkVQV0l30gHPAUFVX3lxTE0xQUFibGJIU1EwcHVOb3ZKMVVoVFJ4VktkUkFOT0xOVl9Yb1Y0MXdSLUNEazZPeHVOVmViSjh0dkJIaW5xZm9rcUYyTzFTTUNzZUxLcjFZVWNOMDJMeS1hRjNPRm5QTENJeEdZblR6bU82MFd1LXRwWlNqMkNlOTJFTDhLcUFtdVJhWng5bG9JcGZFNkFtaHFZbkVCelh3TmNtQUZQTFI2ZUlJUkwxb0l3UWRkaEpzVkRsbVFkcHpfYjMyVngtb2FSejhKTGRndw?oc=5",
         "pub": "2026-11-13T13:00:46+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "'Yes, Dear' star Anthony Clark dead at 62",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ENF9vV1liQnZBUl9NSWMycTRPRG1QLUpGajRZbk1Cdl9MS1Q2WERtVjZLMnRzNUFUQ29BbVh0ajlkdEt6SGlLWHJJUnpheEpwNWZ5MlpJWDNCQmtFVWwzQy1vZmVzSGtNVURCWFpvYmllZTZCNGVrbERxSnZ1QQ?oc=5",
+        "pub": "2026-11-12T16:52:35+00:00",
         "outlet": "Fox News"
        },
        {
