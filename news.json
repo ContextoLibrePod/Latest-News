@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:24:35.815025+00:00",
+ "updated": "2026-11-13T20:21:08.837294+00:00",
  "categories": [
   {
    "id": "top",
@@ -37,7 +37,7 @@
        {
         "title": "Campaña elecciones 29-N y actualidad política, en directo | Sánchez pide 176 diputados progresistas en el Congreso para “llegar antes y más lejos”",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
-        "pub": "2026-11-13T19:07:18+00:00",
+        "pub": "2026-11-13T20:12:34+00:00",
         "desc": "El cara a cara entre Sánchez y Feijóo será el próximo jueves y estará moderado por la presidenta de la Academia de Televisión | Abascal deja de lado el reparto de ministerios con el PP: “Vamos a ver q",
         "outlet": "El País"
        },
@@ -49,10 +49,10 @@
         "outlet": "El País"
        },
        {
-        "title": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
-        "link": "https://elpais.com/economia/2026-11-13/el-gobierno-aprueba-el-tramite-de-urgencia-para-la-revalorizacion-de-las-pensiones.html",
-        "pub": "2026-11-13T12:55:30+00:00",
-        "desc": "El Ejecutivo da este paso para actualizar las prestaciones con el IPC en el primer día de campaña electoral. El día 27 se conocerá la cuantía, que apunta al 3,6%",
+        "title": "Feijóo enfría las bajadas de impuestos por el estado de las cuentas públicas: “No me creo los datos”",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/feijoo-pone-en-duda-que-pueda-bajar-los-impuestos-por-el-estado-de-las-cuentas-publicas-no-me-creo-los-datos.html",
+        "pub": "2026-11-13T11:33:06+00:00",
+        "desc": "El líder del PP anuncia su intención de suprimir el Ingreso Mínimo Vital a los inmigrantes que residen en España si no trabajan",
         "outlet": "El País"
        },
        {
@@ -105,6 +105,12 @@
       "name": "Telemundo",
       "items": [
        {
+        "title": "Inesperado colapso de andamios queda grabado en Illinois",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdC1ZX1lqYk5ZaHRsYkc1M1o1VjhMNWVjVk5GdktzOU5yN3p3QTloRlYwMllkTkRQcWt3MGdPMXF1em92OWFGQ3dWQ3hpMkxtYllUMWxsN25TUmdfdk50VU5vci1zdW8tX0xjZmZRbUxZTVBIc2VvVkltOHJidzZLUWN0ZmRHOFBmYWRmTWEzVW80ZDcza1RXdlR1aldPVF9RZWRsWDVfakZWc0J0M0JzMDk1VU9VSGtWempTNDV0RWxwclhpWnNwMXpR?oc=5",
+        "pub": "2026-11-13T19:35:13+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "En Vivo Autoridades y líderes comunitarios hablan sobre el derrumbe fatal en Brooklyn",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHYzek5uYnJaOHh0X1lKczNINDNNR1JxRzlUOEVtWmYwT2VwOUFKQktGTTFmcWoyMUJvU0N3YlItSk80Sjl3QzRUN1pTMWNIVURrT000Z21NT3ZXZ0VDUUZkOVZJTXIzdDlCa2h5RmUtZnlUSjVPb3YyZnhBa0VXWGFxcFpYbm16NG5MWF93cEtuUGRBR0tNbXhHNlE3dzFIU1ZkdDh1elVOWE5BNmxDVGwwam9YZDVaRXZLd2VmcG1UQQ?oc=5",
         "pub": "2026-11-13T15:55:15+00:00",
@@ -117,21 +123,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Las noticias de la mañana, viernes 13 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUJwMjdsVm9vd0MtRkRwbzVVbmRqQW5CU19UeXpnS1hVV3Uwb3RYS25vdFctdFlMMFMyQ19SQTNSVjYxcmRyZFZ3VnZiSFJsT0RwTjVRUF80YU9DaXBBLThiSXJoNERYTW01SGlZeUswV1JraGdzYjZKYVF4U0k1SXctTXN6M1NPX0RpZUhyV1ZUNDVCY1oxVEVEcVdUcXFEdjRjV1duMXJucWpaOHRXSVppVEJMaGdCcnFjRGpCVFhFVHBnYllkNkxR?oc=5",
-        "pub": "2026-11-13T18:48:06+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Estas son las 5 noticias más importantes en Noticias Telemundo AHORA, viernes 13 de noviembre",
         "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPekRnc2tiUHA3UzA0WmZhTWkyMmpxem1OSnZDNHhhNFR6OVk5Wlk0Q2h1bWZEZ1diSjVrME5mTWN3dHVIaF9KMXhrNW5oaWNBV3BBM0k2OTN5OXZHZXNHdWxkNmdFR3hVVWZiODd2RGRMS0Vya2Ytc2lwSU5ydGp3WVdNeG1vd3JSTkM4RG9CZXY4aTJBYTQyWlktXzdPUXFqeTVXTFZmYUU2TTh3bEFXVTZLUXNpaFR0V1hRa2hoTHdER1YwT3h2V09OYWtjODBpVmJlQXVWZjUwN1J0MXNSa3NCRXdXTTNiQ3FXZWw0dmxTcmZWbE1IUUlabVVZTlZMLW9jTUgxa2hIWXJv?oc=5",
         "pub": "2026-11-13T06:47:00+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "El papa se emociona hasta las lágrimas en vigilia con jóvenes",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWWVzaUtTcW9mZ2NHc1B3WkFNZG1hYjViQVo4d3gydDhYVkJ6cTJQZ1p0MlNRY3NNU0JndHRhZklGaWFrY2IwV0JWelhDSVJHdEpVNF9mRkZPcFNnd1Q5OXFrMzk2LWdOcTlIeWw2cFNNY2RDZlVMU0pUemJaRWRMREZ1LWU2bUZTSmtNMUFkOVNWRGxHQzdGZWpLRG1OUTk4WXd5em9vM1cwck9kaVJaRG1ZNExmRFkzclFYN2Z2c1MwR2pYYWhTNkFoTzJGVUtm?oc=5",
-        "pub": "2026-11-13T15:45:08+00:00",
+        "title": "Las noticias de la mañana, viernes 13 de noviembre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUJwMjdsVm9vd0MtRkRwbzVVbmRqQW5CU19UeXpnS1hVV3Uwb3RYS25vdFctdFlMMFMyQ19SQTNSVjYxcmRyZFZ3VnZiSFJsT0RwTjVRUF80YU9DaXBBLThiSXJoNERYTW01SGlZeUswV1JraGdzYjZKYVF4U0k1SXctTXN6M1NPX0RpZUhyV1ZUNDVCY1oxVEVEcVdUcXFEdjRjV1duMXJucWpaOHRXSVppVEJMaGdCcnFjRGpCVFhFVHBnYllkNkxR?oc=5",
+        "pub": "2026-11-13T18:48:06+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -156,20 +156,20 @@
        },
        {
         "title": "La corta absolución de Frenkie de Jong",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ21GRUtEZmZGd3JYczV5eVhDNGVuMHBnak81RnVuMlNsZ0lwaGdpNm5YcjBCa3J3NE5zMG1WRENtNHpCX0ZyS1BjS0ZBNHNnSVQxMjJhRGZIdFIyd0duQ01wbTNfVWkwMUJVYVRySnFjMXpJd3FJOE9LamdmNGQtano0SkRXV0lHUTExLTNONmt4ZkXSAacBQVVfeXFMUEg4OEE1QUxGWUlpcnRYa3ZqaG9CajVjSjAwdU9yQ1RKa1ZvbjNJTnpWNUYzMFFLT2xQeVM1MFJlUkdWZ0FMT0FmdncyRFZPaUtZQkkySlBiLTItTkRFYmxJYXZscy1MWU5jZ3ozRDVUTnN2bkhWLUFfbE9FRFE5YmRibXNJRktfb1Q5eGdna0ZuOGFYRjd3SzUxNkUtZlIzMlNkZHdTb1E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDg4QTVBTEZZSWlydFhrdmpob0JqNWNKMDB1T3JDVEprVm9uM0lOelY1RjMwUUtPbFB5UzUwUmVSR1ZnQUxPQWZ2dzJEVk9pS1lCSTJKUGItMi1OREVibElhdmxzLUxZTmNnejNENVROc3ZuSFYtQV9sT0VEUTliZGJtc0lGS19vVDl4Z2drRm44YVhGN3dLNTE2RS1mUjMyU2Rkd1NvUdIBpwFBVV95cUxQSDg4QTVBTEZZSWlydFhrdmpob0JqNWNKMDB1T3JDVEprVm9uM0lOelY1RjMwUUtPbFB5UzUwUmVSR1ZnQUxPQWZ2dzJEVk9pS1lCSTJKUGItMi1OREVibElhdmxzLUxZTmNnejNENVROc3ZuSFYtQV9sT0VEUTliZGJtc0lGS19vVDl4Z2drRm44YVhGN3dLNTE2RS1mUjMyU2Rkd1NvUQ?oc=5",
         "pub": "2026-11-12T04:30:00+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Alineaciones Navalcarnero vs Betis | Copa del Rey 2026/2027",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUDJQQWJveWU0Yy1TenNfa0RwUmUzLVBiQmlmNVM2Z1hHMi02TFl4TFQ1aUs4WEY4YzZKa0RTR0lMN25tX0szRGludnFxV2tFd2JKaFBnelgzVjBWYVBsRWJGemVzWUhHdE91UmIyWnhvWDdLU2lmd25ROFM5MnFqVXRCRnk5UmZBb3BzVDQ2WWkyVmUzVzZaUXRWTUR0T1cwOUJwQjBpcVdaR2FqdUc4RHp1cTZLUjZoelAxNGg3a0gxRUdpYlA2VXlvbw?oc=5",
-        "pub": "2026-11-13T00:53:11+00:00",
         "outlet": "El País"
        },
        {
         "title": "Resultados deportivos del 18 de noviembre de 2026",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxbVBUOEJJUzFEOGFnc1hIRVYyLUpaY19xSnpMdWxWVEg2ZGdSajk3LTZRdmxKNl9OYU1oNDZHaTN0V0xkZHprLVRDRjJ1aFhtOW9Wb0I3S2NzT3ZjNzI2Rl80LWxUUQ?oc=5",
         "pub": "2026-11-11T23:40:06+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "La familia de Jesús de Miguel emite un comunicado por las donaciones recibidas: “Cada gesto ha significado mucho para nosotros”",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQR2ZxejI1U01TWlYxZkEtU1hUa0NwdC1JdDhsTmdUNWF3ME9JNUYxa1hReDloWjVIVm1IWm1GMXd3NTRhcUptN1VNaUhnZnRGZGlXbVZrMmN4YjRCMWtzZkgta0YwUFB0cXgyVkRkZ25tcGphTllld2s3TnljWWxpemhFNmt6MEhsejFCb3dyRjFKT2FaWG1HNldUREEyVnAzQUQzckgxcE5tUzd6bUdjZzZseGl0YUVCTXpWcmRENVRBQng0OTdrNHotMDltTTZrQjc3NDJweXF4dzRrZWhLeWY3cFplc0g3T0hBUXF2U0pvSlhSUzZqRmRuLW9VSnpxX29BakljTURNYjZs0gGMAkFVX3lxTFBHZnF6MjVTTVNaVjFmQS1TWFRrQ3B0LUl0OGxOZ1Q1YXcwT0k1RjFrWFF4OWhaNUhWbUhabUYxd3c1NGFxSm03VU1pSGdmdEZkaVdtVmsyY3hiNEIxa3NmSC1rRjBQUHRxeDJWRGRnbm1wamFOWWV3azdOeWNZbGl6aEU2a3owSGx6MUJvd3JGMUpPYVpYbUc2V1REQTJWcDNBRDNySDFwTm1TN3ptR2NnNmx4aXRhRUJNelZyZEQ1VEFCeDQ5N2s0ei0wOW1NNmtCNzc0MnB5cXh3NGtlaEt5ZjdwWmVzSDdPSEFRcXZTSm9KWFJTNmpGZG4tb1VKenFfb0FqSWNNRE1iNmw?oc=5",
+        "pub": "2026-11-12T15:49:44+00:00",
         "outlet": "El País"
        }
       ],
@@ -179,9 +179,15 @@
       "name": "Univision",
       "items": [
        {
-        "title": "Chris Hemsworth sufre robo en su mansión: su esposa estaba ahí y esto se llevaron los ladrones",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02MzhyUDFpd2h5QVM4aUNad1l2S2dzSU9ZV181OVc0NDlHbWFwd2h1QWxBS3Eyc0prelRmSkVRcmFxcEVfT2gzQnRFd2k2U0c2LTlfWXRIdzVsSUhZdzRNSDljOFd6dDNGaWpDZUZJYm1zUkdjOWEw?oc=5",
-        "pub": "2026-11-13T17:07:47+00:00",
+        "title": "Hijo de Galilea Montijo le da emotiva sorpresa en pleno escenario y la conmueve hasta las lágrimas",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2dIRURBakhqQXZPYTBOd0FKYThZZTZBeU1oZmM3Q0ZWZDhBNTBibWVHYVJRUEF4RzdrRjY1eDMxTFpia0xpTjlfTDZKT1RqSGJHcjYwRFozRHk2NlNZcXlnajVQbUIzY1lyNHRSTlg2V25mVmZsTnRzNXR3eHI2blNCUU5nWUdzSURCWEg0VTZoTC1peXg4dE8yaG8yamZxVFFiZzAwci12QXUtdndWdzUyQ050MEpMU2llNGVuWTcyTFo3aUk5MjhXY0VqRHV6cmI3bA?oc=5",
+        "pub": "2026-11-13T17:14:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Jaime Camil revela que su papá “se dejó ir” ante problemas financieros: “No hay herencia”",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQlRnbmFRZWREazNpTUVuNmktSmJDeXBwSUpGQ05sWGgxZDZXOThYMTVfQS1nU3pkR2hJbDRXSUFPRjJWWll6YUxHRmNqWWdJTlgzYkdQWktlQ05TN3JZZFRTNlJnOFZobnhUNHlFOG5TOTR1dHJHUW1SWEVmNjFwNVZ2WEgwSXFRY0wxb3AxbS1OaC03em11ZHkweC1MU3FseXlGa2xyTGpnazV3eUlEQjJXc0hlT3Z0clBsLU5VWlQ2QQ?oc=5",
+        "pub": "2026-11-13T19:35:00+00:00",
         "outlet": "Univision"
        },
        {
@@ -191,21 +197,15 @@
         "outlet": "Univision"
        },
        {
+        "title": "Chris Hemsworth sufre robo en su mansión: su esposa estaba ahí y esto se llevaron los ladrones",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02MzhyUDFpd2h5QVM4aUNad1l2S2dzSU9ZV181OVc0NDlHbWFwd2h1QWxBS3Eyc0prelRmSkVRcmFxcEVfT2gzQnRFd2k2U0c2LTlfWXRIdzVsSUhZdzRNSDljOFd6dDNGaWpDZUZJYm1zUkdjOWEw?oc=5",
+        "pub": "2026-11-13T17:07:47+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Protagonista de 'Malcolm in the Middle' reaparece tras accidente en carrera: esto dijo sobre su salud",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGI2WHl6NE9RemdsSnhScVF3R21VbHVMak1XcEZGMnkxVXVtMHoxMFFhRFdzX3kzMkNLT2hWamlqaFJrc181bzVEbFcyQkJ3RXJDTmMxbFJVZmlXRk04bFFwS3BDRTlfLUVuM050RGU4WEw2YjBpRFlDN29sd3RVSWp0NDBSOVk4ZEtOWEU3bHVqSVo4aHZnSGN0TGdxT3J4RTZ1eTRPLW9QR19udThQLXYzbmFENGl3b2FCd0NfQ2tTYWRycjdfejVwOF9URGNzNFdzcg?oc=5",
         "pub": "2026-11-13T15:31:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Hija de Alicia Villarreal narra cómo lleva el embarazo tras padecer síndrome de ovario poliquístico",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOakltc3B1NHdXdzZpb1cxcWRGekRCclFRSldhVVloQ0trMV93XzFpRzlXMVFwMDRINXBCRHQzd3didzdYYkZ6Z0x6ZmdUckJYZUVvQkJYbjBQNnN4TVA5dV9aQVNvY1d4OUpmSzRYWnZ4NTNrWGI3bURVSGJKanBVNzEzTXUwV1hqVjBQdVFoWUg4bTdkQlQ0Zk5TM2pNU21BTWlKVXBFS0hrVEN2dTJtOFpQbjY2eGFockFzZ3Bqd29VVy1NR1oyTjdTdEIzekdreDdrX0pR?oc=5",
-        "pub": "2026-11-13T17:13:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "¿María Antonieta de las Nieves demandará a famoso futbolista por disfrazarse de La Chilindrina? Fue contundente",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRmJWemY5NnRQNzBKRnQ3NUIwcjU1cEpQclpRSUdnQk90Z3hLTkMxRWRBa05XVEFPNkhRVFQzajBELVB3NktmTG1WSk5vZkdhYmZhVW41eGlXb2xWczc2eEkzTXdqbFdVOGdDd0hteDJya09oSzd3TGYzR0lORGxuYWlXNTlTOHMzcnVKN002d2pwTGVEZjhPdHlEV1VKeUU2NzZ3Qk12eXlsdXFvLVoyZXRsSnJ2QWhaSG96ekZYazBGYnJ3RjRpamJRRDFwQVpLa1hjaHBvM1lCbHg2ZnpzZUxiSQ?oc=5",
-        "pub": "2026-11-13T18:51:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -289,6 +289,12 @@
       "name": "Univision",
       "items": [
        {
+        "title": "Camilo en ViX Música SESSIONS: un encuentro único e íntimo que sus fans disfrutarán",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUNaa1lTN0JRcUJ2dHBzNXlTZ19WN3p3NUpHVkIwel95Y2g3OVpuVWp2Y1pGUEE5bTR0NFh5RVI0SlJVRi10TWNXam9obF9QUWwtb0pqVHJENXlDa29uWUJIVkZSWkgza0RZWjVVYXBMdENzNDY3OWwteDZhRmp5RUZnckJYS0VhdlpMQjRMWlFFU0FLbGxibkM1Mjdvb083cTVZMDVIWTBUVUdKNXJ1STU1NjNvZ1N4cFE?oc=5",
+        "pub": "2026-11-13T16:15:00+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Famosos - Página 1840",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PYTVvbVpBdVZUQ1NlRnU2dEViOEp0SGFzakVKMlJEOXZGN1pGbUVkSFhmRmNDY0pEdEdXYm50RDkwUW1NTGlXUFhXZUxuWWxPNnU3emlrbG5UTlowZUE?oc=5",
         "pub": "2026-11-13T16:53:10+00:00",
@@ -304,12 +310,6 @@
         "title": "Juanes confiesa que gracias a la música su vida tiene sentido",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGZ6YjExYmM1aFI2NHJKY1pwRXpzWDFacVNZNXZhb1YzT3EwQ3RJdF9zLV9TV3JJeE1heVJNYWNqMnd4a0NQVnlZZjlVaXkyYzNyV1JEZnExaDN4T2g2TkR3U3lUam83ZU81NXhfcVBmLVBIcWF5WkR4YkRJeUVrcFY5RHZTenRVT3lyNEZjZDdlSlZHNmFaMVcwSWlnT1BhYm5zaUU1TGRUU1RNXzhfUWl3?oc=5",
         "pub": "2026-11-13T03:02:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "'Esposo’ de Adamari le ‘reclama’ que fue impuntual en una gala de los Latin GRAMMY: “Me va a subir la presión”",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHVYazJOaVc4OWZoZndHMGoxU1pRZVJCbDVLUVZ3cDVuSUFjVTl6TU1wcURmRC1mSE5lWC0yNms1NVhnaENoZWJPVW14Um1oSllnb05BaC02dmZfUDdMSm9tVUc4ZmFvY1ZMMUZFRlMyeUhxNXZVenNjclRrcEJ2d1ZVYjVlSUQwT3Npb3dhR0plVExVbVpWamxHTWVtOGs0ZjVZSC1YbTRMeDVKMVJJRFZYN2llVnc1TlhjYXdMVnBsQ3dJVU9lbDNPMGxScFZWdGx1WE9ySVJIWlU?oc=5",
-        "pub": "2026-11-13T17:57:00+00:00",
         "outlet": "Univision"
        },
        {
@@ -331,6 +331,12 @@
         "outlet": "Telemundo"
        },
        {
+        "title": "Bobby Pulido gana Latin Grammy y anuncia su retiro de la música",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0RvV1BaTFVrWll2Q0UzMTctb2lFaWVwU2phQXEycG91V3Q2Z0pldGt2Z1BCamg4bUJOUVJNc29mMS1sSlJYLV9uNmFBSE56WkRzT2FjbzZvcXhOTjYwamtUQ09RNF81UjFWLXBmVHY2N3I0cTFxWEtTNzJaWHIyMUFrWGEtbU5MQTItdDZhWDZ1LVd5ZTAzRXlxUjBZX29Bek82d1RPUGhqNndJVmJjaWtmNjU2clYtMWtkRllVNDhYckZYQjFTdWFGWjJXYmpkUnB5M2YtMFpvSUNB?oc=5",
+        "pub": "2026-11-13T06:28:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "Famosos ARV: Chris Hemsworth y Elsa Pataky sufren robo en su mansión",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYmF0emRQSFpFWFFQbnpqZmoxMUQ0Tk9zWk5pWGtyOWktYVVOZ3hLRXpuYTU3aHk4bDQ4b2FKbzRNMlR3Tm9lcm1hY0YxUHU5djY2SmVCSDRsVjRNYW54b01rUXotRzNlbmNWZkFlZDEzTm9wT3MzMnA3X1pESWNaLTNLRFB2cGI0WlZNQ3JUYVdwcnRVR0taUTNBMmJRc0VSY0xqUS1nQmdNR0xVdWwzSkJoY1VzZEhXbE9TeENnTFNwMlhyekt2aFRnYw?oc=5",
         "pub": "2026-11-12T06:26:00+00:00",
@@ -343,15 +349,9 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Las noticias de la mañana, viernes 13 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUJwMjdsVm9vd0MtRkRwbzVVbmRqQW5CU19UeXpnS1hVV3Uwb3RYS25vdFctdFlMMFMyQ19SQTNSVjYxcmRyZFZ3VnZiSFJsT0RwTjVRUF80YU9DaXBBLThiSXJoNERYTW01SGlZeUswV1JraGdzYjZKYVF4U0k1SXctTXN6M1NPX0RpZUhyV1ZUNDVCY1oxVEVEcVdUcXFEdjRjV1duMXJucWpaOHRXSVppVEJMaGdCcnFjRGpCVFhFVHBnYllkNkxR?oc=5",
-        "pub": "2026-11-13T18:48:06+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Las noticias de la mañana, jueves 12 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQejB0YzJ2dXMtVno1eWpZRFVfSXY2QnRTeVUzZDBzR0t1akpRWFQ0TFRCU3pxSTVqNldiYldmc0g3YVZGTFFQTi1PMk56SDFPU21GVUFuMEx0alhFbWJRZy1ESWlYZFd0RHRIa09YRGNaYUZSTm9OT0NsLVJ6RUNvRFVlN3otME02UVk4MENpNUxKYmZCaG1GSWlnWmJlUndwUXJob25EUXRBc1I3SGRfQTF4X2syZU1xRk45QUtUcE9iZ0NFb29vZA?oc=5",
-        "pub": "2026-11-12T23:49:00+00:00",
+        "title": "Daddy Yankee: Aumentan los rumores de que tiene nueva novia",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmdmWFhsWjZpU0hneTZuWGlhdHIxV1U5bjlTMm9GRFZMSi1QbmhpZXAxdDhUNVRqQkIyVi1hN2NqVDEzVDVxVDhjU3BFMDl5azlEc0h6QmNPaDRGMk4zUUc0MDV5UXB4WVlmalMzNGVqSzJlYTVSR1hrazYtZEI3LXJxclFYbjd5UzJDS2ZfbGNBOEpBaWRreEk5UFo5RlJScjVMd1FBR1RSbkFkdTFuZHJub1VhWVRpM2dDWXBDTTA2ZXRybWo2M1ExZFdlNFVKalZ0b3hB?oc=5",
+        "pub": "2026-11-13T07:28:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -423,9 +423,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Dinero - Página 1276",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqc2RSMUdJRWtQRG1WSlZFY29kLV9QQXY2em45MXV4NzNCUTlEZ2R1dFJfbzJueHhmS3poZGFGeWx4UF9BRGVkRWZuUTVCc3pMU3dhQ1dRcGNCMHFM?oc=5",
-        "pub": "2026-11-12T13:16:34+00:00",
+        "title": "¿Qué tan seguro es el sistema bancario de EE. UU.? Riesgos y cómo proteger su dinero",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVYweGsyVGVpenJmU1A1UmY1ZkVObW5fcWFUSDl3SDdRQlh1X3BNM1l4b1BhdnEwWmRONjJCTFM1dTJpTFppYlJTYi00eU1qcUZHSG1nQWpMRFJHc1dyVmVablZNdUtQOU9WdExsVTU1OTNnUXdncEZDNnpxb1BXSWNXcFBPTEl5TnFyVlc4ODdkeXlaMDhMbGFXaGNXVTBNTmdpeGFRQmNHTUZFS1g4RUhjZlNqdWZ2RmVpeExoNFRUYkN4UDlzb1hoYw?oc=5",
+        "pub": "2026-11-13T19:23:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -441,15 +441,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Estos productos son regalos perfectos para Navidad y están de oferta",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOelpkcTNYR0ljTGRBaW8wUkxxNEE1YkFWZkp2YW1xR1Nkbmd2OWw1TTd4bWVpYkZQenpQcnBOeGpTcHpoVTZzcHR2Q2NOb2ZURFo0bGd0UEZGN3VBRmRjSTJGTGRmazhFdUt3Zlh1M3IxR3FqbjlLdmRJY3NYWmxFUXc4enVUVTJBWF9wOFZRSVNUdlBQVGtVbmFWb1BTeWJvcHlxV2ZBc3ZGMmZIaUg4WV9TbjFGZXRsNmtuUTQyVVcyZGllUGc?oc=5",
-        "pub": "2026-11-13T09:29:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Cristiano Ronaldo inicia una nueva faceta y debutará como actor y productor",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdmZiOVBwanJSYU9Rb0s4d0haVHhGNHpBVXJyZ3BVZ3h3Z0pOVGswdmdTV3RnWnZFekVqSXV3a2xiVG5fRFNpSGFJM2tfZFFTZFgzbkNQUVdCOXJabVU4T1liZFZSQlZBQ2FHbXRsb0VCeGJyc3FRNVBva182MS02RS1kNGRXSEZUcHlYV0RnYUFJdFFtSUJTcnhxS3hac2kyNm4tNlZFNENnbk9jdXRMVW8tall2d1pZZTlTb2cyTUpndVAwNkRpX3ZlZmVIQWM?oc=5",
         "pub": "2026-11-13T07:19:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Estos productos son regalos perfectos para Navidad y están de oferta",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOelpkcTNYR0ljTGRBaW8wUkxxNEE1YkFWZkp2YW1xR1Nkbmd2OWw1TTd4bWVpYkZQenpQcnBOeGpTcHpoVTZzcHR2Q2NOb2ZURFo0bGd0UEZGN3VBRmRjSTJGTGRmazhFdUt3Zlh1M3IxR3FqbjlLdmRJY3NYWmxFUXc4enVUVTJBWF9wOFZRSVNUdlBQVGtVbmFWb1BTeWJvcHlxV2ZBc3ZGMmZIaUg4WV9TbjFGZXRsNmtuUTQyVVcyZGllUGc?oc=5",
+        "pub": "2026-11-13T09:29:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -486,7 +486,7 @@
        },
        {
         "title": "The mistake newly-elected Dems admit they can't afford to make with Trump after sweeping 2026 wins",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONjBSNXpYbnJQd1lvSjRDaUdmVEtnMENsd1dQU3pGOVZGOWJ4QzRobjZKVFhqN1BJQVl3cllrV2ZzUnp6ZkpxWHBQLTZ3NFlrZzAtM1h6cU15Sko2bUpnX25xRUVhSXlCY0Rma21DRTk4U3Zjb2IwT3dHUkVXZHJIRVJmNm4weE1CSlZXekNBajdvWEhldlJDQ1lNX0FhMnh3SU5INVZLcWhtUmNsMVZiSHRoUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONjBSNXpYbnJQd1lvSjRDaUdmVEtnMENsd1dQU3pGOVZGOWJ4QzRobjZKVFhqN1BJQVl3cllrV2ZzUnp6ZkpxWHBQLTZ3NFlrZzAtM1h6cU15Sko2bUpnX25xRUVhSXlCY0Rma21DRTk4U3Zjb2IwT3dHUkVXZHJIRVJmNm4weE1CSlZXekNBajdvWEhldlJDQ1lNX0FhMnh3SU5INVZLcWhtUmNsMVZiSHRoUdIBuAFBVV95cUxPZkpfc1MzU01UeldJQTQ2MVRnbDBWaHFlN2s2dml4MUFBREU5RzNLek10aE1seFJVM1JzM2hOcVVEUmxIVk1RNW1GT0dyX0tpSjVseEd4RHVEaVhZR3hBRVVCYW1NU01NUmNncExSLVhGaTNkWHYwYkxUMG9malNRaWRYaDFRVWxCSmZDOWphSXVOWE5ocDRmdnNLNHZad0lDVy1zT1RKUXU3TFAwYjR6UzFaUmdPVHZs?oc=5",
         "pub": "2026-11-13T15:29:50+00:00",
         "outlet": "Fox News"
        },
@@ -517,6 +517,12 @@
       "name": "Fox News",
       "items": [
        {
+        "title": "Washington Democrat AG hands girls’ sports law defense to outside firm amid conflict of interest concerns",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYk5ldE1aWlY2bXc1eERfVi1VWkdWc1RfQlRnNk14Q1dZZTFVZkZUOHBhTTJqS2xhcmRhMWwzYU1tdlVYUlBfQWJXZm0zeUg5cThiVnVRMmlXLXpWeTNOWDZiM2Y2WHZqcFplQWZfUVZhaEdqb1NTSVA3WmxfbDBCRWtUWG8yQXNtLVJFZk1Ka3A5MUVzTkdNWW1jNTFPZU9TWVdCOTNnOXNIUUxGYW5paWUtNF9QYTB5c2JzNzBrX1RHZDB5dFFxSlNWcWZySHI2aC1r?oc=5",
+        "pub": "2026-11-13T18:40:50+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Seattle mayor backs effort to block girls' sports initiative that passed in 36 of Washington's 39 counties | OutKick",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZE9sMUxpUmJ6ZF8wMjJXZFA2R3hsTmNEcHNtLU5CQWFncmdILWlkTjdEeUR6Umw4eGVJQnhfWE9RWmZBU19heG5kVDljSEtsVWQ1Rkl6SHVKcVR6UVdlQVJwWUZzVWpGSGNvbVh4OVk5YmJlcFhwRUNJZmJJelA0WVIwZWJiajJRc0pod1VjTzJOTklsVC1nUGc3TDdJa1pLTkRCdDBCaTByMGo4bHNaZjVKRkt1V3R1MzVTeTZteGFYM0xPc3B6dg?oc=5",
         "pub": "2026-11-12T11:55:14+00:00",
@@ -538,12 +544,6 @@
         "title": "College basketball arena sits nearly empty for an actual Division 1 game in jarring scene | OutKick",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2c5TzFGcXZpVGFTbnIzT3hKTlVwTWEwSjFZRndHNEJ6T3NJOUNjbTlfaVdOVGpOMkhXWThvTElqZ2RvdHRJRE9Ma0szUUJ0OUw4SmF3SXRWOTk4ekEzRjlmZzlVeENaTU05a1ZhdHlMX0Utb2ZUWXg1NXRoTW5xMVM5UEtpWGM2dmpCZnlWNk9vUjV1cU5tR1Y0b3k1WGt0Wm1MamJZQWF3MEhhcVlWRg?oc=5",
         "pub": "2026-11-12T15:22:57+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Star golfer has a new appreciation for SI swimsuit models after recent shoot, Herbert auction & Herbie's dog",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHA3WFdIQ0FfZVRWdUI4c2g0bFlWejFFX3FnalQxdmtNN2E2V1o0MDJreGNaLUV0TUhQdEZoQVd6Z3VaUnppMlZac1Z3U2lMTmQ2bHZRVkVPU2ZuT0FncktXaFpIRjRjOGxCVmNGdUtrbWdSYldsSjBTUkdsaU16YUNCQ1FyYUhOaU9oV2pvZlRVa0dSazhFOTJFc3VQSDY0czlRNkdudW9xV05Pb0YycDd1NFpLa1RPTW1XNWlnZkZEdU5FZmc?oc=5",
-        "pub": "2026-11-13T14:26:29+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -567,12 +567,6 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Kelsey Grammer still feels 'sense of smallness' for not serving in military: 'I do my best to make up for it'",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWlVWTGZTTUNJU01PSG1vNEJlZzlyR1VaQWh1V29tM2xBTHBoMkhRVEZoM3gyVV9vNG5TeVFpdk1GcVhmVHNEX3pUU3VQWTE0U2NqN1J6dk5kcDZnN1RBR0VZc1JhSWh4d0xrTVdDcUlQVUdLelV3WUhmdUlaa1NYTEV5VEhJWTJxUkRIZXVxZUhRVVF2XzZMeEZxWUVwVnNVSE52Q09RWEt1VllEcWZIcURSTUZvTDdiZm9JNXJPMDE3aFXSAcgBQVVfeXFMUE4zNUxXWGZqby15dVdSNU16MHptYTV3UTVXV2ozS3lTbmRfVjRFd2ZIWUxJdXNrTFF6ZUk0VjEyMERHcnNWeFI5Zmtpd0ZZaXVmZ2lwNmhrLXMtbmJUYVdxMDhOd1JuMWVDdVZueV8tY2d4S2laMDdBWVp2VTRwLUNTNmlyOTFHNndPT0Y0emZCcnNIdjVMeFZRUFV5ZlNHZzFMOVo3NmVFQ2VOXzJJRmpNV3RvelVnSXJBekpaZ2VpVExEVUQ3TmQ?oc=5",
-        "pub": "2026-11-11T20:00:40+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "'Yes, Dear' star Anthony Clark dead at 62",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ENF9vV1liQnZBUl9NSWMycTRPRG1QLUpGajRZbk1Cdl9MS1Q2WERtVjZLMnRzNUFUQ29BbVh0ajlkdEt6SGlLWHJJUnpheEpwNWZ5MlpJWDNCQmtFVWwzQy1vZmVzSGtNVURCWFpvYmllZTZCNGVrbERxSnZ1QQ?oc=5",
         "pub": "2026-11-12T16:52:35+00:00",
@@ -582,6 +576,12 @@
         "title": "Jim Caviezel says he’ll ‘always’ be disappointed he isn’t in ‘Passion’ follow-up, hasn’t talked to Mel Gibson",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN01nNjhFU0d5TkRyaU5Kam9acmdleGcwcEdsd0dad0NabjNwVTdkN2hXN01xRGNxbDNsT3VZb09OYUM4cjV1WWJIYmE1RVJhSUJSc1U2QjFFQXlSX0dBbTJWUDlaUy0tQndLS2hKRkhPUEEzTUN3bmViODZ4ODZYeHYxdURGQU5wNkloNDl0akNCcXZZLTR6SkhWUmFQSWRsaTl3RXpwd1JVQ0VPaXRQM1lxQ01IOVdmcUJ0bm1uYzMyUmx1RkVQV0l30gHPAUFVX3lxTE0xQUFibGJIU1EwcHVOb3ZKMVVoVFJ4VktkUkFOT0xOVl9Yb1Y0MXdSLUNEazZPeHVOVmViSjh0dkJIaW5xZm9rcUYyTzFTTUNzZUxLcjFZVWNOMDJMeS1hRjNPRm5QTENJeEdZblR6bU82MFd1LXRwWlNqMkNlOTJFTDhLcUFtdVJhWng5bG9JcGZFNkFtaHFZbkVCelh3TmNtQUZQTFI2ZUlJUkwxb0l3UWRkaEpzVkRsbVFkcHpfYjMyVngtb2FSejhKTGRndw?oc=5",
         "pub": "2026-11-13T13:00:46+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Alaska 2026 Midterm Election Results",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UVl9feDk5MGYtMHR4SUpIZWFnallFUW80RzBHdmJZZ2tkSi02ZjQzcTZ3akR6c000Qmttd3l1SEtFRThlYlhsbWp2cEJpcmdMTkRzMWVqQVdVSHF0MjZHTlRxQWlnTENPR1ZpemdxemZ2TXZYemc?oc=5",
+        "pub": "2026-10-06T21:29:06+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -599,15 +599,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "The estate planning step many families overlook – and why it matters",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaXhRemw2RV9xZHljcmRqNGVia25kZHdRdTYyZlgtb3VsRHJCZTVNM1A2U1BvR2ZIb0g4a2FObHlfZURNVTNzQUdiOWI3bDBjS0VBVzJIVG5seGlvTHlPYjVMN0dVLWlDT0JFSEdGRzRjYmZ5Y0s3Vl81ekRHZF84LXowV0pxSDB3bkFmM083Y2NOckhPNVHSAZsBQVVfeXFMTnpaNVRMVk9TeHpmU0ZLVHRVdmxXXy0wLUVMeFZ6UktMZUc0a1JTY2g2LVZIVjZKQXZaOFBiWTI0RWFFNGN6UzVQUjNXeHhnMnVpZXE2M2xOQ0xFNjlpT2ZQdklLSU9ZN1ZDRHNxLU9tV3k3MjBwN3ZhUUg1bEJ1LVJlazRVMzNSQUNoMHNKSmtLYjJPRldqbERuQmc?oc=5",
-        "pub": "2026-11-13T12:00:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Thanksgiving staple recalled at Costco over possible contamination with cleaning chemical",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzZLVEJHcmV3aXBRckJlSWpvaU9RVnNIN0FaRmpiNUk5V0ltWlkzRGRCRHM3d19OaFktX1JCQk9CWnJZT2d4OENWdGZCQjNoWkkzWUZYeU8yTTl6bTFVOTJvV1d5Vm1oOHJEY1JJVmlJU040Vm5ubG9heV9jb0xsRnJqTjNwSmNZZUptcXNLZ0JjZms1WWhabEdFak5OSUtuVFhxMVQ0clFNZ25GeGNMbXJORUpNZlVsaE1V0gHAAUFVX3lxTE5DNTNtR2VpbHNWbmRaeVdYdGhXQnR5YWlsVGItaFVxSGFKc2JsRVhpSFE4dXBZUHQybC05bXdESTB3akpRVnFBTlZEY1ZZVk9RazZGR2ZqQ2QxclNfcjJHN3pfRGlqSllUOXM5cXFtbHRNdHF6c0xoNi1vc2REM1RZTHh0Vk1TdEU2MU1xRXZfd3YzSFFrRUtia0U1S0o0ckZvZFliMmlmMTV2QWp2UFROb0ZNZENzcVhIbzd4ZmNLYw?oc=5",
         "pub": "2026-11-13T08:50:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "The estate planning step many families overlook – and why it matters",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaXhRemw2RV9xZHljcmRqNGVia25kZHdRdTYyZlgtb3VsRHJCZTVNM1A2U1BvR2ZIb0g4a2FObHlfZURNVTNzQUdiOWI3bDBjS0VBVzJIVG5seGlvTHlPYjVMN0dVLWlDT0JFSEdGRzRjYmZ5Y0s3Vl81ekRHZF84LXowV0pxSDB3bkFmM083Y2NOckhPNVHSAZsBQVVfeXFMTnpaNVRMVk9TeHpmU0ZLVHRVdmxXXy0wLUVMeFZ6UktMZUc0a1JTY2g2LVZIVjZKQXZaOFBiWTI0RWFFNGN6UzVQUjNXeHhnMnVpZXE2M2xOQ0xFNjlpT2ZQdklLSU9ZN1ZDRHNxLU9tV3k3MjBwN3ZhUUg1bEJ1LVJlazRVMzNSQUNoMHNKSmtLYjJPRldqbERuQmc?oc=5",
+        "pub": "2026-11-13T12:00:00+00:00",
         "outlet": "Fox News"
        },
        {
