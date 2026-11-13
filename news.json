@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T22:04:04.600156+00:00",
+ "updated": "2026-11-13T22:47:30.427634+00:00",
  "categories": [
   {
    "id": "top",
@@ -28,9 +28,9 @@
       "name": "El País",
       "items": [
        {
-        "title": "La FAA ordena una suspensión nacional de los vuelos debido a “circunstancias extraordinarias y motivos de seguridad”",
+        "title": "Estados Unidos suspende los vuelos en todo el país por “circunstancias extraordinarias y motivos de seguridad”",
         "link": "https://elpais.com/us/2026-11-13/la-faa-ordena-una-suspension-nacional-de-los-vuelos-debido-a-circunstancias-extraordinarias-y-motivos-de-seguridad.html",
-        "pub": "2026-11-13T21:56:22+00:00",
+        "pub": "2026-11-13T22:19:44+00:00",
         "desc": "El secretario de Transporte de EE UU informa de que la paralización se debe a un “problema de comunicación que afecta a todos los centros de control de tráfico aéreo”",
         "outlet": "El País"
        },
@@ -69,9 +69,21 @@
       "name": "Univision",
       "items": [
        {
+        "title": "Un buque cisterna choca contra un crucero fluvial con 129 personas a bordo en Nueva Orleans",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzUxZzB5cWNFN1dVZ1YtTkJQeEtGcm9aWmtVRW0zdTI0d042YUxiT1gyVEpCVUpGZ2VUd0ZORFNsUnRYUVpHc19ncUtDMnl4bGRabHhGcEN3Y3FEMzRXZXZqTjhKMGlVQ1RqTllDRGdPa3hCVnItMWxyYlhiblNQVGdudE1fWS1KVTdPRUlLVF9JN2oydF9ad0hjb28tNFEyd2Z3YU5Rb0tOaDJsZldWMEFkOGV6WjFqNXMyNEd5MzA?oc=5",
+        "pub": "2026-11-13T21:57:26+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "La FAA paraliza todos los vuelos a nivel nacional debido a \"circunstancias extraordinarias y por motivos de seguridad\"",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0pURFhiQmVXdWlseHZSOXdBWWkyZjB1blN3UUZTYmN4QlVqaTV0SDdra1VDMG5CMmducXJMSUYtN21ycmhxem1MNGdTYUVRRWVyZEhEbWI4S2J3TC1zMER3eFROcHE1YnAzc19xZkpTbFVIT0NEbjJOU2IxZFFoR3hqbXJ0N1dnQ2c2NkcxWEJvM01IRGNmWnR4bXNXYkNXTWxaaWExb3UwVGtMbTRjOWZrQUNObG1LWGIydnNKbzJBdERKUjBZNVc4YUU?oc=5",
         "pub": "2026-11-13T21:18:23+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Lo mejor de N+ Univision de la tarde | viernes 13 de octubre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlBsR3pFejZGSlpDN0NnQUJ2TXRGY3dyTUxwcEY1X2xkSGgxLWxyanMxYm4zMmxEODF5U0k5MERiOG91V0JzLWllMDBPdG1NQTI0b1VvckI1US1uQXJOMWhXaFljUEh6NDNwMWI0M2RKZE1sSGszT0lKZXlHSXZ6SklVRG5vcWplSFdqdzJhVXdBVVdXSi1fNFFjX3IwdU1ZNFl1MHFpTlFBZw?oc=5",
+        "pub": "2026-11-13T21:43:52+00:00",
         "outlet": "Univision"
        },
        {
@@ -85,18 +97,6 @@
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMkVkTHpLeVcxbWZmbDc3ckJwbmdUeWhFcERHQURVZUxaaGlFQzBzcDNvRDh4dkwyLXlnZG9GaUNoejQ2eEdmbUN1R003cmN5a253TW83WG9SSUVBTmx5b2daVWxmcEhNMkV2aHVvaGtzQzVwNm94UkFsNEtWeWtGb3VjUzhuaVdOSGs0bVAzYkJJTzktck5WOXFWSk9TbTI3YkZvcF9heHJRQTZJb19uZWxfUUJFRmVyTWItenFhbEVJOURXYi16bVVTNVFfUWlUSTlKdXB3MURDZFR2ZjZ2WFRYbFBQcHlJWWlfZkVqRmJ0V083WVVNNkh4STlQM1dT?oc=5",
         "pub": "2026-11-13T00:25:08+00:00",
         "outlet": "Univision"
-       },
-       {
-        "title": "Peruanos esperan \"balconazo\" del Papa León XIV",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZFZleWpzYUQ5S2dyVktKZVRKSDhyTUhlbkhwWEtwNFFoWE01Rmt3ZkV2REdyWmN0X3FMYWhDX3lKM045ZmQwRlo5NjdjQ0dfOWlYX2NneWtpTnQzaU9jYmhFdVpDSTZocENQY2VHVFFTNEd5UXdSRVB6QlhjWjdyVFVxZFo0eXgtdHY2NV9KZzZUdFd6MlR6TGpR?oc=5",
-        "pub": "2026-11-13T16:17:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "¿Invasión o discurso?",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pb2FJelNBWVBrQXpJZFJ1cnVPN2ZYWlBYWExNZTAzQmZvQzNpRDlqY201SnNGcE9uRnBHckQ1bm1ESFpLQWIwRkk3TFRua1ExenlSblRUS0RrV1RYc3VVTHpuekhJQjBZQll5bTNqQWxCTW1GcW54Rw?oc=5",
-        "pub": "2026-11-13T13:37:00+00:00",
-        "outlet": "Univision"
        }
       ],
       "error": null
@@ -105,33 +105,33 @@
       "name": "Telemundo",
       "items": [
        {
-        "title": "La FAA ordena la suspensión de operaciones en tierra en todos los aeropuertos del país por “razones de seguridad”",
+        "title": "EN VIVO: Ordenan detener todos los despegues en aeropuertos de Estados Unidos por razones de seguridad",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR2lWMHptOGZTVEh4NVFZSFhkWXkwZ1hvZmtraHFTdzZIdl9udXNVT25sZWZoYzRhb2V5NVptcy1TRVp2MV95MFpuSVRFRlRaRFlpR1d6Z0RIU2N4NlpkcHdwS0FVZVk2YU1odHMybUNZOVhHNmtLLTJYeUd6X0FwbXBkRkotZzNFYmpPdDhxQk9oZmRqNVdkQUFPS0lhSndIRC1NdXJlQ09KTlNaUmhlMnhGR0E2WmhsM3JWVGZ4c0I3MmxwYklLbFNtd0h1VV9UREZnNFlXSQ?oc=5",
+        "pub": "2026-11-13T21:59:13+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Cámara capta desde adentro el colapso de edificio en Brooklyn",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0lSNUdSWEVwbVQxXzRiQ1MzUkxtNC02aVdPZnFEcUx3OE56WlhNZ3gzLWdlampiUXVyVzQxU2k5ejZFdERrckhQaUgzZE9ya0FQaXFtcmRYMkd4NHhRLS1RMHExNVBmYThuTk8wYlBFRUNnbFQ3cjdXeUdHaGpUZHBMeERkNjNOYURVSHNNQkU4MkNrdE94d3RYdldQdmNubjFZalp3dnhvTG0zVHVMVlcybnJVRDh3eDVsWGh1QkROZkJxMkZveTlWc3YtYkMy?oc=5",
+        "pub": "2026-11-13T22:20:13+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "La FAA ordena suspender los despegues en todos los aeropuertos del país por “razones de seguridad”",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeG9lOGI0SmJMbTR2d3pGZkhZZVRxNTNaaUd2WXJ0aU1JbVVmaG9qT01ZM191R0FwQU1CN09qVlllRG54bWM3a3BNdkFuOHE4cXV2ZXJTYU1yNUxfS2tkdnBWSU4xRmZEb20tNmtzcTFRWnZDd0RvWWdlbEpWbzZWaVRjdV9PWjg2cXZMZ285TFZVbVVRR01sbnZxZnZPOC1vMkVET19UUy1neXBBMS1USWxBMDNwSjZmLW9OTEdWUlNabEhSSUtMRkFkNUVqcl9kak9UTQ?oc=5",
         "pub": "2026-11-13T21:18:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "EN VIVO: Equipos de emergencia responden a choque de embarcaciones en Nueva Orleans",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdUxRQk9ja2VSSm5WbTRoUmYwUGw4VUpLS25BTEdjREhXSW45MTU2NjZtNzFLZENUcWlHRk43UkVuZ2tIMVR1bG5aaWVsZW1VaXpYYWdJWEI1QjJHMzY2Mm5ucmcxQ2VEVF9RQkpPSW1QVTR1RlJFekZTdV9uVEdIeGpHUDlaQ2hlek1FZmZCWkNHYjZHNXEwU1k0NHZ4ZFNEU3VhZktwMHNEUlpRaVh2a3hweTN4TDVfeGozVERR?oc=5",
+        "pub": "2026-11-13T21:11:20+00:00",
         "outlet": "Telemundo"
        },
        {
         "title": "Inesperado colapso de andamios queda grabado en Illinois",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdC1ZX1lqYk5ZaHRsYkc1M1o1VjhMNWVjVk5GdktzOU5yN3p3QTloRlYwMllkTkRQcWt3MGdPMXF1em92OWFGQ3dWQ3hpMkxtYllUMWxsN25TUmdfdk50VU5vci1zdW8tX0xjZmZRbUxZTVBIc2VvVkltOHJidzZLUWN0ZmRHOFBmYWRmTWEzVW80ZDcza1RXdlR1aldPVF9RZWRsWDVfakZWc0J0M0JzMDk1VU9VSGtWempTNDV0RWxwclhpWnNwMXpR?oc=5",
         "pub": "2026-11-13T19:35:13+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "En Vivo Equipos de emergencia responden a choque de embarcaciones en Nueva Orleans",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdUxRQk9ja2VSSm5WbTRoUmYwUGw4VUpLS25BTEdjREhXSW45MTU2NjZtNzFLZENUcWlHRk43UkVuZ2tIMVR1bG5aaWVsZW1VaXpYYWdJWEI1QjJHMzY2Mm5ucmcxQ2VEVF9RQkpPSW1QVTR1RlJFekZTdV9uVEdIeGpHUDlaQ2hlek1FZmZCWkNHYjZHNXEwU1k0NHZ4ZFNEU3VhZktwMHNEUlpRaVh2a3hweTN4TDVfeGozVERR?oc=5",
-        "pub": "2026-11-13T06:08:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "En Vivo Autoridades y líderes comunitarios hablan sobre el derrumbe fatal en Brooklyn",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHYzek5uYnJaOHh0X1lKczNINDNNR1JxRzlUOEVtWmYwT2VwOUFKQktGTTFmcWoyMUJvU0N3YlItSk80Sjl3QzRUN1pTMWNIVURrT000Z21NT3ZXZ0VDUUZkOVZJTXIzdDlCa2h5RmUtZnlUSjVPb3YyZnhBa0VXWGFxcFpYbm16NG5MWF93cEtuUGRBR0tNbXhHNlE3dzFIU1ZkdDh1elVOWE5BNmxDVGwwam9YZDVaRXZLd2VmcG1UQQ?oc=5",
-        "pub": "2026-11-13T15:55:15+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Trump revela que está contemplando una posible intervención militar en Cuba",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOY2tvTEZPZG9wT3F6ZkJheDlsWWVXTjJUX016cEFmTVByYUFTemt2blgzeWJiTUJOeDkyVjVTMjl6SjNmN3lvYXNQSm1xN1g0UXVIVWcxQkJEYUQzUGpqMGhQOHZsdnFuQWpMR3o0QXdXUlA4TUdWZjFZTDg0SElJaDRnS29NU21fNWliVUp0UnZsMjRQQVBmdElrRUxpaVFDTVBqYVRKYTFIWmJJeGR0dGJ2bV9tUDlpR2pCdV9EV0FlcDloWUtENE8zWEcybzhBeUNMemNfaTJPV3ZpZ0FLcHd3M2pIVEZBZXNpZnczejQxVy1EVmZMUWdR?oc=5",
-        "pub": "2026-11-13T05:19:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -167,9 +167,9 @@
         "outlet": "El País"
        },
        {
-        "title": "Resultados deportivos del 18 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxbVBUOEJJUzFEOGFnc1hIRVYyLUpaY19xSnpMdWxWVEg2ZGdSajk3LTZRdmxKNl9OYU1oNDZHaTN0V0xkZHprLVRDRjJ1aFhtOW9Wb0I3S2NzT3ZjNzI2Rl80LWxUUQ?oc=5",
-        "pub": "2026-11-11T23:40:06+00:00",
+        "title": "Competición sanciona con 12 partidos a Jesús Owono tras su expulsión ante el Tenerife",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYVlzR0FBd0JjcktKemJvUXFoYmt1aHZKNnh5YjgyVVk3QlJmN3VPRmJPb3Iydi1MaHQyamRERGVoVVdCemFMOVdJbHlCWkRONEF0YU9CRmtOTVJhRFI2eWlBeHFobnpFeDRZVFh1cXVqc0tLNW1PM0tkN1RWRGd3MWdWaGlvWEVkMmlHYm9ZQWd1OE05SmlRczhCaWQyZDgyVEVLbThTLTZLRlZvWERvZUEzdXRrYTJZYm9XWC1xNURzbEFUOVB6T3NEUV9wZDhxcVNTZ3pNSnRBM29kU2hMckhhaFIxZ9IB5gFBVV95cUxPYVlzR0FBd0JjcktKemJvUXFoYmt1aHZKNnh5YjgyVVk3QlJmN3VPRmJPb3Iydi1MaHQyamRERGVoVVdCemFMOVdJbHlCWkRONEF0YU9CRmtOTVJhRFI2eWlBeHFobnpFeDRZVFh1cXVqc0tLNW1PM0tkN1RWRGd3MWdWaGlvWEVkMmlHYm9ZQWd1OE05SmlRczhCaWQyZDgyVEVLbThTLTZLRlZvWERvZUEzdXRrYTJZYm9XWC1xNURzbEFUOVB6T3NEUV9wZDhxcVNTZ3pNSnRBM29kU2hMckhhaFIxZw?oc=5",
+        "pub": "2026-11-13T20:57:09+00:00",
         "outlet": "El País"
        }
       ],
@@ -191,6 +191,12 @@
         "outlet": "Univision"
        },
        {
+        "title": "¿Captan a ex de José Eduardo Derbez en pleno beso con futbolista?: circula video tras su ruptura con el actor",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1RlT1BkUG16NWMtUlZPSjRYeGc4eGkwVlVVNGZPNWN4QVVFSGtEZDV4bk9IZWR4a0pvN2lMZkpEbzhBWDN3OVFvUlN5aURuOGM4WW92b1BmY0VZUlJ5MHFwZ0hRUHFwQnMycm1Wc2tHdkxVN3pOd2xZcmVPZmpwdWNZdzNNdTFYc0cwNzgyVXp3RkNwQnVYTUpYNnJoUQ?oc=5",
+        "pub": "2026-11-13T22:13:32+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Jaime Camil revela que su papá “se dejó ir” ante problemas financieros: “No hay herencia”",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQlRnbmFRZWREazNpTUVuNmktSmJDeXBwSUpGQ05sWGgxZDZXOThYMTVfQS1nU3pkR2hJbDRXSUFPRjJWWll6YUxHRmNqWWdJTlgzYkdQWktlQ05TN3JZZFRTNlJnOFZobnhUNHlFOG5TOTR1dHJHUW1SWEVmNjFwNVZ2WEgwSXFRY0wxb3AxbS1OaC03em11ZHkweC1MU3FseXlGa2xyTGpnazV3eUlEQjJXc0hlT3Z0clBsLU5VWlQ2QQ?oc=5",
         "pub": "2026-11-13T19:35:00+00:00",
@@ -200,12 +206,6 @@
         "title": "Ana Brenda Contreras no descarta tener más hijos y dice que ¿le gustaría “tener 10”?",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ3lUdU5CdXdtaVhmcjlOU3YxU0hydGRJRXgxWjR6dnVtWGdJcGdXRDVRSVB1VjQxNWFsYmcyT1BjelpBdmZKS1ItSW9JMngtb2pmUEFZYkM4R3ZIbjNfX2N3clBnWkx3b2hiVjNHVW1XNmhHckJZTThqcnNLdDFyU0tZNVFEYk05Vm5hRGxUdC1CMWxWVExJN0FHdW9HNUNBbGR1Z1dxZmRXWWlSaWU4dG9pTnVuZUl0WDVUZw?oc=5",
         "pub": "2026-11-13T20:20:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "'Esposo’ de Adamari le ‘reclama’ que fue impuntual en una gala de los Latin GRAMMY: “Me va a subir la presión”",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHVYazJOaVc4OWZoZndHMGoxU1pRZVJCbDVLUVZ3cDVuSUFjVTl6TU1wcURmRC1mSE5lWC0yNms1NVhnaENoZWJPVW14Um1oSllnb05BaC02dmZfUDdMSm9tVUc4ZmFvY1ZMMUZFRlMyeUhxNXZVenNjclRrcEJ2d1ZVYjVlSUQwT3Npb3dhR0plVExVbVpWamxHTWVtOGs0ZjVZSC1YbTRMeDVKMVJJRFZYN2llVnc1TlhjYXdMVnBsQ3dJVU9lbDNPMGxScFZWdGx1WE9ySVJIWlU?oc=5",
-        "pub": "2026-11-13T17:57:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -343,15 +343,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Los Tigres del Norte hablan del poder del voto latino y de por qué es tan importante la voz de los inmigrantes",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVXhzN29IOU1XdXUwdVJOa2F0eFhpRXZQakFHYWJYbUVYU2UtNkxHbGVQN0F4cXdkZ2FmSWVGUS02anFWa3pyenFaM2ZnOS1oM2p5TlNJMXM1ZmNTdHh3M21mYWlDOE84bVZWS2h4anlEZDJuUk16TXM2SjFqcHZsMF9NSk9CQU90d0VVUlJiWWp4NXFwWExNZGlBVHlBYlNFTmwwbExCdFczOE5kSzJVeFdhY2hZY2Q3a1RXTGhTdzdwZw?oc=5",
-        "pub": "2026-11-11T22:06:11+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Daddy Yankee: Aumentan los rumores de que tiene nueva novia",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmdmWFhsWjZpU0hneTZuWGlhdHIxV1U5bjlTMm9GRFZMSi1QbmhpZXAxdDhUNVRqQkIyVi1hN2NqVDEzVDVxVDhjU3BFMDl5azlEc0h6QmNPaDRGMk4zUUc0MDV5UXB4WVlmalMzNGVqSzJlYTVSR1hrazYtZEI3LXJxclFYbjd5UzJDS2ZfbGNBOEpBaWRreEk5UFo5RlJScjVMd1FBR1RSbkFkdTFuZHJub1VhWVRpM2dDWXBDTTA2ZXRybWo2M1ExZFdlNFVKalZ0b3hB?oc=5",
         "pub": "2026-11-13T07:28:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Las noticias de la mañana, viernes 13 de noviembre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUJwMjdsVm9vd0MtRkRwbzVVbmRqQW5CU19UeXpnS1hVV3Uwb3RYS25vdFctdFlMMFMyQ19SQTNSVjYxcmRyZFZ3VnZiSFJsT0RwTjVRUF80YU9DaXBBLThiSXJoNERYTW01SGlZeUswV1JraGdzYjZKYVF4U0k1SXctTXN6M1NPX0RpZUhyV1ZUNDVCY1oxVEVEcVdUcXFEdjRjV1duMXJucWpaOHRXSVppVEJMaGdCcnFjRGpCVFhFVHBnYllkNkxR?oc=5",
+        "pub": "2026-11-13T18:48:06+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -491,9 +491,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Democrats in leadership showdown on Capitol Hill",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xM2VHaEhTVVE5X3hNeGZKMTFiUW1FOWNxRENKM1lpZ0ZQTlZEUDNXLVlEOFhHcXdzck1RWTB6ajAtS2huUHMtU3VrdWVRRld6S3lUbzBB?oc=5",
-        "pub": "2026-11-13T11:21:24+00:00",
+        "title": "A spy took out Nvidia’s CEO. Here’s how America still wins the AI race",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaEJBeWdMeFN3RWJOckQxVVRzT1FJdHA5cWd0Q2g1dEE2LVY1aWxld1lwWHJ1MDFDNjFxRGY2cmxWM3B6OVBmckhQX3Z2eXozblh1VXFJQ0gxTFJnTGozc1AxWS1fRlkxVFFrQmRNa1paQldBVVBZWGs2dnEySWpLbUhRWUVBQ3M2S3lVODhvLXIyNnMwbDFyaNIBngFBVV95cUxOLVlpZVZ2UHRfbzNiU3E5cmxyUmQtazVONmxYcTdSb3dfUkZrc0VONE5QMmU5dFFTWktyRXV4aHpzdjA4VFNkOTNwZjVqNTdEbXlGVUgwbGQ3c3dZQkQ5dUY0bXhsWHZkdkZkTE52SDNNZ1JDLVZwcXVXMk9QcVpDcGwycmNIamVQQUpMZ3Ezbk1YTW1RTkNONVFnbGlzZw?oc=5",
+        "pub": "2026-11-13T09:50:01+00:00",
         "outlet": "Fox News"
        },
        {
@@ -535,9 +535,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Sports world reacts to the sudden passing of legendary broadcaster Dan Hicks at the age of 64 | OutKick",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXBONkdFLTNTV1g0M19JX3UwQkkwcVJjYURzT0ZzUXJVU01iQWhDaGljQ244YWYtcTRjQTgxdThncWEtb1pSbGM1M3pjUXZGOUo2TUdabUREeFhPM3Y4N2hWcU1vaGoxS0dPV0NhMUw3Z3RiaVYycENtM184Wm0yT3Y0QnctNnl5bmFGRlNlc0c5dFhiTjBBRDVxZlhSVFlPd3g3eHF0OER3VlBJSmE5dUtB?oc=5",
-        "pub": "2026-11-12T15:57:20+00:00",
+        "title": "Star golfer has a new appreciation for SI swimsuit models after recent shoot, Herbert auction & Herbie's dog",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHA3WFdIQ0FfZVRWdUI4c2g0bFlWejFFX3FnalQxdmtNN2E2V1o0MDJreGNaLUV0TUhQdEZoQVd6Z3VaUnppMlZac1Z3U2lMTmQ2bHZRVkVPU2ZuT0FncktXaFpIRjRjOGxCVmNGdUtrbWdSYldsSjBTUkdsaU16YUNCQ1FyYUhOaU9oV2pvZlRVa0dSazhFOTJFc3VQSDY0czlRNkdudW9xV05Pb0YycDd1NFpLa1RPTW1XNWlnZkZEdU5FZmc?oc=5",
+        "pub": "2026-11-13T14:26:29+00:00",
         "outlet": "Fox News"
        },
        {
@@ -567,21 +567,21 @@
         "outlet": "Fox News"
        },
        {
+        "title": "Jim Caviezel says he’ll ‘always’ be disappointed he isn’t in ‘Passion’ follow-up, hasn’t talked to Mel Gibson",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN01nNjhFU0d5TkRyaU5Kam9acmdleGcwcEdsd0dad0NabjNwVTdkN2hXN01xRGNxbDNsT3VZb09OYUM4cjV1WWJIYmE1RVJhSUJSc1U2QjFFQXlSX0dBbTJWUDlaUy0tQndLS2hKRkhPUEEzTUN3bmViODZ4ODZYeHYxdURGQU5wNkloNDl0akNCcXZZLTR6SkhWUmFQSWRsaTl3RXpwd1JVQ0VPaXRQM1lxQ01IOVdmcUJ0bm1uYzMyUmx1RkVQV0l30gHPAUFVX3lxTE0xQUFibGJIU1EwcHVOb3ZKMVVoVFJ4VktkUkFOT0xOVl9Yb1Y0MXdSLUNEazZPeHVOVmViSjh0dkJIaW5xZm9rcUYyTzFTTUNzZUxLcjFZVWNOMDJMeS1hRjNPRm5QTENJeEdZblR6bU82MFd1LXRwWlNqMkNlOTJFTDhLcUFtdVJhWng5bG9JcGZFNkFtaHFZbkVCelh3TmNtQUZQTFI2ZUlJUkwxb0l3UWRkaEpzVkRsbVFkcHpfYjMyVngtb2FSejhKTGRndw?oc=5",
+        "pub": "2026-11-13T13:00:46+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "'Yes, Dear' star Anthony Clark dead at 62",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ENF9vV1liQnZBUl9NSWMycTRPRG1QLUpGajRZbk1Cdl9MS1Q2WERtVjZLMnRzNUFUQ29BbVh0ajlkdEt6SGlLWHJJUnpheEpwNWZ5MlpJWDNCQmtFVWwzQy1vZmVzSGtNVURCWFpvYmllZTZCNGVrbERxSnZ1QQ?oc=5",
         "pub": "2026-11-12T16:52:35+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Alaska 2026 Midterm Election Results",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UVl9feDk5MGYtMHR4SUpIZWFnallFUW80RzBHdmJZZ2tkSi02ZjQzcTZ3akR6c000Qmttd3l1SEtFRThlYlhsbWp2cEJpcmdMTkRzMWVqQVdVSHF0MjZHTlRxQWlnTENPR1ZpemdxemZ2TXZYemc?oc=5",
-        "pub": "2026-10-06T21:29:06+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Jim Caviezel says he’ll ‘always’ be disappointed he isn’t in ‘Passion’ follow-up, hasn’t talked to Mel Gibson",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN01nNjhFU0d5TkRyaU5Kam9acmdleGcwcEdsd0dad0NabjNwVTdkN2hXN01xRGNxbDNsT3VZb09OYUM4cjV1WWJIYmE1RVJhSUJSc1U2QjFFQXlSX0dBbTJWUDlaUy0tQndLS2hKRkhPUEEzTUN3bmViODZ4ODZYeHYxdURGQU5wNkloNDl0akNCcXZZLTR6SkhWUmFQSWRsaTl3RXpwd1JVQ0VPaXRQM1lxQ01IOVdmcUJ0bm1uYzMyUmx1RkVQV0l30gHPAUFVX3lxTE0xQUFibGJIU1EwcHVOb3ZKMVVoVFJ4VktkUkFOT0xOVl9Yb1Y0MXdSLUNEazZPeHVOVmViSjh0dkJIaW5xZm9rcUYyTzFTTUNzZUxLcjFZVWNOMDJMeS1hRjNPRm5QTENJeEdZblR6bU82MFd1LXRwWlNqMkNlOTJFTDhLcUFtdVJhWng5bG9JcGZFNkFtaHFZbkVCelh3TmNtQUZQTFI2ZUlJUkwxb0l3UWRkaEpzVkRsbVFkcHpfYjMyVngtb2FSejhKTGRndw?oc=5",
-        "pub": "2026-11-13T13:00:46+00:00",
+        "title": "Shawn Mendes triggers fierce fan clash after speaking out on Gaza",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEJUNjM2ZkFTbTZ0aW0tYTR5VnpFU2trUks0cjhCMlZKOEtjWDRwQTI3NTFLanRfRjUwX1lRR193TDh3cUttc2hWNnZDVTdnb2luMmZYQkZyMFViZmZVUEh5c1Zqa0hJeDdxRVl4S0hhSlcwZDVHbFpERkZid3BPR1p1bGFqLXpDeDN1Wkt4ZmF6ZFlM0gGaAUFVX3lxTFA0NWRhWlhjcWJ2MW9IdDh0NTNIalQ1VnBCS1JzRm1kWnhpZnBMYzNpTnN3U2JVdUZIcVh6WUNQNEhDbVR5TzB4UFUza28tM1h5QUkycUhRcHRMQnVUVm1NQjZyUU9fY3JMSFVkeTI5eHRHRUVHUFdBb0ZySGR6YkpkNU1LTzAza29XSUlvbVdwN0xGdHpIZ3pPNWc?oc=5",
+        "pub": "2026-11-13T18:02:24+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -593,13 +593,25 @@
       "name": "Fox News",
       "items": [
        {
+        "title": "FAA issues nationwide ground stop due to 'extraordinary circumstances'",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRG03WlhjQUt3WEhXNDdCVmJlbGZhS0gtUGpoZ0JVUmY0NHB1dkF3ZkJzTEJhVUpwbkNYSFhWRU1xRU1DXzFSTnVFMTZ0S3UwWVc2UVY0bDhScnlMM0owZXZ4eFIxRWM4TmppdENKcTdrZWhKNGNuZ1JsUEFEc2VHWnVGQkpyVXlWbHQzTkJnTzBsQmctUHViMWxVcGRTejFDODUw0gGoAUFVX3lxTE5xdUdFcmRiYV9Tb2lTU3BraS1hRldfODBkdU1LWHVBRDRyT0xhYjJ3YW5DcE5UM2dOUjU2eTd3XzlYWDNyWVRHOUpmR0VPcVlidzZpRGhMazR4c3ZUR3AyLWlIck9PMHQ4Yy1LQTB0dXhPZHk0d3o3aDNvT1A2cWMxWG1PblVCWDRkQ2tfS3VXYm1rUkdVTXBsWTBfNVQ1a0VsYWxCOGRpaw?oc=5",
+        "pub": "2026-11-13T21:28:37+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Microsoft apologizes after major Outlook outage worldwide, blames technical issue",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcDJLWFZzNml4RWhvOXpYTG1mXzV1TTRwa3I2czBZZmJIOElNMjdBY3BLcllJWmt1d2RQX1g0eWt5MjRlVmN5emJCVGllT3ZGV2lFbUNrNklpN25UVGIzVFBjbmF1bmRzUHpJbVZfeGhrRlRueXlETHNYMXdUSXV4dThKSTBHemlRUlpBYzcxV2c0TWJoV1o5M2llMFJ3bVJRSzdtZVNvU2RXd2hjRmkzM3NBRXl2aWotWk1J0gHAAUFVX3lxTFB5TE5IamJLVTJCbVRWNEU5QXJJT1pjZEQ4dksyOGFjUmFVZUNWMWRJZ0lpVk55TGg1UERXWEVDVzA4dHRKbXBGOFV1TlNlR2Q5QU5SRWpINS0zMWdjaHJuamtfN1p0eXZSdmlLZE5ZOUxBSF9fY3paY24zVzFCWHdrUEowMHoyYnZhUGEySVJIXzVSaDlteDNXOFVnRGY1R3NOY0NrdElSZzJhbmYyYVJBMXo5LWtzQ0lNaUFqcm40MQ?oc=5",
+        "pub": "2026-11-13T18:54:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Nvidia stock slide wipes out more than $20B in value for Jensen Huang over 5 days",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjJyTGdPdGpTMU1kMXBhN2pmTlM4cmJFUFN1MU1TUUpEZUFUNUZaLUd1WDctYXhHRk8tMk5VdlFYdk5HTUw2TXA4UGtQSy13WVlIbDRZVFBWcUpuSDNmU3JxdVRFNl9MSnVkaTNSZVJJbXFEbjlzZ3VCOGdyYlhKT0VReVU4Z1NPbHJsaGVQX3dYM1F3TTJyaTQzdHUzd9IBowFBVV95cUxPQ1VmWEs5YUJCYTE1Y3VjZ3ZPMVRHMUVXX3NPVG16U19JVDNubW5yZkwwRGw4UWM4MFVkSUZDQURCcVJOS3I2MElRV3pzZTVkOXgzcktTbUpIaElFNGdLcnJTSjdtbkhVeXJ4SXIyS3RpVE9PYW5RakZYMkhxdUhUWmpxR0wySFNLNGw4WUxXVTFkNzhvdVNTdHlKU1dqSlYwUnI4?oc=5",
         "pub": "2026-11-13T19:40:00+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Microsoft apologizes after major Outlook outage worldwide, blames technical issue",
+        "title": "Microsoft Outlook returns for some as millions of users face second day of outages",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjZVLTVDSXF6MXZnNHNheFhfSTdoWC1mYzJXZE5QWEsxOERCTTVvejJLWlFlOEFKdnpQR1ZNeFBjUmpsbHRZQXEtbFdjc2c0eVB5Q01faFpwdHRQa3VKNFRkR2ZoSW9YdVAxTmxOczU4c0owTC00RUo2alpCbmVSQlFRMGdEQklRR2JQX1dYQnlHT2t2dUs5eUY1VzhqLVp4YU1FNHRUd2FOOU9R0gGyAUFVX3lxTFBoaUdsOEl0amJEb0lJbVR1aDZEVjJoUGhLTWo4WGF1T0JVQkt5R1NFa2R6dDQ4X01OZlNHYUgxYVB2aE1hS080eUg0RUg5QVAtQTlnUm9wOVFGdEk1QUhtbk1NcmM0dGpHWU15U2ZxLUVxOXI2NEg4OW5FdkpESzFfYVJPWGctbDN0NThOYXVRNlp3b1UtcEtCZ2NhbUxzemhQUWFPYmstU0VNOGtWc214Q2c?oc=5",
         "pub": "2026-11-13T12:20:00+00:00",
         "outlet": "Fox News"
@@ -608,18 +620,6 @@
         "title": "Thanksgiving staple recalled at Costco over possible contamination with cleaning chemical",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzZLVEJHcmV3aXBRckJlSWpvaU9RVnNIN0FaRmpiNUk5V0ltWlkzRGRCRHM3d19OaFktX1JCQk9CWnJZT2d4OENWdGZCQjNoWkkzWUZYeU8yTTl6bTFVOTJvV1d5Vm1oOHJEY1JJVmlJU040Vm5ubG9heV9jb0xsRnJqTjNwSmNZZUptcXNLZ0JjZms1WWhabEdFak5OSUtuVFhxMVQ0clFNZ25GeGNMbXJORUpNZlVsaE1V0gHAAUFVX3lxTE5DNTNtR2VpbHNWbmRaeVdYdGhXQnR5YWlsVGItaFVxSGFKc2JsRVhpSFE4dXBZUHQybC05bXdESTB3akpRVnFBTlZEY1ZZVk9RazZGR2ZqQ2QxclNfcjJHN3pfRGlqSllUOXM5cXFtbHRNdHF6c0xoNi1vc2REM1RZTHh0Vk1TdEU2MU1xRXZfd3YzSFFrRUtia0U1S0o0ckZvZFliMmlmMTV2QWp2UFROb0ZNZENzcVhIbzd4ZmNLYw?oc=5",
         "pub": "2026-11-13T08:50:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "The estate planning step many families overlook – and why it matters",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaXhRemw2RV9xZHljcmRqNGVia25kZHdRdTYyZlgtb3VsRHJCZTVNM1A2U1BvR2ZIb0g4a2FObHlfZURNVTNzQUdiOWI3bDBjS0VBVzJIVG5seGlvTHlPYjVMN0dVLWlDT0JFSEdGRzRjYmZ5Y0s3Vl81ekRHZF84LXowV0pxSDB3bkFmM083Y2NOckhPNVHSAZsBQVVfeXFMTnpaNVRMVk9TeHpmU0ZLVHRVdmxXXy0wLUVMeFZ6UktMZUc0a1JTY2g2LVZIVjZKQXZaOFBiWTI0RWFFNGN6UzVQUjNXeHhnMnVpZXE2M2xOQ0xFNjlpT2ZQdklLSU9ZN1ZDRHNxLU9tV3k3MjBwN3ZhUUg1bEJ1LVJlazRVMzNSQUNoMHNKSmtLYjJPRldqbERuQmc?oc=5",
-        "pub": "2026-11-13T12:00:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "US authorities freeze billions in stolen Binance crypto after massive North Korean hack",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdENWMmJkWG85SklYSFdnbl92eS1fY1R0Z1pQelJoSVZoRFJ6RDRPVl9BVDZlY2ozUFdmNDZPOUI4WFRUdG8zbmVFX2RRaTJvNmdnb1NNTlNId0dOaTBHZ2cxS2hPVy1CbWQ5Q3BOek5oV3FqSjBzZ3FaTWpWdGM5dXRla1ZRRFU0T0Y3ZTUtVnN3NjlOY0JubWlMazk2eGhVZHZaSWpadDBMMU5IcDkxdWVPUVg1UjdM0gG-AUFVX3lxTE95ZWNSM09tNDhoM3hvUDFkT1lTbEE1RFM5Tmh3TkVKNVBXSXloblhxM2RJWU85Wk5xb2hkbU1IU1RQRVhrMUJ2LURiODBzOU81NWFKdmhNa25INWlYa21OTVVRbldjYUxYenhwVy1RTlZRdWk1eW9Xb3MxWUxFS0J2eUNKMmUzTmhISW5weFN3ejZYVHZVTExlVV9YaENHUjhNblFKLWVIb2dkdEJNTmZramVNYXdlcUVoaENrUnc?oc=5",
-        "pub": "2026-11-13T02:13:00+00:00",
         "outlet": "Fox News"
        }
       ],
