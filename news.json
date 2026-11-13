@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T11:40:09.788646+00:00",
+ "updated": "2026-11-13T12:43:13.032942+00:00",
  "categories": [
   {
    "id": "top",
@@ -28,6 +28,20 @@
       "name": "El País",
       "items": [
        {
+        "title": "Microsoft no logra recuperar la normalidad de sus servicios tras una caída global de más de 12 horas",
+        "link": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
+        "pub": "2026-11-13T08:06:10+00:00",
+        "desc": "La compañía descarta que haya un ciberataque detrás de los fallos que han tumbado el correo electrónico Outlook, la plataforma Teams o la IA de Copilot y que han afectado a la administración de Austra",
+        "outlet": "El País"
+       },
+       {
+        "title": "Claves | Qué ha ocurrido con Microsoft y por qué lleva tantas horas fuera de juego",
+        "link": "https://elpais.com/tecnologia/2026-11-13/claves-que-ha-ocurrido-con-microsoft-y-por-que-lleva-tantas-horas-fuera-de-juego.html",
+        "pub": "2026-11-13T12:01:24+00:00",
+        "desc": "La compañía no logra dar con una solución estable tras la caída de sus servicios en la tarde del jueves, que afecta a cientos de millones de usuarios, y descarta el ciberataque",
+        "outlet": "El País"
+       },
+       {
         "title": "La campaña arranca con la derecha en el horizonte de los 190 escaños",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/la-campana-arranca-con-la-derecha-en-el-horizonte-de-los-190-escanos.html",
         "pub": "2026-11-13T04:30:01+00:00",
@@ -35,24 +49,10 @@
         "outlet": "El País"
        },
        {
-        "title": "Arranca la campaña con el plantón de Abascal a Jordi Wild: “Todo el efecto positivo que había conseguido con Broncano se ha diluido”",
-        "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-11-13/arranca-la-campana-con-el-planton-de-abascal-a-jordi-wild-todo-el-efecto-positivo-que-habia-conseguido-con-broncano-se-ha-diluido.html",
-        "pub": "2026-11-13T04:45:01+00:00",
-        "desc": "Xosé Hermida analiza la actualidad política de cara al 29N",
-        "outlet": "El País"
-       },
-       {
-        "title": "El día que Abascal gritó “¡Visca Catalunya!\" y se rodeó de senyeras",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/el-dia-que-abascal-grito-visca-catalunya-y-se-rodeo-de-senyeras.html",
-        "pub": "2026-11-13T04:30:01+00:00",
-        "desc": "El líder de Vox multiplica los gestos para ganar el voto de la derecha xenófoba catalana con la expectativa de triplicar sus escaños en la comunidad",
-        "outlet": "El País"
-       },
-       {
-        "title": "Vox propone cuotas para alumnos “de otras culturas” en las aulas y excluir a los indocumentados del sistema sanitario",
-        "link": "https://elpais.com/sociedad/2026-11-12/vox-propone-cuotas-para-alumnos-de-otras-culturas-en-las-aulas-y-excluir-a-los-indocumentados-del-sistema-sanitario.html",
-        "pub": "2026-11-13T10:08:44+00:00",
-        "desc": "El partido abre la puerta a la creación de aulas-gueto estables y propone desmontar gran parte de la estructura construida en igualdad de género",
+        "title": "Feijóo pone en duda que pueda bajar los impuestos por el estado de las cuentas públicas: “No me creo los datos”",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/feijoo-pone-en-duda-que-pueda-bajar-los-impuestos-por-el-estado-de-las-cuentas-publicas-no-me-creo-los-datos.html",
+        "pub": "2026-11-13T11:33:06+00:00",
+        "desc": "El líder del PP anuncia su intención de suprimir el Ingreso Mínimo Vital a medio millón de inmigrantes que residen en España si no trabajan",
         "outlet": "El País"
        },
        {
@@ -81,15 +81,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Lo mejor de N+ Univision de la tarde | jueves 12 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjEwZ1paWVowZ01RdW83TVVla2xkN3RsbGU3QmZ5bnNGQ1M0czRlcC1DelQyNFpvRkJRaVloZkl1QXNaX0x2YVFiM1FsSVBmOXhJdFRhTU5OZmpBdGFLNUtQMmVEay03UVZ3b2xXTGFsZGdmNEFiWTRSRUVCNHdtVmgySWZKdmpCOGIxaTN6d0J0T0JGNVh5QmRMVzZBNkdMSDJBVWVzeWxMVGM?oc=5",
-        "pub": "2026-11-12T21:30:26+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Músicos, empleados y comensales quedan en libertad tras ser detenidos durante la captura del \"R2\" en un restaurante de Jalisco",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMkVkTHpLeVcxbWZmbDc3ckJwbmdUeWhFcERHQURVZUxaaGlFQzBzcDNvRDh4dkwyLXlnZG9GaUNoejQ2eEdmbUN1R003cmN5a253TW83WG9SSUVBTmx5b2daVWxmcEhNMkV2aHVvaGtzQzVwNm94UkFsNEtWeWtGb3VjUzhuaVdOSGs0bVAzYkJJTzktck5WOXFWSk9TbTI3YkZvcF9heHJRQTZJb19uZWxfUUJFRmVyTWItenFhbEVJOURXYi16bVVTNVFfUWlUSTlKdXB3MURDZFR2ZjZ2WFRYbFBQcHlJWWlfZkVqRmJ0V083WVVNNkh4STlQM1dT?oc=5",
         "pub": "2026-11-13T00:25:08+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Lo mejor de N+ Univision de la tarde | jueves 12 de noviembre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjEwZ1paWVowZ01RdW83TVVla2xkN3RsbGU3QmZ5bnNGQ1M0czRlcC1DelQyNFpvRkJRaVloZkl1QXNaX0x2YVFiM1FsSVBmOXhJdFRhTU5OZmpBdGFLNUtQMmVEay03UVZ3b2xXTGFsZGdmNEFiWTRSRUVCNHdtVmgySWZKdmpCOGIxaTN6d0J0T0JGNVh5QmRMVzZBNkdMSDJBVWVzeWxMVGM?oc=5",
+        "pub": "2026-11-12T21:30:26+00:00",
         "outlet": "Univision"
        },
        {
@@ -143,6 +143,12 @@
       "name": "El País",
       "items": [
        {
+        "title": "El Arsenal vuelve a resistir al Barça en Barcelona",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ3lndE10d2lPOHZ0aTVzT2Y0eVdndnB0b2Z5X3pvZ1Rxb0oxS1V6RzhZQzZfbzZIZWtudjRNRldEVGFUZzg4Ql9oYXpCV1owMm1MUDJ0d0loSGp6bVdDZlVEQjZNbzlaTWdQYmg4VERrVGtXMmJ1bXRLazhLSUxlVmcxVHZyUzBRT0lkd01OLURJdEVJVE5ROUtoZDJ0Z0d1Nl9Z0gG3AUFVX3lxTE56Tm1tN0RwMVVjYnFoZ0c2QmZCazczZlZ2N0dGOW9BNWJyODZ1X3hVcHlfOG5tM3lzOE1tLVBsd3hrbENXUFhTdVRzY0pPeGJFYXNzN0V1TzhMajlPZml5Njh6d1ZMbERfaHUyajN6UmZvR0xaVmJsN0lVOUM1bE9fNHp3YjFsWl9FOG9KX2Y3dkp0d09KNFhrelFlcDlYNjFjQTZVMWdYTmhyamlNVWdzT3BvMHR0RQ?oc=5",
+        "pub": "2026-11-12T20:40:23+00:00",
+        "outlet": "El País"
+       },
+       {
         "title": "Resultados de baloncesto del 19 de noviembre de 2026",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCak01aWhXRVlwNkJrUGI4VE5EVEtmVHhQc1llSG9Ya0E3bUpVZkpwdFVKZTNNWV9QRV9WQXhJaU9hSFBabmt5ZGp5QmlDdWc0cDRUb0dHbS1GUS11UlFfTW94T0xnTEVvUFVuYkYyTjFtSHB3?oc=5",
         "pub": "2026-11-13T05:23:41+00:00",
@@ -155,21 +161,15 @@
         "outlet": "El País"
        },
        {
-        "title": "El Arsenal vuelve a resistir al Barça en Barcelona",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5tbTdEcDFVY2JxaGdHNkJmQms3M2ZWdjdHRjlvQTVicjg2dV94VXB5XzhubTN5czhNbS1QbHd4a2xDV1BYU3VUc2NKT3hiRWFzczdFdU84TGo5T2ZpeTY4endWTGxEX2h1MmozelJmb0dMWlZibDdJVTlDNWxPXzR6d2IxbFpfRThvSl9mN3ZKdHdPSjRYa3pRZXA5WDYxY0E2VTFnWE5ocmppTVVnc09wbzB0dEXSAbcBQVVfeXFMTnpObW03RHAxVWNicWhnRzZCZkJrNzNmVnY3R0Y5b0E1YnI4NnVfeFVweV84bm0zeXM4TW0tUGx3eGtsQ1dQWFN1VHNjSk94YkVhc3M3RXVPOExqOU9maXk2OHp3VkxsRF9odTJqM3pSZm9HTFpWYmw3SVU5QzVsT180endiMWxaX0U4b0pfZjd2SnR3T0o0WGt6UWVwOVg2MWNBNlUxZ1hOaHJqaU1VZ3NPcG8wdHRF?oc=5",
-        "pub": "2026-11-12T20:40:23+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Alineaciones Navalcarnero vs Betis | Copa del Rey 2026/2027",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUDJQQWJveWU0Yy1TenNfa0RwUmUzLVBiQmlmNVM2Z1hHMi02TFl4TFQ1aUs4WEY4YzZKa0RTR0lMN25tX0szRGludnFxV2tFd2JKaFBnelgzVjBWYVBsRWJGemVzWUhHdE91UmIyWnhvWDdLU2lmd25ROFM5MnFqVXRCRnk5UmZBb3BzVDQ2WWkyVmUzVzZaUXRWTUR0T1cwOUJwQjBpcVdaR2FqdUc4RHp1cTZLUjZoelAxNGg3a0gxRUdpYlA2VXlvbw?oc=5",
-        "pub": "2026-11-13T00:53:11+00:00",
-        "outlet": "El País"
-       },
-       {
         "title": "Resultados deportivos del 18 de noviembre de 2026",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxbVBUOEJJUzFEOGFnc1hIRVYyLUpaY19xSnpMdWxWVEg2ZGdSajk3LTZRdmxKNl9OYU1oNDZHaTN0V0xkZHprLVRDRjJ1aFhtOW9Wb0I3S2NzT3ZjNzI2Rl80LWxUUQ?oc=5",
         "pub": "2026-11-11T23:40:06+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "La familia de Jesús de Miguel emite un comunicado por las donaciones recibidas: “Cada gesto ha significado mucho para nosotros”",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQR2ZxejI1U01TWlYxZkEtU1hUa0NwdC1JdDhsTmdUNWF3ME9JNUYxa1hReDloWjVIVm1IWm1GMXd3NTRhcUptN1VNaUhnZnRGZGlXbVZrMmN4YjRCMWtzZkgta0YwUFB0cXgyVkRkZ25tcGphTllld2s3TnljWWxpemhFNmt6MEhsejFCb3dyRjFKT2FaWG1HNldUREEyVnAzQUQzckgxcE5tUzd6bUdjZzZseGl0YUVCTXpWcmRENVRBQng0OTdrNHotMDltTTZrQjc3NDJweXF4dzRrZWhLeWY3cFplc0g3T0hBUXF2U0pvSlhSUzZqRmRuLW9VSnpxX29BakljTURNYjZs0gGMAkFVX3lxTFBHZnF6MjVTTVNaVjFmQS1TWFRrQ3B0LUl0OGxOZ1Q1YXcwT0k1RjFrWFF4OWhaNUhWbUhabUYxd3c1NGFxSm03VU1pSGdmdEZkaVdtVmsyY3hiNEIxa3NmSC1rRjBQUHRxeDJWRGRnbm1wamFOWWV3azdOeWNZbGl6aEU2a3owSGx6MUJvd3JGMUpPYVpYbUc2V1REQTJWcDNBRDNySDFwTm1TN3ptR2NnNmx4aXRhRUJNelZyZEQ1VEFCeDQ5N2s0ei0wOW1NNmtCNzc0MnB5cXh3NGtlaEt5ZjdwWmVzSDdPSEFRcXZTSm9KWFJTNmpGZG4tb1VKenFfb0FqSWNNRE1iNmw?oc=5",
+        "pub": "2026-11-12T15:49:44+00:00",
         "outlet": "El País"
        }
       ],
@@ -185,27 +185,27 @@
         "outlet": "Univision"
        },
        {
-        "title": "Virgo, horóscopo del viernes 13 de noviembre de 2026: convierta obstáculos en oportunidades decisivas",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmhHLVpOMk83Sjh5dVJjVWphM0RiaDQtdmczQ3d1dlVNaG9OTWJiUU5ZTnl4SWhDY2Z1enhTanAtLVJXeE5pdUtjRmVxaVZDX1ZYUUVMVU9yZ1NZcnlYRGdtNlN5bzg4SlVzLUg1cFVXVzF0SkJBclBKY0NFMnhfSzhob1J1RFdoaFBNOFJZUTB0QQ?oc=5",
-        "pub": "2026-11-13T04:10:08+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Leo, horóscopo del viernes 13 de noviembre de 2026: escuchar abre puertas inesperadas",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkN0NEhQY0YzMHFjV0FfV3d3VWtXWE1zSjJab0ZmYjhCZDRZdVZZNmdybTlVQTVSZFFOQ09Od1lqSWF5dXMybERWX1EzYjVlTWR2bzdZNGNvRS1rOVYwNUVCSzJUYV9MZ2tmMlMydTNPajdGdlczSXk3UVVpajFzaG9NMzNPX2xUSzFpNHRzMA?oc=5",
-        "pub": "2026-11-13T04:10:04+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Cáncer, horóscopo del viernes 13 de noviembre de 2026: cultiva serenidad y gratitud ahora",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ0RkdE5GNVhkSmRGT2Z0RXdNYmZhRWFZY1RoeWgwa1QwUDNFa2JwcUtaQm0zT0pYT29KbTFWVFRERnBwQXNOaTMxWnJia3NsOWZqWS1LMC1tZUJrQjlyQm9yU1RiUGQtT1pmcUtldXo2NFFOaTdGYXNENlVKZEVydlRJckhWY3VGbnVkQVpWWUNuU2c?oc=5",
         "pub": "2026-11-13T04:10:03+00:00",
         "outlet": "Univision"
        },
        {
+        "title": "Acuario, horóscopo del viernes 13 de noviembre de 2026: suelta el control, encuentra la magia",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHdUS0dYZTEwNGI4QW1IV09sTGZJNFRLNXlzTjZITFkzWVF3dHM4RTdySHgxZ04tcjdWWXZoQ2hJMHo1dE4xLWZiYzhabmNIMTlDUzBNelo4ME9heDg1SVpXSnVoekJENlZTcWFPRWliMzRsamJ6LUhST1pMYTZYVnhJbnVpczV6dk1ub1R4bTE3ZU5j?oc=5",
+        "pub": "2026-11-13T04:10:02+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Aries, horóscopo del viernes 13 de noviembre de 2026: escucha tu intuición y celebra",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNTZzNUJrb0JTVFd4TU1HdGJnOVQtNDhCVE9meTVNNWpKa0tOMExZN2FmZXVkUjhFT3dKcHRLRjVYVVNqNnlmczN2eFo5WlV3UUQzWi1NV0liNlhpMGpDeWlHTUNkUTEtSHQ3WkJjTUZ3N3FnVlJpUGtfekFEcUc1OEdqTDcxSW81R3Q1dGNtQnQ5UQ?oc=5",
         "pub": "2026-11-13T04:10:07+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Escorpión, horóscopo del viernes 13 de noviembre de 2026: cuestiona hoy, aclararás mañana",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWxna3dxTFkzVkRxRS1zMlcyMHhtLVFsbkFIeWoxYTJWVXpBdXJVeC14UmFkQlhwRWdmZFVLUXMxRFdIblFpRXBwUWpWNl9abWJMTU5KY0FvVFVMUlZsbGwzSFhlYWR3b1ZaSGZBbVZxckwwXzRfdGlRdTBRdUIxZU5GNTJ0ZmFndW9BdTlhREFQNUt0RFI4?oc=5",
+        "pub": "2026-11-13T04:10:04+00:00",
         "outlet": "Univision"
        }
       ],
@@ -369,6 +369,12 @@
         "outlet": "El País"
        },
        {
+        "title": "Nvidia sufre en Bolsa tras anunciar el adiós de su CEO",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjZ4Mm9tTDNXcVZOZWF3RDhvQV91ajJ6em4yVmJtRXRGSU5wa3VoQWdPcjFsMXZ6SFM1Mng2Y3J3Z05ybUM1MWhacFhFTTU4U010cWh6OFRDODFCNjZWa0d0MzhCcDlEZzZ4QVpzUTlkOUxkQ3FOb0NJSkNRWVBfQlo1TFNmalgxMXhzLTlxZHdWbkN4UXNnYVAtLXNrZzV4VnI40gG3AUFVX3lxTFBjaEtNaGNtaVYxbk1KNmFUMkc4X19EM09pa2ViNVdHQXBDWktic0xDcldDMXpzZVFvTWlacmRHQWZnQXN3RVJoZHREaUlmMUI5SlF0OWdsTUluUVNlZjJsVFRmaWNZZmktTU9ucXpYU3JONGdHbmFRcnk4dUdmMDBZRXZpWElfa2JlOXRDVHNtcWxaTldtWFV2UGZGcWpSMk53WFp5d292bDRaWUN0QmdxVnRkQkFlRQ?oc=5",
+        "pub": "2026-11-12T15:00:41+00:00",
+        "outlet": "El País"
+       },
+       {
         "title": "Quién es Colette Kress, la “arquitecta clave del crecimiento” de Nvidia que sucederá temporalmente a Huang como su CEO",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ2JpNWh4cERMOVRTMU9oUFdWM0JGbXVBbEgwZU1MTmw3Yk9FVjFoV2VtYnBZTFZadEhfdDJJQ0tFRUNWbHBJZ1dpNlRYQ0tuLWxRaVg5LWJWX3VqZkdtcHRkcmxPdUJxTDlFYXJ1WU5ZUzFwbDQ2WkY3bnQwRGNMYXhWMFRmczFOX29yYXZUVmNNMEVVWW1UOHRVZjVtd2tZMTBXMG9zVUVycmNSckF3TC1sT2ExTlg4NHo2SDFPWTQwUDB3QU5NWTQ3STVHSXFrNGVtdm5RdDM5VVdQWjlxWTFZdWJ5Rmxf0gH8AUFVX3lxTE1YV0hNVXIxbGNJbTVTaGlUSUdCNFdqMThVeGpPdHV3T1NpYmx2eDN1bUFybFR1cUtNb1g0aU0zRlNXcUd1TWxrOVlnY3M0UVlVWVdZanhGcm1lNmhjdDZCWGRtc1VYdXhmdms0dVB4MlhsZ2lEMk5QV0N3UC05amdBWl92clBWaEFkZXU1QkdEcnVnempWelNmVWlWdktlemNGT2o3OGhHY3JWb0FUY09vOWxNYkN0TkhVaTByQ0QtNHpfMzVveXE2U1VGN3ByVlFUN0tmSFV1OGpOcnQtbWpQZDBWLWd0clh1Q0VUNkJlMU5kR1VGSjNNdkZ5dw?oc=5",
         "pub": "2026-11-12T17:34:32+00:00",
@@ -384,12 +390,6 @@
         "title": "Sheinbaum confirma su reunión con Xi Jinping en la APEC y aclara que no afectará a la relación con Estados Unidos",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSmdwUzBiRVVIY0RrVWg0ZTc5bm10NTlrUlZ0VlFWd2QyUmNKb1pfMDU1SmRWR1FRZ2NmLVVkUlViQS1kbHVyWXZwVG5ZcDVnUThQZW5oMWo4XzZWRndhOWNMTUxhZEtDdS15NGpLMWdoYUh3SjRoc2tRM2FLZ2RCS0tWNEpFREN4WUQtUlNTS3A5cHZlQ2phX3BDY2JJRlUyWmt5d1FqQmZUZlJkSmFXWW9DaXMya19wRXZ5dGZRSGxKbVBHWmRUWlhDbTc3ZWpVRnNUVWN2ZllqYUpoaEdETlUwZE9QeVQtSUQw0gH_AUFVX3lxTFBzSkM4amZlVjNUNjN2V08tMm5BOEpxMHBrQ2gxSkdrN2FmeTRtMlpCRFdfYjRmdGQ0VjRseFFWNGRJREZuNGhucWxZVEUwY0RYWE55YXlmMWMtM0ptVW9sUjV0OFNaVXVXYXNvcTV1V0VoaEM1MVpHblZlVnB6SndrelV2STY2TUxXQ01wWVllZmZ2ZUFvME1mWXgtSl9sV21MWl8yUDdRU0d3WEo1aHJYS3JxYWZVNkU2UmJSMUphZHhSS2w1YVJwOXZHZUdRd2hDeEFDVUNfMWVlS0dySDFFaHU2aDlkSkpfRzhGNklzbEpEVWdpTmZrWmROekJxVQ?oc=5",
         "pub": "2026-11-12T15:19:51+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "“El populismo económico está muy de moda”: la vieja fórmula de Bernie Sanders que hizo triunfar a los demócratas",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTDlsYk40NERPZkR2dmpsSDUxVjNZbU9ibnJtdHFBSDJTSS1GNXkzNGhtcWRTZFBSalBlM19VY2hhalJSVmZDZTJYY21kLXNncEgzbVpVeWhOLXc5S0dwUnRXUjNJSGYxSml5bEgyaVNKUE1ybzlZNmJLT3VRN3BidjRGN1h4MkpDNjluQVc5QjZuUjdZZnBSZDUxV0xXdXRYS0NVdTNMcS1sdG5ieHBROXRNblJFYldrc083cDBUTS1yVjhkeWlmUUx0OVNoRjdZR1NLaWNrakRkM0I1ckpyNtIB9AFBVV95cUxPeWZOYldhanl0akFpY0RnTHJhbEprN21JRTdXcFQ1SnRpVVFfQVBwdW8yQmZ2RllkU2NsUmhVUzh1WXpJOXFrekJlYkhFaVF5M3hhVTEtQjFydE9yTnkyZk55WGQ1OXNIbHllVXMzdEsxOWZIS00xQWhhT2VkSTZJOVQ1X2tGSldtUzJRakJ3bVphS05WamZMU01WR2Y5eDVnX2JSOVlna0Jxc2JnMDdxQXdUX25VQklNU21PaGlVVjJ0dVBfMElmS3Q2QldyX1ppTV85MXE0SFM2cWxuX3lkSkg3NWRVNzN2SzY2ZHo0QXV0cmtn?oc=5",
-        "pub": "2026-11-12T09:30:00+00:00",
         "outlet": "El País"
        }
       ],
@@ -485,21 +485,21 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Brittany Mahomes is pregnant again, so it's time to buy a Chiefs AFC futures bet",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMExSMW1hWHFUTlhpc093OWNFT3RrS0FmSDNYb1VYTGh0UFJEY0I4OTNRUjNpQ0FyZ0pSLV9TVDVfQzhqaXY3NDZYVGN3TWhYWVNpNEl0U1pUOXpvVXh4U0hzaU13LXhvLVBZSnUxTy14ZThkVWJmSUdSSHE3YjJJSVRROXZDSEppTzAyNnJXUEdpZw?oc=5",
-        "pub": "2026-11-12T20:27:31+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "New York Giants favored at -2 over Commanders as NFC East division lead hangs in balance",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1hSSWYyUmt6QU15WDVaTXplR0NyN0VMLTU0YVI3UWVRVDVGM2pJVko5dUFlZ3VaUUwwSGt6Y0Y4NG5WOExFVGYzQzJmVHBjY3FKSWJhSFlnVnZDVGI1Zy1BTGE2dVhRdkVUczRsRjlaZFA4S1h0eUkxRnBQUlFrVDNqei1fREIzWkdOUjVvUHFQcnJjNXRVTlc0cExFd1Uzb0dJbTgxNVlLNEtrcFpFZXgxZExVZjJtbkE?oc=5",
         "pub": "2026-11-12T20:59:41+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Seattle mayor backs effort to block girls' sports initiative that passed in 36 of Washington's 39 counties | OutKick",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZE9sMUxpUmJ6ZF8wMjJXZFA2R3hsTmNEcHNtLU5CQWFncmdILWlkTjdEeUR6Umw4eGVJQnhfWE9RWmZBU19heG5kVDljSEtsVWQ1Rkl6SHVKcVR6UVdlQVJwWUZzVWpGSGNvbVh4OVk5YmJlcFhwRUNJZmJJelA0WVIwZWJiajJRc0pod1VjTzJOTklsVC1nUGc3TDdJa1pLTkRCdDBCaTByMGo4bHNaZjVKRkt1V3R1MzVTeTZteGFYM0xPc3B6dg?oc=5",
-        "pub": "2026-11-12T11:55:14+00:00",
+        "title": "Brittany Mahomes is pregnant again, so it's time to buy a Chiefs AFC futures bet",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMExSMW1hWHFUTlhpc093OWNFT3RrS0FmSDNYb1VYTGh0UFJEY0I4OTNRUjNpQ0FyZ0pSLV9TVDVfQzhqaXY3NDZYVGN3TWhYWVNpNEl0U1pUOXpvVXh4U0hzaU13LXhvLVBZSnUxTy14ZThkVWJmSUdSSHE3YjJJSVRROXZDSEppTzAyNnJXUEdpZw?oc=5",
+        "pub": "2026-11-12T20:27:31+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Legendary SS United States sinks beneath waves as divers prepare for first look",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3VYVDdXdHU1dll1T0FwMGtUT1hpTnRpYXF5OV84WklfMzdRSHlTVHZCckxQeG93aHZtZjFqZ2RxM0VwbS0xV05XRlB3aE9KYVh4ZHJXQ080UkQ3cy1lLWpRdWYtc211LXI5VTdFYklMRlFtcVhDTk9ya3QtZ1NZQ0h1ZmVQRzhCdlBPbVhCYkxBa2NVWXE2NGU4TzZncDBpMmgwZmZR0gGrAUFVX3lxTE41X1k0OEtyZ19mRDRNXy1PclFfdlNCZmlhbHQwT0tUX0JsUkxZZVNmYnFQcG51bnhQcnNpRzU3R0dGeEJpdU9QbVk5Yko2ZUctdW54aDh5UlRiSGRBN0M2V05VWXg5LTFWUjgzVS1yU25COTdEcTd1X09vQm9LQ1NiLUEtVHhqQVZkam1qTi1ZdHl5MHk0WnBnbXdUQUdvdUtyb2NjVDcyRVdTRQ?oc=5",
+        "pub": "2026-11-12T17:15:30+00:00",
         "outlet": "Fox News"
        },
        {
@@ -523,27 +523,27 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Seattle mayor backs effort to block girls' sports initiative that passed in 36 of Washington's 39 counties | OutKick",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZE9sMUxpUmJ6ZF8wMjJXZFA2R3hsTmNEcHNtLU5CQWFncmdILWlkTjdEeUR6Umw4eGVJQnhfWE9RWmZBU19heG5kVDljSEtsVWQ1Rkl6SHVKcVR6UVdlQVJwWUZzVWpGSGNvbVh4OVk5YmJlcFhwRUNJZmJJelA0WVIwZWJiajJRc0pod1VjTzJOTklsVC1nUGc3TDdJa1pLTkRCdDBCaTByMGo4bHNaZjVKRkt1V3R1MzVTeTZteGFYM0xPc3B6dg?oc=5",
-        "pub": "2026-11-12T11:55:14+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Former ESPN star Sean Salisbury says political arguments wore out fans who just wanted sports",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDBlNkZ4Y2VDc1JWemtZTjl4cncwTC1sSmJxZGpIVWVvSUhlRDNndTF6R1pOdjItZTZYZk5yaV9ubGM1aXJVLVp3SmtFSTdKVkN3b0RjUnlBTldBTjA1YURvcEJoa1M2dFQxd1B1S2ZKYm9OMkcxRkZROHNObklQeDh2V1I2aE15dHk3OWpjNEZ5cVczczB0RzhGR2ZUOFBxcGhDLXdhNXgycGQwaXA1QVh5NzRmLWZRRlNCTEVXRkk?oc=5",
-        "pub": "2026-11-11T19:24:55+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "College basketball arena sits nearly empty for an actual Division 1 game in jarring scene | OutKick",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2c5TzFGcXZpVGFTbnIzT3hKTlVwTWEwSjFZRndHNEJ6T3NJOUNjbTlfaVdOVGpOMkhXWThvTElqZ2RvdHRJRE9Ma0szUUJ0OUw4SmF3SXRWOTk4ekEzRjlmZzlVeENaTU05a1ZhdHlMX0Utb2ZUWXg1NXRoTW5xMVM5UEtpWGM2dmpCZnlWNk9vUjV1cU5tR1Y0b3k1WGt0Wm1MamJZQWF3MEhhcVlWRg?oc=5",
-        "pub": "2026-11-12T15:22:57+00:00",
+        "title": "New York Giants Face Off Against Washington Commanders",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjJjdldsLXFOUDlBUTdieXppcnhtakE5OTU4eXZseWgwZ213c0dmXzllbTBNT1VKbVNJZE1xbDF3YnJvWkJuQ21hY0lBaUxldnNpRHo2cFRWM1k1TWx0enZlVmxqWHR4VUl3NWlqX1JqcWFKN0lIU2trbjA2MXd3VDE0cTc1dFdlSTIwVm1LN0psUTJ3eWVF?oc=5",
+        "pub": "2026-11-12T23:34:09+00:00",
         "outlet": "Fox News"
        },
        {
         "title": "Ex-NFL coach Rex Ryan turns himself in to Nashville police for allegedly running over two pedestrians' feet | OutKick",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWVFXVHNwLXRpRExtRWxVNE5yT3B4eUlxRnhFUDVQLWhaVk9KdjJhZTEzVldKRjdMVVhsZkFWSS1CTHBsMExHQWtaY25TNjJGNFhvVXA4M1ZIdXBaTDE5Q2hja1dmTF9BOC1oVWFfelVDX2dRUHVCSWpJdW5vSnFMMnlZcjR3TnYtTmhVTFg5ZGFmQnNocXNadDBJVXZQQ1pTVjlhWTlFcUszMnUtQ0hoQzFNSXdjdlV5alVFNW1vYjg4alB5Nm5LQW1R?oc=5",
         "pub": "2026-11-11T20:04:23+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Seattle mayor backs effort to block girls' sports initiative that passed in 36 of Washington's 39 counties | OutKick",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZE9sMUxpUmJ6ZF8wMjJXZFA2R3hsTmNEcHNtLU5CQWFncmdILWlkTjdEeUR6Umw4eGVJQnhfWE9RWmZBU19heG5kVDljSEtsVWQ1Rkl6SHVKcVR6UVdlQVJwWUZzVWpGSGNvbVh4OVk5YmJlcFhwRUNJZmJJelA0WVIwZWJiajJRc0pod1VjTzJOTklsVC1nUGc3TDdJa1pLTkRCdDBCaTByMGo4bHNaZjVKRkt1V3R1MzVTeTZteGFYM0xPc3B6dg?oc=5",
+        "pub": "2026-11-12T11:55:14+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Federal Title IX probe rocks Camas School District after trans runner controversy, superintendent pushes back | OutKick",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnJUT0s5NWVRNDlZSzljME1RZjNFYWNCNjQtdVBZLWppdWFMVHJDZVc4cVNQTVRjS0tWdEtRV3p2TEhZMTcxTFZmUUM3U0MtcDBwem9sOU9GQTBoTWFmaEREYVFiQ3lMT2tRczZiZzFySFlHSElVaUdOdHFWUVpBOHdpdDNaMWR2TzhWcmVveHlJX09hS0JVZFZtUzdxZTlMNnFJM0FHck1RQmMyeHN3TmlDajRKZ0Vrb1VNdkhpcklJSGkxRndRVXZ2S1pPSjVQQzNmNm82OWM?oc=5",
+        "pub": "2026-11-12T23:33:34+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -555,6 +555,12 @@
       "name": "Fox News",
       "items": [
        {
+        "title": "Country star Craig Morgan says he's 'willing to die' for America after returning to military service",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQkFlX0JzYVlCSmJ1ckctZkhOeE42cmdHcEFKcjNCdzl4UkJ5ZThzeUNjQUUxOWZZMnFraTc2bmh0WEVFcktBTUVfR3Q0cnlYdVp0eUMzRzVjRExBR1d5UzFGUXd0Q0Y2cV9GaEp4cHotVzhVNF9Fdks1QmluWVpZX1dHeFdWMXB4blNXeU0zTHI1aVB2YUtVRzduNVloekNoYTNQTkNncnBTa25Fa3NN0gG0AUFVX3lxTE9BUUFONDNtUHFxSlJxQ2lyN0JMd21ybnpneU5RNGlpcnRPenk3Q09jQXNpYUsyLWctVDREcEdTUm5BNHN6QzN6TjJwNFN0T2wtQ0NDMVNfYzhkZ3BiLU85M05LRVNQWG5SeVlfSmQzYlFLcHNQRVlkYnppeUktdWlwa182SjBOLV9yYUNwU2VMOFNFa1ptamlKMjRNOF9sbVAzdHlMQ1BOVGpTYW9wWVJiZkw4YQ?oc=5",
+        "pub": "2026-11-11T16:00:42+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Antonio Sabato Jr and Virginia Madsen's son arrested in fatal hit-and-run",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcFFNQWtCUC1acmFlVWU2QUtXa0JKM1dJUzRqdVJlZk9MaGZTdFJleDZaMThwNlNjUVI4bVQ4QWRyM2RfdHVIbTA2VXRUeWhBNVFBeHZMc01iUGRvdFA1blFLUlVfSkVyLXNQbWhQMjNfSjNybjc4bkJHQ0R5UEt6cmZYRm9lcm1xbXpQdmpCeGYza3JySUlZTThGSlBwNElTTUwzRFFn?oc=5",
         "pub": "2026-11-11T16:41:08+00:00",
@@ -564,12 +570,6 @@
         "title": "Frankie Muniz rushed to hospital after Daytona practice crash: report",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUW5MR2ZuV0JzM3c4eVhhVkFUVFRXODJXS2FZOUlCY2Zsa19LN0NkTGhhWkJ3aktNXzhaNG9WaURkV0VUU21abi1qTV85UWhzZ1JiU0R4WXhQckNzSy1XTzg0a2l1RkFGbXZ2M2k3QWQ3VzVNZUNVa2M5SXhCc01iMnNvbkd2YkhiMk1zeGdrcEo4a2dWbmNmRkJGM1JOcDUzLURsX3lR0gGrAUFVX3lxTFBFZ0NoRTBOdlFtUkp1WlI4RDJmYzBxMWZSWDhkdTIwb2x2U0VmYUwzVVpQaXRyVUdkZ280U1MwTTg1MTE5YktWdi1kY2hxelF5Tmo4VURnaUpYeGM5ZUV2N21ObVRSZVY3Q25vWm1YZEt3VUlNWEdwaDRDdGVKbExveS1HVGtzSUxJR0hVejlnckxXbzdTcGtnQWdZVFdNQ2UyckpOVmRLZXRsVQ?oc=5",
         "pub": "2026-11-11T23:13:46+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Country star Craig Morgan says he's 'willing to die' for America after returning to military service",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQkFlX0JzYVlCSmJ1ckctZkhOeE42cmdHcEFKcjNCdzl4UkJ5ZThzeUNjQUUxOWZZMnFraTc2bmh0WEVFcktBTUVfR3Q0cnlYdVp0eUMzRzVjRExBR1d5UzFGUXd0Q0Y2cV9GaEp4cHotVzhVNF9Fdks1QmluWVpZX1dHeFdWMXB4blNXeU0zTHI1aVB2YUtVRzduNVloekNoYTNQTkNncnBTa25Fa3NN0gG0AUFVX3lxTE9BUUFONDNtUHFxSlJxQ2lyN0JMd21ybnpneU5RNGlpcnRPenk3Q09jQXNpYUsyLWctVDREcEdTUm5BNHN6QzN6TjJwNFN0T2wtQ0NDMVNfYzhkZ3BiLU85M05LRVNQWG5SeVlfSmQzYlFLcHNQRVlkYnppeUktdWlwa182SjBOLV9yYUNwU2VMOFNFa1ptamlKMjRNOF9sbVAzdHlMQ1BOVGpTYW9wWVJiZkw4YQ?oc=5",
-        "pub": "2026-11-11T16:00:42+00:00",
         "outlet": "Fox News"
        },
        {
@@ -599,6 +599,12 @@
         "outlet": "Fox News"
        },
        {
+        "title": "Microsoft Outlook returns for some as millions of users face second day of outages",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjZVLTVDSXF6MXZnNHNheFhfSTdoWC1mYzJXZE5QWEsxOERCTTVvejJLWlFlOEFKdnpQR1ZNeFBjUmpsbHRZQXEtbFdjc2c0eVB5Q01faFpwdHRQa3VKNFRkR2ZoSW9YdVAxTmxOczU4c0owTC00RUo2alpCbmVSQlFRMGdEQklRR2JQX1dYQnlHT2t2dUs5eUY1VzhqLVp4YU1FNHRUd2FOOU9R0gGyAUFVX3lxTFBoaUdsOEl0amJEb0lJbVR1aDZEVjJoUGhLTWo4WGF1T0JVQkt5R1NFa2R6dDQ4X01OZlNHYUgxYVB2aE1hS080eUg0RUg5QVAtQTlnUm9wOVFGdEk1QUhtbk1NcmM0dGpHWU15U2ZxLUVxOXI2NEg4OW5FdkpESzFfYVJPWGctbDN0NThOYXVRNlp3b1UtcEtCZ2NhbUxzemhQUWFPYmstU0VNOGtWc214Q2c?oc=5",
+        "pub": "2026-11-13T12:20:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Meet Nvidia’s new interim CEO: The fortune and rise of Colette Kress",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHhzdDM0NHFEZDItZzBVNDRYbjd1dFVyWVk3ZzhrcjcxNVk3VDI2N3J4RnYxdnIxZnZmdnlnb2JGTFhjeDBtcWI3a3pScWRBcmtxZVBoaEJwM0tZTEMwRTkyTHJwVzhHOXZtN09mY2Rsak1YNWxCRW05TlJZY3hrVGtqbW84dERvQXNpZmg5b25TdnN3TmpyUHFn0gGfAUFVX3lxTFB4aWlsZVZhTTAtX1lKamNLMkFXcVNwTDh3TS00U1JkY0VubE1tMzJuaFhZUVFPMUM5VHlLWHE0Tjdua0h1cnE5bjgwR0RFMnpLSV96ejlMQ24yQ1VNb1RrQzVTckZ6MWNUb2RpZXlXZHJ6VERaZldXc1dQZG5ISDh4dmFvbmtvWk0xUVpXcjJvWDFUeTZlMFZQUlFRUm9ibw?oc=5",
         "pub": "2026-11-13T00:53:00+00:00",
@@ -608,12 +614,6 @@
         "title": "Colette Kress named Nvidia interim CEO as Jensen Huang's abrupt resignation raises investor concerns",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQalBfVFQ4LUhaMURVa2puS2NzSWNoemxiQi1mdnFsZTAwaWUwejZ0MG4xb1ZkRTh4bElpN0ZlOHJkaWtVdjJoT2ZodE1rcDRSczZvOHd4c1JsSTF1R21xSXBVRTZraXV5LWdJMDltQnNYZlFYVjRGY1F4c092S3FNN3J6b2lSLXRxQ0pkdEctSUk4alJTTFA3WkVTSWwxNU5VdmNXNDRyeEVkTnQ3YXk1b3B4elZOQVU0WW9sT1l0RUplQnVjeW1zVzRyN3PSAdIBQVVfeXFMTkxjRWg3QWthVTV2SXBfck42bF9yRjNGd0Q4cG04Wk1LQ2ZPZmVtZ1hDOEdHZzhQSFJfNlExYVVCZUNVNTFiZjVkd29qZk1Vd1NRbGNBa01CNmd3cjQyRFhnbGhDTkw1cVVhakd3aUFaLS05T2owT0RuclB3VzZtZ2hXd1R6SnM3cUgtRFBQSVB0UEZPbGduT1JnZG9BODlGandRdUJXTDZjcWlHLTgyd1U5UUM2OGt1OVZfZzd6TXNhWW9kMlhPem5udkVyejRmYlVR?oc=5",
         "pub": "2026-11-12T21:50:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Thanksgiving staple recalled at Costco over possible contamination with cleaning chemical",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzZLVEJHcmV3aXBRckJlSWpvaU9RVnNIN0FaRmpiNUk5V0ltWlkzRGRCRHM3d19OaFktX1JCQk9CWnJZT2d4OENWdGZCQjNoWkkzWUZYeU8yTTl6bTFVOTJvV1d5Vm1oOHJEY1JJVmlJU040Vm5ubG9heV9jb0xsRnJqTjNwSmNZZUptcXNLZ0JjZms1WWhabEdFak5OSUtuVFhxMVQ0clFNZ25GeGNMbXJORUpNZlVsaE1V0gHAAUFVX3lxTE5DNTNtR2VpbHNWbmRaeVdYdGhXQnR5YWlsVGItaFVxSGFKc2JsRVhpSFE4dXBZUHQybC05bXdESTB3akpRVnFBTlZEY1ZZVk9RazZGR2ZqQ2QxclNfcjJHN3pfRGlqSllUOXM5cXFtbHRNdHF6c0xoNi1vc2REM1RZTHh0Vk1TdEU2MU1xRXZfd3YzSFFrRUtia0U1S0o0ckZvZFliMmlmMTV2QWp2UFROb0ZNZENzcVhIbzd4ZmNLYw?oc=5",
-        "pub": "2026-11-13T08:50:00+00:00",
         "outlet": "Fox News"
        },
        {
