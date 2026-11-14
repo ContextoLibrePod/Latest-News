@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:02:47.028993+00:00",
+ "updated": "2026-11-14T01:02:02.624728+00:00",
  "categories": [
   {
    "id": "top",
@@ -28,17 +28,24 @@
       "name": "El País",
       "items": [
        {
-        "title": "Suspendidos todos los vuelos en Estados Unidos por “circunstancias extraordinarias y motivos de seguridad”",
+        "title": "La suspensión de miles de vuelos colapsa los aeropuertos de Estados Unidos",
         "link": "https://elpais.com/us/2026-11-13/la-faa-ordena-una-suspension-nacional-de-los-vuelos-debido-a-circunstancias-extraordinarias-y-motivos-de-seguridad.html",
-        "pub": "2026-11-13T23:43:49+00:00",
+        "pub": "2026-11-14T00:50:48+00:00",
         "desc": "El secretario de Transporte de EE UU informa de que la paralización se debe a un “problema de comunicación que afecta a todos los centros de control de tráfico aéreo”",
         "outlet": "El País"
        },
        {
-        "title": "Los servicios de Microsoft retoman la normalidad tras una caída global de más de 18 horas",
-        "link": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
-        "pub": "2026-11-13T18:48:57+00:00",
-        "desc": "La compañía pide disculpas por el “problema técnico” y descarta que haya un ciberataque o agentes de IA detrás de los fallos que han tumbado el correo electrónico Outlook, la plataforma Teams o Copilo",
+        "title": "Así se vació el cielo de Estados Unidos tras la suspensión de los vuelos",
+        "link": "https://elpais.com/us/2026-11-13/asi-se-vacio-el-cielo-de-estados-unidos-tras-la-suspension-de-los-vuelos.html",
+        "pub": "2026-11-13T23:55:00+00:00",
+        "desc": "La FAA ordenó detener los despegues en todo el país por un problema en los centros que guían a los aviones en ruta. Es la tercera vez que ocurre en la historia del país, tras el 11-S y el apagón infor",
+        "outlet": "El País"
+       },
+       {
+        "title": "El caos aéreo en Estados Unidos, en imágenes: pasajeros varados y vuelos suspendidos en todo el país",
+        "link": "https://elpais.com/america/2026-11-13/el-caos-aereo-en-estados-unidos-en-imagenes-pasajeros-varados-y-vuelos-suspendidos-en-todo-el-pais.html",
+        "pub": "2026-11-13T22:58:16+00:00",
+        "desc": "La interrupción de las operaciones aéreas por una falla en las comunicaciones del sistema de control del tráfico aéreo ha provocado retrasos, cancelaciones y largas esperas en los aeropuertos a nivel ",
         "outlet": "El País"
        },
        {
@@ -54,13 +61,6 @@
         "pub": "2026-11-13T11:33:06+00:00",
         "desc": "El líder del PP anuncia su intención de suprimir el Ingreso Mínimo Vital a los inmigrantes que residen en España si no trabajan",
         "outlet": "El País"
-       },
-       {
-        "title": "Abascal exhibe el respaldo de la ultraderecha internacional en su arranque de campaña",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-13/abascal-advierte-a-sus-votantes-de-que-su-mayor-enemigo-es-el-exceso-de-confianza.html",
-        "pub": "2026-11-13T22:36:53+00:00",
-        "desc": "El líder de Vox a advierte a sus votantes de que su mayor enemigo es el exceso de confianza",
-        "outlet": "El País"
        }
       ],
       "error": null
@@ -69,15 +69,9 @@
       "name": "Univision",
       "items": [
        {
-        "title": "Lo mejor de N+ Univision de la tarde | viernes 13 de octubre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlBsR3pFejZGSlpDN0NnQUJ2TXRGY3dyTUxwcEY1X2xkSGgxLWxyanMxYm4zMmxEODF5U0k5MERiOG91V0JzLWllMDBPdG1NQTI0b1VvckI1US1uQXJOMWhXaFljUEh6NDNwMWI0M2RKZE1sSGszT0lKZXlHSXZ6SklVRG5vcWplSFdqdzJhVXdBVVdXSi1fNFFjX3IwdU1ZNFl1MHFpTlFBZw?oc=5",
-        "pub": "2026-11-13T21:43:52+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "La FAA paraliza los vuelos de salida a nivel nacional debido a \"circunstancias extraordinarias y por motivos de seguridad\"",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0pURFhiQmVXdWlseHZSOXdBWWkyZjB1blN3UUZTYmN4QlVqaTV0SDdra1VDMG5CMmducXJMSUYtN21ycmhxem1MNGdTYUVRRWVyZEhEbWI4S2J3TC1zMER3eFROcHE1YnAzc19xZkpTbFVIT0NEbjJOU2IxZFFoR3hqbXJ0N1dnQ2c2NkcxWEJvM01IRGNmWnR4bXNXYkNXTWxaaWExb3UwVGtMbTRjOWZrQUNObG1LWGIydnNKbzJBdERKUjBZNVc4YUU?oc=5",
-        "pub": "2026-11-13T22:33:20+00:00",
+        "title": "Un buque cisterna choca contra un crucero fluvial con 129 personas a bordo en Nueva Orleans",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzUxZzB5cWNFN1dVZ1YtTkJQeEtGcm9aWmtVRW0zdTI0d042YUxiT1gyVEpCVUpGZ2VUd0ZORFNsUnRYUVpHc19ncUtDMnl4bGRabHhGcEN3Y3FEMzRXZXZqTjhKMGlVQ1RqTllDRGdPa3hCVnItMWxyYlhiblNQVGdudE1fWS1KVTdPRUlLVF9JN2oydF9ad0hjb28tNFEyd2Z3YU5Rb0tOaDJsZldWMEFkOGV6WjFqNXMyNEd5MzA?oc=5",
+        "pub": "2026-11-13T20:37:20+00:00",
         "outlet": "Univision"
        },
        {
@@ -87,15 +81,21 @@
         "outlet": "Univision"
        },
        {
-        "title": "¿Cuándo fue la última vez que EEUU suspendió los vuelos en todo el país?",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWld5NjY5V1ZJbXFJa1NHejMzNEYyY2ItemtkR0p6elFZWDBGbVpMTi1FVEppd1BqUDRjSzUxeFl3RFVGOEhVdmJyNTJQd1FsV0JwZTJJQTUzbUU0Z0hYQnZRZVJyS2xWdGdZSUt4TVBhUG5aU2s3eEN3bkNaa0h6WWhNT1NrWnVlWm1iRm5hSmxhS19Sa1c3REdfRkswM2haV2JhTjVxd2x4X2pnend0UTRiSUpiWDA4RFlTeg?oc=5",
-        "pub": "2026-11-13T22:52:02+00:00",
+        "title": "Lo mejor de N+ Univision de la tarde | viernes 13 de octubre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlBsR3pFejZGSlpDN0NnQUJ2TXRGY3dyTUxwcEY1X2xkSGgxLWxyanMxYm4zMmxEODF5U0k5MERiOG91V0JzLWllMDBPdG1NQTI0b1VvckI1US1uQXJOMWhXaFljUEh6NDNwMWI0M2RKZE1sSGszT0lKZXlHSXZ6SklVRG5vcWplSFdqdzJhVXdBVVdXSi1fNFFjX3IwdU1ZNFl1MHFpTlFBZw?oc=5",
+        "pub": "2026-11-13T21:43:52+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Un buque cisterna choca contra un crucero fluvial con 129 personas a bordo en Nueva Orleans",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzUxZzB5cWNFN1dVZ1YtTkJQeEtGcm9aWmtVRW0zdTI0d042YUxiT1gyVEpCVUpGZ2VUd0ZORFNsUnRYUVpHc19ncUtDMnl4bGRabHhGcEN3Y3FEMzRXZXZqTjhKMGlVQ1RqTllDRGdPa3hCVnItMWxyYlhiblNQVGdudE1fWS1KVTdPRUlLVF9JN2oydF9ad0hjb28tNFEyd2Z3YU5Rb0tOaDJsZldWMEFkOGV6WjFqNXMyNEd5MzA?oc=5",
-        "pub": "2026-11-13T20:37:20+00:00",
+        "title": "La FAA paraliza los vuelos de salida a nivel nacional debido a \"circunstancias extraordinarias y por motivos de seguridad\"",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0pURFhiQmVXdWlseHZSOXdBWWkyZjB1blN3UUZTYmN4QlVqaTV0SDdra1VDMG5CMmducXJMSUYtN21ycmhxem1MNGdTYUVRRWVyZEhEbWI4S2J3TC1zMER3eFROcHE1YnAzc19xZkpTbFVIT0NEbjJOU2IxZFFoR3hqbXJ0N1dnQ2c2NkcxWEJvM01IRGNmWnR4bXNXYkNXTWxaaWExb3UwVGtMbTRjOWZrQUNObG1LWGIydnNKbzJBdERKUjBZNVc4YUU?oc=5",
+        "pub": "2026-11-14T00:34:58+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Suspenden Despegues en Aeropuertos de EEUU",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjNSTVVWUnYyZDM1c2FBV2t0NkVkd2U4bG5uXzZKSmZUX19zaEpSdTIyWHU1S05NamwtbXJXZlJZVnAzWjJSeTc5WXFXV2Z2X0d1a2ViUXJ2NFhDczBsUFhnTHVvY2JqYzhTaVJ6RENFUjJsU1ZZaHNVR3psNEVSTG5xcTJ4bmV6ekNkdHJqS3RYeGZjZ3RV?oc=5",
+        "pub": "2026-11-13T23:33:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -105,9 +105,9 @@
       "name": "Telemundo",
       "items": [
        {
-        "title": "Suspenden todos los vuelos en EE.UU. por razones de seguridad",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV3o5eWdoRnhNU1NjdWV0UVN6M0FaZWdxZE01UTU3dmhGUS1NTXh1ZG1zY25IOTJsXzI0THRpby1CeHMxSXpXaERnR3VCa3NJWW13bktYRHZ3bkI0OHl1NzlwX0xMYWNLb2JCMlpleEREbGdiVURlZE84V3BzaGN4YlhGTUdKMGg3cHFTQjRKSElXd1ZJRkZDcFFzb2dCUnV0NjJfMW5BZm15Ymc3WnhTU0lWNFhlWHgwUzZzeE00M0N5SXI3dk1qOTJBLUFRWWs?oc=5",
-        "pub": "2026-11-13T22:30:13+00:00",
+        "title": "La FAA ordena suspender los despegues en todos los aeropuertos del país por “razones de seguridad”",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeG9lOGI0SmJMbTR2d3pGZkhZZVRxNTNaaUd2WXJ0aU1JbVVmaG9qT01ZM191R0FwQU1CN09qVlllRG54bWM3a3BNdkFuOHE4cXV2ZXJTYU1yNUxfS2tkdnBWSU4xRmZEb20tNmtzcTFRWnZDd0RvWWdlbEpWbzZWaVRjdV9PWjg2cXZMZ285TFZVbVVRR01sbnZxZnZPOC1vMkVET19UUy1neXBBMS1USWxBMDNwSjZmLW9OTEdWUlNabEhSSUtMRkFkNUVqcl9kak9UTQ?oc=5",
+        "pub": "2026-11-13T21:18:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -117,21 +117,21 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "La FAA ordena suspender los despegues en todos los aeropuertos del país por “razones de seguridad”",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeG9lOGI0SmJMbTR2d3pGZkhZZVRxNTNaaUd2WXJ0aU1JbVVmaG9qT01ZM191R0FwQU1CN09qVlllRG54bWM3a3BNdkFuOHE4cXV2ZXJTYU1yNUxfS2tkdnBWSU4xRmZEb20tNmtzcTFRWnZDd0RvWWdlbEpWbzZWaVRjdV9PWjg2cXZMZ285TFZVbVVRR01sbnZxZnZPOC1vMkVET19UUy1neXBBMS1USWxBMDNwSjZmLW9OTEdWUlNabEhSSUtMRkFkNUVqcl9kak9UTQ?oc=5",
-        "pub": "2026-11-13T21:18:00+00:00",
+        "title": "Suspenden todos los vuelos en EE.UU. por razones de seguridad",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV3o5eWdoRnhNU1NjdWV0UVN6M0FaZWdxZE01UTU3dmhGUS1NTXh1ZG1zY25IOTJsXzI0THRpby1CeHMxSXpXaERnR3VCa3NJWW13bktYRHZ3bkI0OHl1NzlwX0xMYWNLb2JCMlpleEREbGdiVURlZE84V3BzaGN4YlhGTUdKMGg3cHFTQjRKSElXd1ZJRkZDcFFzb2dCUnV0NjJfMW5BZm15Ymc3WnhTU0lWNFhlWHgwUzZzeE00M0N5SXI3dk1qOTJBLUFRWWs?oc=5",
+        "pub": "2026-11-13T22:30:13+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "Alerta aérea en Estados Unidos: suspenden vuelos y crece la incertidumbre en los aeropuertos",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS3NfRHdVZHg4S2pmVFJjYzFxemFYc3lEUUk2dHIzdndVWkFmUXIxY3p2ajZhQmNfZXJOdnNRSHFSM0RfeF9NSzRKangyLTktNmVRRFhKMGdpNDlHSWJtU2lvRE9zSzBsWUROZnlGaTR4QUNVT0w5cGljTkZJWExyckpoM1lxOERHZVRRSjZrRkhHYjlpdjlhcXhxRm1tSzhEa3hsWVU1S09XMFY4Sl9DMmJmWHNBQ0tlN3U1d0VGRXZQTl9XSG85OEVtRWxDMFAtRC1sUUxFa2pORm15RmJUOFNJcHNKYlNweVNwcGtxa1M0SWplTVkzdnZDeXp0TXc?oc=5",
-        "pub": "2026-11-13T08:33:00+00:00",
+        "title": "Fuertes tornados generan estragos en Delaware y Nueva Jersey",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOGc2bGxGbDdsaWJuV2FaSlp3WE1OM3Z2SnZucUhIVzNuMlFYY3hoclN2eE9hbE45N2xKemhvaEZmaEVTVV9VX1I5dzdheVR3U0tPRWNoTFlkQW53T2c5V2thSFFrb2xEbXNnVG1VdWFLMF9XYjR2LUJkNll5S0huMkZRaWpRM2RLRzlIQUJqTHFXTUpabDJ4XzViNHdBYTh0SGZoNGw0ZEZtb3hTbE12TFlWY3o1ajlVRG9DaXp6Y1FBN0EzRjJ2R3AyYjRoU0NrYzNjT2VuRzJQWEVlU3Y0UA?oc=5",
+        "pub": "2026-11-13T06:05:00+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "EN VIVO: Equipos de emergencia responden a choque de embarcaciones en Nueva Orleans",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdUxRQk9ja2VSSm5WbTRoUmYwUGw4VUpLS25BTEdjREhXSW45MTU2NjZtNzFLZENUcWlHRk43UkVuZ2tIMVR1bG5aaWVsZW1VaXpYYWdJWEI1QjJHMzY2Mm5ucmcxQ2VEVF9RQkpPSW1QVTR1RlJFekZTdV9uVEdIeGpHUDlaQ2hlek1FZmZCWkNHYjZHNXEwU1k0NHZ4ZFNEU3VhZktwMHNEUlpRaVh2a3hweTN4TDVfeGozVERR?oc=5",
-        "pub": "2026-11-13T20:33:05+00:00",
+        "title": "En Los Ángeles los pasajeros del aeropuerto buscan alternativas para viajar",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZWgyc2NXc2I5MGZhTkpvWk14czNuS252NG5HcXhrQjcxUmFYdXY3TVF6NGJrRHB2ZGtEbnU1S2dpa1hJMUVYandaRFZMZmVwcEJtdU9ONVY0X3k5SFhkbWdfak5WaC1qeU9iSmduTEt1YTVPbUI3eVh2WFNfWkFoT2pwOE1jVE9KSTdRMEFlQnVRUWs5SENVZjVudTBnOWhtT1Y1RWNfa1l5azlvUnFXTFpsaENfS1F4b1ZIXzk2X2o0d2ZZMHdrUnRVTWVHZ2h1d0dmYjFhZWltTVdtLUI4S2dTVjNJTGdvYlM5bl84WjROQXBBN2h4QmV5bmN1S1hf?oc=5",
+        "pub": "2026-11-13T06:05:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -143,9 +143,9 @@
       "name": "El País",
       "items": [
        {
-        "title": "El Arsenal vuelve a resistir al Barça en Barcelona",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ3lndE10d2lPOHZ0aTVzT2Y0eVdndnB0b2Z5X3pvZ1Rxb0oxS1V6RzhZQzZfbzZIZWtudjRNRldEVGFUZzg4Ql9oYXpCV1owMm1MUDJ0d0loSGp6bVdDZlVEQjZNbzlaTWdQYmg4VERrVGtXMmJ1bXRLazhLSUxlVmcxVHZyUzBRT0lkd01OLURJdEVJVE5ROUtoZDJ0Z0d1Nl9Z0gG3AUFVX3lxTE56Tm1tN0RwMVVjYnFoZ0c2QmZCazczZlZ2N0dGOW9BNWJyODZ1X3hVcHlfOG5tM3lzOE1tLVBsd3hrbENXUFhTdVRzY0pPeGJFYXNzN0V1TzhMajlPZml5Njh6d1ZMbERfaHUyajN6UmZvR0xaVmJsN0lVOUM1bE9fNHp3YjFsWl9FOG9KX2Y3dkp0d09KNFhrelFlcDlYNjFjQTZVMWdYTmhyamlNVWdzT3BvMHR0RQ?oc=5",
-        "pub": "2026-11-12T20:40:23+00:00",
+        "title": "Resultados deportivos del 18 de noviembre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxbVBUOEJJUzFEOGFnc1hIRVYyLUpaY19xSnpMdWxWVEg2ZGdSajk3LTZRdmxKNl9OYU1oNDZHaTN0V0xkZHprLVRDRjJ1aFhtOW9Wb0I3S2NzT3ZjNzI2Rl80LWxUUQ?oc=5",
+        "pub": "2026-11-11T23:40:06+00:00",
         "outlet": "El País"
        },
        {
@@ -161,9 +161,9 @@
         "outlet": "El País"
        },
        {
-        "title": "Justin Robinson enmudece al Panathinaikos y aúpa al Barcelona",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRHRmczBYWW1IaHpLVVFvdnRJZ3VMQV9DTmhrSExXRUFVQ3VmT1hDUy1oZHE3RFFwWk8tX2k5bmltLWlHTGhfSU0zUzYteTRyQVRpckNIV0NLZlFWSzFqLU80QzZsYnh2dHB4NE5KVmloMGFkNUNPOEp1T2hoZlVQZ1JKa20wV2lzUzdkMmpWWVRUNi04WDBXUmVNT1QwdVNQdVRPTFFmaHFrMUcyOHVjSnpGOWlzNW1GSmYzbXRYUDlTZzlDaUYxaFV3QdIBywFBVV95cUxPRHRmczBYWW1IaHpLVVFvdnRJZ3VMQV9DTmhrSExXRUFVQ3VmT1hDUy1oZHE3RFFwWk8tX2k5bmltLWlHTGhfSU0zUzYteTRyQVRpckNIV0NLZlFWSzFqLU80QzZsYnh2dHB4NE5KVmloMGFkNUNPOEp1T2hoZlVQZ1JKa20wV2lzUzdkMmpWWVRUNi04WDBXUmVNT1QwdVNQdVRPTFFmaHFrMUcyOHVjSnpGOWlzNW1GSmYzbXRYUDlTZzlDaUYxaFV3QQ?oc=5",
-        "pub": "2026-11-13T22:15:27+00:00",
+        "title": "Panathinaikos vs Barça: estadísticas previas y datos | Euroliga 2026/2027",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXdLYVJ6V1dlYlZJcDRIX1RwRlJ1UzZLbmM3UXlUZmRTSjQtVF8xODR3R3QzdHZocHhQRjFxbGVGQW9MYkRyQ3U5SmFNdFBYSGdXMkFQV2xldkh3Tm9GaVoteEN2WFpodE1PZHE1M083bTRmOUdGWlczVmI3NTJfWk5qcnB2YlJLOWFiUFlIYk9QVUEwN0FYS1dxaHJZWVRCMVp1bF9rVVZjR1FkbU1oSnZvTQ?oc=5",
+        "pub": "2026-11-13T22:26:14+00:00",
         "outlet": "El País"
        },
        {
@@ -178,6 +178,12 @@
      {
       "name": "Univision",
       "items": [
+       {
+        "title": "¿Dónde y a qué hora ver los partidos de la UEFA Nations League este 13 de noviembre?",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRTBHZllMaGlUdFo0Y1VTcC11NEI2Y1pVLW9IMFZ4eXZmemx5Sm9Qc25KalF6emsyMjFwZW84U2lYMkFzdy0tWmR2MEk2bmJrdUdTa09Zd3gxWjlTNXRKb3BfZHQ5Tkl3MWVxN3VNNVRNOTkxTHBVcnAxTjRIemdyMDlERXFZeTlmMDhOWkQycnY1dnBreko2THFCNkdWcTVsR2MtRklkYWlKcnp6ZGhCZG13NEFLV1pxcjJBYlNweEo?oc=5",
+        "pub": "2026-11-13T02:09:00+00:00",
+        "outlet": "Univision"
+       },
        {
         "title": "¿Dónde y a qué hora ver en vivo Jamaica vs. México este sábado 14 de noviembre?",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnVpY2NsaUpocjdpeHZsT21KM0pPeUtnVVgycEdVdkZ4QzhmMk9QaGVFbDVyRFA2ZTFxdkNBdjh2WWdHOTY3ZEFWY0E0QUtpcERBRzRoRU5qTmFNQjRHRmJCR2NmSXA4bWpXTnp2cnBVNm5JMG1FUEpwczB4aHZPTU1qaW81bWxIMkNlZkRlR1h5LXRyalJLME1XMkVMMld3Qi1VQV80c0VfZXktdXQ5NzB6TTRqX0xa?oc=5",
@@ -201,12 +207,6 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1RlT1BkUG16NWMtUlZPSjRYeGc4eGkwVlVVNGZPNWN4QVVFSGtEZDV4bk9IZWR4a0pvN2lMZkpEbzhBWDN3OVFvUlN5aURuOGM4WW92b1BmY0VZUlJ5MHFwZ0hRUHFwQnMycm1Wc2tHdkxVN3pOd2xZcmVPZmpwdWNZdzNNdTFYc0cwNzgyVXp3RkNwQnVYTUpYNnJoUQ?oc=5",
         "pub": "2026-11-13T22:13:32+00:00",
         "outlet": "Univision"
-       },
-       {
-        "title": "Jaime Camil revela que su papá “se dejó ir” ante problemas financieros: “No hay herencia”",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQlRnbmFRZWREazNpTUVuNmktSmJDeXBwSUpGQ05sWGgxZDZXOThYMTVfQS1nU3pkR2hJbDRXSUFPRjJWWll6YUxHRmNqWWdJTlgzYkdQWktlQ05TN3JZZFRTNlJnOFZobnhUNHlFOG5TOTR1dHJHUW1SWEVmNjFwNVZ2WEgwSXFRY0wxb3AxbS1OaC03em11ZHkweC1MU3FseXlGa2xyTGpnazV3eUlEQjJXc0hlT3Z0clBsLU5VWlQ2QQ?oc=5",
-        "pub": "2026-11-13T19:35:00+00:00",
-        "outlet": "Univision"
        }
       ],
       "error": null
@@ -215,15 +215,15 @@
       "name": "Telemundo",
       "items": [
        {
-        "title": "Michael Carrick: de leyenda del Manchester United a ser despedido como entrenador",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeU93cmZ5R1FqTGEwV1gxWjc5LXlfUURvbEVEeEV1UGZLRGNaMnRhRW1OeEVpZlNaU1FDemVBNUhqd2l2amFvelFBZHZadmpsT3Y2S190MjdTYXhPcVIwTGRfQmk2bGlaN3QyQlBiSGdRZjc2ZlBoN19udWlaY0ZLclYtdlNEWHMwQnY1TzVrNnRKU0NNTTJJMGtRdEFxck9jckF4aVZMcmZDV3EwcFgzU3RqLW8yU0tCb0FOS09CRmxiQV9wWWpvT3dva3JpZGFsRnl2c0xYOXlOTDhxSHBSUXl0aw?oc=5",
-        "pub": "2026-11-12T07:35:00+00:00",
+        "title": "El Manchester United al que llega Pochettino, una incertidumbre de posibilidades",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNXFSZUNwMTM2QWtZZUhfeTZmdVZNRHVNT2dkUzMwUjc3R0ZQZXdGSnB6N1ZlWmhBYVRUblNiTExhLVpnY05QaXJGTW9YUW1NMUhYTU5ZWWo4dW1obGlFT0pXODBYdmpJbk0tX2tJTjl3M1dNNXNyd1JtajJJbEgtcDhfVkl1aHRXVEhqVllXU25jQi1oRUtHMUxxQVRldnltM3Z0VnMxRHhpY1lOQm80aVhuTS1HSVkydVhfeUQzcHo3d2twanRvbENzRnpkZUZzZHQ2SUdPYkF6eHVZMVU5aUh3?oc=5",
+        "pub": "2026-11-13T07:39:00+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "“Si es realmente bueno, sobrevivirá”; el DT de Jamaica habló sobre Gilberto Mora",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDFVUVFhWnVqOHVBR3drRmFjclJwOHdWeWo5NlU4UUJ0bDFwZ0l2QWhXZm5BVUpZNDZEd2hKQnowMXUxbThqYV9NcUVSeVY5Y0pNVWFiWE9lUVFhRnJ4WWlRNFFPdlUzTXhIRGpLWUM5MFdmaHZ5MmpET3Z1MGJLMWJfVTAyTnhPcDZCMTZrbXdtZGlJVlZlV3NPTEpCZWJLdHQyRk1RbE9VLUZSbGZmTUJWX1FoOEJZQ01wbkFnQ0RDY0hET0Jv?oc=5",
-        "pub": "2026-11-13T21:47:25+00:00",
+        "title": "Michael Carrick: de leyenda del Manchester United a ser despedido como entrenador",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeU93cmZ5R1FqTGEwV1gxWjc5LXlfUURvbEVEeEV1UGZLRGNaMnRhRW1OeEVpZlNaU1FDemVBNUhqd2l2amFvelFBZHZadmpsT3Y2S190MjdTYXhPcVIwTGRfQmk2bGlaN3QyQlBiSGdRZjc2ZlBoN19udWlaY0ZLclYtdlNEWHMwQnY1TzVrNnRKU0NNTTJJMGtRdEFxck9jckF4aVZMcmZDV3EwcFgzU3RqLW8yU0tCb0FOS09CRmxiQV9wWWpvT3dva3JpZGFsRnl2c0xYOXlOTDhxSHBSUXl0aw?oc=5",
+        "pub": "2026-11-12T07:35:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -233,15 +233,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "El Manchester United al que llega Pochettino, una incertidumbre de posibilidades",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNXFSZUNwMTM2QWtZZUhfeTZmdVZNRHVNT2dkUzMwUjc3R0ZQZXdGSnB6N1ZlWmhBYVRUblNiTExhLVpnY05QaXJGTW9YUW1NMUhYTU5ZWWo4dW1obGlFT0pXODBYdmpJbk0tX2tJTjl3M1dNNXNyd1JtajJJbEgtcDhfVkl1aHRXVEhqVllXU25jQi1oRUtHMUxxQVRldnltM3Z0VnMxRHhpY1lOQm80aVhuTS1HSVkydVhfeUQzcHo3d2twanRvbENzRnpkZUZzZHQ2SUdPYkF6eHVZMVU5aUh3?oc=5",
-        "pub": "2026-11-13T07:39:00+00:00",
+        "title": "“Si es realmente bueno, sobrevivirá”; el DT de Jamaica habló sobre Gilberto Mora",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDFVUVFhWnVqOHVBR3drRmFjclJwOHdWeWo5NlU4UUJ0bDFwZ0l2QWhXZm5BVUpZNDZEd2hKQnowMXUxbThqYV9NcUVSeVY5Y0pNVWFiWE9lUVFhRnJ4WWlRNFFPdlUzTXhIRGpLWUM5MFdmaHZ5MmpET3Z1MGJLMWJfVTAyTnhPcDZCMTZrbXdtZGlJVlZlV3NPTEpCZWJLdHQyRk1RbE9VLUZSbGZmTUJWX1FoOEJZQ01wbkFnQ0RDY0hET0Jv?oc=5",
+        "pub": "2026-11-13T21:47:25+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "España doblega a la República Checa con el VAR de protagonista",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVzBXWU1XR3YzM2p4cmRWeERnS3VNNUZpXzRwSW1pRGRGSmRkQXQ5cU92RzRNRW54d0p5UWdtOHZEUlluN3E0R3BoWXYyeUlmVDJwSDVMMTFqMGYwQk0xS3dxYnFFVlRONnRnRFJJdDIzcVVLZlQ1a1diVVI2SjhVSUVWeEUwRThoZUtNT2FnVlJXUV92S1dMd1dvOENXc2owZTdUNEJrSkVxNW9wNVlKeWV4bnJJT19oU3JIeg?oc=5",
-        "pub": "2026-11-12T22:12:46+00:00",
+        "title": "Nations League: dos jugadores de Estados Unidos valen más que toda la selección de Haití",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRTZYWnpwVkJKVkNKa2FXRWEwZGtqQW5YMkJXd1Q1Z0xETDh2cmNLQ2lJRHFCejFSQzJEQmxYRTU5MFJlSF9zMFhXdzdTaFlDR2M3X3Y4dzFOX1BQLWJ0cXZxbk5yOXZfZjd1MjV5NVk4Q2pqRmNrR2lqMXVNMFJfTmpmNDBmZmhibDBXdDBGdGxWSkpRTjlCMzhlWDNEYW1HR3BCZ0QweTJ3RnpGenRQMC1qSFRGTUw2d01ScGREc2c5ZkhLNnlQd3JlQ1BENV85RjRxaEpkejNGRmZlb2dhYl90QnFfQ2hT?oc=5",
+        "pub": "2026-11-12T07:46:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -289,15 +289,15 @@
       "name": "Univision",
       "items": [
        {
-        "title": "Famosos - Página 1841",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IcXdGdXh4bms4LU55TUJFV05qVnVGaEswYjBtVHU5eVY1NlM5dm1LVGE5QjBVN042b0hzb3VmWlVYX0djcVc0SkRmVWlvZE1ab1d6RUVnYXBLNEpULUE?oc=5",
-        "pub": "2026-11-13T22:47:04+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Camilo en ViX Música SESSIONS: un encuentro único que sus fans disfrutarán",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUNaa1lTN0JRcUJ2dHBzNXlTZ19WN3p3NUpHVkIwel95Y2g3OVpuVWp2Y1pGUEE5bTR0NFh5RVI0SlJVRi10TWNXam9obF9QUWwtb0pqVHJENXlDa29uWUJIVkZSWkgza0RZWjVVYXBMdENzNDY3OWwteDZhRmp5RUZnckJYS0VhdlpMQjRMWlFFU0FLbGxibkM1Mjdvb083cTVZMDVIWTBUVUdKNXJ1STU1NjNvZ1N4cFE?oc=5",
         "pub": "2026-11-13T16:15:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Famosos - Página 1841",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IcXdGdXh4bms4LU55TUJFV05qVnVGaEswYjBtVHU5eVY1NlM5dm1LVGE5QjBVN042b0hzb3VmWlVYX0djcVc0SkRmVWlvZE1ab1d6RUVnYXBLNEpULUE?oc=5",
+        "pub": "2026-11-13T22:47:04+00:00",
         "outlet": "Univision"
        },
        {
@@ -313,9 +313,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Muertes de famosos - Página 232",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NOXlpYy1IMmlyaGxBU0tCSjhqUEFnNW5lMFIxTUpQYV9tRjlZMXQ0SjZKUk1ONDdPM1Vobkh2cW5reHd6NmliU0Q2V1I3SlVrUEJoaWhJaTM4M2FTT09yYVhXajVEVXNha3Fz?oc=5",
-        "pub": "2026-11-12T21:56:44+00:00",
+        "title": "Muere querida actriz colombiana a los 25 años: documentó su lucha contra agresiva enfermedad",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYlFMdjFLcEo3a3puYkdGaTJFSDljM1Z5R00tNjk1UWRnQmU4TVFxNWEtaU5iREhMRldXNzA1OWtXcEdDWnlLclZ3ZllhM1Q0V1c5RWdPRXh0dHRpM1gwZ3EzZ3U0b0ItTEZBVmcyS054Q0hEMFpxajd2MnlmaWtOelNVZktld045UndzX3pTQmdWQWRTaEZBVnhhallfVndIa1U1YXpQZlphM1JUNm1JSkRQc3VSS3lDbktqeHBaaS0wdVJPZHBhLUpRZw?oc=5",
+        "pub": "2026-11-13T15:01:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -349,9 +349,9 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Daddy Yankee: Aumentan los rumores de que tiene nueva novia",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmdmWFhsWjZpU0hneTZuWGlhdHIxV1U5bjlTMm9GRFZMSi1QbmhpZXAxdDhUNVRqQkIyVi1hN2NqVDEzVDVxVDhjU3BFMDl5azlEc0h6QmNPaDRGMk4zUUc0MDV5UXB4WVlmalMzNGVqSzJlYTVSR1hrazYtZEI3LXJxclFYbjd5UzJDS2ZfbGNBOEpBaWRreEk5UFo5RlJScjVMd1FBR1RSbkFkdTFuZHJub1VhWVRpM2dDWXBDTTA2ZXRybWo2M1ExZFdlNFVKalZ0b3hB?oc=5",
-        "pub": "2026-11-13T07:28:00+00:00",
+        "title": "Las noticias de la mañana, viernes 13 de noviembre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUJwMjdsVm9vd0MtRkRwbzVVbmRqQW5CU19UeXpnS1hVV3Uwb3RYS25vdFctdFlMMFMyQ19SQTNSVjYxcmRyZFZ3VnZiSFJsT0RwTjVRUF80YU9DaXBBLThiSXJoNERYTW01SGlZeUswV1JraGdzYjZKYVF4U0k1SXctTXN6M1NPX0RpZUhyV1ZUNDVCY1oxVEVEcVdUcXFEdjRjV1duMXJucWpaOHRXSVppVEJMaGdCcnFjRGpCVFhFVHBnYllkNkxR?oc=5",
+        "pub": "2026-11-13T23:45:42+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -362,12 +362,6 @@
      {
       "name": "El País",
       "items": [
-       {
-        "title": "España ya es el segundo país de la UE con más trabajadores nacidos en el extranjero",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbWhheG16VXZuRUhXQzB3WUl6WW9FNkVGYVlZTnZCVHJJOFA3ZGZ5d1RjWS1ILWZ3eDdGYXJsQzFnQWdVb3RDV3lBd0YwSUFQMkdGTWhlTFJVT0lOUHF4YWhHcVBGU055cjRmRURLRktaS3ZSR2xIMF9QSDNvTEZFSzE4TEhUMU43V2ZWTTVRdmd5em1RSTRmdEZ4VTM0RDhuU3hwUWJWY0F1T0hUb1AzNktPMlMzckdxSzI0ZjEzeC02ZUpuSXfSAdoBQVVfeXFMT0wzYXFhTS0zTkZxRjFqQkdTdWE2cmw2VnAtNEJ1QkotN296VHNPWWNrZkN0QWxqYTRlZE0tVl9pR2RSSmlaemlGVG40V2E2ZERPdkdTUmY4dUpLX1F3Zy03V2s3UVM3S182dEVMeUhtRm1DVnJEYUZwVVp5LVVUQmZmRTRGcUpxRjVEeG90Wlo1QWdUbU9yejE5VkV4Q1dRcVZ3dzRjOFAwRlZ6MzZHZXNNSnVUbWhpbHpWdUExQnZYOURKT010cFJKbXlUVjhmTW0ySG81cTZzNmc?oc=5",
-        "pub": "2026-11-12T13:21:21+00:00",
-        "outlet": "El País"
-       },
        {
         "title": "Nvidia sufre en Bolsa tras anunciar el adiós de su CEO",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjZ4Mm9tTDNXcVZOZWF3RDhvQV91ajJ6em4yVmJtRXRGSU5wa3VoQWdPcjFsMXZ6SFM1Mng2Y3J3Z05ybUM1MWhacFhFTTU4U010cWh6OFRDODFCNjZWa0d0MzhCcDlEZzZ4QVpzUTlkOUxkQ3FOb0NJSkNRWVBfQlo1TFNmalgxMXhzLTlxZHdWbkN4UXNnYVAtLXNrZzV4VnI40gG3AUFVX3lxTFBjaEtNaGNtaVYxbk1KNmFUMkc4X19EM09pa2ViNVdHQXBDWktic0xDcldDMXpzZVFvTWlacmRHQWZnQXN3RVJoZHREaUlmMUI5SlF0OWdsTUluUVNlZjJsVFRmaWNZZmktTU9ucXpYU3JONGdHbmFRcnk4dUdmMDBZRXZpWElfa2JlOXRDVHNtcWxaTldtWFV2UGZGcWpSMk53WFp5d292bDRaWUN0QmdxVnRkQkFlRQ?oc=5",
@@ -391,6 +385,12 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTDlsYk40NERPZkR2dmpsSDUxVjNZbU9ibnJtdHFBSDJTSS1GNXkzNGhtcWRTZFBSalBlM19VY2hhalJSVmZDZTJYY21kLXNncEgzbVpVeWhOLXc5S0dwUnRXUjNJSGYxSml5bEgyaVNKUE1ybzlZNmJLT3VRN3BidjRGN1h4MkpDNjluQVc5QjZuUjdZZnBSZDUxV0xXdXRYS0NVdTNMcS1sdG5ieHBROXRNblJFYldrc083cDBUTS1yVjhkeWlmUUx0OVNoRjdZR1NLaWNrakRkM0I1ckpyNtIB9AFBVV95cUxPeWZOYldhanl0akFpY0RnTHJhbEprN21JRTdXcFQ1SnRpVVFfQVBwdW8yQmZ2RllkU2NsUmhVUzh1WXpJOXFrekJlYkhFaVF5M3hhVTEtQjFydE9yTnkyZk55WGQ1OXNIbHllVXMzdEsxOWZIS00xQWhhT2VkSTZJOVQ1X2tGSldtUzJRakJ3bVphS05WamZMU01WR2Y5eDVnX2JSOVlna0Jxc2JnMDdxQXdUX25VQklNU21PaGlVVjJ0dVBfMElmS3Q2QldyX1ppTV85MXE0SFM2cWxuX3lkSkg3NWRVNzN2SzY2ZHo0QXV0cmtn?oc=5",
         "pub": "2026-11-12T09:30:00+00:00",
         "outlet": "El País"
+       },
+       {
+        "title": "Amazon y Google amasan una fortuna de casi 400.000 millones de dólares en Anthropic",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeDZFMXBaTzVTTE1tM3NtWUItRDloLWlwZzZLS19NMkM0RGZRYXFWbldRMDhCeXFmbzROUXBwYmFXVTF2b2tXSXotdEZMcVI2X1RiWllHUFNPSlh3dGNOeEI3dGk1emFYd3RmZVRfdWI2eWdDWFdLWUtmS1czMlAtZGlQZGUzSjd0VUZLV3k5eEFCQXJKSTJpU1NCYUlLT0NMVnBuMDk2anV5MnllODEzUEo1VW1HWDNrLVFJUWZLdG5BUXRH0gHYAUFVX3lxTE5weW9OT29xbFY3VzRHNTJta3lhakJQTEwzVWhHaFJTUTZWMnpyWktjb2tuWTNPdnZoSDFaSDB5ZG9wYlF5YUpYNnRFR2M1d1BKUG9QTzdONnB1TGtXUWlPVXliaWY3Nm8zWTdfY1ZOdVFHSXNRV1lzNDQ5eFdFazh4YlBNdkdvcFRsZVhnTWlnVUYtSFdDdk91Y0t0aDdsUDEyemNiOGlfZFZucW85a2hlVVAwbVVDWWRoMjlBZUlScllfOGJTSkI2LTNHZV93UWZlNVFWTTAwWg?oc=5",
+        "pub": "2026-11-12T04:15:00+00:00",
+        "outlet": "El País"
        }
       ],
       "error": null
@@ -402,12 +402,6 @@
         "title": "Reto Economía: Boletos de avión suben para viajes de Acción de Gracias; cómo ahorrar con tecnología",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMVRIZXo5WjM3ZldYM0xHUUxCeXk4cU1JUEJ4UzJqazM1aF9Ob0xVa1liSlljMnN2T3JOc0hZZm8xZUJRc1FBalhMNHFmTUhqQnhFZ0tFRE5SejFSVW5QS2RYYWJ2dXVfRzlGaF9LNDZOSTBEM2tYZUp5RnUwZFExNEV2UFNPZ2Y4TnM5Y1VaZDR4a2EybFNENmpZcXAtTkJPVUJuRy1DUHlfYkNwMGJmNno3NDZWUnpsejJ2OGF5N0N5LWVvZmJpd2xrMDNIWFpWSHNCOU9nQjh3LWpEeUEzcmR5V1ZIbHFkbFZV?oc=5",
         "pub": "2026-11-13T14:40:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Yo prestando dinero que jamás volveré a ver",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFlDN0xiT2VlSmhpZTVHeDR4THVSNmotQkNmWWR4dGVzaUdDbDVYTmFNN1RwRHhPbDlEQW5sZEZsMXZkNG51ZUN5UC1yb184SXI5dDNLcFRfOWpWQUxkRXItTkc2aHVscHNyc3ZHeE9DNHFaTC1qUWJOYkt1T25MZ0FCSUdETjdhVlhtQVp1eXJTbEVjd1NjUXlsOVlCTmcxZW92RktEeDFvQlZfclhaVQ?oc=5",
-        "pub": "2026-11-12T16:34:00+00:00",
         "outlet": "Univision"
        },
        {
@@ -426,6 +420,12 @@
         "title": "¡Ten cuidado! Estafadores se hacen pasar por agentes del sheriff de Harris para robar tu dinero",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLXU2X1ZiQTRDSTBHMVNWZG1KZ1ZST2l6aDREOHNCOGs3VF84eHI1T1RIUGdMNjNsbVZvX3RLSUgzWE10elBFU2E1bVhkTUJydGh6dFM4RVVZSXhtVlFCSGxGdnRmU3BqSGsxMkw1TUhjcm9QdVBPbkRSSXg2ZHNzWFBQalBTMVQ0dWxTdU1Fb29pVElFUjA5VkJnWGxDel9rZ2ZJVUxwRnJMeFplY2FqUFIxelZmdEpzQTFTdEdUWU9pYUt4QjdTdUQ5LTRab240Rk1ESVg4WEhzWW1u?oc=5",
         "pub": "2026-11-12T02:34:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "¿Qué tan seguro es el sistema bancario de EE. UU.? Riesgos y cómo proteger su dinero",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVYweGsyVGVpenJmU1A1UmY1ZkVObW5fcWFUSDl3SDdRQlh1X3BNM1l4b1BhdnEwWmRONjJCTFM1dTJpTFppYlJTYi00eU1qcUZHSG1nQWpMRFJHc1dyVmVablZNdUtQOU9WdExsVTU1OTNnUXdncEZDNnpxb1BXSWNXcFBPTEl5TnFyVlc4ODdkeXlaMDhMbGFXaGNXVTBNTmdpeGFRQmNHTUZFS1g4RUhjZlNqdWZ2RmVpeExoNFRUYkN4UDlzb1hoYw?oc=5",
+        "pub": "2026-11-13T19:23:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -485,9 +485,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Democrats in leadership showdown on Capitol Hill",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xM2VHaEhTVVE5X3hNeGZKMTFiUW1FOWNxRENKM1lpZ0ZQTlZEUDNXLVlEOFhHcXdzck1RWTB6ajAtS2huUHMtU3VrdWVRRld6S3lUbzBB?oc=5",
-        "pub": "2026-11-13T11:21:24+00:00",
+        "title": "Mysterious space object accelerates toward Earth as scientists debate",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zSVpPeXFUeTlXSDFXMEVJYU9tZ2VTU0M0QlNTdEZIT0Vhc1JhLWY3TEdmcGhlQzJmNElHNHktVVc5akt3R3Fma21fQWEwM3dxb09CeEh3?oc=5",
+        "pub": "2026-11-13T16:12:22+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "FAA ground stop leaves College Football teams stranded on eve of crucial Saturday showdowns | OutKick",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX20yY2FhQmtOUUJjM0d2QzZmeGxDaHZsWFQzZ2V6aEJQNFEzbm5BOGJCWmJzakJVeW5fUmlObVRlTkFzQWdjaGRiY0N6Z01qVnUwQkJGUlhLU2NxSnREX3FHeVowcFJQUk9WNEpFdnRoX0FsNlBiMUdEY1owT0Z0aFBfSGQxc19RMUpZZ1pNOERzOC0wWXY4TnNzVGFBR2lCYVF0Zk9POXRFSEtQSlNldVF2c21QQzM4aWg2MDBxWFhidw?oc=5",
+        "pub": "2026-11-13T22:51:29+00:00",
         "outlet": "Fox News"
        },
        {
@@ -497,15 +503,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Nationwide Microsoft email service outage disrupts business and personal accounts across US",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ycjBwWHF1UDhiSmFOOS0zcHg3Yzc2c2dHdzdLT3h3amMxbHdnQ1NsM0czVmtKX1huRmU0R0dRaWJpVXM2M3Q3WndHam82c25CQkJLNndB?oc=5",
-        "pub": "2026-11-13T00:12:02+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "FAA ground stop leaves College Football teams stranded on eve of crucial Saturday showdowns | OutKick",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX20yY2FhQmtOUUJjM0d2QzZmeGxDaHZsWFQzZ2V6aEJQNFEzbm5BOGJCWmJzakJVeW5fUmlObVRlTkFzQWdjaGRiY0N6Z01qVnUwQkJGUlhLU2NxSnREX3FHeVowcFJQUk9WNEpFdnRoX0FsNlBiMUdEY1owT0Z0aFBfSGQxc19RMUpZZ1pNOERzOC0wWXY4TnNzVGFBR2lCYVF0Zk9POXRFSEtQSlNldVF2c21QQzM4aWg2MDBxWFhidw?oc=5",
-        "pub": "2026-11-13T22:51:29+00:00",
+        "title": "Incoming GOP congressman backs halting all immigration to US, warns about Sharia law in Texas",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUZZNmdEYWJtT1I2UkQyb0NsejVyN2VPWnNfc0lvU0lCd0h6ODBjUld5d0R3eGE0SG9qU2ZwcE1jT3BUVF9BVVR6Y1ZCcWw3UGo5VlBTcy04MXBuek1rUTlaSVpjMVQzanBWUGM3ckNRWUJlZEpJYk9RTFhtUjhlaHNUNUU5NVJlOWg3VDJTUUozTkZrRFFDdVhkQU5JVU12YmU0Z2NuT0U3QXpVT0RscGI3b9IBuAFBVV95cUxQTmk4YVZkYmdJYnA0dEIxMXpfNkNvVzlpWUl4TVVIdWV4aXFHdDhJd3hLOVJpNGtCeUxiR0dSNXA1b3NoWE9QQ0JPczJkTV9tQ1QxVTl4S0xvZzJhWEoyRERkdmkxOVhTVnFhZTlIZVVZMWg3X0NjblhXaE5NLVQ2NnJOYzNRQ2d3dEt4VXREdGdYSXI4TklGVS1yaFl1TExtYVB3TTFON1VvY0NrTWw2TTFKMnZ5NDVL?oc=5",
+        "pub": "2026-11-13T16:48:35+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -523,27 +523,27 @@
         "outlet": "Fox News"
        },
        {
-        "title": "5 of the unluckiest plays in sports history to revisit in honor of Friday the 13th",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMTJZT3hDRHFtb1lkRU1iSVZtN1dLaWFoSC1aLUlCeFNTdjZSRVNTS1FmQjJFd01CSUVuT1MzamtyNDdpY0ZmbXdwR0NHdnluc2NkVFo2Nzg5b2FhOU1WUjgyOHRjaF9IRGF5TlM4QTgxLTd0ZXFhZS1tMG1xazVJeEFxTl9jZG5pSjJKTkFJQzVOQmhDLXdWMTljUndWQ2M?oc=5",
-        "pub": "2026-11-13T21:42:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Seattle mayor backs effort to block girls' sports initiative that passed in 36 of Washington's 39 counties | OutKick",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZE9sMUxpUmJ6ZF8wMjJXZFA2R3hsTmNEcHNtLU5CQWFncmdILWlkTjdEeUR6Umw4eGVJQnhfWE9RWmZBU19heG5kVDljSEtsVWQ1Rkl6SHVKcVR6UVdlQVJwWUZzVWpGSGNvbVh4OVk5YmJlcFhwRUNJZmJJelA0WVIwZWJiajJRc0pod1VjTzJOTklsVC1nUGc3TDdJa1pLTkRCdDBCaTByMGo4bHNaZjVKRkt1V3R1MzVTeTZteGFYM0xPc3B6dg?oc=5",
-        "pub": "2026-11-12T11:55:14+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Al Michaels chokes up during moving tribute to Dan Hicks on Thursday Night Football – his best moment in years",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGpSWTY5N3ZLMDlYYWVVRzVGVVg5NktmWXdpeUkwb1lBVHN1d0pVOTdYcWNsT1RuaVdoeFBXSl9uc3FPdW1xRUFVeVVydkNBU3hzTzdhSk0zdUF0b2tsNTZPS0l6eXZ6OEVnTG5VaHZqOG50Sl9BWEdPa1c4YXBucVRpcEdnNlFiU3NjVnZOcGhwUXFtVlRqdXlKcFVNRGxQc0V2eEgzbnFSWjM2dWhCZzMtOERDSjZjMzFFU1dUdDlBS3hRa3c?oc=5",
         "pub": "2026-11-13T15:50:13+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Tennessee running back breaks leg in single-vehicle crash, school says, putting season in doubt",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd2lPbFJpTXg4MUszNTdIb2thVk5nOWNoXzE3VXBQUTg1UmdPQUdqTjJlZ3VUeTctTFRoNTF0UU5lMkMtQ1dwTDRPRmdnZlU3ZlZrcU1qTWxXWC1xTjZxUHZiMF9WbW5TVEM3UFNwSmFPeXJEU2lmRXY3ajB5NnE3SFNuZjlTM0lBUGNUUHdkV3BMNHNQU2pBeGpQRTJFWGppR2h2Smp3S1FNVHMtYWhKZVdkeURvSllKMFk4cVFWNVpXanNj?oc=5",
-        "pub": "2026-11-13T22:05:26+00:00",
+        "title": "5 of the unluckiest plays in sports history to revisit in honor of Friday the 13th",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMTJZT3hDRHFtb1lkRU1iSVZtN1dLaWFoSC1aLUlCeFNTdjZSRVNTS1FmQjJFd01CSUVuT1MzamtyNDdpY0ZmbXdwR0NHdnluc2NkVFo2Nzg5b2FhOU1WUjgyOHRjaF9IRGF5TlM4QTgxLTd0ZXFhZS1tMG1xazVJeEFxTl9jZG5pSjJKTkFJQzVOQmhDLXdWMTljUndWQ2M?oc=5",
+        "pub": "2026-11-13T21:42:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "FAA ground stop leaves College Football teams stranded on eve of crucial Saturday showdowns | OutKick",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX20yY2FhQmtOUUJjM0d2QzZmeGxDaHZsWFQzZ2V6aEJQNFEzbm5BOGJCWmJzakJVeW5fUmlObVRlTkFzQWdjaGRiY0N6Z01qVnUwQkJGUlhLU2NxSnREX3FHeVowcFJQUk9WNEpFdnRoX0FsNlBiMUdEY1owT0Z0aFBfSGQxc19RMUpZZ1pNOERzOC0wWXY4TnNzVGFBR2lCYVF0Zk9POXRFSEtQSlNldVF2c21QQzM4aWg2MDBxWFhidw?oc=5",
+        "pub": "2026-11-13T22:51:29+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Star golfer has a new appreciation for SI swimsuit models after recent shoot, Herbert auction & Herbie's dog",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHA3WFdIQ0FfZVRWdUI4c2g0bFlWejFFX3FnalQxdmtNN2E2V1o0MDJreGNaLUV0TUhQdEZoQVd6Z3VaUnppMlZac1Z3U2lMTmQ2bHZRVkVPU2ZuT0FncktXaFpIRjRjOGxCVmNGdUtrbWdSYldsSjBTUkdsaU16YUNCQ1FyYUhOaU9oV2pvZlRVa0dSazhFOTJFc3VQSDY0czlRNkdudW9xV05Pb0YycDd1NFpLa1RPTW1XNWlnZkZEdU5FZmc?oc=5",
+        "pub": "2026-11-13T14:26:29+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -573,15 +573,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Bill Cosby accused of allegedly failing to pay $59M sexual assault damages: court docs",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ1BBNG1XVTVDMVB5NktES1RtWDlFbHE4QXROVjJmbGhSeHkwR2cwM0d2MFpTMDZIUU83dlpOSkd3dExoeldYQzRZNlBlSVp4dThSXy1DcEczMW1FcG9xd2NuOTZYaW8wOXNuNDJsQ0ItUkhHY0RYR0N4VVJkWFZ4WHJ0YllFTEtOVk1PUG1xU3JJVGtwd0JicTY3OGdUckZQNU9xUi1IVV9HeHRGM3B4d2liVjNfTXPSAbwBQVVfeXFMTTFtQmp1YlJkVXVxcER5OU85NTVmX1NzcVJNdjJsQXlvZVZkRDNkYTRKNTJxNjU0bVVYN01ubGpzeTJtRUJ3a0FORlRPLTFpTDZZNGR5SzBydDYyZ0h0c3JoYzdmVUphOXJoT3FMcy1nQXhjVjJUMXgxaWo2d1lWTUZpVUxaMk42T3JnNzk5S1FyQmVqa1RrckRoOEtDSUNkLXU0aE5ySUxoVWdsaEpIN0pqVmF0SnVvTmlfRlc?oc=5",
-        "pub": "2026-11-12T13:00:14+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Shawn Mendes triggers fierce fan clash after speaking out on Gaza",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEJUNjM2ZkFTbTZ0aW0tYTR5VnpFU2trUks0cjhCMlZKOEtjWDRwQTI3NTFLanRfRjUwX1lRR193TDh3cUttc2hWNnZDVTdnb2luMmZYQkZyMFViZmZVUEh5c1Zqa0hJeDdxRVl4S0hhSlcwZDVHbFpERkZid3BPR1p1bGFqLXpDeDN1Wkt4ZmF6ZFlM0gGaAUFVX3lxTFA0NWRhWlhjcWJ2MW9IdDh0NTNIalQ1VnBCS1JzRm1kWnhpZnBMYzNpTnN3U2JVdUZIcVh6WUNQNEhDbVR5TzB4UFUza28tM1h5QUkycUhRcHRMQnVUVm1NQjZyUU9fY3JMSFVkeTI5eHRHRUVHUFdBb0ZySGR6YkpkNU1LTzAza29XSUlvbVdwN0xGdHpIZ3pPNWc?oc=5",
         "pub": "2026-11-13T18:02:24+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Duran Duran drummer Roger Taylor forced to retire as health battle threatens hearing",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWVfdGNkTVNrZnY4cnFscHF1RXdVaEpkbjZzRzJoSFpmelhVWEFUT2c3YWctMUx5Z1ZYX3ExYl9SY1N0Zi1zNkxWSDg1NC0wTUVrOGFOanN1ZHB6ZnVRY3lhTW9uaEFIQjBWbG5maTNmOERvc1gxWEE3VDFOWkJQMWtTRkMxV3h5RXdtand5Q256d1FXWjVhQ3JFUFhHR1VaTDFORVJual82clB4eFFsOVNFVWg5V2fSAbwBQVVfeXFMTWkyRG9zRy1kNE1ibUIxclEwM2RELTU4dEtydThMbzlXM3kxU0JRdF8ySUV1UzQwMndQU2NhWlRwYmFPQldQMUZCWlBjTEJfSkttaC1CeHJwaVhNZWVsXzJVNF8tZFNlNHF5SlpWYTJVdlRoRDVBdjBCdno5NjhUYXpTaTFubkRNcC1wMURGRWtBd09lY29lUjBleDVyX0ZzQWI3YjczNzNwb0p2c1NMX0hRcm13YW5iNUd5RWo?oc=5",
+        "pub": "2026-11-12T21:34:16+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -617,9 +617,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Thanksgiving staple recalled at Costco over possible contamination with cleaning chemical",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzZLVEJHcmV3aXBRckJlSWpvaU9RVnNIN0FaRmpiNUk5V0ltWlkzRGRCRHM3d19OaFktX1JCQk9CWnJZT2d4OENWdGZCQjNoWkkzWUZYeU8yTTl6bTFVOTJvV1d5Vm1oOHJEY1JJVmlJU040Vm5ubG9heV9jb0xsRnJqTjNwSmNZZUptcXNLZ0JjZms1WWhabEdFak5OSUtuVFhxMVQ0clFNZ25GeGNMbXJORUpNZlVsaE1V0gHAAUFVX3lxTE5DNTNtR2VpbHNWbmRaeVdYdGhXQnR5YWlsVGItaFVxSGFKc2JsRVhpSFE4dXBZUHQybC05bXdESTB3akpRVnFBTlZEY1ZZVk9RazZGR2ZqQ2QxclNfcjJHN3pfRGlqSllUOXM5cXFtbHRNdHF6c0xoNi1vc2REM1RZTHh0Vk1TdEU2MU1xRXZfd3YzSFFrRUtia0U1S0o0ckZvZFliMmlmMTV2QWp2UFROb0ZNZENzcVhIbzd4ZmNLYw?oc=5",
-        "pub": "2026-11-13T08:50:00+00:00",
+        "title": "The estate planning step many families overlook – and why it matters",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaXhRemw2RV9xZHljcmRqNGVia25kZHdRdTYyZlgtb3VsRHJCZTVNM1A2U1BvR2ZIb0g4a2FObHlfZURNVTNzQUdiOWI3bDBjS0VBVzJIVG5seGlvTHlPYjVMN0dVLWlDT0JFSEdGRzRjYmZ5Y0s3Vl81ekRHZF84LXowV0pxSDB3bkFmM083Y2NOckhPNVHSAZsBQVVfeXFMTnpaNVRMVk9TeHpmU0ZLVHRVdmxXXy0wLUVMeFZ6UktMZUc0a1JTY2g2LVZIVjZKQXZaOFBiWTI0RWFFNGN6UzVQUjNXeHhnMnVpZXE2M2xOQ0xFNjlpT2ZQdklLSU9ZN1ZDRHNxLU9tV3k3MjBwN3ZhUUg1bEJ1LVJlazRVMzNSQUNoMHNKSmtLYjJPRldqbERuQmc?oc=5",
+        "pub": "2026-11-13T12:00:00+00:00",
         "outlet": "Fox News"
        }
       ],
