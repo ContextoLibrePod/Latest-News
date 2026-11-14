@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T08:25:36.445771+00:00",
+ "updated": "2026-11-14T09:16:08.074716+00:00",
  "categories": [
   {
    "id": "top",
@@ -69,6 +69,12 @@
       "name": "Univision",
       "items": [
        {
+        "title": "Un buque cisterna choca contra un crucero fluvial con 129 personas a bordo en Nueva Orleans",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzUxZzB5cWNFN1dVZ1YtTkJQeEtGcm9aWmtVRW0zdTI0d042YUxiT1gyVEpCVUpGZ2VUd0ZORFNsUnRYUVpHc19ncUtDMnl4bGRabHhGcEN3Y3FEMzRXZXZqTjhKMGlVQ1RqTllDRGdPa3hCVnItMWxyYlhiblNQVGdudE1fWS1KVTdPRUlLVF9JN2oydF9ad0hjb28tNFEyd2Z3YU5Rb0tOaDJsZldWMEFkOGV6WjFqNXMyNEd5MzA?oc=5",
+        "pub": "2026-11-13T20:37:20+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Suspensión de vuelos en EEUU: ¿Cuánto podría tardar la reanudación de los despegues?",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa3JoSW9rT09TRkozb3NyMlhrbkFyaWJJbzFBYnV6ZGNqYUJlb3FORG5qZWY2Y0J4cmRLQ1RuR1ROckRyLXM2a0NWTmIwUWs1WmVTbGRtTnFqSUY3Q2loWnpfcmNFcjdDUjJpQno4T2g0MWJnWnAtSlJFZnBLQ3hxeWFJMEhrUFhlM0JxTF9jREN2TXRYN3ZBWXVLS3hlNWJlYko4Z0FkV3l5WmpwZDRzQllUNE1fbHVGWHNEQTQ4Yw?oc=5",
         "pub": "2026-11-13T21:57:40+00:00",
@@ -91,12 +97,6 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN2l5ZmY0YkxQWFVEN1JnSV9Dek1JQVNpb0RRQURrWGNLT1VxcVVJRlNxS0R2azBsUlVMTndJUWs4SzBUd0d3WDJfaXY2VlFfRVRVbkhfUGk0UHhxeUFoQnhwSlJMeWFDMTV1TVBnTGJYakI3elQ4eVBHeGc0TmZHSkpiV3AtUjhwN2duTHVERFZjQVJJYVZtZG5SNEQweWVneThGVHkwbExqWFZvWjMxelJxMkhCSnFwRjJMeFhFN3FsN1JSNnpYVHZfM1I?oc=5",
         "pub": "2026-11-13T21:57:00+00:00",
         "outlet": "Univision"
-       },
-       {
-        "title": "La FAA paraliza los vuelos de salida a nivel nacional debido a \"circunstancias extraordinarias y por motivos de seguridad\"",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0pURFhiQmVXdWlseHZSOXdBWWkyZjB1blN3UUZTYmN4QlVqaTV0SDdra1VDMG5CMmducXJMSUYtN21ycmhxem1MNGdTYUVRRWVyZEhEbWI4S2J3TC1zMER3eFROcHE1YnAzc19xZkpTbFVIT0NEbjJOU2IxZFFoR3hqbXJ0N1dnQ2c2NkcxWEJvM01IRGNmWnR4bXNXYkNXTWxaaWExb3UwVGtMbTRjOWZrQUNObG1LWGIydnNKbzJBdERKUjBZNVc4YUU?oc=5",
-        "pub": "2026-11-13T21:18:23+00:00",
-        "outlet": "Univision"
        }
       ],
       "error": null
@@ -117,15 +117,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Noticias Telemundo en la Noche 11/13",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaFBYTlU0bk1FOTllbU40MUlDa1Y3UnVORnBHVzRUSlRCb1FzT1hpcFBPNlZ3RzU0WDJ0dnVTb2RkR0lpZlFHWlduYmw5RHhzUVllTklwUzViSkRWTGhQekVSVEl6N3RPeVIyV3d5dTgzb1hUcGtRRjFZQzBRUXlnVzdfMFk4NTNkQWN2dHBURVJCT043U2tCYlZ1QzZQaVNzRmgyNTVxRm1fWDFBa2pxRDlMYjlncDlQWUg3SUN1eFpjT3VkUWtGbkdTajUtT3YzUE00NTRSVWJOS2ZwSDdxUA?oc=5",
-        "pub": "2026-11-13T23:32:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Cámara capta desde adentro el colapso de edificio en Brooklyn",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0lSNUdSWEVwbVQxXzRiQ1MzUkxtNC02aVdPZnFEcUx3OE56WlhNZ3gzLWdlampiUXVyVzQxU2k5ejZFdERrckhQaUgzZE9ya0FQaXFtcmRYMkd4NHhRLS1RMHExNVBmYThuTk8wYlBFRUNnbFQ3cjdXeUdHaGpUZHBMeERkNjNOYURVSHNNQkU4MkNrdE94d3RYdldQdmNubjFZalp3dnhvTG0zVHVMVlcybnJVRDh3eDVsWGh1QkROZkJxMkZveTlWc3YtYkMy?oc=5",
         "pub": "2026-11-13T22:20:13+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Noticias Telemundo en la Noche 11/13",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaFBYTlU0bk1FOTllbU40MUlDa1Y3UnVORnBHVzRUSlRCb1FzT1hpcFBPNlZ3RzU0WDJ0dnVTb2RkR0lpZlFHWlduYmw5RHhzUVllTklwUzViSkRWTGhQekVSVEl6N3RPeVIyV3d5dTgzb1hUcGtRRjFZQzBRUXlnVzdfMFk4NTNkQWN2dHBURVJCT043U2tCYlZ1QzZQaVNzRmgyNTVxRm1fWDFBa2pxRDlMYjlncDlQWUg3SUN1eFpjT3VkUWtGbkdTajUtT3YzUE00NTRSVWJOS2ZwSDdxUA?oc=5",
+        "pub": "2026-11-13T23:32:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -179,15 +179,21 @@
       "name": "Univision",
       "items": [
        {
+        "title": "Hijos de famosos - Página 210",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BOVRoM28wV3hCenV5a3o5U3FQVUtBQUpCbC1yUF9FOVBjWFB4eHZMMTcyNy1CQmE3VnI0MGNXbTNFR2NvalY1bnJjY184TzEzUUYtN2VwRGFPdWlfUmR6TndaWWt5bjFa?oc=5",
+        "pub": "2026-11-14T06:48:42+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "¿Dónde y a qué hora ver en vivo Jamaica vs. México este sábado 14 de noviembre?",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnVpY2NsaUpocjdpeHZsT21KM0pPeUtnVVgycEdVdkZ4QzhmMk9QaGVFbDVyRFA2ZTFxdkNBdjh2WWdHOTY3ZEFWY0E0QUtpcERBRzRoRU5qTmFNQjRHRmJCR2NmSXA4bWpXTnp2cnBVNm5JMG1FUEpwczB4aHZPTU1qaW81bWxIMkNlZkRlR1h5LXRyalJLME1XMkVMMld3Qi1VQV80c0VfZXktdXQ5NzB6TTRqX0xa?oc=5",
         "pub": "2026-11-13T19:56:00+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Vivienne, hija menor de Brad Pitt y Angelina Jolie, hospitalizada por un trastorno alimenticio",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzlCOHMzczZfS3c4TjZINTRVOTY1UEZNQnA3QUZhS293QW9VUGZ3YTBudlVaQ1JDVERnZ2p1N0lhNzNrd2loOEFQNDhrSnZFV3lQX1pyRmFJbXJKWHoyb1QyWlR0a2JxRjZMZFVhc0thUTFSWG05elY5QnVoSS1WYzUxRmtCenI0b3ZkMDhlalZvbjlVeE0wTktMSjF4TXRublJBemVpMEtWVnly?oc=5",
-        "pub": "2026-11-13T21:02:34+00:00",
+        "title": "¿Captan a ex de José Eduardo Derbez en pleno beso con futbolista?: circula video tras su ruptura con el actor",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1RlT1BkUG16NWMtUlZPSjRYeGc4eGkwVlVVNGZPNWN4QVVFSGtEZDV4bk9IZWR4a0pvN2lMZkpEbzhBWDN3OVFvUlN5aURuOGM4WW92b1BmY0VZUlJ5MHFwZ0hRUHFwQnMycm1Wc2tHdkxVN3pOd2xZcmVPZmpwdWNZdzNNdTFYc0cwNzgyVXp3RkNwQnVYTUpYNnJoUQ?oc=5",
+        "pub": "2026-11-13T22:13:32+00:00",
         "outlet": "Univision"
        },
        {
@@ -197,15 +203,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Federica y su novia revelan cómo se conocieron: la doctora estaba enamorada de ella desde la adolescencia",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNVAyaWl0UWJjeEUwajE3aTRkdDFyVkdlUGNLbE1EWS1HaHJ1b19aUG0tY285YnV5VUlsYWlYLVBsM0swdlM2eG1JTElMbzFwdFZWWjBPLXdiVnl0VVBxQmJJMkNnNE5aU3FMcUt6UG9TX1lmbjU4SExhUDlFY2dsYUVXTmZvQlNmbDRvc1hhWC04TlJrNWJ2LXd3ekttZzJZZ3JRbzktY3Z1Uk02TGlFV0F0Yk5zRmdISjVqOGp4TXc5WWNDSEJxQ1c0MXZyN1BnTVJoRUgxNm9LVGlR?oc=5",
-        "pub": "2026-11-14T01:35:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "El ‘reclamo’ de Fernanda Castillo a Angelique Boyer por el look de su personaje en ‘Teresa’",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOU9ldFZ1aVp6WjhtTGlCSEFJMVdGUTc2ZGZXdmhwUGtkUnUzSVFCX1FXWkhlc3pDZ3g5RXNycEhvVHptdXpkRDdfZjhEZmp0V2NyckNqZURYRkZMZmREVURWZnVHSE9DcllqMDBSR1VWTEVmdUxzamt5aUJxRElhTFpzMS16b1l3QUVLcVZ4QVM3YmduRjh1MmpUUkJzMmVuUnRsSkhYN2xFSFNTWFdFaXdDdzZXSHZDQVQ3NU5acnNBMm9KMHc?oc=5",
-        "pub": "2026-11-13T20:13:00+00:00",
+        "title": "Vivienne, hija menor de Brad Pitt y Angelina Jolie, hospitalizada por un trastorno alimenticio",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzlCOHMzczZfS3c4TjZINTRVOTY1UEZNQnA3QUZhS293QW9VUGZ3YTBudlVaQ1JDVERnZ2p1N0lhNzNrd2loOEFQNDhrSnZFV3lQX1pyRmFJbXJKWHoyb1QyWlR0a2JxRjZMZFVhc0thUTFSWG05elY5QnVoSS1WYzUxRmtCenI0b3ZkMDhlalZvbjlVeE0wTktMSjF4TXRublJBemVpMEtWVnly?oc=5",
+        "pub": "2026-11-13T21:02:34+00:00",
         "outlet": "Univision"
        }
       ],
@@ -349,9 +349,9 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Las noticias de la mañana, jueves 12 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQejB0YzJ2dXMtVno1eWpZRFVfSXY2QnRTeVUzZDBzR0t1akpRWFQ0TFRCU3pxSTVqNldiYldmc0g3YVZGTFFQTi1PMk56SDFPU21GVUFuMEx0alhFbWJRZy1ESWlYZFd0RHRIa09YRGNaYUZSTm9OT0NsLVJ6RUNvRFVlN3otME02UVk4MENpNUxKYmZCaG1GSWlnWmJlUndwUXJob25EUXRBc1I3SGRfQTF4X2syZU1xRk45QUtUcE9iZ0NFb29vZA?oc=5",
-        "pub": "2026-11-12T23:49:00+00:00",
+        "title": "Pablo Montero y Natalia Alcocer gritan su amor a los cuatro vientos",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdVRrLWk1cFFZcGlZbTBTZmk5UTBvRmhUSDRlWElSQmJZQUs1WWcwNHg0bzZNUnY3elZmTzJxcEtFRVppNXlrQV9CQ0l5RHFnTHBxUlh3aUdITGRhY1B3RHBKMzdtVUtfWFBQTTRueGt2TTh4aVVnalR2Z19SVEszZXlNWmQtR0k2OWZnV0hOczA3QnJWOEZXZTFzQnNiM1JKV2xpZU8tTDNtOXRCakd2TTdhOHRvVU1QTnI0d3lfZVBKN3c5WkJfWjVseUZQTVVaWWl0anFsdG00S21zVjV1MHpn?oc=5",
+        "pub": "2026-11-13T06:06:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -375,12 +375,6 @@
         "outlet": "El País"
        },
        {
-        "title": "Quién es Colette Kress, la “arquitecta clave del crecimiento” de Nvidia que sucederá temporalmente a Huang como su CEO",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ2JpNWh4cERMOVRTMU9oUFdWM0JGbXVBbEgwZU1MTmw3Yk9FVjFoV2VtYnBZTFZadEhfdDJJQ0tFRUNWbHBJZ1dpNlRYQ0tuLWxRaVg5LWJWX3VqZkdtcHRkcmxPdUJxTDlFYXJ1WU5ZUzFwbDQ2WkY3bnQwRGNMYXhWMFRmczFOX29yYXZUVmNNMEVVWW1UOHRVZjVtd2tZMTBXMG9zVUVycmNSckF3TC1sT2ExTlg4NHo2SDFPWTQwUDB3QU5NWTQ3STVHSXFrNGVtdm5RdDM5VVdQWjlxWTFZdWJ5Rmxf0gH8AUFVX3lxTE1YV0hNVXIxbGNJbTVTaGlUSUdCNFdqMThVeGpPdHV3T1NpYmx2eDN1bUFybFR1cUtNb1g0aU0zRlNXcUd1TWxrOVlnY3M0UVlVWVdZanhGcm1lNmhjdDZCWGRtc1VYdXhmdms0dVB4MlhsZ2lEMk5QV0N3UC05amdBWl92clBWaEFkZXU1QkdEcnVnempWelNmVWlWdktlemNGT2o3OGhHY3JWb0FUY09vOWxNYkN0TkhVaTByQ0QtNHpfMzVveXE2U1VGN3ByVlFUN0tmSFV1OGpOcnQtbWpQZDBWLWd0clh1Q0VUNkJlMU5kR1VGSjNNdkZ5dw?oc=5",
-        "pub": "2026-11-12T17:34:32+00:00",
-        "outlet": "El País"
-       },
-       {
         "title": "PSOE y Frente Amplio cierran filas en el primer debate a cuatro ante la crítica del PP a la gestión del Gobierno y un Vox centrado en la inmigración",
         "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOR0JKaEt1TjY5UTFxR0Y3eGZ3VU5PYVhoUEM5UHY2ODltSXZkZkM1NmlTOE9BbkV0N1pzLVEyR2RPdVY5YU8xQUVJM2VvNUw5NUlVREdaUldMSDliZURNUVVLNnBuMXhxUXhST24tQlY0RmxnZl9fQ2t4S0ZPeVBISE44LWoyd29BenV5amFoQ1VFbURjb01RTHEtZDVNTU9CT2ctOUtiZjFEa1BGeWh2V19kckRYWUtvVkxtNHRNcmJuU1l5Z25Jd0xWbFM2cFJfb09ab3ZVamR5alE2S2ZsZG5JZWFKUW52ZnFCTFE5MWVBaTYwSkl0YkRBUnNOaEwybzhrY21TTU85RFlDd2N5ZEwzVVk2dFg1V2fSAa4CQVVfeXFMTmdIcEFoT1hneVVpV29LZXZFenNXczBaUEJtM0JSSmU0QmZqS2lRd3RhdVQwNzZucmlBSmh2VWNBRWM3VkJhZ1dPbGg0OHlOdVJHZE1pN1F1bzM0Y2pKY0c4WV9wd1NFWXp4Y2VGMVQxV2F6WWpWbk1kaFBRYWIxVFdMTF9KR0plbTVGQWp3OTlxZUdIbm5LNlJ4TEhwTDduajBTMWFnSDVBaU00QlZkcFJDcjFjcXNMYjNXNWtlV3pndno1Z0hNeVQ0QW1GN0xHZlAwMGtoWHcyTGw2WVpxVG1GemQtMkFwLVJ4b19DM2RQN09fZnNEMmFZUEJUS1hXdldsbWNkVG14aE02ckxIbWpOemhZamxPVzBzNW90ZF9MU1hYUXJIZnI2MmJsSnc?oc=5",
         "pub": "2026-11-13T23:19:02+00:00",
@@ -390,6 +384,12 @@
         "title": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbU1FUTU2OFgtQTVmbWJIeTZ0Qmp4eGx2S2pCMlY2aThnRlRvQWQ0Z2lMZERXajJQM3dDelZyWEh4cExxQzluVnpySmtidzEwNXV6ZGZGTkwySEZGTnItM2FpdmlPQzRfVERzUUUxRi0wWkVVQ0xLVTJlQnBvdEk1YXBlckFuZ0ZPTmpGb3ltT3NVOHhKUUcwMTFBZ2ZnVGtoVjZNWG5lNHR2YUNlczE4Yk9SX1RmZXNpU29vM3JyMTdrOVFh0gHYAUFVX3lxTE9rWjB4UmstZHF1TlVfY2k4TDlQa3B2U2UyNEJzZDVOODRLQkpjeXZ0MHlJUnRjU1RwV0F1bDA3YVl2cEhGZkROTUVGelgwU1owMmNjTnNwTDBYZTJ1c2RrOE8tdWctSW4tRjRvdEM3eGYyOWtSVHFnZ2ZrbnA5SFI4QnB5Wjl5Ty1ScjBSVFAzVnhoSTRzdEFhbURMLUNDTkZyd3Z2eGNLNDRIUzRiOXFVb0RxREpnZXl6ai1pbFNyZUNhWHZGdElzQXdOOVU0NnI5R0VQbG5Ddw?oc=5",
         "pub": "2026-11-13T12:55:30+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "El Tribunal de Cuentas aprecia indicios de indebido uso de fondos en la compra del ático de la Comunidad de Madrid",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPd0VfSzlSSUhKQTFERVZ4X2k1NDFtaWRrZUVQSkE2eDFPWnpGN0xBOWNrMnFVRDFoR05jc0dIZU1MVEZoV05zcFNnYTRjci1Zbnhkc3M4TFhYaGR1d042ZVVhX2E1M1ZSNDJtaEZPVDlyM3J0YmVsSHpwM3NrRXpDdHlqZjNtcHFJdFdXT29HXzd3aFkzMGFfRVJkY0hlb19LUHdsR3JoRmFzMzA5cUxvVFlBOHJaZVNoSFZhbDg1cmE3X0FXQ3FSV0Q3cFRraHdVMzg2WWZwcVBEa21YR1RVSU9SR2pUd2UwMUhGc2Nzd3IzM3k2NElxa1VkaThFU2kwcEhWQ3g5NjlKaTROR2lGa1dnZDbSAagCQVVfeXFMTTZtMkdKTzRGRTlqeE1vdWhLYTVMYzBtSExEVktnQlFPNWhZQ2MtSGdNVkZubTd3VDN4YjFVSG5pVW9XeldMUW0yYzZuclpWWDhLdXliQ0xhQTI1S2JJa3lwcjMtaEVvTWFSUmw2d0o3ZDZmWXlUTU9heWRfN0lDc1hGNTNGTGVmdl9WekdnU3Z5MmJDS0ZqSTctUGp0OHNQU21rSEU5cHQxeWo0ZkN6UnJ5OUt5T1ltX2hoc2NoVGltS3F5R0dsM1FmZlhlM2NoTE5Db0sybGF5WnlzMWxZMjE1WVBudUlUbDJET19LNUUxTVJxdkVvaFhTaUp5RU55NFFfZk1tVkdKbWhFY3BCS3E2WUFTSEFwR25WcTFkZ2c0bnNYaGFBdXc?oc=5",
+        "pub": "2026-11-13T11:22:44+00:00",
         "outlet": "El País"
        }
       ],
@@ -447,15 +447,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "¿Por qué se cree que el viernes 13 es de mala suerte?",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkJwOGVLeEdhWjh1WGppb3Q1RmNPUDU0VmUwanA4ZWZla2psQzh3VTcyU3N2bGJReFN4Y1hHV3FPM3ZVREp6WEJfT2FLVXU4UGV4NHJRRF9TRkVwaDdJLXBKWnYyQUVsNWVvNkd4blhoN1RkUkFMWVR3R2NUaW9IMmVPRTJNRnRFZk51U1F0NXBzTVIxQVlWTG0zTWlZR3JTVUtFeTFpMmlVZUtKaFZKWHJoWkFqSFNrUG83aFdB?oc=5",
-        "pub": "2026-11-13T10:18:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Cristiano Ronaldo inicia una nueva faceta y debutará como actor y productor",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdmZiOVBwanJSYU9Rb0s4d0haVHhGNHpBVXJyZ3BVZ3h3Z0pOVGswdmdTV3RnWnZFekVqSXV3a2xiVG5fRFNpSGFJM2tfZFFTZFgzbkNQUVdCOXJabVU4T1liZFZSQlZBQ2FHbXRsb0VCeGJyc3FRNVBva182MS02RS1kNGRXSEZUcHlYV0RnYUFJdFFtSUJTcnhxS3hac2kyNm4tNlZFNENnbk9jdXRMVW8tall2d1pZZTlTb2cyTUpndVAwNkRpX3ZlZmVIQWM?oc=5",
         "pub": "2026-11-13T07:19:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "¿Por qué se cree que el viernes 13 es de mala suerte?",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkJwOGVLeEdhWjh1WGppb3Q1RmNPUDU0VmUwanA4ZWZla2psQzh3VTcyU3N2bGJReFN4Y1hHV3FPM3ZVREp6WEJfT2FLVXU4UGV4NHJRRF9TRkVwaDdJLXBKWnYyQUVsNWVvNkd4blhoN1RkUkFMWVR3R2NUaW9IMmVPRTJNRnRFZk51U1F0NXBzTVIxQVlWTG0zTWlZR3JTVUtFeTFpMmlVZUtKaFZKWHJoWkFqSFNrUG83aFdB?oc=5",
+        "pub": "2026-11-13T10:18:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -479,12 +479,6 @@
       "name": "Fox News",
       "items": [
        {
-        "title": "Pence leaves door open to 2028 White House run, issues stark warning to GOP after midterm disaster",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMC1NZHdKVXB2RGJwLVlwelpja2hfdWt0Y1BMbDBGVzV4ZVFVNUhLWDIyODlKdVRCdlN6N25NN3owakxlTllXd0FickYwTkFHN2RYVWNuNzlwc0FjMUIzVmhXb1EtdnlUV3AxMll3T0VPdTJlZnBFdjk5MG5lNHlpWFBaQ2N4dWQ5QThvOXB6X0JQV2RyQUlGSUtoVWkteHZmX0pYcTEzV3g0ZjhPb2ZIdWtNLW9kNjZHbEVWZGZaVHVSd9IBxwFBVV95cUxNQ1g0cW1GZm1BMTVJYVgyQVd2SVFvd3ZTVmlGa2VxU3QzR0pmNFRydmtERmQySlM1MnFXS055NlNwMUpyU1A3TFRDSmhTcTlSVjNad252RWlrb0k1TGZpSG9EQm03ZzRFTE9Hd2ZCeXRHSzdqWGtIQ3J0UUxhZTZwcXduTWg5ek9mTklQcTBrdkJzWWU3QmRMcTY4TGRvcndoMGpIckZNNDVLREtSWFNUSkd3c0hsZEpsVWRuTkpLV05nS0JnV2pZ?oc=5",
-        "pub": "2026-11-13T09:00:24+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Mysterious space object accelerates toward Earth as scientists debate",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zSVpPeXFUeTlXSDFXMEVJYU9tZ2VTU0M0QlNTdEZIT0Vhc1JhLWY3TEdmcGhlQzJmNElHNHktVVc5akt3R3Fma21fQWEwM3dxb09CeEh3?oc=5",
         "pub": "2026-11-13T16:12:22+00:00",
@@ -506,6 +500,12 @@
         "title": "The mistake newly-elected Dems admit they can't afford to make with Trump after sweeping 2026 wins",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONjBSNXpYbnJQd1lvSjRDaUdmVEtnMENsd1dQU3pGOVZGOWJ4QzRobjZKVFhqN1BJQVl3cllrV2ZzUnp6ZkpxWHBQLTZ3NFlrZzAtM1h6cU15Sko2bUpnX25xRUVhSXlCY0Rma21DRTk4U3Zjb2IwT3dHUkVXZHJIRVJmNm4weE1CSlZXekNBajdvWEhldlJDQ1lNX0FhMnh3SU5INVZLcWhtUmNsMVZiSHRoUdIBuAFBVV95cUxPZkpfc1MzU01UeldJQTQ2MVRnbDBWaHFlN2s2dml4MUFBREU5RzNLek10aE1seFJVM1JzM2hOcVVEUmxIVk1RNW1GT0dyX0tpSjVseEd4RHVEaVhZR3hBRVVCYW1NU01NUmNncExSLVhGaTNkWHYwYkxUMG9malNRaWRYaDFRVWxCSmZDOWphSXVOWE5ocDRmdnNLNHZad0lDVy1zT1RKUXU3TFAwYjR6UzFaUmdPVHZs?oc=5",
         "pub": "2026-11-13T15:29:50+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "FAA ground stop lifted on Friday night, but some college football teams still scrambling to travel",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX20yY2FhQmtOUUJjM0d2QzZmeGxDaHZsWFQzZ2V6aEJQNFEzbm5BOGJCWmJzakJVeW5fUmlObVRlTkFzQWdjaGRiY0N6Z01qVnUwQkJGUlhLU2NxSnREX3FHeVowcFJQUk9WNEpFdnRoX0FsNlBiMUdEY1owT0Z0aFBfSGQxc19RMUpZZ1pNOERzOC0wWXY4TnNzVGFBR2lCYVF0Zk9POXRFSEtQSlNldVF2c21QQzM4aWg2MDBxWFhidw?oc=5",
+        "pub": "2026-11-13T22:51:29+00:00",
         "outlet": "Fox News"
        }
       ],
