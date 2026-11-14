@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T15:56:25.549791+00:00",
+ "updated": "2026-11-14T16:31:36.701042+00:00",
  "categories": [
   {
    "id": "top",
@@ -51,7 +51,7 @@
        {
         "title": "Colau contrapone su propuesta para ampliar la cobertura de la sanidad pública con el modelo “debilitado” del PP en Andalucía",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/colau-contrapone-su-propuesta-para-ampliar-la-cobertura-de-la-sanidad-publica-con-el-modelo-debilitado-del-pp-en-andalucia.html",
-        "pub": "2026-11-14T13:47:10+00:00",
+        "pub": "2026-11-14T16:24:51+00:00",
         "desc": "Frente Amplio se desmarca de Adelante y llama al voto con una reivindicación de su papel en el Gobierno",
         "outlet": "El País"
        },
@@ -68,6 +68,12 @@
      {
       "name": "Univision",
       "items": [
+       {
+        "title": "Más de 9,000 vuelos cancelados y caos en las salas de espera: la tarde en que los aviones se quedaron en tierra",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc2djOEhwd2ZkbldSU0dRQ2hEQUY2MlkxNGNhQVQyTmUxRlVBbXY5TG01UjN1VGEzTlhzM1hTVHYwMDltWlRTYUdhNHBvWkxReFVHQi1zMXpMMVpXelhoc05wRUpraDJfX09vTWxvanp2V1dVaDExTFo5UUdnUGFYWU1Sc2dmMm5yRGVlN0MyTFYxR1FaR2lmUVBFNDRLdjlvU2xmeEEyRlJ2T3BnRER4czI2QTRrdklCblBlLTRRMTRLTWhTTFdYXzVJNkNFRUtvR3lyeEo3UU1rbGd1UEtYSzJhT1oyejBJcU8tMUlWd0FhUQ?oc=5",
+        "pub": "2026-11-14T04:57:39+00:00",
+        "outlet": "Univision"
+       },
        {
         "title": "La madre de Kansas que causó un accidente en un campo de futbol que mató a dos personas no será procesada",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObEZYbHVyNW1EWU1qRWpvcDRJVkVGQVpja1VKejFwTDZaaDRHcHp5REI3NUhVQmF6eHJNdmRncTVOWEo1NVBQd0FEMTQ5aGRSUk9DcWhjMENMVFlPZnRYRW5uam94bk84cGJkb2tzYU1wNVBXUzZtaXMzWnAzWEVKUjJTOS1PQTBfZl94VmxrQlRqYU9xd2NhcTd0UGR5QTdkSFR4Sk9wUGNoenhoNEpFdDJTRkQ5QUNIUzFuNnVoNmR1SjhpNFNPb3lqVFVuNlRvdDhOMHJNVGU3ZEt4?oc=5",
@@ -90,12 +96,6 @@
         "title": "La FAA ordena la paralización de despegues en aeropuertos de EEUU; esto se sabe",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdm1KVlBwY2hyaU9rbzI1QjI0UTMwWGQtOGxCdFBlR1lNZGt0LU42cmZCWXFPS2JKa2tmbmFlX29HaVVWMmFHUjcwOTNGcFRuempPSXF2VlVQZzQ0MHp0c2xZWXg5amJWZkREWmJTSTFsRW81MWRSb0pxWE5oVHN3VGZrTF9LTHMyaEpJWndmZjJKRUZfV3hMbmU3bXAzU0dOOFB3MmV1Z1BJLTFkeEctY2dvSzdvOW5XSS04?oc=5",
         "pub": "2026-11-13T21:19:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "12 hospitalizados tras choque de buque cisterna contra un crucero fluvial en Nueva Orleans",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN2l5ZmY0YkxQWFVEN1JnSV9Dek1JQVNpb0RRQURrWGNLT1VxcVVJRlNxS0R2azBsUlVMTndJUWs4SzBUd0d3WDJfaXY2VlFfRVRVbkhfUGk0UHhxeUFoQnhwSlJMeWFDMTV1TVBnTGJYakI3elQ4eVBHeGc0TmZHSkpiV3AtUjhwN2duTHVERFZjQVJJYVZtZG5SNEQweWVneThGVHkwbExqWFZvWjMxelJxMkhCSnFwRjJMeFhFN3FsN1JSNnpYVHZfM1I?oc=5",
-        "pub": "2026-11-13T21:57:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -191,21 +191,21 @@
         "outlet": "Univision"
        },
        {
-        "title": "Vivienne, hija menor de Brad Pitt y Angelina Jolie, hospitalizada por un trastorno alimenticio",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzlCOHMzczZfS3c4TjZINTRVOTY1UEZNQnA3QUZhS293QW9VUGZ3YTBudlVaQ1JDVERnZ2p1N0lhNzNrd2loOEFQNDhrSnZFV3lQX1pyRmFJbXJKWHoyb1QyWlR0a2JxRjZMZFVhc0thUTFSWG05elY5QnVoSS1WYzUxRmtCenI0b3ZkMDhlalZvbjlVeE0wTktMSjF4TXRublJBemVpMEtWVnly?oc=5",
-        "pub": "2026-11-13T21:02:34+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Federica y su novia revelan cómo se conocieron: la doctora estaba enamorada de ella desde la adolescencia",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNVAyaWl0UWJjeEUwajE3aTRkdDFyVkdlUGNLbE1EWS1HaHJ1b19aUG0tY285YnV5VUlsYWlYLVBsM0swdlM2eG1JTElMbzFwdFZWWjBPLXdiVnl0VVBxQmJJMkNnNE5aU3FMcUt6UG9TX1lmbjU4SExhUDlFY2dsYUVXTmZvQlNmbDRvc1hhWC04TlJrNWJ2LXd3ekttZzJZZ3JRbzktY3Z1Uk02TGlFV0F0Yk5zRmdISjVqOGp4TXc5WWNDSEJxQ1c0MXZyN1BnTVJoRUgxNm9LVGlR?oc=5",
         "pub": "2026-11-14T01:35:00+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Virgo, horóscopo del sábado 14 de noviembre de 2026: vulnerabilidad revela tu verdadera fuerza",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGVEbVlHSWJiZ25zX2I3ajFEWndOM0JlTDB1OVgxaTM0WFhYZ2RzcmYyT2Vuc3UxYW00N0dFSmFZMk9sNHh6MGN2Rm53Rk9ULThCVkZ6RG1Uak1uUmplM3l1aEtseEVIcUJZRFZyeVc2OHpsVTVKUUtGeU16UUUycU5lOWlUbVY0VUlSR3NvTWM?oc=5",
-        "pub": "2026-11-14T04:13:05+00:00",
+        "title": "Aries, horóscopo del sábado 14 de noviembre de 2026: escucha tu hogar, abraza la calma",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGtnTUViSVhqNHJnQ09tNG5GdmdvTVFZQXBDcnM0ZWxxZzRlZEJDdG5Ba3o5MnFyNkdIMHJyWVloXzI4U0U5RzV0OG9VSGVpeUc2dThNZFVnVmpFTmJIRUsxUWNXY1dNYmxXZjZfUjU1eTRrdGdkUXJveUNMeFlTZXh2UVlHOXExa0VTY1hDdkI?oc=5",
+        "pub": "2026-11-14T04:13:04+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Piscis, horóscopo del sábado 14 de noviembre de 2026: construye amor con paciencia diaria",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa25PRUpiQm5PR1A4T2dUNzRJWEhhSmVuZVBfUzB4QUVxcnFwcjRreEFQcDFWekt6aEExb1pEUWpPTFBDQzEwaDdsdzlZU3hRN2R0cVphZmhUd0t2Y1laYXc1SUVfLUlhYnBVUHF0SkoyRXVMdlc2SnhpckE5b2FlOFpRVHpJRDAzTGpSSHFRNV9lUQ?oc=5",
+        "pub": "2026-11-14T04:13:07+00:00",
         "outlet": "Univision"
        }
       ],
@@ -253,15 +253,15 @@
       "name": "El País",
       "items": [
        {
-        "title": "Rosalía, reina de los Latin Grammy: gana el premio a disco del año por ‘Lux’ y a canción del año por ‘La Perla’",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONzJzd2FHc195dnNjaFZJYmlMWmg3UFFSd2VlM1Vndzc0RDY2U1o2UVZOSlE5Y1V5a2RlOGVWM1hQUjdBU0lyZDhqWlhnaGEyU3F3Y2VCaG0wMlVLMVZ1cDdSOUZnUnBrN3k5d2JqVzRZaFVoRmtyTk0wcnhWTmxOTndtUTNwaEtqYWlKM0xITTc4RFVxbzloNV9CeTVWRWNfNjZqb0R6Uk5NdS1tNFZybElPVnBXclpaS3AwNTdvNVRmaGdUZmdzRGtUT2xXX2gydFl5MW9EWGNOS3p4RjV5T2cwaWF4LWl0WTN3RjFsWDPSAYQCQVVfeXFMUG1rY2N1UVI4aXdEV01aMDYxMkUyWFlKYnN4cm81Mzk2akp0Q0lzWGM5Q09aVjJfcEpOUjBuNDVtdVVxVWlMdUxVeVRsUU5STHNrN3lZMXU3bE12d2ZxRXJTNDIzcm9tc1IxWnIwU1h1RUppWGhoYlY2eENSRnB5em1HdU5PZXNDWVZ6ZEY0SS0teV9zR0hMSTBRNXBYbTk2ZXNaQ1hyTnpOSUNJX0cteFlTXzRPeUpqMTJUMzZBcWtTSTVMdzEzOFo2aHMxMFhmWDhGd3p5Wmx1d1dLTnYwOTZHdG9qcEd3LTIzLXRsNF9YU0dRZVlZS1VrS05BV2ktMUNqV0c?oc=5",
-        "pub": "2026-11-13T05:06:34+00:00",
-        "outlet": "El País"
-       },
-       {
         "title": "‘Los culpables’ lleva al cine ‘el caso de la Guardería ABC’ de Diego Enrique Osorno con Gael García Bernal",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdE5FWlRSMDFmRzRWUjhWSnlxSVJuX05GOXFFcnBMSElKMGNJUnhSZ0d5OFozZUw4V0ZaXzJkTTB3MW9ZajRCVHZVc1hlcUwtQVROOE1haVlMZmk5QzVvZVVmazZMaWtmNXpNRERfZDcxdzRjbGVCTU1kMGNBSGpReS1kMFM1VWNicWV3Vnk2T0xlRGI0VVlsZmxrdHh3NkszUm1YZFN2UWFRc3FjVFdLbkpkdWJNVmEtRmM1YTVHb3lrbUludFZyRVozV2s4ZFBmc2hibGRBVThUOVBw0gHwAUFVX3lxTE9JSU5rNzlqbm5mSjA3a04xMmw1dTBBdjVQYXh0YVNMSDZBZ2wwN2NrVF9TTGZRRlpUbkl3dnRxQ1dzeU9tQXdjZ1hRQm1vTHpwclRLT21TempYa0pET3g0Rm1qWlZrTzFLYlExanlWSHhfb0lrR1BuWGNxcElncmdYU2pyZ3hWbEpRU1h5UTdjdGVNbDRMTERadDc5TFAwYmZaemVJZ3BWaVdoTVN5a2RQbEYxQnc0Y1Q3RGx0b21EckxWQVpRLWgzSVFkZVVyaW9HR3FMLWx3VnhZaDhfVHg2R1ZGVmhCWDF2NUtzek8zRw?oc=5",
         "pub": "2026-11-14T09:30:00+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "Rosalía, reina de los Latin Grammy: gana el premio a disco del año por ‘Lux’ y a canción del año por ‘La Perla’",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONzJzd2FHc195dnNjaFZJYmlMWmg3UFFSd2VlM1Vndzc0RDY2U1o2UVZOSlE5Y1V5a2RlOGVWM1hQUjdBU0lyZDhqWlhnaGEyU3F3Y2VCaG0wMlVLMVZ1cDdSOUZnUnBrN3k5d2JqVzRZaFVoRmtyTk0wcnhWTmxOTndtUTNwaEtqYWlKM0xITTc4RFVxbzloNV9CeTVWRWNfNjZqb0R6Uk5NdS1tNFZybElPVnBXclpaS3AwNTdvNVRmaGdUZmdzRGtUT2xXX2gydFl5MW9EWGNOS3p4RjV5T2cwaWF4LWl0WTN3RjFsWDPSAYQCQVVfeXFMUG1rY2N1UVI4aXdEV01aMDYxMkUyWFlKYnN4cm81Mzk2akp0Q0lzWGM5Q09aVjJfcEpOUjBuNDVtdVVxVWlMdUxVeVRsUU5STHNrN3lZMXU3bE12d2ZxRXJTNDIzcm9tc1IxWnIwU1h1RUppWGhoYlY2eENSRnB5em1HdU5PZXNDWVZ6ZEY0SS0teV9zR0hMSTBRNXBYbTk2ZXNaQ1hyTnpOSUNJX0cteFlTXzRPeUpqMTJUMzZBcWtTSTVMdzEzOFo2aHMxMFhmWDhGd3p5Wmx1d1dLTnYwOTZHdG9qcEd3LTIzLXRsNF9YU0dRZVlZS1VrS05BV2ktMUNqV0c?oc=5",
+        "pub": "2026-11-13T05:06:34+00:00",
         "outlet": "El País"
        },
        {
@@ -289,6 +289,12 @@
       "name": "Univision",
       "items": [
        {
+        "title": "Muere padre del actor Mauricio Islas: lo que se sabe",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFQUdEUmFUMGZvS0JQRzJTeU9aWVdxQVp5MFdMd2RERHhlcG9CeWJDcTZ4LTl4V2VaOF9yNUxnMm9ZSUp6MUZWYTNrUUhHYjUzaE1kanNKRW9mSGQ4NENYU3FJRDREamNuMldFUg?oc=5",
+        "pub": "2026-11-14T16:26:39+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Greeicy, Carín León y más famosos se confiesan en la alfombra de los Latin GRAMMY",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa3k5aW5HTTRKaW9uLXFDR2lEVjF5OWhvMmg4bGpaS1NpdlpkQ19LOXhUeVliMURyZG9GX1V6T3pUY3gxRWZUUGt2c3JPUjNDLThzek15M25vajZaX0JuWDBDc3pCSFdMTDFJVmozdGRZdGFVQWhXbzlIOVhYTm1kR1BObjdVanlLVm5CSVZGYkh1YkNScGh4LXp0R3owbm9TaUVhNDNhbFFzTW11SmZZWE5tVXQxMDY2Vy1sWmhETlQwbzFYQTE4aGVZekxFX1lqTFBBaQ?oc=5",
         "pub": "2026-11-13T22:48:00+00:00",
@@ -310,12 +316,6 @@
         "title": "Federica y su novia revelan cómo se conocieron: la doctora estaba enamorada de ella desde la adolescencia",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNVAyaWl0UWJjeEUwajE3aTRkdDFyVkdlUGNLbE1EWS1HaHJ1b19aUG0tY285YnV5VUlsYWlYLVBsM0swdlM2eG1JTElMbzFwdFZWWjBPLXdiVnl0VVBxQmJJMkNnNE5aU3FMcUt6UG9TX1lmbjU4SExhUDlFY2dsYUVXTmZvQlNmbDRvc1hhWC04TlJrNWJ2LXd3ekttZzJZZ3JRbzktY3Z1Uk02TGlFV0F0Yk5zRmdISjVqOGp4TXc5WWNDSEJxQ1c0MXZyN1BnTVJoRUgxNm9LVGlR?oc=5",
         "pub": "2026-11-14T01:35:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Muertes de famosos - Página 232",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NOXlpYy1IMmlyaGxBU0tCSjhqUEFnNW5lMFIxTUpQYV9tRjlZMXQ0SjZKUk1ONDdPM1Vobkh2cW5reHd6NmliU0Q2V1I3SlVrUEJoaWhJaTM4M2FTT09yYVhXajVEVXNha3Fz?oc=5",
-        "pub": "2026-11-12T21:56:44+00:00",
         "outlet": "Univision"
        }
       ],
@@ -363,6 +363,12 @@
       "name": "El País",
       "items": [
        {
+        "title": "Sexo, espionaje, Poder: ruina",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oRG5hZ3Z1US1IdzZXUWoxMzN4YWhVa05EOTUtV0Jwbnp6dXFpU2NHakU1b2R2WmFiNkRCS1cxTmYyY0xXZDlXT2k3alo3bnVpWWZpNDh6aGMwT0VmdWxDclpoeDZVaWRkQzJtYTdpNjdtSDF1SzQtMXBn0gGOAUFVX3lxTE1CRGk4VU0tdW9zRUJTSGtNYjJoa0lfbjRwV2RlZnpFZnJWczZPeGJET2VSQkdqdl9zWFB5ZXhjMmpDYVR0ZVVTX1pCeVJuNVJBVUhyWXhVZDlKZnNkYUl6S0NRWGk2eUNHR2JxQi1XNFhsVmR0bmwxYUU5MHpWbFdQTTdMN01GaUtETXdKVEE?oc=5",
+        "pub": "2026-11-14T04:45:01+00:00",
+        "outlet": "El País"
+       },
+       {
         "title": "Estados Unidos asegura que ha devuelto a Venezuela más de 12.000 millones de dólares por exportaciones tuteladas",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMzlrVWZ3b0hFTHI0R3hGZDZfN0RqNDhKeTZVbnJRa29BT2pZU0dmNkRhY0pkM0ZybHI5d1NzSjYxYi1ZaWEwZ1piVFZ5c3dnNWdjdlF0dkpKQUN4OWtzbV90UEt1NGkxamtFSEF5YkZuTDNZaF8yd0RNOWRkanBpYWh5bnVMNVJKQmFvNlM1b0N1VjJETU1MdjVQSWpNMXlpQ013WUhXX2dRZU8yT0U1MV9XZWFybUZuOXJmQWI0bUhiM0xia0Vqbmx6eThjTjZzQmpCb3VGNENhZWR6eU50aWVtUdIB9wFBVV95cUxONW5zM0hhRHpvX3BrWHFBSXRqWEMtLW9GOVgyNFpSdm5WclUtQWZHN0hqOVdGZGNaLVlkWHlZdUFfTlZNYlV4ejZTdE5POFVUVWR1VW11bF9INnIzc09rc1I2Z0xuTHR4M3JXX0xidlY2TmlwM0VvOG1JOW1zVzdBUFJCaUw4WThSeXdodHczekQ1WXhyOHQ4VURWbXctd3RxZFVtZGtCWmt6Y0ZoeGJRckNNWEFMTjZRTHduZXpkNjNRVXI2YUFzc2VKRWd0LUpmeGcwa3lHcUdsdkpEUjRXNy1DSDdtYXpXZnUtZE55YlBTQllIdldv?oc=5",
         "pub": "2026-11-13T00:04:21+00:00",
@@ -384,12 +390,6 @@
         "title": "El Tribunal de Cuentas aprecia indicios de indebido uso de fondos en la compra del ático de la Comunidad de Madrid",
         "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPd0VfSzlSSUhKQTFERVZ4X2k1NDFtaWRrZUVQSkE2eDFPWnpGN0xBOWNrMnFVRDFoR05jc0dIZU1MVEZoV05zcFNnYTRjci1Zbnhkc3M4TFhYaGR1d042ZVVhX2E1M1ZSNDJtaEZPVDlyM3J0YmVsSHpwM3NrRXpDdHlqZjNtcHFJdFdXT29HXzd3aFkzMGFfRVJkY0hlb19LUHdsR3JoRmFzMzA5cUxvVFlBOHJaZVNoSFZhbDg1cmE3X0FXQ3FSV0Q3cFRraHdVMzg2WWZwcVBEa21YR1RVSU9SR2pUd2UwMUhGc2Nzd3IzM3k2NElxa1VkaThFU2kwcEhWQ3g5NjlKaTROR2lGa1dnZDbSAagCQVVfeXFMTTZtMkdKTzRGRTlqeE1vdWhLYTVMYzBtSExEVktnQlFPNWhZQ2MtSGdNVkZubTd3VDN4YjFVSG5pVW9XeldMUW0yYzZuclpWWDhLdXliQ0xhQTI1S2JJa3lwcjMtaEVvTWFSUmw2d0o3ZDZmWXlUTU9heWRfN0lDc1hGNTNGTGVmdl9WekdnU3Z5MmJDS0ZqSTctUGp0OHNQU21rSEU5cHQxeWo0ZkN6UnJ5OUt5T1ltX2hoc2NoVGltS3F5R0dsM1FmZlhlM2NoTE5Db0sybGF5WnlzMWxZMjE1WVBudUlUbDJET19LNUUxTVJxdkVvaFhTaUp5RU55NFFfZk1tVkdKbWhFY3BCS3E2WUFTSEFwR25WcTFkZ2c0bnNYaGFBdXc?oc=5",
         "pub": "2026-11-13T11:22:44+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbU1FUTU2OFgtQTVmbWJIeTZ0Qmp4eGx2S2pCMlY2aThnRlRvQWQ0Z2lMZERXajJQM3dDelZyWEh4cExxQzluVnpySmtidzEwNXV6ZGZGTkwySEZGTnItM2FpdmlPQzRfVERzUUUxRi0wWkVVQ0xLVTJlQnBvdEk1YXBlckFuZ0ZPTmpGb3ltT3NVOHhKUUcwMTFBZ2ZnVGtoVjZNWG5lNHR2YUNlczE4Yk9SX1RmZXNpU29vM3JyMTdrOVFh0gHYAUFVX3lxTE9rWjB4UmstZHF1TlVfY2k4TDlQa3B2U2UyNEJzZDVOODRLQkpjeXZ0MHlJUnRjU1RwV0F1bDA3YVl2cEhGZkROTUVGelgwU1owMmNjTnNwTDBYZTJ1c2RrOE8tdWctSW4tRjRvdEM3eGYyOWtSVHFnZ2ZrbnA5SFI4QnB5Wjl5Ty1ScjBSVFAzVnhoSTRzdEFhbURMLUNDTkZyd3Z2eGNLNDRIUzRiOXFVb0RxREpnZXl6ai1pbFNyZUNhWHZGdElzQXdOOVU0NnI5R0VQbG5Ddw?oc=5",
-        "pub": "2026-11-13T12:55:30+00:00",
         "outlet": "El País"
        }
       ],
@@ -479,12 +479,6 @@
       "name": "Fox News",
       "items": [
        {
-        "title": "Mysterious space object accelerates toward Earth as scientists debate",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zSVpPeXFUeTlXSDFXMEVJYU9tZ2VTU0M0QlNTdEZIT0Vhc1JhLWY3TEdmcGhlQzJmNElHNHktVVc5akt3R3Fma21fQWEwM3dxb09CeEh3?oc=5",
-        "pub": "2026-11-13T16:12:22+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Lawmakers from both sides of the aisle give initial reactions to FAA ground stop issuance",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TM2ZuYjNPOUdBN2dTUElFSUgyMFhoNkhBQUNRd3VmQms5TVgteWF2dWNsYTBPTm0tT0g2OHQtUU1qNld1RUVNMzB2S1BqN0FGWVl1N3R3?oc=5",
         "pub": "2026-11-13T23:33:41+00:00",
@@ -506,6 +500,12 @@
         "title": "New Orleans boat crash called ‘miracle on the Mississippi’ as everyone is accounted for, officials say",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWJuOVFDeFRidGh1N295ZjZkOHVvWlYtcnpPUm1ySkN5RmRmeDhPMkFRdjVJcGhhaVA4SXZ5RmdqVHZuUW5TSkxkdW1vb1FtTkFKWmRLSTRWcW9tS3gtY1lGOXdKNXhkQWI3Xzd5Z3lrbFpNMFdQUWtsOV9SM3JHSXV2NUFsNE9BNTByNFRLeDMtanhQMW5Ucm1QZThDek9HY0stQUFISlVYOUs5ZUdBV0Zn0gG3AUFVX3lxTFBlRnl4bUROR0syd3h3ZHRVaDdnR0JZbVZZdUdhdmZvay1QOFdEQnZldGhsbGRucjJidkFUdHJxbXJsaUtaZENfY19nNGNOczZqT2xCNzhUbTJsamNHM3Q0bFJSYklrQzZoc0FUQVR4ZkNXWEJtVkRTd2pRaXJtendMVC1IOFg1dU82WWNab2laSUxJT0xRNC05VUJ1TTdUbnRxSFJKSWN5akh4dEd0NDB2Z3h1V0Z3UQ?oc=5",
         "pub": "2026-11-13T20:42:30+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "FAA ground stop lifted on Friday night, but some college football teams still scrambling to travel",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX20yY2FhQmtOUUJjM0d2QzZmeGxDaHZsWFQzZ2V6aEJQNFEzbm5BOGJCWmJzakJVeW5fUmlObVRlTkFzQWdjaGRiY0N6Z01qVnUwQkJGUlhLU2NxSnREX3FHeVowcFJQUk9WNEpFdnRoX0FsNlBiMUdEY1owT0Z0aFBfSGQxc19RMUpZZ1pNOERzOC0wWXY4TnNzVGFBR2lCYVF0Zk9POXRFSEtQSlNldVF2c21QQzM4aWg2MDBxWFhidw?oc=5",
+        "pub": "2026-11-13T22:51:29+00:00",
         "outlet": "Fox News"
        }
       ],
