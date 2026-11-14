@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:06:13.066503+00:00",
+ "updated": "2026-11-14T12:54:19.306975+00:00",
  "categories": [
   {
    "id": "top",
@@ -28,31 +28,10 @@
       "name": "El País",
       "items": [
        {
-        "title": "Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados",
-        "link": "https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html",
-        "pub": "2026-11-14T03:29:07+00:00",
-        "desc": "Problemas en el sistema informático que gestiona las comunicaciones provocaron la suspensión. Hay cientos de miles de personas afectadas por las cancelaciones y retrasos de sus viajes",
-        "outlet": "El País"
-       },
-       {
-        "title": "“Los parches no funcionan”: el Gobierno de EE UU culpa al “anticuado” sistema de control aéreo por la suspensión de vuelos",
-        "link": "https://elpais.com/us/2026-11-14/los-parches-no-funcionan-el-gobierno-de-ee-uu-culpa-al-anticuado-sistema-de-control-aereo-por-la-suspension-de-vuelos.html",
-        "pub": "2026-11-14T03:54:05+00:00",
-        "desc": "El secretario de Transporte, Sean Duffy, ha exigido al Congreso al menos 30.000 millones de dólares para actualizar los mecanismos actuales: “Es una cuestión de seguridad nacional”",
-        "outlet": "El País"
-       },
-       {
-        "title": "Caos en los aeropuertos de EE UU por la suspensión de vuelos: “Nadie va a ir a ninguna parte”",
-        "link": "https://elpais.com/us/2026-11-14/caos-en-los-aeropuertos-de-ee-uu-por-la-suspension-de-vuelos-nadie-va-a-ir-a-ninguna-parte.html",
-        "pub": "2026-11-14T01:16:56+00:00",
-        "desc": "Miles de pasajeros en todo el país se quedaron varados en espera de información oficial sobre la reprogramación de sus vuelos",
-        "outlet": "El País"
-       },
-       {
-        "title": "Campaña elecciones 29N y actualidad política, en directo | Sánchez en Mallorca, Feijóo en Santiago y Abascal duplica actos",
+        "title": "Campaña elecciones 29N y actualidad política, en directo | Sánchez pide “el voto de todos los que quieren más Europa” para frenar a Abascal",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
-        "pub": "2026-11-14T12:02:13+00:00",
-        "desc": "Los cabezas de lista se vuelcan en actos políticos en este primer fin de semana de campaña",
+        "pub": "2026-11-14T12:51:42+00:00",
+        "desc": "Feijóo promete que Vivienda estará dentro de una vicepresidencia: “Es el mayor problema de España” | Colau reclama una sanidad “universal” que incluya la salud bucodental, visual y auditiva, con proto",
         "outlet": "El País"
        },
        {
@@ -61,6 +40,27 @@
         "pub": "2026-11-14T04:30:01+00:00",
         "desc": "Los socialistas aspiran a lograr casi una veintena de escaños en juego apelando al voto útil y por el tirón de Vox en detrimento del PP",
         "outlet": "El País"
+       },
+       {
+        "title": "La diferencia entre PP y PSOE se estrecha, según el ‘tracking’ diario de 40dB.",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/la-diferencia-entre-pp-y-psoe-se-estrecha-segun-el-tracking-diario-de-40db.html",
+        "pub": "2026-11-14T04:30:01+00:00",
+        "desc": "Colau gana enteros entre los suyos mientras la campaña anima la participación",
+        "outlet": "El País"
+       },
+       {
+        "title": "Vox quiere revisar la nacionalización de 300.000 españoles de origen marroquí",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/vox-considera-fraudulenta-la-nacionalizacion-de-mas-de-300000-espanoles-originarios-de-marruecos.html",
+        "pub": "2026-11-14T04:30:01+00:00",
+        "desc": "El partido ultra considera su ciudadanía “fraudulenta” y quiere gravar con impuestos las remesas que los inmigrantes envían a sus familias como hace Trump",
+        "outlet": "El País"
+       },
+       {
+        "title": "Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados",
+        "link": "https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html",
+        "pub": "2026-11-14T03:29:07+00:00",
+        "desc": "Problemas en el sistema informático que gestiona las comunicaciones provocaron la suspensión. Hay cientos de miles de personas afectadas por las cancelaciones y retrasos de sus viajes",
+        "outlet": "El País"
        }
       ],
       "error": null
@@ -68,12 +68,6 @@
      {
       "name": "Univision",
       "items": [
-       {
-        "title": "Un buque cisterna choca contra un crucero fluvial con 129 personas a bordo en Nueva Orleans",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzUxZzB5cWNFN1dVZ1YtTkJQeEtGcm9aWmtVRW0zdTI0d042YUxiT1gyVEpCVUpGZ2VUd0ZORFNsUnRYUVpHc19ncUtDMnl4bGRabHhGcEN3Y3FEMzRXZXZqTjhKMGlVQ1RqTllDRGdPa3hCVnItMWxyYlhiblNQVGdudE1fWS1KVTdPRUlLVF9JN2oydF9ad0hjb28tNFEyd2Z3YU5Rb0tOaDJsZldWMEFkOGV6WjFqNXMyNEd5MzA?oc=5",
-        "pub": "2026-11-13T20:37:20+00:00",
-        "outlet": "Univision"
-       },
        {
         "title": "Suspensión de vuelos en EEUU: ¿Cuánto podría tardar la reanudación de los despegues?",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa3JoSW9rT09TRkozb3NyMlhrbkFyaWJJbzFBYnV6ZGNqYUJlb3FORG5qZWY2Y0J4cmRLQ1RuR1ROckRyLXM2a0NWTmIwUWs1WmVTbGRtTnFqSUY3Q2loWnpfcmNFcjdDUjJpQno4T2g0MWJnWnAtSlJFZnBLQ3hxeWFJMEhrUFhlM0JxTF9jREN2TXRYN3ZBWXVLS3hlNWJlYko4Z0FkV3l5WmpwZDRzQllUNE1fbHVGWHNEQTQ4Yw?oc=5",
@@ -96,6 +90,12 @@
         "title": "12 hospitalizados tras choque de buque cisterna contra un crucero fluvial en Nueva Orleans",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN2l5ZmY0YkxQWFVEN1JnSV9Dek1JQVNpb0RRQURrWGNLT1VxcVVJRlNxS0R2azBsUlVMTndJUWs4SzBUd0d3WDJfaXY2VlFfRVRVbkhfUGk0UHhxeUFoQnhwSlJMeWFDMTV1TVBnTGJYakI3elQ4eVBHeGc0TmZHSkpiV3AtUjhwN2duTHVERFZjQVJJYVZtZG5SNEQweWVneThGVHkwbExqWFZvWjMxelJxMkhCSnFwRjJMeFhFN3FsN1JSNnpYVHZfM1I?oc=5",
         "pub": "2026-11-13T21:57:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "La FAA paraliza los vuelos de salida a nivel nacional debido a \"circunstancias extraordinarias y por motivos de seguridad\"",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0pURFhiQmVXdWlseHZSOXdBWWkyZjB1blN3UUZTYmN4QlVqaTV0SDdra1VDMG5CMmducXJMSUYtN21ycmhxem1MNGdTYUVRRWVyZEhEbWI4S2J3TC1zMER3eFROcHE1YnAzc19xZkpTbFVIT0NEbjJOU2IxZFFoR3hqbXJ0N1dnQ2c2NkcxWEJvM01IRGNmWnR4bXNXYkNXTWxaaWExb3UwVGtMbTRjOWZrQUNObG1LWGIydnNKbzJBdERKUjBZNVc4YUU?oc=5",
+        "pub": "2026-11-13T21:18:23+00:00",
         "outlet": "Univision"
        }
       ],
@@ -143,15 +143,15 @@
       "name": "El País",
       "items": [
        {
-        "title": "El Arsenal vuelve a resistir al Barça en Barcelona",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ3lndE10d2lPOHZ0aTVzT2Y0eVdndnB0b2Z5X3pvZ1Rxb0oxS1V6RzhZQzZfbzZIZWtudjRNRldEVGFUZzg4Ql9oYXpCV1owMm1MUDJ0d0loSGp6bVdDZlVEQjZNbzlaTWdQYmg4VERrVGtXMmJ1bXRLazhLSUxlVmcxVHZyUzBRT0lkd01OLURJdEVJVE5ROUtoZDJ0Z0d1Nl9Z0gG3AUFVX3lxTE56Tm1tN0RwMVVjYnFoZ0c2QmZCazczZlZ2N0dGOW9BNWJyODZ1X3hVcHlfOG5tM3lzOE1tLVBsd3hrbENXUFhTdVRzY0pPeGJFYXNzN0V1TzhMajlPZml5Njh6d1ZMbERfaHUyajN6UmZvR0xaVmJsN0lVOUM1bE9fNHp3YjFsWl9FOG9KX2Y3dkp0d09KNFhrelFlcDlYNjFjQTZVMWdYTmhyamlNVWdzT3BvMHR0RQ?oc=5",
-        "pub": "2026-11-12T20:40:23+00:00",
-        "outlet": "El País"
-       },
-       {
         "title": "La intolerancia en pantalones cortos",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORWNKNFdZUV9KcFp1WDIyUEF3ZENFa0hKLXJpWVFZT0xrRWhMaEZTa0kwd0ZCQmZOTkU3VEE3MnlEeUN4QmpmeDJEWmlyVjNKZlFHM0JFdnFFLUxfQlFOb0RfY0N1SnFxY01lZnl2a0NVYldxSFRhYThLOUlTVWwwZnRobUtWSlFYZ044MUpRUmxldHY0VDlCc0pLR2tDYWwtWlR2NNIBpAFBVV95cUxORWNKNFdZUV9KcFp1WDIyUEF3ZENFa0hKLXJpWVFZT0xrRWhMaEZTa0kwd0ZCQmZOTkU3VEE3MnlEeUN4QmpmeDJEWmlyVjNKZlFHM0JFdnFFLUxfQlFOb0RfY0N1SnFxY01lZnl2a0NVYldxSFRhYThLOUlTVWwwZnRobUtWSlFYZ044MUpRUmxldHY0VDlCc0pLR2tDYWwtWlR2NA?oc=5",
         "pub": "2026-11-14T04:30:00+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "El Arsenal vuelve a resistir al Barça en Barcelona",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ3lndE10d2lPOHZ0aTVzT2Y0eVdndnB0b2Z5X3pvZ1Rxb0oxS1V6RzhZQzZfbzZIZWtudjRNRldEVGFUZzg4Ql9oYXpCV1owMm1MUDJ0d0loSGp6bVdDZlVEQjZNbzlaTWdQYmg4VERrVGtXMmJ1bXRLazhLSUxlVmcxVHZyUzBRT0lkd01OLURJdEVJVE5ROUtoZDJ0Z0d1Nl9Z0gG3AUFVX3lxTE56Tm1tN0RwMVVjYnFoZ0c2QmZCazczZlZ2N0dGOW9BNWJyODZ1X3hVcHlfOG5tM3lzOE1tLVBsd3hrbENXUFhTdVRzY0pPeGJFYXNzN0V1TzhMajlPZml5Njh6d1ZMbERfaHUyajN6UmZvR0xaVmJsN0lVOUM1bE9fNHp3YjFsWl9FOG9KX2Y3dkp0d09KNFhrelFlcDlYNjFjQTZVMWdYTmhyamlNVWdzT3BvMHR0RQ?oc=5",
+        "pub": "2026-11-12T20:40:23+00:00",
         "outlet": "El País"
        },
        {
@@ -203,9 +203,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Cáncer, horóscopo del sábado 14 de noviembre de 2026: escucha tu intuición y suelta",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFJRbk5PWEViME9nVmUwdjJZa1RaNnhvV1NYS1lsLUdyZGtjanIwY2t1Y0VBUEo0Y3BfSTVRMGxscFhzWFo1U05oOHFNX3hPLU5mZHRPV19JQ1pHNjR6VjdhcjY3TjAtNXZZSGVVNHdlcWh6RVZEMWx1WXdhWVJSbGZyRW1QZ0ZCSi1ZR24zRkx3UQ?oc=5",
-        "pub": "2026-11-14T04:13:03+00:00",
+        "title": "Escorpión, horóscopo del sábado 14 de noviembre de 2026: tu camino se dibuja al andar",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGlGcW9RcmR1bUt2T2JKRHlkVDhoaG1nRTdTek9xSUhKZzZnVVRHN3JQcjd0VGtzbDJxekozaGdSclhGWmpzbm1oXzBtbFllWjRZTmhSckEzbGMxbXBtTGJHT2xsY0pNS2Z2MVh5RHhlQlZDMXFFRUtJTjBab2djVHFxenNOcDd1Qm9saFNwaXhyNi14S2c?oc=5",
+        "pub": "2026-11-14T04:13:04+00:00",
         "outlet": "Univision"
        }
       ],
@@ -485,6 +485,12 @@
         "outlet": "Fox News"
        },
        {
+        "title": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUFl5dXA4SXVBaHVNWlhHN29xRktSME9oLTVPVkJyTFhVNi0wN3JXWUZwZlhfTXJtNlYxZ3BZOF8yWnNSZnRqdHhSTDFFb1p5TGFfQ3J6WVBDb2ttYUlMSmMwXzdhY2g3cW1MSEhXcU9NbFZVWWs2eGNpWnR2bEZYelhHcVUzd2dMZlptWXNPWndOejc1ektzekYzeDdnRXdBMTJsc2JLaW84VUdhWUl3djlOSdIBuAFBVV95cUxQOWxWZEFTSldrQXJGYVlVYkhRYk5PeS1aamptZktmb01SYVVfSkVfQ1MtNHJOZktnT0xneU53b2dwM2ZlS1lPb1RNdC0zck1vSlpCQlNzQjllNk51Zmx3anpOdVZzMjc1MkhfdXdOWnpYRm5pYjVRSVBtUVRPUXRVTURqZ3p0bWdVTjUxNGduR202enVIYkpsb1o1c1M1bEZUVkE5bDQ4OEx3Z0ZxR2YwckJ0MVkzMDFm?oc=5",
+        "pub": "2026-11-13T20:15:55+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Tanker slams into docked New Orleans river cruiser carrying 129 passengers, sparking rescue",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWJuOVFDeFRidGh1N295ZjZkOHVvWlYtcnpPUm1ySkN5RmRmeDhPMkFRdjVJcGhhaVA4SXZ5RmdqVHZuUW5TSkxkdW1vb1FtTkFKWmRLSTRWcW9tS3gtY1lGOXdKNXhkQWI3Xzd5Z3lrbFpNMFdQUWtsOV9SM3JHSXV2NUFsNE9BNTByNFRLeDMtanhQMW5Ucm1QZThDek9HY0stQUFISlVYOUs5ZUdBV0Zn0gG3AUFVX3lxTFBlRnl4bUROR0syd3h3ZHRVaDdnR0JZbVZZdUdhdmZvay1QOFdEQnZldGhsbGRucjJidkFUdHJxbXJsaUtaZENfY19nNGNOczZqT2xCNzhUbTJsamNHM3Q0bFJSYklrQzZoc0FUQVR4ZkNXWEJtVkRTd2pRaXJtendMVC1IOFg1dU82WWNab2laSUxJT0xRNC05VUJ1TTdUbnRxSFJKSWN5akh4dEd0NDB2Z3h1V0Z3UQ?oc=5",
         "pub": "2026-11-13T20:42:30+00:00",
@@ -500,12 +506,6 @@
         "title": "FAA ground stop lifted on Friday night, but some college football teams still scrambling to travel",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX20yY2FhQmtOUUJjM0d2QzZmeGxDaHZsWFQzZ2V6aEJQNFEzbm5BOGJCWmJzakJVeW5fUmlObVRlTkFzQWdjaGRiY0N6Z01qVnUwQkJGUlhLU2NxSnREX3FHeVowcFJQUk9WNEpFdnRoX0FsNlBiMUdEY1owT0Z0aFBfSGQxc19RMUpZZ1pNOERzOC0wWXY4TnNzVGFBR2lCYVF0Zk9POXRFSEtQSlNldVF2c21QQzM4aWg2MDBxWFhidw?oc=5",
         "pub": "2026-11-13T22:51:29+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUFl5dXA4SXVBaHVNWlhHN29xRktSME9oLTVPVkJyTFhVNi0wN3JXWUZwZlhfTXJtNlYxZ3BZOF8yWnNSZnRqdHhSTDFFb1p5TGFfQ3J6WVBDb2ttYUlMSmMwXzdhY2g3cW1MSEhXcU9NbFZVWWs2eGNpWnR2bEZYelhHcVUzd2dMZlptWXNPWndOejc1ektzekYzeDdnRXdBMTJsc2JLaW84VUdhWUl3djlOSdIBuAFBVV95cUxQOWxWZEFTSldrQXJGYVlVYkhRYk5PeS1aamptZktmb01SYVVfSkVfQ1MtNHJOZktnT0xneU53b2dwM2ZlS1lPb1RNdC0zck1vSlpCQlNzQjllNk51Zmx3anpOdVZzMjc1MkhfdXdOWnpYRm5pYjVRSVBtUVRPUXRVTURqZ3p0bWdVTjUxNGduR202enVIYkpsb1o1c1M1bEZUVkE5bDQ4OEx3Z0ZxR2YwckJ0MVkzMDFm?oc=5",
-        "pub": "2026-11-13T20:15:55+00:00",
         "outlet": "Fox News"
        }
       ],
