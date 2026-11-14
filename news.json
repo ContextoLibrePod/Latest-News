@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T15:14:04.602739+00:00",
+ "updated": "2026-11-14T15:56:25.549791+00:00",
  "categories": [
   {
    "id": "top",
@@ -42,17 +42,17 @@
         "outlet": "El País"
        },
        {
+        "title": "Abascal defiende la prioridad nacional: “Nos presentamos a las elecciones para hacer legal lo que hoy nos dicen que es ilegal”",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/abascal-defiende-la-prioridad-nacional-nos-presentamos-a-las-elecciones-para-hacer-legal-lo-que-hoy-nos-dicen-que-es-ilegal.html",
+        "pub": "2026-11-14T15:38:54+00:00",
+        "desc": "El líder de Vox contesta al líder del PP, Alberto Núñez Feijóo, que el viernes calificó de ilegal el principio que propone la formación de ultraderecha",
+        "outlet": "El País"
+       },
+       {
         "title": "Colau contrapone su propuesta para ampliar la cobertura de la sanidad pública con el modelo “debilitado” del PP en Andalucía",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/colau-contrapone-su-propuesta-para-ampliar-la-cobertura-de-la-sanidad-publica-con-el-modelo-debilitado-del-pp-en-andalucia.html",
         "pub": "2026-11-14T13:47:10+00:00",
         "desc": "Frente Amplio se desmarca de Adelante y llama al voto con una reivindicación de su papel en el Gobierno",
-        "outlet": "El País"
-       },
-       {
-        "title": "Campaña elecciones 29N y actualidad política, en directo | Abascal, ante las encuestas que dicen que Sánchez “se va”: “No hay un enemigo peor que la confianza”",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
-        "pub": "2026-11-14T15:02:30+00:00",
-        "desc": "Sánchez pide “el voto de todos los que quieren más Europa” para frenar a Abascal | Feijóo promete que Vivienda estará dentro de una vicepresidencia: “Es el mayor problema de España”",
         "outlet": "El País"
        },
        {
@@ -68,6 +68,12 @@
      {
       "name": "Univision",
       "items": [
+       {
+        "title": "La madre de Kansas que causó un accidente en un campo de futbol que mató a dos personas no será procesada",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObEZYbHVyNW1EWU1qRWpvcDRJVkVGQVpja1VKejFwTDZaaDRHcHp5REI3NUhVQmF6eHJNdmRncTVOWEo1NVBQd0FEMTQ5aGRSUk9DcWhjMENMVFlPZnRYRW5uam94bk84cGJkb2tzYU1wNVBXUzZtaXMzWnAzWEVKUjJTOS1PQTBfZl94VmxrQlRqYU9xd2NhcTd0UGR5QTdkSFR4Sk9wUGNoenhoNEpFdDJTRkQ5QUNIUzFuNnVoNmR1SjhpNFNPb3lqVFVuNlRvdDhOMHJNVGU3ZEt4?oc=5",
+        "pub": "2026-11-14T05:04:15+00:00",
+        "outlet": "Univision"
+       },
        {
         "title": "Suspensión de vuelos en EEUU: ¿Cuánto podría tardar la reanudación de los despegues?",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa3JoSW9rT09TRkozb3NyMlhrbkFyaWJJbzFBYnV6ZGNqYUJlb3FORG5qZWY2Y0J4cmRLQ1RuR1ROckRyLXM2a0NWTmIwUWs1WmVTbGRtTnFqSUY3Q2loWnpfcmNFcjdDUjJpQno4T2g0MWJnWnAtSlJFZnBLQ3hxeWFJMEhrUFhlM0JxTF9jREN2TXRYN3ZBWXVLS3hlNWJlYko4Z0FkV3l5WmpwZDRzQllUNE1fbHVGWHNEQTQ4Yw?oc=5",
@@ -91,12 +97,6 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN2l5ZmY0YkxQWFVEN1JnSV9Dek1JQVNpb0RRQURrWGNLT1VxcVVJRlNxS0R2azBsUlVMTndJUWs4SzBUd0d3WDJfaXY2VlFfRVRVbkhfUGk0UHhxeUFoQnhwSlJMeWFDMTV1TVBnTGJYakI3elQ4eVBHeGc0TmZHSkpiV3AtUjhwN2duTHVERFZjQVJJYVZtZG5SNEQweWVneThGVHkwbExqWFZvWjMxelJxMkhCSnFwRjJMeFhFN3FsN1JSNnpYVHZfM1I?oc=5",
         "pub": "2026-11-13T21:57:00+00:00",
         "outlet": "Univision"
-       },
-       {
-        "title": "La FAA paraliza los vuelos de salida a nivel nacional debido a \"circunstancias extraordinarias y por motivos de seguridad\"",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0pURFhiQmVXdWlseHZSOXdBWWkyZjB1blN3UUZTYmN4QlVqaTV0SDdra1VDMG5CMmducXJMSUYtN21ycmhxem1MNGdTYUVRRWVyZEhEbWI4S2J3TC1zMER3eFROcHE1YnAzc19xZkpTbFVIT0NEbjJOU2IxZFFoR3hqbXJ0N1dnQ2c2NkcxWEJvM01IRGNmWnR4bXNXYkNXTWxaaWExb3UwVGtMbTRjOWZrQUNObG1LWGIydnNKbzJBdERKUjBZNVc4YUU?oc=5",
-        "pub": "2026-11-13T21:18:23+00:00",
-        "outlet": "Univision"
        }
       ],
       "error": null
@@ -111,12 +111,6 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Noticias Telemundo Mediodía 11/13",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVVuNDdVVVppSVZMQ3REUDBHNHBDSzlGQTkyNjlfMm0wRmpURndKSHVQUzB2SG5JcHIwUkxwVHBIWnRXcEJUM3laYmJzRVU2N3B1YlVJbUNXWkFFYUNUbjREYnRnMGxRN0EyWWdJcXdvbkVQMjNZR3dIWWo0ZFhKOTRvV2NxaW9ZTkk0VlEyTHhfV2dvU2NYWkd3OUpLZ0ZxZmFQVFItWWFpdUpEcGxDR25ESGxNeEVVZ0x2RXgzcUF3azV2dmk2ZFRTRmphbVVhLTBfTTdza18?oc=5",
-        "pub": "2026-11-14T02:05:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Cámara capta desde adentro el colapso de edificio en Brooklyn",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0lSNUdSWEVwbVQxXzRiQ1MzUkxtNC02aVdPZnFEcUx3OE56WlhNZ3gzLWdlampiUXVyVzQxU2k5ejZFdERrckhQaUgzZE9ya0FQaXFtcmRYMkd4NHhRLS1RMHExNVBmYThuTk8wYlBFRUNnbFQ3cjdXeUdHaGpUZHBMeERkNjNOYURVSHNNQkU4MkNrdE94d3RYdldQdmNubjFZalp3dnhvTG0zVHVMVlcybnJVRDh3eDVsWGh1QkROZkJxMkZveTlWc3YtYkMy?oc=5",
         "pub": "2026-11-13T22:13:55+00:00",
@@ -126,6 +120,12 @@
         "title": "Noticias Telemundo 11/13",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFNmUDdBd0ZCT0tWcjhVTjB5YTczRHZZMmdaeXB5MkZ5RGhqS1dzeXlNY1djODBJcGlVemM1Z3FwMzRkdkFSOVhpVEtXUmd2SHQ5WHRrNzZRQ2t6V2g1UGxKVE4wcENVUVdpaXNrZ0ZBQVFJcEZuSjNpYzZxVFI4REFXeG9SZ3N5WkdQTUd6c3FZQ0pZU08zcC1YYjlod3NsWm5HaGlMV0V5YXdycU5JcDBjNmk5TVFPSGJaT1BzVjV0WTh3YVkyQ2VDVQ?oc=5",
         "pub": "2026-11-14T03:48:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Noticias Telemundo Mediodía 11/13",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVVuNDdVVVppSVZMQ3REUDBHNHBDSzlGQTkyNjlfMm0wRmpURndKSHVQUzB2SG5JcHIwUkxwVHBIWnRXcEJUM3laYmJzRVU2N3B1YlVJbUNXWkFFYUNUbjREYnRnMGxRN0EyWWdJcXdvbkVQMjNZR3dIWWo0ZFhKOTRvV2NxaW9ZTkk0VlEyTHhfV2dvU2NYWkd3OUpLZ0ZxZmFQVFItWWFpdUpEcGxDR25ESGxNeEVVZ0x2RXgzcUF3azV2dmk2ZFRTRmphbVVhLTBfTTdza18?oc=5",
+        "pub": "2026-11-14T02:05:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -191,15 +191,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Federica y su novia revelan cómo se conocieron: la doctora estaba enamorada de ella desde la adolescencia",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNVAyaWl0UWJjeEUwajE3aTRkdDFyVkdlUGNLbE1EWS1HaHJ1b19aUG0tY285YnV5VUlsYWlYLVBsM0swdlM2eG1JTElMbzFwdFZWWjBPLXdiVnl0VVBxQmJJMkNnNE5aU3FMcUt6UG9TX1lmbjU4SExhUDlFY2dsYUVXTmZvQlNmbDRvc1hhWC04TlJrNWJ2LXd3ekttZzJZZ3JRbzktY3Z1Uk02TGlFV0F0Yk5zRmdISjVqOGp4TXc5WWNDSEJxQ1c0MXZyN1BnTVJoRUgxNm9LVGlR?oc=5",
-        "pub": "2026-11-14T01:35:00+00:00",
+        "title": "Vivienne, hija menor de Brad Pitt y Angelina Jolie, hospitalizada por un trastorno alimenticio",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzlCOHMzczZfS3c4TjZINTRVOTY1UEZNQnA3QUZhS293QW9VUGZ3YTBudlVaQ1JDVERnZ2p1N0lhNzNrd2loOEFQNDhrSnZFV3lQX1pyRmFJbXJKWHoyb1QyWlR0a2JxRjZMZFVhc0thUTFSWG05elY5QnVoSS1WYzUxRmtCenI0b3ZkMDhlalZvbjlVeE0wTktMSjF4TXRublJBemVpMEtWVnly?oc=5",
+        "pub": "2026-11-13T21:02:34+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Vivienne, hija menor de Brad Pitt y Angelina Jolie, hospitalizada por un trastorno alimenticio",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzlCOHMzczZfS3c4TjZINTRVOTY1UEZNQnA3QUZhS293QW9VUGZ3YTBudlVaQ1JDVERnZ2p1N0lhNzNrd2loOEFQNDhrSnZFV3lQX1pyRmFJbXJKWHoyb1QyWlR0a2JxRjZMZFVhc0thUTFSWG05elY5QnVoSS1WYzUxRmtCenI0b3ZkMDhlalZvbjlVeE0wTktMSjF4TXRublJBemVpMEtWVnly?oc=5",
-        "pub": "2026-11-13T21:08:31+00:00",
+        "title": "Federica y su novia revelan cómo se conocieron: la doctora estaba enamorada de ella desde la adolescencia",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNVAyaWl0UWJjeEUwajE3aTRkdDFyVkdlUGNLbE1EWS1HaHJ1b19aUG0tY285YnV5VUlsYWlYLVBsM0swdlM2eG1JTElMbzFwdFZWWjBPLXdiVnl0VVBxQmJJMkNnNE5aU3FMcUt6UG9TX1lmbjU4SExhUDlFY2dsYUVXTmZvQlNmbDRvc1hhWC04TlJrNWJ2LXd3ekttZzJZZ3JRbzktY3Z1Uk02TGlFV0F0Yk5zRmdISjVqOGp4TXc5WWNDSEJxQ1c0MXZyN1BnTVJoRUgxNm9LVGlR?oc=5",
+        "pub": "2026-11-14T01:35:00+00:00",
         "outlet": "Univision"
        },
        {
@@ -215,15 +215,15 @@
       "name": "Telemundo",
       "items": [
        {
-        "title": "El Pelotazo 11/12",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWkNYbVlVUEhGWGQyNGt6YjNVclV3emtGbURwdGZtd01HSmUtRVh1WDd6dzhyTk5HQnFGTllRWmg4TVlEM3dBNzZMOFV6X21oelNkYkxtaUJfYU9Vem53SXZBTzlraURlU1U5d2Q1V25fWTZXR1pnM3hsMEhaamVwMHVBSVluQXZya0NqNmUtM0ZzcEtMUUZXMzlQWEpYZVRiU0FqbTAzLXFjdw?oc=5",
-        "pub": "2026-11-13T10:54:02+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "El Manchester United al que llega Pochettino, una incertidumbre de posibilidades",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNXFSZUNwMTM2QWtZZUhfeTZmdVZNRHVNT2dkUzMwUjc3R0ZQZXdGSnB6N1ZlWmhBYVRUblNiTExhLVpnY05QaXJGTW9YUW1NMUhYTU5ZWWo4dW1obGlFT0pXODBYdmpJbk0tX2tJTjl3M1dNNXNyd1JtajJJbEgtcDhfVkl1aHRXVEhqVllXU25jQi1oRUtHMUxxQVRldnltM3Z0VnMxRHhpY1lOQm80aVhuTS1HSVkydVhfeUQzcHo3d2twanRvbENzRnpkZUZzZHQ2SUdPYkF6eHVZMVU5aUh3?oc=5",
         "pub": "2026-11-13T07:39:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "El Pelotazo 11/12",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWkNYbVlVUEhGWGQyNGt6YjNVclV3emtGbURwdGZtd01HSmUtRVh1WDd6dzhyTk5HQnFGTllRWmg4TVlEM3dBNzZMOFV6X21oelNkYkxtaUJfYU9Vem53SXZBTzlraURlU1U5d2Q1V25fWTZXR1pnM3hsMEhaamVwMHVBSVluQXZya0NqNmUtM0ZzcEtMUUZXMzlQWEpYZVRiU0FqbTAzLXFjdw?oc=5",
+        "pub": "2026-11-13T10:54:02+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -307,15 +307,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Muertes de famosos - Página 232",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NOXlpYy1IMmlyaGxBU0tCSjhqUEFnNW5lMFIxTUpQYV9tRjlZMXQ0SjZKUk1ONDdPM1Vobkh2cW5reHd6NmliU0Q2V1I3SlVrUEJoaWhJaTM4M2FTT09yYVhXajVEVXNha3Fz?oc=5",
-        "pub": "2026-11-12T21:56:44+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Federica y su novia revelan cómo se conocieron: la doctora estaba enamorada de ella desde la adolescencia",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNVAyaWl0UWJjeEUwajE3aTRkdDFyVkdlUGNLbE1EWS1HaHJ1b19aUG0tY285YnV5VUlsYWlYLVBsM0swdlM2eG1JTElMbzFwdFZWWjBPLXdiVnl0VVBxQmJJMkNnNE5aU3FMcUt6UG9TX1lmbjU4SExhUDlFY2dsYUVXTmZvQlNmbDRvc1hhWC04TlJrNWJ2LXd3ekttZzJZZ3JRbzktY3Z1Uk02TGlFV0F0Yk5zRmdISjVqOGp4TXc5WWNDSEJxQ1c0MXZyN1BnTVJoRUgxNm9LVGlR?oc=5",
         "pub": "2026-11-14T01:35:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Muertes de famosos - Página 232",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NOXlpYy1IMmlyaGxBU0tCSjhqUEFnNW5lMFIxTUpQYV9tRjlZMXQ0SjZKUk1ONDdPM1Vobkh2cW5reHd6NmliU0Q2V1I3SlVrUEJoaWhJaTM4M2FTT09yYVhXajVEVXNha3Fz?oc=5",
+        "pub": "2026-11-12T21:56:44+00:00",
         "outlet": "Univision"
        }
       ],
@@ -381,15 +381,15 @@
         "outlet": "El País"
        },
        {
-        "title": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbU1FUTU2OFgtQTVmbWJIeTZ0Qmp4eGx2S2pCMlY2aThnRlRvQWQ0Z2lMZERXajJQM3dDelZyWEh4cExxQzluVnpySmtidzEwNXV6ZGZGTkwySEZGTnItM2FpdmlPQzRfVERzUUUxRi0wWkVVQ0xLVTJlQnBvdEk1YXBlckFuZ0ZPTmpGb3ltT3NVOHhKUUcwMTFBZ2ZnVGtoVjZNWG5lNHR2YUNlczE4Yk9SX1RmZXNpU29vM3JyMTdrOVFh0gHYAUFVX3lxTE9rWjB4UmstZHF1TlVfY2k4TDlQa3B2U2UyNEJzZDVOODRLQkpjeXZ0MHlJUnRjU1RwV0F1bDA3YVl2cEhGZkROTUVGelgwU1owMmNjTnNwTDBYZTJ1c2RrOE8tdWctSW4tRjRvdEM3eGYyOWtSVHFnZ2ZrbnA5SFI4QnB5Wjl5Ty1ScjBSVFAzVnhoSTRzdEFhbURMLUNDTkZyd3Z2eGNLNDRIUzRiOXFVb0RxREpnZXl6ai1pbFNyZUNhWHZGdElzQXdOOVU0NnI5R0VQbG5Ddw?oc=5",
-        "pub": "2026-11-13T12:55:30+00:00",
-        "outlet": "El País"
-       },
-       {
         "title": "El Tribunal de Cuentas aprecia indicios de indebido uso de fondos en la compra del ático de la Comunidad de Madrid",
         "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPd0VfSzlSSUhKQTFERVZ4X2k1NDFtaWRrZUVQSkE2eDFPWnpGN0xBOWNrMnFVRDFoR05jc0dIZU1MVEZoV05zcFNnYTRjci1Zbnhkc3M4TFhYaGR1d042ZVVhX2E1M1ZSNDJtaEZPVDlyM3J0YmVsSHpwM3NrRXpDdHlqZjNtcHFJdFdXT29HXzd3aFkzMGFfRVJkY0hlb19LUHdsR3JoRmFzMzA5cUxvVFlBOHJaZVNoSFZhbDg1cmE3X0FXQ3FSV0Q3cFRraHdVMzg2WWZwcVBEa21YR1RVSU9SR2pUd2UwMUhGc2Nzd3IzM3k2NElxa1VkaThFU2kwcEhWQ3g5NjlKaTROR2lGa1dnZDbSAagCQVVfeXFMTTZtMkdKTzRGRTlqeE1vdWhLYTVMYzBtSExEVktnQlFPNWhZQ2MtSGdNVkZubTd3VDN4YjFVSG5pVW9XeldMUW0yYzZuclpWWDhLdXliQ0xhQTI1S2JJa3lwcjMtaEVvTWFSUmw2d0o3ZDZmWXlUTU9heWRfN0lDc1hGNTNGTGVmdl9WekdnU3Z5MmJDS0ZqSTctUGp0OHNQU21rSEU5cHQxeWo0ZkN6UnJ5OUt5T1ltX2hoc2NoVGltS3F5R0dsM1FmZlhlM2NoTE5Db0sybGF5WnlzMWxZMjE1WVBudUlUbDJET19LNUUxTVJxdkVvaFhTaUp5RU55NFFfZk1tVkdKbWhFY3BCS3E2WUFTSEFwR25WcTFkZ2c0bnNYaGFBdXc?oc=5",
         "pub": "2026-11-13T11:22:44+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbU1FUTU2OFgtQTVmbWJIeTZ0Qmp4eGx2S2pCMlY2aThnRlRvQWQ0Z2lMZERXajJQM3dDelZyWEh4cExxQzluVnpySmtidzEwNXV6ZGZGTkwySEZGTnItM2FpdmlPQzRfVERzUUUxRi0wWkVVQ0xLVTJlQnBvdEk1YXBlckFuZ0ZPTmpGb3ltT3NVOHhKUUcwMTFBZ2ZnVGtoVjZNWG5lNHR2YUNlczE4Yk9SX1RmZXNpU29vM3JyMTdrOVFh0gHYAUFVX3lxTE9rWjB4UmstZHF1TlVfY2k4TDlQa3B2U2UyNEJzZDVOODRLQkpjeXZ0MHlJUnRjU1RwV0F1bDA3YVl2cEhGZkROTUVGelgwU1owMmNjTnNwTDBYZTJ1c2RrOE8tdWctSW4tRjRvdEM3eGYyOWtSVHFnZ2ZrbnA5SFI4QnB5Wjl5Ty1ScjBSVFAzVnhoSTRzdEFhbURMLUNDTkZyd3Z2eGNLNDRIUzRiOXFVb0RxREpnZXl6ai1pbFNyZUNhWHZGdElzQXdOOVU0NnI5R0VQbG5Ddw?oc=5",
+        "pub": "2026-11-13T12:55:30+00:00",
         "outlet": "El País"
        }
       ],
@@ -491,19 +491,19 @@
         "outlet": "Fox News"
        },
        {
+        "title": "Congressional oversight must have a ‘legislative purpose’: Article III Project founder",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Zc1hiWm1SdnJ0WFhOQ0xoYkp6MlQ3eUtKLVJMdlU4R1ZvbG1KY1ZFMnVhdUhVODg5UEptb2Y3ZUNqbWcxMXdMQXdKejFsU1B4MG0wX1B3?oc=5",
+        "pub": "2026-11-14T01:25:56+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUFl5dXA4SXVBaHVNWlhHN29xRktSME9oLTVPVkJyTFhVNi0wN3JXWUZwZlhfTXJtNlYxZ3BZOF8yWnNSZnRqdHhSTDFFb1p5TGFfQ3J6WVBDb2ttYUlMSmMwXzdhY2g3cW1MSEhXcU9NbFZVWWs2eGNpWnR2bEZYelhHcVUzd2dMZlptWXNPWndOejc1ektzekYzeDdnRXdBMTJsc2JLaW84VUdhWUl3djlOSdIBuAFBVV95cUxQOWxWZEFTSldrQXJGYVlVYkhRYk5PeS1aamptZktmb01SYVVfSkVfQ1MtNHJOZktnT0xneU53b2dwM2ZlS1lPb1RNdC0zck1vSlpCQlNzQjllNk51Zmx3anpOdVZzMjc1MkhfdXdOWnpYRm5pYjVRSVBtUVRPUXRVTURqZ3p0bWdVTjUxNGduR202enVIYkpsb1o1c1M1bEZUVkE5bDQ4OEx3Z0ZxR2YwckJ0MVkzMDFm?oc=5",
         "pub": "2026-11-13T20:15:55+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "The mistake newly-elected Dems admit they can't afford to make with Trump after sweeping 2026 wins",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONjBSNXpYbnJQd1lvSjRDaUdmVEtnMENsd1dQU3pGOVZGOWJ4QzRobjZKVFhqN1BJQVl3cllrV2ZzUnp6ZkpxWHBQLTZ3NFlrZzAtM1h6cU15Sko2bUpnX25xRUVhSXlCY0Rma21DRTk4U3Zjb2IwT3dHUkVXZHJIRVJmNm4weE1CSlZXekNBajdvWEhldlJDQ1lNX0FhMnh3SU5INVZLcWhtUmNsMVZiSHRoUdIBuAFBVV95cUxPZkpfc1MzU01UeldJQTQ2MVRnbDBWaHFlN2s2dml4MUFBREU5RzNLek10aE1seFJVM1JzM2hOcVVEUmxIVk1RNW1GT0dyX0tpSjVseEd4RHVEaVhZR3hBRVVCYW1NU01NUmNncExSLVhGaTNkWHYwYkxUMG9malNRaWRYaDFRVWxCSmZDOWphSXVOWE5ocDRmdnNLNHZad0lDVy1zT1RKUXU3TFAwYjR6UzFaUmdPVHZs?oc=5",
-        "pub": "2026-11-13T15:29:50+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Tanker slams into docked New Orleans river cruiser carrying 129 passengers, sparking rescue",
+        "title": "New Orleans boat crash called ‘miracle on the Mississippi’ as everyone is accounted for, officials say",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWJuOVFDeFRidGh1N295ZjZkOHVvWlYtcnpPUm1ySkN5RmRmeDhPMkFRdjVJcGhhaVA4SXZ5RmdqVHZuUW5TSkxkdW1vb1FtTkFKWmRLSTRWcW9tS3gtY1lGOXdKNXhkQWI3Xzd5Z3lrbFpNMFdQUWtsOV9SM3JHSXV2NUFsNE9BNTByNFRLeDMtanhQMW5Ucm1QZThDek9HY0stQUFISlVYOUs5ZUdBV0Zn0gG3AUFVX3lxTFBlRnl4bUROR0syd3h3ZHRVaDdnR0JZbVZZdUdhdmZvay1QOFdEQnZldGhsbGRucjJidkFUdHJxbXJsaUtaZENfY19nNGNOczZqT2xCNzhUbTJsamNHM3Q0bFJSYklrQzZoc0FUQVR4ZkNXWEJtVkRTd2pRaXJtendMVC1IOFg1dU82WWNab2laSUxJT0xRNC05VUJ1TTdUbnRxSFJKSWN5akh4dEd0NDB2Z3h1V0Z3UQ?oc=5",
         "pub": "2026-11-13T20:42:30+00:00",
         "outlet": "Fox News"
@@ -535,15 +535,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Washington Democrat AG hands girls’ sports law defense to outside firm amid conflict of interest concerns",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYk5ldE1aWlY2bXc1eERfVi1VWkdWc1RfQlRnNk14Q1dZZTFVZkZUOHBhTTJqS2xhcmRhMWwzYU1tdlVYUlBfQWJXZm0zeUg5cThiVnVRMmlXLXpWeTNOWDZiM2Y2WHZqcFplQWZfUVZhaEdqb1NTSVA3WmxfbDBCRWtUWG8yQXNtLVJFZk1Ka3A5MUVzTkdNWW1jNTFPZU9TWVdCOTNnOXNIUUxGYW5paWUtNF9QYTB5c2JzNzBrX1RHZDB5dFFxSlNWcWZySHI2aC1r?oc=5",
-        "pub": "2026-11-13T18:40:50+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Al Michaels chokes up during moving tribute to Dan Hicks on Thursday Night Football – his best moment in years",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGpSWTY5N3ZLMDlYYWVVRzVGVVg5NktmWXdpeUkwb1lBVHN1d0pVOTdYcWNsT1RuaVdoeFBXSl9uc3FPdW1xRUFVeVVydkNBU3hzTzdhSk0zdUF0b2tsNTZPS0l6eXZ6OEVnTG5VaHZqOG50Sl9BWEdPa1c4YXBucVRpcEdnNlFiU3NjVnZOcGhwUXFtVlRqdXlKcFVNRGxQc0V2eEgzbnFSWjM2dWhCZzMtOERDSjZjMzFFU1dUdDlBS3hRa3c?oc=5",
         "pub": "2026-11-13T15:50:13+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Washington Democrat AG hands girls’ sports law defense to outside firm amid conflict of interest concerns",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYk5ldE1aWlY2bXc1eERfVi1VWkdWc1RfQlRnNk14Q1dZZTFVZkZUOHBhTTJqS2xhcmRhMWwzYU1tdlVYUlBfQWJXZm0zeUg5cThiVnVRMmlXLXpWeTNOWDZiM2Y2WHZqcFplQWZfUVZhaEdqb1NTSVA3WmxfbDBCRWtUWG8yQXNtLVJFZk1Ka3A5MUVzTkdNWW1jNTFPZU9TWVdCOTNnOXNIUUxGYW5paWUtNF9QYTB5c2JzNzBrX1RHZDB5dFFxSlNWcWZySHI2aC1r?oc=5",
+        "pub": "2026-11-13T18:40:50+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -567,15 +567,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Randy Travis’ wife says doctors gave country legend 1% chance of survival before miraculous comeback",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHNGMTczZ1c0NVFOaGd2VmtWbjZqWHpqZGRObDNlMjBTeUtkNnlNSTZ5VVY5NGRwWkhZTzRTWldjLXBxZHF0UXFUV1lnaGZnTHlIOW9iYzlqT1dPSy1fOWFSUmpmdzZWRnZ4aVllRjYyN1dkbWQ2T1g3UUdaX3JhSklUZmRZRURPdDllSVFLQmhmLWNxeDBaYlQzaHo1N1JqLWt2alU2dWxhQ2RRd2h3LU9JZG9LR3UyWV83aVVoMTZrb1ZKODJoONIBzgFBVV95cUxNNnFPNk9oaGo2MERfTkpPR2N0M3I3MUJKbWlMcF94TTBoanNXY19TUXZMUEtxZ2JMMkRjRkpuWi1SS0FSWXgtQVhoaFJtVWJ5V2UtSDg1UUxiVlR1SFV4N21VSXpLa3lrb3k0VU1tN3JVMnNSa2cyVENTSnlTckd5ckZ1ZUZENkdLeTJEak0xLUZMOUxvc0I3NU5FelZnb2VZOTg5VGpkUHVGczJSYzE1V3FVWjdGTHlxLTY1MDlpUFk5ckxxeHF2LUVTQTJXdw?oc=5",
-        "pub": "2026-11-13T17:00:51+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Jim Caviezel says he’ll ‘always’ be disappointed he isn’t in ‘Passion’ follow-up, hasn’t talked to Mel Gibson",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN01nNjhFU0d5TkRyaU5Kam9acmdleGcwcEdsd0dad0NabjNwVTdkN2hXN01xRGNxbDNsT3VZb09OYUM4cjV1WWJIYmE1RVJhSUJSc1U2QjFFQXlSX0dBbTJWUDlaUy0tQndLS2hKRkhPUEEzTUN3bmViODZ4ODZYeHYxdURGQU5wNkloNDl0akNCcXZZLTR6SkhWUmFQSWRsaTl3RXpwd1JVQ0VPaXRQM1lxQ01IOVdmcUJ0bm1uYzMyUmx1RkVQV0l30gHPAUFVX3lxTE0xQUFibGJIU1EwcHVOb3ZKMVVoVFJ4VktkUkFOT0xOVl9Yb1Y0MXdSLUNEazZPeHVOVmViSjh0dkJIaW5xZm9rcUYyTzFTTUNzZUxLcjFZVWNOMDJMeS1hRjNPRm5QTENJeEdZblR6bU82MFd1LXRwWlNqMkNlOTJFTDhLcUFtdVJhWng5bG9JcGZFNkFtaHFZbkVCelh3TmNtQUZQTFI2ZUlJUkwxb0l3UWRkaEpzVkRsbVFkcHpfYjMyVngtb2FSejhKTGRndw?oc=5",
         "pub": "2026-11-13T13:00:46+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Randy Travis’ wife says doctors gave country legend 1% chance of survival before miraculous comeback",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHNGMTczZ1c0NVFOaGd2VmtWbjZqWHpqZGRObDNlMjBTeUtkNnlNSTZ5VVY5NGRwWkhZTzRTWldjLXBxZHF0UXFUV1lnaGZnTHlIOW9iYzlqT1dPSy1fOWFSUmpmdzZWRnZ4aVllRjYyN1dkbWQ2T1g3UUdaX3JhSklUZmRZRURPdDllSVFLQmhmLWNxeDBaYlQzaHo1N1JqLWt2alU2dWxhQ2RRd2h3LU9JZG9LR3UyWV83aVVoMTZrb1ZKODJoONIBzgFBVV95cUxNNnFPNk9oaGo2MERfTkpPR2N0M3I3MUJKbWlMcF94TTBoanNXY19TUXZMUEtxZ2JMMkRjRkpuWi1SS0FSWXgtQVhoaFJtVWJ5V2UtSDg1UUxiVlR1SFV4N21VSXpLa3lrb3k0VU1tN3JVMnNSa2cyVENTSnlTckd5ckZ1ZUZENkdLeTJEak0xLUZMOUxvc0I3NU5FelZnb2VZOTg5VGpkUHVGczJSYzE1V3FVWjdGTHlxLTY1MDlpUFk5ckxxeHF2LUVTQTJXdw?oc=5",
+        "pub": "2026-11-13T17:00:51+00:00",
         "outlet": "Fox News"
        },
        {
