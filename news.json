@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:21:44.585562+00:00",
+ "updated": "2026-11-14T12:06:13.066503+00:00",
  "categories": [
   {
    "id": "top",
@@ -49,17 +49,17 @@
         "outlet": "El País"
        },
        {
+        "title": "Campaña elecciones 29N y actualidad política, en directo | Sánchez en Mallorca, Feijóo en Santiago y Abascal duplica actos",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/campana-elecciones-29n-y-actualidad-politica-en-directo.html",
+        "pub": "2026-11-14T12:02:13+00:00",
+        "desc": "Los cabezas de lista se vuelcan en actos políticos en este primer fin de semana de campaña",
+        "outlet": "El País"
+       },
+       {
         "title": "El PSOE pelea las elecciones en 18 provincias que tiene identificadas como prioritarias",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/el-psoe-pelea-las-elecciones-en-18-provincias-que-tiene-identificadas-como-prioritarias.html",
         "pub": "2026-11-14T04:30:01+00:00",
         "desc": "Los socialistas aspiran a lograr casi una veintena de escaños en juego apelando al voto útil y por el tirón de Vox en detrimento del PP",
-        "outlet": "El País"
-       },
-       {
-        "title": "La diferencia entre PP y PSOE se estrecha, según el ‘tracking’ diario de 40dB.",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/la-diferencia-entre-pp-y-psoe-se-estrecha-segun-el-tracking-diario-de-40db.html",
-        "pub": "2026-11-14T04:30:01+00:00",
-        "desc": "Colau gana enteros entre los suyos mientras la campaña anima la participación",
         "outlet": "El País"
        }
       ],
@@ -68,6 +68,12 @@
      {
       "name": "Univision",
       "items": [
+       {
+        "title": "Un buque cisterna choca contra un crucero fluvial con 129 personas a bordo en Nueva Orleans",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzUxZzB5cWNFN1dVZ1YtTkJQeEtGcm9aWmtVRW0zdTI0d042YUxiT1gyVEpCVUpGZ2VUd0ZORFNsUnRYUVpHc19ncUtDMnl4bGRabHhGcEN3Y3FEMzRXZXZqTjhKMGlVQ1RqTllDRGdPa3hCVnItMWxyYlhiblNQVGdudE1fWS1KVTdPRUlLVF9JN2oydF9ad0hjb28tNFEyd2Z3YU5Rb0tOaDJsZldWMEFkOGV6WjFqNXMyNEd5MzA?oc=5",
+        "pub": "2026-11-13T20:37:20+00:00",
+        "outlet": "Univision"
+       },
        {
         "title": "Suspensión de vuelos en EEUU: ¿Cuánto podría tardar la reanudación de los despegues?",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa3JoSW9rT09TRkozb3NyMlhrbkFyaWJJbzFBYnV6ZGNqYUJlb3FORG5qZWY2Y0J4cmRLQ1RuR1ROckRyLXM2a0NWTmIwUWs1WmVTbGRtTnFqSUY3Q2loWnpfcmNFcjdDUjJpQno4T2g0MWJnWnAtSlJFZnBLQ3hxeWFJMEhrUFhlM0JxTF9jREN2TXRYN3ZBWXVLS3hlNWJlYko4Z0FkV3l5WmpwZDRzQllUNE1fbHVGWHNEQTQ4Yw?oc=5",
@@ -90,12 +96,6 @@
         "title": "12 hospitalizados tras choque de buque cisterna contra un crucero fluvial en Nueva Orleans",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN2l5ZmY0YkxQWFVEN1JnSV9Dek1JQVNpb0RRQURrWGNLT1VxcVVJRlNxS0R2azBsUlVMTndJUWs4SzBUd0d3WDJfaXY2VlFfRVRVbkhfUGk0UHhxeUFoQnhwSlJMeWFDMTV1TVBnTGJYakI3elQ4eVBHeGc0TmZHSkpiV3AtUjhwN2duTHVERFZjQVJJYVZtZG5SNEQweWVneThGVHkwbExqWFZvWjMxelJxMkhCSnFwRjJMeFhFN3FsN1JSNnpYVHZfM1I?oc=5",
         "pub": "2026-11-13T21:57:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "La FAA paraliza los vuelos de salida a nivel nacional debido a \"circunstancias extraordinarias y por motivos de seguridad\"",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0pURFhiQmVXdWlseHZSOXdBWWkyZjB1blN3UUZTYmN4QlVqaTV0SDdra1VDMG5CMmducXJMSUYtN21ycmhxem1MNGdTYUVRRWVyZEhEbWI4S2J3TC1zMER3eFROcHE1YnAzc19xZkpTbFVIT0NEbjJOU2IxZFFoR3hqbXJ0N1dnQ2c2NkcxWEJvM01IRGNmWnR4bXNXYkNXTWxaaWExb3UwVGtMbTRjOWZrQUNObG1LWGIydnNKbzJBdERKUjBZNVc4YUU?oc=5",
-        "pub": "2026-11-13T21:18:23+00:00",
         "outlet": "Univision"
        }
       ],
@@ -197,9 +197,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Géminis, horóscopo del sábado 14 de noviembre de 2026: establece metas, evita compromisos innecesarios",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOazNaaVJmMlhDRU5meTdOR2xzUl9Gdl8xb1B3OER3aUZYWWZNVVNTWHJjUzA5V0lWS3N5SVFWRjlTZ2lHUlFsczhrUHhpenQ3OHEtSkEwLUstRHdJc0F5U2Qyb2RxZGpQd2o2SnBsN2VSdmJrTnBDUUlaUURzSmtkMDRoX2hzNi10NklPR2ItTUllQUU?oc=5",
-        "pub": "2026-11-14T04:13:03+00:00",
+        "title": "Virgo, horóscopo del sábado 14 de noviembre de 2026: vulnerabilidad revela tu verdadera fuerza",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGVEbVlHSWJiZ25zX2I3ajFEWndOM0JlTDB1OVgxaTM0WFhYZ2RzcmYyT2Vuc3UxYW00N0dFSmFZMk9sNHh6MGN2Rm53Rk9ULThCVkZ6RG1Uak1uUmplM3l1aEtseEVIcUJZRFZyeVc2OHpsVTVKUUtGeU16UUUycU5lOWlUbVY0VUlSR3NvTWM?oc=5",
+        "pub": "2026-11-14T04:13:05+00:00",
         "outlet": "Univision"
        },
        {
@@ -265,6 +265,12 @@
         "outlet": "El País"
        },
        {
+        "title": "Famosos que casan a famosos: de Adam Sandler a Billie Eilish o el doblete de Jimmy Kimmel",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2ZLRlBTOWNQbXZaNVRjUDQ2OE4wS25rZDgtTkp1NzlUWGFXRFN5Z2RoRHNBWk9RWjAyY3hYWXQ4S2pGOVl0ZkhpZEpQUW0zTHh5ZGFSVzJURWJYNDZ4YUtpU2F6SE93cFYzcDBGcElES2h2RHd6NENkTkxVVEJWS1p1ZWl1QWRPVllpN1RlbzAwM3g5cDQ1YjhOSXJnM05hcTh3NnFrLTRCSVFxR2lrMlAybGM0Q0JvSkk4TkNzWGdLNDkxSzBQNw?oc=5",
+        "pub": "2026-11-13T04:30:00+00:00",
+        "outlet": "El País"
+       },
+       {
         "title": "‘El niño’: el duelo como patria",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTTEtOWtSdVhWc2w2QzBKRTJwT0ZvR2NpdVZ0cVRoWWNyTFAybDV6WjA0V1NJdmRKSjBfMkNRYTlFbnRVUkZ3RUlRS3JNRDFoUnN5VFJwTUtLbEJUMU5RdC1ROVFmVDU5S3FuU0JrRzB0SWppdXJXOVBCM1I2ZUl5aGJB0gGWAUFVX3lxTE5vcGJ1aFQxSEg5cFRzNnJ1MGcwbkwwQ0l0Rkp3Wks2ZjA3d1Zoa0FuXzRIcFZMNHpVSmNGMGtPcTZGc1huRVRFdllVU0FFYUt5d2hqd01yb2R5VHJGcEszOGstOWNYTlhvSWxRZERtb3daenNRNnh6X3MycXJXemhhLW5ETzRqSmFjcG95TmZWRnNEeEVSQQ?oc=5",
         "pub": "2026-11-13T04:30:01+00:00",
@@ -274,12 +280,6 @@
         "title": "Martin McDonagh, cineasta: “Los gobiernos, empezando por el estadounidense, ya no ocultan sus crímenes contra la humanidad”",
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWENzSWJCOWNlcER3d1VlUFA5TlFHNGZRUG5abDFSaWJza3RfRmx6anRMcjZfeXZFVzRnMVlPQXZkTkR1QUVJQ09WMVVCZ014R3ROQTJSYnhpaWxLVEREVWxPeHNfWllVX1R6S1BrcEQtZWlFUGpmVjRIcXQ2cVA5dWN5MkJCMzV2ei1ubzRJcXltYm5FYXk4SWNFa3IxMlFfLXpsXzFHeGROeThqLXYzUjNDMjY4OS1XWnh5dHBxWWxqTkJoSFc1UTNEUkVFei1kMm53dzN1cGNZLW5SUlc0VW5HeWJPekxja1N1Z3h5MEo4eTFLcXRGZdIBjAJBVV95cUxPdVp2UkIzQUtUdjA2anBnMWhoWUFpbXRoQnkxeU9RdUlNdFR4aU1IWU9FY2RzX0N3RkkwaUd6RS1XM0NQbDRWQmt5end3cXhGZG9FQnhnYTZET0xPRHd2bFFBdW9PRHJWMFNwWE40TFgzSGpmZVVWV0ctSmNycE1nV0FDbHVrUzhfeDlYQ2FLX2R5U01vS1RBWkpTa1YtVjFYR2NjLTdIbmZVNkVWaXBnMG0xelhOUlRYT0lNOWU5cXhtRDQ4d0ZaOUJuWFhsV21lUXMxUk91c3pZYWstVV90R0h6c0IycnlZcmJ3UHFBbzN5Z1p3S0pqX0VGN3FVRC1xWThYRWc5NnBBbHVq?oc=5",
         "pub": "2026-11-13T04:30:01+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Bruce Springsteen sobre Steven Spielberg: “Arruinó el nadar desnudo en la costa de Jersey”",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNFRadlFnazRaZENvbTQ0ZHVyTjBCSC1hSUhGVUd3TWc5NEZUYUQtS0g0M0pwZ1RBNjBNRzZ1aUMtdWo2cmpZUlAyVkM0MzFSamJkTjY1YzNheVBiS0hvS1YzZ0ZPdmJIZEgxU3dMNE5oMG9NX25LYVFXbkJxVmlTcVBpWjZZWDJZWGFZalRteGpxNXc3N3NfQlVuVDNGX1BLa2hmQmh5WVQtbzItcWJUWC1DZ2xnUTc2NjNrMVI4d0k5VXYtNE9EZHpB0gHeAUFVX3lxTE52ZXdwc1pJbjNLdXdEdk5MeGhrMHVnUVg1NVhsdGxTa2d6VmxPZTNDaFRZelg2Z09sdzBWVWxFS0xyTlFmOV9iSXNEUGJfV2hYX2otOVNpVVdVVVVpQlBiTEhwOWxXWnk2Q3BraC01YTRpYXlQd3FTYzVqbzluOFp6Ukc5cVZuQjhwTDZ5MU0zMU5TME9HdGFjc1REb2J2eFNwdzBZTE8yUlJHSkNnZVEtc3Ywb0JPLXI0S0xwUHltb1R0TkotLXNTUGlZdTlTV2RsX01BcU9vNnNUR2dEQQ?oc=5",
-        "pub": "2026-11-13T14:52:22+00:00",
         "outlet": "El País"
        }
       ],
@@ -307,15 +307,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Ana Brenda Contreras no descarta tener más hijos y dice que ¿le gustaría “tener 10”?",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ3lUdU5CdXdtaVhmcjlOU3YxU0hydGRJRXgxWjR6dnVtWGdJcGdXRDVRSVB1VjQxNWFsYmcyT1BjelpBdmZKS1ItSW9JMngtb2pmUEFZYkM4R3ZIbjNfX2N3clBnWkx3b2hiVjNHVW1XNmhHckJZTThqcnNLdDFyU0tZNVFEYk05Vm5hRGxUdC1CMWxWVExJN0FHdW9HNUNBbGR1Z1dxZmRXWWlSaWU4dG9pTnVuZUl0WDVUZw?oc=5",
-        "pub": "2026-11-13T20:20:00+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Muertes de famosos - Página 232",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NOXlpYy1IMmlyaGxBU0tCSjhqUEFnNW5lMFIxTUpQYV9tRjlZMXQ0SjZKUk1ONDdPM1Vobkh2cW5reHd6NmliU0Q2V1I3SlVrUEJoaWhJaTM4M2FTT09yYVhXajVEVXNha3Fz?oc=5",
         "pub": "2026-11-12T21:56:44+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "El ‘reclamo’ de Fernanda Castillo a Angelique Boyer por el look de su personaje en ‘Teresa’",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOU9ldFZ1aVp6WjhtTGlCSEFJMVdGUTc2ZGZXdmhwUGtkUnUzSVFCX1FXWkhlc3pDZ3g5RXNycEhvVHptdXpkRDdfZjhEZmp0V2NyckNqZURYRkZMZmREVURWZnVHSE9DcllqMDBSR1VWTEVmdUxzamt5aUJxRElhTFpzMS16b1l3QUVLcVZ4QVM3YmduRjh1MmpUUkJzMmVuUnRsSkhYN2xFSFNTWFdFaXdDdzZXSHZDQVQ3NU5acnNBMm9KMHc?oc=5",
+        "pub": "2026-11-13T20:13:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -447,15 +447,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "EE.UU. asegura que ha devuelto a Venezuela casi todo el dinero obtenido de la venta de su petróleo",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSDBiZnVGVWNzRlp0X0xvX2Y1U3pSRk9SWmtsN1RzVC1GNWt6VEttRmZhVlhuZDNHZXFqcjNLUVR3RENrdHFEZEZndkVYMFhOOEhqRVM3VjBRVDlnY3BmQk50bmp0N0ZPT2FZejRQTkxoWlFpb0h6V3I5S1hVOXViVnJOTWRJUlVHVDV3ZkI5am4xM0kxSndNVzZKdzVaZVhpaU5UZ0V1dUZyUGFHaFNoVWkyeXJlLWVuRWlQVVFPOFRXMkVYS3lCR3FqSk1ULURIU1gzd3pxWWd0VTY4alRNR0V3?oc=5",
-        "pub": "2026-11-12T19:57:25+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "¿Por qué se cree que el viernes 13 es de mala suerte?",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkJwOGVLeEdhWjh1WGppb3Q1RmNPUDU0VmUwanA4ZWZla2psQzh3VTcyU3N2bGJReFN4Y1hHV3FPM3ZVREp6WEJfT2FLVXU4UGV4NHJRRF9TRkVwaDdJLXBKWnYyQUVsNWVvNkd4blhoN1RkUkFMWVR3R2NUaW9IMmVPRTJNRnRFZk51U1F0NXBzTVIxQVlWTG0zTWlZR3JTVUtFeTFpMmlVZUtKaFZKWHJoWkFqSFNrUG83aFdB?oc=5",
         "pub": "2026-11-13T10:18:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "EE.UU. asegura que ha devuelto a Venezuela casi todo el dinero obtenido de la venta de su petróleo",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSDBiZnVGVWNzRlp0X0xvX2Y1U3pSRk9SWmtsN1RzVC1GNWt6VEttRmZhVlhuZDNHZXFqcjNLUVR3RENrdHFEZEZndkVYMFhOOEhqRVM3VjBRVDlnY3BmQk50bmp0N0ZPT2FZejRQTkxoWlFpb0h6V3I5S1hVOXViVnJOTWRJUlVHVDV3ZkI5am4xM0kxSndNVzZKdzVaZVhpaU5UZ0V1dUZyUGFHaFNoVWkyeXJlLWVuRWlQVVFPOFRXMkVYS3lCR3FqSk1ULURIU1gzd3pxWWd0VTY4alRNR0V3?oc=5",
+        "pub": "2026-11-12T19:57:25+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -485,12 +485,6 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUFl5dXA4SXVBaHVNWlhHN29xRktSME9oLTVPVkJyTFhVNi0wN3JXWUZwZlhfTXJtNlYxZ3BZOF8yWnNSZnRqdHhSTDFFb1p5TGFfQ3J6WVBDb2ttYUlMSmMwXzdhY2g3cW1MSEhXcU9NbFZVWWs2eGNpWnR2bEZYelhHcVUzd2dMZlptWXNPWndOejc1ektzekYzeDdnRXdBMTJsc2JLaW84VUdhWUl3djlOSdIBuAFBVV95cUxQOWxWZEFTSldrQXJGYVlVYkhRYk5PeS1aamptZktmb01SYVVfSkVfQ1MtNHJOZktnT0xneU53b2dwM2ZlS1lPb1RNdC0zck1vSlpCQlNzQjllNk51Zmx3anpOdVZzMjc1MkhfdXdOWnpYRm5pYjVRSVBtUVRPUXRVTURqZ3p0bWdVTjUxNGduR202enVIYkpsb1o1c1M1bEZUVkE5bDQ4OEx3Z0ZxR2YwckJ0MVkzMDFm?oc=5",
-        "pub": "2026-11-13T20:15:55+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Tanker slams into docked New Orleans river cruiser carrying 129 passengers, sparking rescue",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWJuOVFDeFRidGh1N295ZjZkOHVvWlYtcnpPUm1ySkN5RmRmeDhPMkFRdjVJcGhhaVA4SXZ5RmdqVHZuUW5TSkxkdW1vb1FtTkFKWmRLSTRWcW9tS3gtY1lGOXdKNXhkQWI3Xzd5Z3lrbFpNMFdQUWtsOV9SM3JHSXV2NUFsNE9BNTByNFRLeDMtanhQMW5Ucm1QZThDek9HY0stQUFISlVYOUs5ZUdBV0Zn0gG3AUFVX3lxTFBlRnl4bUROR0syd3h3ZHRVaDdnR0JZbVZZdUdhdmZvay1QOFdEQnZldGhsbGRucjJidkFUdHJxbXJsaUtaZENfY19nNGNOczZqT2xCNzhUbTJsamNHM3Q0bFJSYklrQzZoc0FUQVR4ZkNXWEJtVkRTd2pRaXJtendMVC1IOFg1dU82WWNab2laSUxJT0xRNC05VUJ1TTdUbnRxSFJKSWN5akh4dEd0NDB2Z3h1V0Z3UQ?oc=5",
         "pub": "2026-11-13T20:42:30+00:00",
@@ -506,6 +500,12 @@
         "title": "FAA ground stop lifted on Friday night, but some college football teams still scrambling to travel",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX20yY2FhQmtOUUJjM0d2QzZmeGxDaHZsWFQzZ2V6aEJQNFEzbm5BOGJCWmJzakJVeW5fUmlObVRlTkFzQWdjaGRiY0N6Z01qVnUwQkJGUlhLU2NxSnREX3FHeVowcFJQUk9WNEpFdnRoX0FsNlBiMUdEY1owT0Z0aFBfSGQxc19RMUpZZ1pNOERzOC0wWXY4TnNzVGFBR2lCYVF0Zk9POXRFSEtQSlNldVF2c21QQzM4aWg2MDBxWFhidw?oc=5",
         "pub": "2026-11-13T22:51:29+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUFl5dXA4SXVBaHVNWlhHN29xRktSME9oLTVPVkJyTFhVNi0wN3JXWUZwZlhfTXJtNlYxZ3BZOF8yWnNSZnRqdHhSTDFFb1p5TGFfQ3J6WVBDb2ttYUlMSmMwXzdhY2g3cW1MSEhXcU9NbFZVWWs2eGNpWnR2bEZYelhHcVUzd2dMZlptWXNPWndOejc1ektzekYzeDdnRXdBMTJsc2JLaW84VUdhWUl3djlOSdIBuAFBVV95cUxQOWxWZEFTSldrQXJGYVlVYkhRYk5PeS1aamptZktmb01SYVVfSkVfQ1MtNHJOZktnT0xneU53b2dwM2ZlS1lPb1RNdC0zck1vSlpCQlNzQjllNk51Zmx3anpOdVZzMjc1MkhfdXdOWnpYRm5pYjVRSVBtUVRPUXRVTURqZ3p0bWdVTjUxNGduR202enVIYkpsb1o1c1M1bEZUVkE5bDQ4OEx3Z0ZxR2YwckJ0MVkzMDFm?oc=5",
+        "pub": "2026-11-13T20:15:55+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -555,12 +555,6 @@
       "name": "Fox News",
       "items": [
        {
-        "title": "Chris Harrison’s ‘The Vow’ sparks ‘trad wife’ debate among contestants as emotions run high",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVDRIZjR5aEdWTThWb3JUd21OWS1CdGZQaUNYSnBFLTItdkx2SFR1V0ozbDAta2psa2xsaF9GU2tmeDdFc3A1X2FXT3I2Ykx5TnBCd1JYYmtHWG1FdjlBYTMwRGJnbVM2NTZ0WXE0U25LWDhyYmd4cVE2U1NHUVI5TmdrVFNjWmFCa2I2bDY2TEZrcGtYTmh0TmNYZGU4cGhrVk5qekJHS2lQSTgyanBEQVM4Z9IBuAFBVV95cUxOUVM5YWFiTGpkOHFaS0xPVVJMWjRDTG9QUHBsRkRuOWVPZEtBS0NadlAyZUdtNmtkQXVGYkczYzRMczBOZDFSV0FSUFZrODNOUVk4TnROa2FaQmxzZ2dhN1ZPMHhYRDVDVTBhWlh4OGpQdTBwOE42ZGpfWEdHM1hISmthYmlqTlpjTURMeXFVZTc2RDJuU3lTajIyVUlEYW9tbnAxTUxkbnVrSTNFQkx6SGpidVdwcUVy?oc=5",
-        "pub": "2026-11-12T12:00:37+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Shawn Mendes triggers fierce fan clash after speaking out on Gaza",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEJUNjM2ZkFTbTZ0aW0tYTR5VnpFU2trUks0cjhCMlZKOEtjWDRwQTI3NTFLanRfRjUwX1lRR193TDh3cUttc2hWNnZDVTdnb2luMmZYQkZyMFViZmZVUEh5c1Zqa0hJeDdxRVl4S0hhSlcwZDVHbFpERkZid3BPR1p1bGFqLXpDeDN1Wkt4ZmF6ZFlM0gGaAUFVX3lxTFA0NWRhWlhjcWJ2MW9IdDh0NTNIalQ1VnBCS1JzRm1kWnhpZnBMYzNpTnN3U2JVdUZIcVh6WUNQNEhDbVR5TzB4UFUza28tM1h5QUkycUhRcHRMQnVUVm1NQjZyUU9fY3JMSFVkeTI5eHRHRUVHUFdBb0ZySGR6YkpkNU1LTzAza29XSUlvbVdwN0xGdHpIZ3pPNWc?oc=5",
         "pub": "2026-11-13T18:02:24+00:00",
@@ -582,6 +576,12 @@
         "title": "Jim Caviezel says he’ll ‘always’ be disappointed he isn’t in ‘Passion’ follow-up, hasn’t talked to Mel Gibson",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN01nNjhFU0d5TkRyaU5Kam9acmdleGcwcEdsd0dad0NabjNwVTdkN2hXN01xRGNxbDNsT3VZb09OYUM4cjV1WWJIYmE1RVJhSUJSc1U2QjFFQXlSX0dBbTJWUDlaUy0tQndLS2hKRkhPUEEzTUN3bmViODZ4ODZYeHYxdURGQU5wNkloNDl0akNCcXZZLTR6SkhWUmFQSWRsaTl3RXpwd1JVQ0VPaXRQM1lxQ01IOVdmcUJ0bm1uYzMyUmx1RkVQV0l30gHPAUFVX3lxTE0xQUFibGJIU1EwcHVOb3ZKMVVoVFJ4VktkUkFOT0xOVl9Yb1Y0MXdSLUNEazZPeHVOVmViSjh0dkJIaW5xZm9rcUYyTzFTTUNzZUxLcjFZVWNOMDJMeS1hRjNPRm5QTENJeEdZblR6bU82MFd1LXRwWlNqMkNlOTJFTDhLcUFtdVJhWng5bG9JcGZFNkFtaHFZbkVCelh3TmNtQUZQTFI2ZUlJUkwxb0l3UWRkaEpzVkRsbVFkcHpfYjMyVngtb2FSejhKTGRndw?oc=5",
         "pub": "2026-11-13T13:00:46+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "'Hunting Wives’ star Malin Akerman ditches LA lifestyle for ‘dream’ of raising son like it’s the 1950s",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWtrbFU0TXBBSHhTbDZHa3FLUnQzcThVN21zLTBmN1l4VnEtMzlsbVBIQUE0MkhBWkFUTjVWQi1YX01IRFJuVUYwdVVtZUh5cTlYcG5oVnEyRmFYaEc3ZkduQ192cS1IRzRlTmJWM1lpeWtmQmc0T3YzckZDWlJxeHEwbmVPdzNEa1NfSWJMaEp4anJDdmctUU9icVR3Z05lb1llVnplbkVkYk5pN1BXVGdMUzdEZw?oc=5",
+        "pub": "2026-11-13T20:06:34+00:00",
         "outlet": "Fox News"
        }
       ],
