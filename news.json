@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:51:17.363144+00:00",
+ "updated": "2026-11-15T14:36:37.225769+00:00",
  "categories": [
   {
    "id": "top",
@@ -31,14 +31,21 @@
         "title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
         "pub": "2026-11-15T13:44:55+00:00",
-        "desc": "El programa electoral de los socialistas defiende el impulso de las renovables para alcanzar el 81% de generación eléctrica en 2030",
+        "desc": "El programa electoral de los socialistas incorpora un nuevo impuesto “contra la especulación” de los fondos buitre y grandes propietarios y defiende el impulso de las renovables para alcanzar el 81% d",
         "outlet": "El País"
        },
        {
-        "title": "Campaña electoral 29N y actualidad política, en directo | Feijóo hará campaña en Gipuzkoa tras la agresión a su candidato en Hernani",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/campana-electoral-29n-y-actualidad-politica-en-directo.html",
-        "pub": "2026-11-15T13:41:34+00:00",
-        "desc": "El PSOE condena las agresiones cometidas ayer en Hernani contra el PP | Sánchez asegura que estas elecciones son un referéndum entre “la buena política y la mala educación”",
+        "title": "Feijóo hará campaña en Guipúzcoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
+        "pub": "2026-11-15T13:45:32+00:00",
+        "desc": "El líder del PP conecta los altercados, denunciados por el candidato al Congreso, Jon Echevarría, con EH Bildu. Reitera además su propuesta de no pagar el IRPF durante el primer año del primer empleo",
+        "outlet": "El País"
+       },
+       {
+        "title": "Abascal vincula inmigración y delincuencia con datos falsos sobre la población extranjera de Cornellà",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/abascal-vincula-inmigracion-y-delincuencia-con-datos-falsos-sobre-la-poblacion-extranjera-de-cornella.html",
+        "pub": "2026-11-15T14:10:56+00:00",
+        "desc": "El líder de Vox asegura en un mitin que “los españoles son minoría” en la ciudad, cuando según las estadísticas representan el 81% de los vecinos",
         "outlet": "El País"
        },
        {
@@ -46,13 +53,6 @@
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html",
         "pub": "2026-11-15T04:30:01+00:00",
         "desc": "Los socialistas mejoran sus posiciones entre el electorado de centro, pero están en riesgo de perder un millón de sufragios por el flanco conservador",
-        "outlet": "El País"
-       },
-       {
-        "title": "Miriam Nogueras, candidata de Junts: “No me presento para poner o quitar presidentes españoles”",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/miriam-nogueras-candidata-de-junts-no-me-presento-para-poner-o-quitar-presidentes-espanoles.html",
-        "pub": "2026-11-15T04:30:01+00:00",
-        "desc": "La cabeza de lista de la formación reivindica los éxitos que le ha dado la presión a Pedro Sánchez, pero veta al actual presidente para una eventual reelección",
         "outlet": "El País"
        },
        {
@@ -485,12 +485,6 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Pentagon's former UFO investigator offers simple theory for mysterious jellyfish-shaped object on video",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWIwNk1HZlZ2MDhLc0gydG94NXFrMTJLeGlsSU1tWGlZZk0wWFRVZG41WW5QcU1BcEM5Yk1ETTl1cjdaOVJ0d0liSHNLMC1hZUQyTmd1VFBfMUxGTlJXdGRWZGRDR1lfeWEwUXlFa1gzLWYxNUpYNUg2bjlDek5XbEZSZHdCUkJJc2RRd1B4ODBGMmVISThFenpxdFRVRVZrTzdIcDhoOTQwM0o5bHlfaWtmSTRSN1hCLXB4ZUE5VdIBxAFBVV95cUxPVE9EaFppZXJ4aUNEQ25tN2M0NTVicmVlX3Qyb0U4TUxVdDY0ajNRaV9zMzdzUEVQQ2l3UkZmcW0zeFFLZHFaakYzbERqYW5LNnBkckdaMWgyT3RZQ1FzRENudVRYc28zNG9DSmhmMndPRXVNcmxIb0ZuRkg5UkpEc2RiMExGNGFicVJCczdMQTRrM2o3VW41S3JNQTAxc0IzUWFDSWtwQkhTaDBLM24yeWtZeWtNV1VvOHVLYjlSdVB4WUt3?oc=5",
-        "pub": "2026-11-14T14:00:38+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Five college football bets for Saturday, including two road dogs that are being slept on",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmZQMWZFRmR4Y1VNNTkxTmVsVmhYVVEza2tfa0ZjWWo3U1NGU3pqN1ZLaS1TeE5qYWtjeDBoQ3BVLUJNS0RrWHZmVE5ROTN6c2Y0bDdXeFFfNmVtWldzbUYwcHVjcXNwRjlOZlFGVGJCdDg3dzR0VGFDVlNoNXh0U3QySFFtdS0xUmx1R2RDTjVuTnRaVDVVbkZZeWROeXhMdEJz?oc=5",
         "pub": "2026-11-14T15:35:16+00:00",
@@ -506,6 +500,12 @@
         "title": "El Salvador’s president shares video of gun-mounted robot dogs used in military operation",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EZFdRU1gwQ1pieEJ0aWNjQ2VPMWVpakdQUHFJNWUtOUU1TTBfSWpqaWZhM2NDXzRmaUZlRFJtX3E5VmVLRjNwMDh2akJ5WU1KSjgyMGR3?oc=5",
         "pub": "2026-11-14T23:01:30+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdTRHYjVtWnZfU25scEp4ODU3Mk42UW1EMENKOTNxMVNsSWE5cW5zaFlseXNtZ25ibEExNEFhckVrVmxuQklfb1EyN2V6YjZ4OFh4Sm5qNjZfczVpNk9mNnp2VmdsaEpGWjd2UVlxUUNRbC16RkJGLUtESWp2LWlRNjJGM0JPcm1qaGNKa05ma2UxNHNsY2FOaDN6Ul9jZGvSAaQBQVVfeXFMUGZ3QVd2bUkwYmxfZ3VZaXp0RjZ5QVNqQVFQZVU3TzhneFpibEs0SHBMYnV5MlFrWENkc1NyRzNXNXNqdHJGMGhnUGdIZHJlWVRnbDNKR0NlT0EtbmlZamsweExIUkU1MnlaYWk3UkNRZWtNLWZmR20zUHgteUdMWWpobi1IMm93ekVYSGhiTHpLYm8xalRiTFA3dDhLdWNUcEpvS2c?oc=5",
+        "pub": "2026-11-15T00:51:47+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -535,15 +535,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Star golfer has a new appreciation for SI swimsuit models after recent shoot, Herbert auction & Herbie's dog",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHA3WFdIQ0FfZVRWdUI4c2g0bFlWejFFX3FnalQxdmtNN2E2V1o0MDJreGNaLUV0TUhQdEZoQVd6Z3VaUnppMlZac1Z3U2lMTmQ2bHZRVkVPU2ZuT0FncktXaFpIRjRjOGxCVmNGdUtrbWdSYldsSjBTUkdsaU16YUNCQ1FyYUhOaU9oV2pvZlRVa0dSazhFOTJFc3VQSDY0czlRNkdudW9xV05Pb0YycDd1NFpLa1RPTW1XNWlnZkZEdU5FZmc?oc=5",
-        "pub": "2026-11-13T14:26:29+00:00",
+        "title": "LA gang member, who helped Olympian turned into billion-dollar drug trafficker, charged in federal indictment",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU19MVHQwRkR6cTMwcjRUT1VObTZWZ196MjZyZmNpTXU5SmtxSHRjZ2JKYWxKOFU1UkRySWJyTXVUU05Od2lYYnBha3pnNTNWQ1B4VTNFdGRCZUs2dzk0Qm44VDlQVkJBdy1icmlQTXBiRVc5T0JFNkVCUk05ZWQzR2I3Y0lJR0tNMlVOZDR1bmdRZVBFektzWklTektOWHh1NUFfeUUzUVNlTXZRMDNUSmVpVDAzRWRmTlFBMGNFaFJtREpzcmg0VkdYNGVScDA?oc=5",
+        "pub": "2026-11-14T16:53:33+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "FAA ground stop lifted on Friday night, but some college football teams still scrambling to travel",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX20yY2FhQmtOUUJjM0d2QzZmeGxDaHZsWFQzZ2V6aEJQNFEzbm5BOGJCWmJzakJVeW5fUmlObVRlTkFzQWdjaGRiY0N6Z01qVnUwQkJGUlhLU2NxSnREX3FHeVowcFJQUk9WNEpFdnRoX0FsNlBiMUdEY1owT0Z0aFBfSGQxc19RMUpZZ1pNOERzOC0wWXY4TnNzVGFBR2lCYVF0Zk9POXRFSEtQSlNldVF2c21QQzM4aWg2MDBxWFhidw?oc=5",
-        "pub": "2026-11-13T22:51:29+00:00",
+        "title": "Federal judge blocks Trump's renovations of DC golf course hours before its closure",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0QtZHctT3ZVRFhPSFk0b2dBbXB3ZjZaMDdKeTZ0SnJFeS11V2VHRDRPZmZ5UVNSR0VwUHhVUW80N0ZDUy1jeFdGOWlUVk9kOWMwWllyRkhXdUtmUU5UY2VjcHpZRGZLWkFMMDhfSC1zZlhzbS1YazAtdThoQ2FLeDRJLVU1Tmp5Wmp4OHhDZkhSdGNOMmxYUUtfSmx0NWVxd1N1VzFUQjFFbHU2WFlSOGpYLXI?oc=5",
+        "pub": "2026-11-15T03:00:05+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -567,6 +567,12 @@
         "outlet": "Fox News"
        },
        {
+        "title": "Kim Kardashian poses in barely-there knit beach dress with fans calling her 'the most beautiful woman'",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUm9VWlZvaWl0bExxQ0w4SGJLSlNid2FlOWQtUFp3SWp4M3lfcmlvSFVVcmhHS29uTWNiSHVhQVVlMU51dEZHNzRhVzBxYURISi12TlhEUVBfZ3hHaVlDdFVLYVF4THZySHBuX0dlZzBuOXhUa1RvVjd0VXQ2el9Qak1kN09NdzhDWEotTFp3ejNKNTRtdWpCZ2xwcGJjdXRVR0VfSnZ0UUJXc1RxZktzM2wydWZJTGVHTGtrM0Nvaw?oc=5",
+        "pub": "2026-11-14T20:38:53+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Hugh Jackman, Sutton Foster enjoy romantic beach day in Australia",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmJoR01GWjV6eUd3U1UxZ0xzMWFQN0lvSC1YMFZibnZ0dWt0NTZodmpkeTV6cTViZ1FPTFA2SFlKODZzWGJtSVA0cHdCb1Q3ZVNjcjV1M0lfWVZTN2ttTWQ2WW9ILTFqSUdsZ1d2a3luZU9pWEkteURaaEQ4Y2VfYWpsOWhfU2ZTTEhldkRoLUJmWjBqQkxoalJMRzBENnhh0gGmAUFVX3lxTE1XZVNxWnB0NzNtanR6NDJuc3ZRek9hbFFEa052UWFnYzc3ejZObkp5WW00cDJfYXQxaXBiWXNOMW1vLVp0aDZNUTQ5TDJLVm92bEVQby1mZk5HN2NKTnZFRjRrVlVhQVhJcUYwMGtrZDlWLUNJWG8xMHhvU1lTRWVOdjZxY3NtZkdiLVF0Uk1CYzRscjFSbmFxNE9TSlJjX2djeUxZQnc?oc=5",
         "pub": "2026-11-14T19:00:03+00:00",
@@ -576,12 +582,6 @@
         "title": "Tom Arnold admits he hasn’t dated in nearly 10 years after calling people his age ‘disgusting’",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2IwdklTRmprRHZBRUNlMzY3V0wySS15WkZzci00VDE4RkVWTUhva29GbGN4OUFqd016VTQ2Q1M4VUY1N1dQVlctMUFidkNKUU1jdGVyNFZWTGhfTmNFZDZDTktRS0RlcUtiNTMwR2VHX25lOThrOTVLcmJNcVBSU3l3WUx1S2dBbkhrNUxCbUNySzFUUGVRdEFieEV2bXFaMEVYX2pqWUJOSVp4TjZzSTFNQUF6QdIBuwFBVV95cUxNRVA1QU1kY1dlRkRzT18zYjhVeTZJZ19CLVdMTUNfQ1Ixb3NaTnNOZ2Z2Wkk1dmlVMHQtVldiTlpmbTRCZzE5LU1XMngyTzNZOXl6bGM5cy1RUDN5eERlWlBUOEU4c1ZtTklFcExDMHR2RVlMMTZVNy1ENlRIeVg4UjFMRmgtM2MxUXR1ckRTM2FkTlRsNHl2U21seHZ4V1BERC1EdDNrLV9QYTBCeTEwNkotVGIzcUpMSTdv?oc=5",
         "pub": "2026-11-14T21:43:02+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Kim Kardashian poses in barely-there knit beach dress with fans calling her 'the most beautiful woman'",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUm9VWlZvaWl0bExxQ0w4SGJLSlNid2FlOWQtUFp3SWp4M3lfcmlvSFVVcmhHS29uTWNiSHVhQVVlMU51dEZHNzRhVzBxYURISi12TlhEUVBfZ3hHaVlDdFVLYVF4THZySHBuX0dlZzBuOXhUa1RvVjd0VXQ2el9Qak1kN09NdzhDWEotTFp3ejNKNTRtdWpCZ2xwcGJjdXRVR0VfSnZ0UUJXc1RxZktzM2wydWZJTGVHTGtrM0Nvaw?oc=5",
-        "pub": "2026-11-14T20:38:53+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -617,9 +617,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Software company with thousands of Fortune 500 clients joins Microsoft in experiencing major outage",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc1NkQ0k0VmN4X2JGY05vV3YxX3hFS0x1U2Q4Z0FOdWxGTm5ReGRabEhCdWhZOHZHNkJPa1BtMmJKVE1BQW40eWpwenZHV0xtUGZLWkpELVp0ellOMXVMVnVRa3N1NXBLdDkySjRfalFKTWxfbFhtc3Y5eFJyWnZycFBNZjgtYUdhdUNILWlnUWJXdmhaTVJueG9QV0hta21JVFc5dmZYTExya2hicERSQVRJNHlJbFhzQ19zWGxWb2VyTzVHTmfSAcsBQVVfeXFMTXFScVp1TUNNWXJkVlNQSEUxMlh2aXRxeXVpeUFxLWJCMG1Fdk5CbmJ1emR1czI1ak1VWkJWVGhpRDRUSkhzeTExZkdTYmxQR1NRS3ZFTGJDQjgwRW1rYmE1N2NsZVd5RExOd3hXeUo4RjZ4dE84d0lPWUJIa0NzSW5LTEtrWWp0TjdQXzEwWWZCdDVVd2tLcGhXN0lNRkc5blprRGQ2bDZIbS1qempyZjQxSEtpTTJrNlFvQV81Z1F6QlV1Rm5pb2UzTmc?oc=5",
-        "pub": "2026-11-14T13:13:00+00:00",
+        "title": "New Orleans port seeks tanker seizure after cruise ship crash sparks $1M lawsuit",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUpaRVhvcDFhNEN2dVZCajh6Z2lWVXhiaXRta0E1Zk9Fei02ZmhkSkFTUG1XOHNoT3RiQmJwR1B3NVc3bEU5U1hub3Z3LW54eDEyaWhtTFNxRUYtZFVvQ2VIZVlOV1NfQVc4X3BkNGd5bHloTWZraUxKS1IwUTREY3REWWZ0bU12eFgxR2hHTnlUcTYwWmdPcS0xcmtsaUFBdEdtWmI3SF9QZ9IBrwFBVV95cUxOa3hYY2N0Y196VE9VX0dNT0g3WUd2c0JUN0JHTmQ0LTRfM29xR1RQbEt2TGFYLTlXNlJHbmprMkpkME1mN1VVTkpjdVdvWFEtd0dNOTlGWHhhSWRhVXl3aWlQbjVNc01BV3NmTU4yM3pBQ2xEbHhBV3pjT1NOMVh6b0prVTBtd3pfeXNiS0VpLWdiT3pGLXlSQkNELVE1ZmxBNG5IMEtwelBPM1hVN2p3?oc=5",
+        "pub": "2026-11-15T00:01:00+00:00",
         "outlet": "Fox News"
        }
       ],
