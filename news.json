@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T18:48:16.148486+00:00",
+ "updated": "2026-11-15T19:30:08.357044+00:00",
  "categories": [
   {
    "id": "top",
@@ -30,8 +30,8 @@
        {
         "title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
-        "pub": "2026-11-15T13:44:55+00:00",
-        "desc": "El programa electoral de los socialistas incorpora un nuevo impuesto “contra la especulación” de los fondos buitre y grandes propietarios y defiende el impulso de las renovables para alcanzar el 81% d",
+        "pub": "2026-11-15T19:28:50+00:00",
+        "desc": "El programa electoral de los socialistas incorpora un nuevo impuesto “contra la especulación” de los fondos buitre y grandes propietarios, y defiende el impulso de las renovables para alcanzar el 81% ",
         "outlet": "El País"
        },
        {
@@ -44,7 +44,7 @@
        {
         "title": "Feijóo hará campaña en Guipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
-        "pub": "2026-11-15T18:45:56+00:00",
+        "pub": "2026-11-15T18:48:56+00:00",
         "desc": "El líder del PP reitera su propuesta de no pagar el IRPF durante el primer año del primer empleo",
         "outlet": "El País"
        },
@@ -87,9 +87,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "L3Harris, la empresa que está bajo investigación tras la paralización de los vuelos en EEUU",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaXB2TWtOd2hnWno4bjNlX0FRT2VtM05JOHhpc1pza0hma3RKeWh6WnlVOHpNeG1jMk1DYVJvX21MV0s4SmlpcDBieGdTZ3VrT3NxUFhSdWgwWDdETnZQTHZxRmt5Q0lpeUpoSWl4LXRlYjhRNE0yeW4wZGNCWENnbEdiRnlFbk1JUVJleXA3Wl95RlVHMHZyeGM1MlRzRTZDc1NoaGtGak0wRmdPQ0wtY3RILVFKQ0RLTF9leGtPZzhQcWpPQUZOaktRcEl1YzA?oc=5",
-        "pub": "2026-11-15T05:45:21+00:00",
+        "title": "Congresistas y alcalde de Austin piden a estacionamientos privados impedir que ICE use sus terrenos",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdzdMWTlycm11VzFhZi1VbUVYOTRlQXNQVTFLSGRPM28zMWVJY1B0bUhpR2J5Umx3Q19QdFQwZTVMTXZ0UWxzdlBHTGJBbjQ0V3JKM2tSRTNkLTBmSzB6MUpIX2VaUkVGMTlXMVZOMGR2WV96N0pOZG5RWl9za1NJd25aTlJGSDhWOEpYUWxFb2tlWHBXYUwzYlpHa0tra0pZd0xXRllZOXdxbUtwS0NTZTZCaW8yYzQzcWltV21TU2FWQUJ3ZVd0bWFHVGhIblBPVGEtem9QMGI1TmQ5bW1V?oc=5",
+        "pub": "2026-11-15T05:41:04+00:00",
         "outlet": "Univision"
        },
        {
@@ -215,15 +215,15 @@
       "name": "Telemundo",
       "items": [
        {
-        "title": "¡Doblete de Stephanie Ribeiro! Pumas golea 3-0 a Tigres y acaricia las semifinales",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZkZIY0RJSTVNZFJvdzU2TmVFRVpFdlh0TlNhcS1WZVN3c1Rvc1dkeVJLUXZ3WlZBejJYODc5LTVDR29ER2pvNkd2MXpkZUd4eXRvQ3NEVFMzNU1NdzhRVkVnY21zQTRVUGZEbFVDQXBQQnhDbkVUZEk2bnpPX2lVbGIxc2UyZTZEMjdSYldyNzhKVzZCUnZicW9XaDhZZWFPQktFWjh4VXdxa2s2N0Q4ZllnM011MTk3UmFGX01SeThDcFRkQWFpTTdJdHBlaFJ3d3d4VDh2NHNBTC1ZeEkyWk04dFpMbnktdGd2SWFR?oc=5",
-        "pub": "2026-11-14T06:52:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "¡Chivas a semifinales! El Rebaño se roba el boleto frente a Juárez Femenil",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOWZQOUhJaXJ0SUM2RTU4QVFnR2VrTGJBM2hhSzhUVjFDSTVDZ2FBVnpLSnY2QlgxeUdPTXpfd3h4Rmp6RjJKdkFOajhJMW1zN2g4YmN1WjFVNlVQOW0tYm56QkJsSTNwUGVjVC1PcDJVTWczM2t1aFQ1MGdEZjhPSzZMOF83R01MdkxCcHdzQVFSQXdTR0tlQWpBclBHbDY4c1NRTGJERXBCSV9ZZXduWGpmNG4yRERRbzRfdDdic04tVUk3Nkxzd3lhdnh1QkJVeWpZUlJZOF9IWlBrLVBPNEFfbw?oc=5",
         "pub": "2026-11-14T19:51:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "¡Doblete de Stephanie Ribeiro! Pumas golea 3-0 a Tigres y acaricia las semifinales",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZkZIY0RJSTVNZFJvdzU2TmVFRVpFdlh0TlNhcS1WZVN3c1Rvc1dkeVJLUXZ3WlZBejJYODc5LTVDR29ER2pvNkd2MXpkZUd4eXRvQ3NEVFMzNU1NdzhRVkVnY21zQTRVUGZEbFVDQXBQQnhDbkVUZEk2bnpPX2lVbGIxc2UyZTZEMjdSYldyNzhKVzZCUnZicW9XaDhZZWFPQktFWjh4VXdxa2s2N0Q4ZllnM011MTk3UmFGX01SeThDcFRkQWFpTTdJdHBlaFJ3d3d4VDh2NHNBTC1ZeEkyWk04dFpMbnktdGd2SWFR?oc=5",
+        "pub": "2026-11-14T06:52:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -313,9 +313,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Arrestan a Gabito Ballesteros en México por presunta apología del delito",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDVyT3hpNE1DMlczZzJGbDk3b0diNjBVQkprc2h1QjAxNmU1dDBkNnduQ1VKZlk0Z1RzSUZ2cERZdllNOWNSXzIwRWg5S18yVl9oVzBtM25Gc3hmY0QzN1E4SVEwMjZZVXRDQ1hIbk9waE4zclZGdXlSZkttWlJQYUhQRE1fYWVFc1o3NjBQV00?oc=5",
-        "pub": "2026-11-14T19:18:03+00:00",
+        "title": "Greeicy, Carín León y más famosos se confiesan en la alfombra de los Latin GRAMMY",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa3k5aW5HTTRKaW9uLXFDR2lEVjF5OWhvMmg4bGpaS1NpdlpkQ19LOXhUeVliMURyZG9GX1V6T3pUY3gxRWZUUGt2c3JPUjNDLThzek15M25vajZaX0JuWDBDc3pCSFdMTDFJVmozdGRZdGFVQWhXbzlIOVhYTm1kR1BObjdVanlLVm5CSVZGYkh1YkNScGh4LXp0R3owbm9TaUVhNDNhbFFzTW11SmZZWE5tVXQxMDY2Vy1sWmhETlQwbzFYQTE4aGVZekxFX1lqTFBBaQ?oc=5",
+        "pub": "2026-11-13T22:48:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -339,7 +339,7 @@
        {
         "title": "La edad de los posibles aspirantes a la presidencia en 2028 contrasta con la de Trump y Biden",
         "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeWZNTExQcWlTOUpsQmRncnJDNS1HaE5DbVZfbVpRbXlGZEIzRkN3WHI0czNqMWw1UXRJUmF0SE5PdVhGRnk0cm9PekJiQUowX04xQjluOGRiOF9zVHZSN1dHNzR1ekhoYmJubXV4Y3ppbEVOT2Vmd2ZWU25zbUJMLWY0aDNWUTZ6R0pYbVBWUy1LeXJubndLYzFXampsQ2FrYlBZal8weEJxQUtQQnN2Z0s0dUd5SjV4NmU2TDJ5a1VOX3l0UkgtWkptSzdXRmxVbkx2YWd5VThSY1hqaUZ0Qml6eWFNR3B4TG41eEpwVmx2NS00dTZRemJ4cXIxU0w4X1hVOWVJajVDNkNnMHFyNTh3?oc=5",
-        "pub": "2026-11-13T19:15:13+00:00",
+        "pub": "2026-11-14T10:08:09+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -423,9 +423,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "¿Qué tan seguro es el sistema bancario de EE. UU.? Riesgos y cómo proteger su dinero",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVYweGsyVGVpenJmU1A1UmY1ZkVObW5fcWFUSDl3SDdRQlh1X3BNM1l4b1BhdnEwWmRONjJCTFM1dTJpTFppYlJTYi00eU1qcUZHSG1nQWpMRFJHc1dyVmVablZNdUtQOU9WdExsVTU1OTNnUXdncEZDNnpxb1BXSWNXcFBPTEl5TnFyVlc4ODdkeXlaMDhMbGFXaGNXVTBNTmdpeGFRQmNHTUZFS1g4RUhjZlNqdWZ2RmVpeExoNFRUYkN4UDlzb1hoYw?oc=5",
-        "pub": "2026-11-13T19:23:00+00:00",
+        "title": "Dinero - Página 1258",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ocEQ3MFJtd25vMjdRbzJRVTZkWXVKTlIzLUtLSW1aQ2lQY3lFMWtYaVR4QWpiVk5XY1RXNnlTMnJDS1NPUkpKM0NpUlJjc1E4TTAxMVV4XzhOM2lE?oc=5",
+        "pub": "2026-11-14T05:53:42+00:00",
         "outlet": "Univision"
        }
       ],
@@ -497,9 +497,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "DEPROGRAMMED: A 'kind offer' of death sent this couple running from universal health care",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnQ3My1kOHVmX2NxZ0FZeVNhUndNSjVmRjNHNzdZaERMOTh3UmJld1FsMDVWTnlEMG9OZktaamR0dHRCM1A3MWRGTk9VUUpaTS1NcktCVGVBNWtZSlJOSW5ZbS1KbWlNUVgwNURNdFBYcl81S2g2THIycEE0YXBUQzVKQzg2cUxwNk5tOVlRQk5pSjlZeXFtRkU1NkxrZXlZN1FV0gGoAUFVX3lxTE53MlJNZ2dralprSm9ZQkRYanhEVTM4ZEZFREpPQkRNXzJMWmJESnBySXMybGlQdnB1SDlUcWl4anExRlJNTEhvSDlzX3pRbmN4Z200b19kT19VZUNrZXVXVW9nSU4xT2dVbEk2SWFKRDlNV0hvUC0wd080cFc1OHFBc1FBTlE0Y0RxU2xhSk5JUmNBSHp3dm9pQjlEVmk1SHBNWktzVXBMcg?oc=5",
-        "pub": "2026-11-14T20:00:48+00:00",
+        "title": "Dana White confused after UFC reporter's long-winded question: 'What the f— did you just ask me?'",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWY3T1ZEaWtSUHBjU2xDaVN2dm1LN1BEM1FpMHdHQWZ1RDhHM0xKQWFBcXNGR3c0ZzVIdmNFWmhpeFN5Zk9Jc0RTTFNuUk1Rbm5MS01HNGhGMVVESzl4NHZRY09MWi1uN0NMQndIVElNcW4tbFhiWHp1LURJQ01MamtCMmlKbWZuUnZPb1pwSy1OQWNhcTVzTkpqMUM1LVZzeFZCSkJmVVZLaTRwbmFuRXJidEtLT1di?oc=5",
+        "pub": "2026-11-15T15:40:43+00:00",
         "outlet": "Fox News"
        },
        {
@@ -529,15 +529,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "ADF seeks to defend Washington girls' sports measure, argues state cannot fully represent female athletes",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dERkxpdi12WUZXMi11WkVGOTJxNFkzMzZWRFIya3g4bkVjYUYyd2xSNm9HbVJFWDJVYWduUXJ1a0kxZjFuY2hVLWRXX0ZKZ1lrc3FxRU1jZGNhc1dEcUF2aWhhN1N4Tk81OVJ1T0Zud3AzcnIzMThZeHhxOUZ0NmNlTEVNaVA4SHR6LWU0M2czaWF0MFl1WkVoYy1WY3dMMXhkZV9jUHNCQkJmQWNTV0h2WEs5NTQwTzYwcG9zcVR3UFlLWXktamlCekZReXlsSFZSLUVB?oc=5",
-        "pub": "2026-11-14T02:12:14+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "WWE's Tiffany Stratton leaves little to the imagination as she mocks rival in first appearance since title win",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXRSaU1zZllLX2oyRDh6QVNfX3J0TjBFNkwwZVN0QUFmd3VSWFBzQ24xSUF3Y3lLUE5JQU5GWm5QVFp6RzFiTE5xOWFycHRpdldfQXVXUVlSUnRCWThRbE1rb09EZ2pmTXNJbDVvUnhGUEZUVWlnaEsxclNybnViYVE2OE5aNVE3N3YzdmVObnpmWWlVUzVUdS15REZ3dW9qSUhsc01UakoxZTVES1ZpMmdhTVJKOTdYM0lUai1jQ2RJaUhmbEdRRVdB?oc=5",
         "pub": "2026-11-14T14:51:24+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "ADF seeks to defend Washington girls' sports measure, argues state cannot fully represent female athletes",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3dERkxpdi12WUZXMi11WkVGOTJxNFkzMzZWRFIya3g4bkVjYUYyd2xSNm9HbVJFWDJVYWduUXJ1a0kxZjFuY2hVLWRXX0ZKZ1lrc3FxRU1jZGNhc1dEcUF2aWhhN1N4Tk81OVJ1T0Zud3AzcnIzMThZeHhxOUZ0NmNlTEVNaVA4SHR6LWU0M2czaWF0MFl1WkVoYy1WY3dMMXhkZV9jUHNCQkJmQWNTV0h2WEs5NTQwTzYwcG9zcVR3UFlLWXktamlCekZReXlsSFZSLUVB?oc=5",
+        "pub": "2026-11-14T02:12:14+00:00",
         "outlet": "Fox News"
        },
        {
@@ -593,6 +593,12 @@
       "name": "Fox News",
       "items": [
        {
+        "title": "As US credit card debt hits $1.29T, bank algorithms are rejecting debt-free, six-figure earners",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVQwQmZhd1BObEFmRnZ2OHJBWTlmUXVycWlCTXdKeWt0UnBnWGV3SjJYdzRlR1ktNGJXaHpYNWpKYXVEdi1adURNY1cyQWlIT1dJVGg1a3h5SjhkYWwydDNuNGNPQ1dNOGtzZjVwaTFldXU0SHBRWlFRUTVZb29Qb2hPRGE1TXFpb2VFZ2dnTWFQYkF0RUZsenNHcGRhT1NBejBuejNYM3lXTGdQN1FySm5hcWZ6cVh6T0NRbmxNeFRZQ1VzQko2a05R0gHPAUFVX3lxTFAyYmlmdTZvclV6RHdBZnN4UVFtQkhSY3F2NVBtSjYzU0hBY2hqajUtRmtEX256WEUwMWpzZmpMVWNVbTI5MGdJWmp5eXJyY2lJZERveVoyajFvdDlDMlcyQ2xmZUhIU3RZTG1tZE4xcEdDUDktVnVRdWdGajFKVzNGRUFvdlRJQTdMUUdFeG4yOS1uN0JuYmNsXzE3blZZSmU3RFN2NjFmb1E5QW55Vk9ZUU9vWk0yT2FyMWp0cVRSZ2FFY3YwYTZENlZDUDhpVQ?oc=5",
+        "pub": "2026-11-15T12:00:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "CEO SUNDAY: BlackBerry boss on the company's evolution from smartphone giant to software powerhouse",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUlFqQ08zMTYzMUJFbWFBU2xKUC1LeWpVUlVqV1RmaFEzYi1HcHFtRVhIUV9YMTdWWmxyTVZoTE5pYURiVVo1amkwNndmdHUtajhvbVRoOWtNSXFvalFmYlM1WFdyUHBrd3NBRDdyc3JyNWVXakFfUFpQdkQ5Q0FmTVV0OVcyVTlGbnNOajJ5c1VVbWMzRUUzNkN2QXpsZFpQQU82akxkQkFIWTB5QV9idTZSRWhLTUY5X1hudU1wSUN6YmhWbEtQdW1zZnLSAdIBQVVfeXFMTzlXdUNIdVB0RVdzemVvSm5YQVowUGVrNU1wMC1taVQ2UHQ1QzhvaFFlMW9nSFNDMEhWdkJ5OGJvNk8wRmFEZlJwaFI1RnhTWUZubzNDTDZnSFh1ek9vQnNVcmJBWmw2RXUyaHd2ZnktVzlQWF9sR25IQVRMV1UzNVVXNldoOXRaTXBuYXdnZENBX2VZZWlEV01KWjFFVC1ZbExOLXlPMEdGUFJZVVZZWnFieUpPZXY4SlJSdTZJU00xQlc0akNsT1lodDVrU3RScEp3?oc=5",
         "pub": "2026-11-15T12:00:00+00:00",
@@ -614,12 +620,6 @@
         "title": "Tesla makes major Cybercab announcement as driverless vehicle goes on sale",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWRiUWowYWVmQW9OdUFReWE4cDdfWDlZSUVJNURfUEp3UTJncjFBQVVwOVhxcVB1dmpfSkJNYVhmQ2lUM01YNHUwTzRDX2VNdHdWenNkSjN1RTFpM1ByeG1XeElsdDN6Yl8xSnlsZnlqUUtDY0VyVU90c1Rxb3JZdmM3M0czSVRTUmI5V2pVRlRVQ0VYMi0zckIycFM3eWtEcEhnTXpEa29iUlHSAbABQVVfeXFMUHp6UmxGSl9iLUxTY3hhSmRUYkNZcHkzck16VVprb3pqVE9nUnRrdDJKNWxpYUZybFNrMkt2WFFZejdJdkxBMDJESFR0N01rRTJoVGxVa21uWm1zbFk4aXFaT093SVRVQlFuaWU3aDh3MGkxeERGcmJCbzFkeTc4dnRORmFyU010cjR0Y0I3bW5RU2hweUlmQU1xVFFiZzlfN2Z0SEJubUhxR1BOel85X0U?oc=5",
         "pub": "2026-11-15T01:49:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Who is L3Harris, the federal contractor Sec Duffy says may have caused the FAA outage?",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQanZNZDMzVUdKY0NkaU5VUXVSWnk4ZWpHd2lZOW9BOTFOUG9UVWNoX1A1NmRxZ3lMbGkzV2M2Y1dwWklRbmxjSWs2QnFvbHR5dy1wY2c0Z2dyWWVyczl0SjY2YjNTQmx5NzJrUm9sQjZxNU9aUzNqQngwaTNXRTJzRGdFcW80dXVtQUhlSWpNdmMyN1BKV1kxcE5Hem53Ml9aZ0p1cDNZeFFtWWUtZ1ZZRl82QW9jellRZkpTdNIBwgFBVV95cUxOeHEycjNZemtEQjdBV0F3NUpDc01RekI4MElGa3kxN256Z0lFdUpJNHk3cktzTHQ1UHd0UU5Zd3pIQnh6RWZYMUZRNVlfUWVIamNkT01FSklpcEhLMWFXRnFkRjhmdXZsdWw0Ymt4TXZCcjFkeEluYm5xY2xkSklwd0J2Q0RtNVlfQWJRTE4tOUtPYTRtdnF4YTZTWDJsYjI0OUdjbW42RzBsaDhVLWhMRldZbngyN1l1V2ZQVVZrbHk4Zw?oc=5",
-        "pub": "2026-11-14T19:32:00+00:00",
         "outlet": "Fox News"
        }
       ],
