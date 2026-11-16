@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:58:41.420263+00:00",
+ "updated": "2026-11-16T04:08:26.722876+00:00",
  "categories": [
   {
    "id": "top",
@@ -75,12 +75,6 @@
         "outlet": "Univision"
        },
        {
-        "title": "Reportan colisión entre aviones de UPS y Copa Airlines en el Aeropuerto Internacional de Miami",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOU9WQTcyUWlUUHBVMmNSY0ZFaC1YaWtfR0N0VzM4YnZ2bEF3b1dhanYzWVJWQnZWbW9XT2VodUJfNVZGQWdYNmpkcC1EUU10Wi1ZYjNseVhUTHUtMk1OalJwZUlCNkxld1BBUlpSNkR5a0RvVEFxb0FTX3Q2SmxjR3F1OW1fWDhvTXZtZlBpak9kTDNkNExZRGFiY212VjlPbUcyb2lxamtQR2RCelo3LTBxWFZTTXFlZURQVk5ZSmtDX19qc3Zlb2ZTLWUya19nVjhF?oc=5",
-        "pub": "2026-11-15T03:59:29+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Clima en el norte de California: lluvias, fuertes vientos y nieve en las montañas",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaVEzRDBlR3RiNkxQX1NsaERJQVpBSGNNb2pDWE03UWJROEswcjJZeWxRQzZxWWRDdHdVVlphcjg4aFg5N3pGZnctSHY4Q0tOcG94OXUxVDM0S011VkJlSHpJcERyYTJFaGViT2lkdHIwaElrbnZtVEh3RDhsUGZ5eVRqWUJsakcweUJ6WHFfVWhXcVZ6Zm5iMnByQV8wd0lYSlhlU0VrQUJMOVA1czNwNmVuLU5sVmdwNzc1bG1HQUpwVktnOWhjYkRtUFpleldVaGhNNHN4UEcxQlhraDlzNW5WRUZPdElia0pDbA?oc=5",
         "pub": "2026-11-15T14:51:25+00:00",
@@ -97,6 +91,12 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWlNdXYtcFNpUUJEWFZid2prZXFCTll5OWV5M0RTRjVUa0NlQXVQTWhnWjNmb1JZeWRIVnd2QmdLRkI1eUlscU80Q1BQTFBBNFhKWHUyc1M1Zl81TW05eGF5bjBLZmlVSk5CTFJOUlBVVDc0dm1uODVCMUtkSDgweHh0NE1IQ0E5NHpkLVFDRFh0UVFVMzVOOUsyVQ?oc=5",
         "pub": "2026-11-15T21:27:00+00:00",
         "outlet": "Univision"
+       },
+       {
+        "title": "El presidente Trump rompe el silencio tras la paralización de vuelos: pide al Congreso aprobar fondos para modernizar el sistema de control aéreo",
+        "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNWlk1aWlqRVJudzQzMTlSeXFXb3ROcUI4MWpVSTlHd1A3T3NNRm03Z0VXYmdsRkV4OWtja2VPVjUzLW1LU2VQUGJOVktMdXhxa1RBS0JkRDdLTW9PS3g5UGtma2pscDEtX1g0RS1HOGl1YlIxaFJpcy1ETS1CNmFWQ2J3SmNSQ293RUJZZGV3Rm5iOGdrbjAwZTV3OXg3SkcwRDZuMzU5SHZFSkN6eEZUY3YzRXgyT3dVc2I0YjJ4UDdrSHdQLVZIUEZwM2RxazhYalFhWDFFRzdZVUtmM0JDYTlkUDZpNXlLYXV3bWd1S3gtd0lUOVZvamJpWHNKRWdNc0RhZW5LcFRZR2VBcmF4Rmp2VWpwOHFEQUFWNDNyRQ?oc=5",
+        "pub": "2026-11-15T20:23:36+00:00",
+        "outlet": "Univision"
        }
       ],
       "error": null
@@ -104,6 +104,12 @@
      {
       "name": "Telemundo",
       "items": [
+       {
+        "title": "Grandes y potentes olas sorprenden en Pacífica, California",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQanhXN0ZCZjJiZTFybHBhanM3bk9XSmNhLXZUcFpPMkZWX05Jd21SRVp6cGxoNHBZcG9WV2cxSzZvdDgxUGJkT2xNZ1ZZcEl6OUdxRTdHZHhidzdlMDV3VVE4OURYdmZmYXlYUG5SaFJsWF9ITkt1SGFhRmlyS2hHa1ZCbjR0TjZFWjlEbEQzc2pHSTg3VUFfWHc0S20xVnh2U01vWGZ0Nk9LbG04cVFHYy1tS1cycWhYWFZoVlY5TlNscVA3ZEhoOXZkaw?oc=5",
+        "pub": "2026-11-16T03:40:58+00:00",
+        "outlet": "Telemundo"
+       },
        {
         "title": "Vanessa Hauc destaca la labor de Telemundo para informar sobre la crisis climática en la COP31",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPWHZlV21GbnZPdU1rNDBTcDlPODNLcVY2cGFpcTBkYlJQYnBXUy02Ul9wR1dtQWJwanBiMXRPakV2Y05PUVFxQlBVYVRKUXBfMFVoVTNsWVpXSWZDX1hfdF9DTEhqR3U0YXJlSzR2WXB0TDJrQXFmeUExbmE2NzZMS2NlLTBTa2c3SjlsY0l2ZWQwb0tGc24tdUhzZkhqd0FuV1RVQVFqeE81dUJCT1plNTZuMG1qTDBTUXhiM283U1FBZWNlRFFUc2dLUkZiaEU3cHgxS1psUGk1eEd0UUxEanlJYlhoRENxWlRfc2ZaSDRGY2huSFpWNUdYb0ZjcHRsQkpkTXBhTzVCT2xKcmM0VlJsdkVBNjI0?oc=5",
@@ -117,15 +123,9 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "León XIV, a bordo del ‘papacóptero’ en Perú",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPemZfRDdHUnU2a3g1QzlNMmtFVExSV3Z6VTBVNjJRY0x3S1pkSzJ4ZGRJSXFvYmREZmlWOUNTM09JY3J6THNhX1FMTm9GM1loSWlqQnZ5UGdLeEtMWWlycW1xaUhvdURZcEJ6XzdTX1JZYVB5SFVpWXBVRzFBWEF0V19ROENsWjEwQi1IczJkdlJtS01pUmRYN0RvV28zb3V5YXdoZUg5VUhjS3NZY0JqNU80OVM?oc=5",
-        "pub": "2026-11-15T21:45:14+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Noticias fin de semana 11/14",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFktZ3BJenRLcXB0QlMwVmlJWTlJSllraWg4ZGZRRFdZcmltbkxlQW1hZFBnZlFieUV4LW03NWxBUGhVa1VpNmllRkpDVjdNY1dKOG5ELWhPRi1uTnR6Z0VDTEtNZkVreURZak44c3FZa0VaRzB0RHhRaFpXWk0yS0lZeXJGYzQ5Qkk5aEViXzFsZ3ZYT2c1Z2tNZEdpWUZLSEZ0d0htUGUyVDNSbW1MajJ2VVNzU2h6M2hYdjlueGY5MFc2Z0NHRGNVVmRsWm8?oc=5",
-        "pub": "2026-11-15T03:55:00+00:00",
+        "title": "Miss Universe: un desfile en la playa termina en momentos de alto riesgo en Puerto Rico",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV25zbTE4ZE44c20zNDJYdWk2MW50dnhKQTUtUVNfZEdLSzd3YUpWVTUxV1RkQ2VVTl85QXcwTDB0VWM2ajZGOWd0MDJ6MHlhSHJQVUFwUFRFOFJmSTNKTlVfUUhkOGZMYjlCd1R4NWxIOG1RUWZmaHMtaGlfaE40enUwV2pubDhjcElsMVp0RmE3RmI0M2ZBWUVGeEVzVjFlQXRUU1JCMVBLN2U0Vlo0YVlpLWt6MVlrOUFYMElqTGR5UFJodnJPeWtqWGpFY0VlNENaQjhsN2Y2XzloLXlUMzZlUjRnb3RCUzhBS0dwTGRvRHFGcUs2UHFPOVUweFE?oc=5",
+        "pub": "2026-11-15T09:40:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -289,12 +289,6 @@
       "name": "Univision",
       "items": [
        {
-        "title": "Famosos - Página 1814",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56WDNtUnRBSkhjM29vVEpoczExRUxWTXNJNmJjeVZmYWVwX0hQNklGLTBrckxJd0dqZXQ5eG1fd296c1RxcExaa3ZCWXd6SDREc0VMWk9TeFhyWDFCZ0E?oc=5",
-        "pub": "2026-11-15T09:07:40+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Paola Dalay recibe mensaje de César Romo en plena polémica por video y José Eduardo Derbez",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcXRDT2Fpbm52SkQ0S2c0SndXdVRhVlFWUTVRQjhicjNlNTlJelpwUDdEZ2psV3lkeHRsMDBhVlk0R0VZOFdDQVljcnc3ZE4zQXNya0o4VGJOSEh2aDU1S1BSemZ4dGYzbTQ5Q2xRTGVvVXN3V0J6XzRfa3NCZkNOTVJmTG14T1N1M3VwdDBNVF9NZ2ph?oc=5",
         "pub": "2026-11-15T21:42:40+00:00",
@@ -317,6 +311,12 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXAzQW1PbEdkbUtDTGpEb2V1a1B2NUVTc25CUkpheXdFQjFka0ZTYmlmZ1NGR2otaHgxUUc3R2pZeUkyTWRnZDF5Q3hicWVyMDY5aWtPTUE2VTlmT3M0TngxaGxxcHMzeGpMeGR4cWtGbk9EVFlsNmhBRm9uUUJZcHZCV2ZxQ2IzRlBPbHE3U1c?oc=5",
         "pub": "2026-11-15T15:35:32+00:00",
         "outlet": "Univision"
+       },
+       {
+        "title": "Pee Wee explica el origen de su apodo y cuenta quién se lo puso: así lo revela",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYXVvQUlhU2tGZFpWdmxxeGV5UVN6U2F4MWtPaTIwZXVuUXdxZ3BkMTNFVTdHem5WeTJtcWFnN18tVUFFRzQxdXI2aHNXOG9TRDNfMFJqTmhIWHlDWmlOazV6U2ROMkpCQ05rQldMVzM3bnRHOGFzdVBwRERfUkhRR1VpS1ZkRm1ZdXdwNVNWeU1RbkR3b3NoMGJaVkwwUElMZWZUZHRKNEZtMjRKT2N2emdzOVFOUjVsTEh3dmFiNG1IbmxM?oc=5",
+        "pub": "2026-11-14T21:31:00+00:00",
+        "outlet": "Univision"
        }
       ],
       "error": null
@@ -324,6 +324,24 @@
      {
       "name": "Telemundo",
       "items": [
+       {
+        "title": "Carolina Tejera y Aylín Mujica debaten sobre si hay edad límite para verse sexy",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTmF5aXF4WTdQMHNxYnRuU1JCZlpZQUFmeVdMYUdjX0NJZGYwMjBBdzVObDdJRGRxam5HcDZYSmlDemRQVVlhMi0tZFNpMGJ4OGhzMWRfcmFpejhKNXJjcDlxeVJPUHNyWHNudUgybnVVZWtIOFdYenBsWThmRFRpM05CamZpb0pNUVhodzNpSGNPdGlJZlgwaHh1am5wamU0dmR0RXd1MnJNRnhZQ01QMU1kUVhBdWpMMEZXbkVBZDI0OUFpdWw5U3hyd2N1LV9TbGN4T2ZidFUwOGptY2dlZjJ5RThTWHRBUUc1UmlR?oc=5",
+        "pub": "2026-11-16T03:48:58+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Eduardo Yáñez denuncia presunta extorsión relacionada con delitos sexuales en República Dominicana",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNX3N5VVJOUlp0NzRHT0ZKak1WdmhpdlcxNmlYQkRQU0V2Z2QzdXZpR0pGQUFuYUI0bmM5dndPeDdlR0VLMHNFVFNWTkJJQW1iU2N1VWhxYlp2bmxXU0xJX0hxazE0U2U0QUdfYndyaVlOQkt4VUo1T2FmZVRYM2VJM1dmRV84U1QySjRpQ3dSZWd6ZlNHa0U1anV2TXlxSG83bXc1LTVLUVhWNG14UkVvN2xkRnJ1eGJub1NjR19WemtmZlNXc0d0a1Fkc2JjUGZmOF9PR3llOHJ5eU5IMjl0UTZuVzdtclZTMVB0SG5BbXZGdDIzX0wteXhtOTdmV3NxenVHWS1fRQ?oc=5",
+        "pub": "2026-11-15T07:33:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Magaly Febles rompe el silencio sobre su conflicto con Celinee Santos y revela nuevas acusaciones",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOOEMzUDh4ZlhkZERUcENkMHROYnhXSWVaaUlxSk1lc0hVRVFlOVhTb3VSbE1HVWlhRWVUSFR4RVo0djVCNmoyS1AzMkYzc3JjczJSUHpCVGEzakV0Q1R3QzdhM0txSTg3SGc3VHNGaFJ3TUdzS2JYLWhPWmx6WUZ6dGRQUTB6RjUtbERrVTltTnpPMkxvOG5tOW5Kb2JzUk9fcnlwTElpNzNWWXJxdlM1eEYyRUZ3YU9NbEVfVnFUWVc3V0liSHlPN1FLcmZ1M0R0bkhiLTZZUGRaTVVsR2dIMC1TSmdMNzdNZXZ2VEVkbTR6bnBJSGsxVjZnWTBUTXNWdjkyaEdR?oc=5",
+        "pub": "2026-11-15T10:01:00+00:00",
+        "outlet": "Telemundo"
+       },
        {
         "title": "La edad de los posibles aspirantes a la presidencia en 2028 contrasta con la de Trump y Biden",
         "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeWZNTExQcWlTOUpsQmRncnJDNS1HaE5DbVZfbVpRbXlGZEIzRkN3WHI0czNqMWw1UXRJUmF0SE5PdVhGRnk0cm9PekJiQUowX04xQjluOGRiOF9zVHZSN1dHNzR1ekhoYmJubXV4Y3ppbEVOT2Vmd2ZWU25zbUJMLWY0aDNWUTZ6R0pYbVBWUy1LeXJubndLYzFXampsQ2FrYlBZal8weEJxQUtQQnN2Z0s0dUd5SjV4NmU2TDJ5a1VOX3l0UkgtWkptSzdXRmxVbkx2YWd5VThSY1hqaUZ0Qml6eWFNR3B4TG41eEpwVmx2NS00dTZRemJ4cXIxU0w4X1hVOWVJajVDNkNnMHFyNTh3?oc=5",
@@ -334,24 +352,6 @@
         "title": "Qué revelan las reñidas victorias republicanas de estas elecciones sobre el 'muro rojo' de Florida",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWDN6US0teThMYlpkZDNBSDFKeExYZ0JOVm9NRkFDN2hvYjhodFozelB3VGV5dGYtVDY5dWJJZ3N5cDU0SkdpWFNvTzNoQ1kxRmZXOXd3Sm1zUjd4VlFpTTI0Q2VyYzEyc1RYRW9sTVlfMDFBT1pNYTV0emdIaUllRFIxNnJETzRPUU1aSXJ1TWZjTEhCeXZZbURJQTdJTHBDOEYzMWZwSW92RVFwZks3NTlqNmxQeFUxRjhJWUNFbE4tb1RJb25HTVdOMzlhOUFneXdIZFVHV0RXNWpFR2ZSXy1TWjVIZjl2T0lmVENscXJGSWd4ZXhBSWhuLVRWbVBzaHJRZUxSbDJVUQ?oc=5",
         "pub": "2026-11-14T10:14:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "El Pelotazo 11/13",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPak9LdGJnQnZteXdxZEJrQnl2N1ZhNDZVNkRHTnRQMVg5S0YxdV8xVzYyY01NVFB6SHdTLVpDWk9yN3VvSHNkNU1sa3pkcjRqTWZybUtNdDU0VmF1c2tVZkRJMkhzZUxVajJYTTV1X1BYZk9YQjRhOU1jb25qcTI4QTVhcU5vdTV2MnQ1MF9JWHZ3dV9BT2tNVTI4X0dydnZLcVllQ1Ixckgxdw?oc=5",
-        "pub": "2026-11-14T10:51:54+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Celia Cruz hace historia al ingresar al prestigioso Salón de la Fama del Rock and Roll",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORDRwcnplYTBQMFBaem1zSE01TXhmakhSd3RCcklYV1o3cElqOUt1cm04OFplcHVoamZhTDA5X0ltQXJtNnVHVk5ZTkRaRlNCVW01Rm10ZERrcUVqSzJqY2xoQVdnTjJFU24xV3Z1aTJXYjluS0NTcDJSNm1HbDBPa2FOQ2RHc3lPLWpTaDFBTWo5UFlGc1FwNjNUSFdSeG81OHhPVktobjkxNk43b2FFR0F1OW1XdFFZX2RwcVBudlc5dEJHQm9CSmppc25mYi15WEhWai13cERLMTJGVG9za2JWMm1weW9tcTF1SlJLWEVrYVBndGwwaFNlaGJ0LUNOZlFQZ0RDNW96TUk?oc=5",
-        "pub": "2026-11-14T05:22:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "¡Golazo de Priscila Chinchilla! Pumas amplía su ventaja 2-0 ante Tigres y sueña con semifinales",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTkJKRGxDN0h2YVBmczFaV2s4RE5XUzJMT1ppQ09qNGpOdzctVXc5M0Ntd0pQeHM0SWZSS0J4UjFKQ2RocjBfTk1XV3YzZy1Qem8yb3M0VEM1SUFWeGpTb2pGaGxVTHJDejlRd0VLbmU5dXpiYU1vaWZyQVpvSTFlTUJBSGJPZmt0Qkw0T3dhWmFVeVFCcUlVZW53YjRURkN0eGFsbW16YS1RODlrTXg4RVUzNWlVZU11U09tRXNTZ1JNQkxVY1FuVWx4cXJwVVZCSzY2NTJLTzJ6V1NIc2NkNEF4NGIwWHJTSzkwcjRSdE00Ung5NHVqZkp4VkxLTVU?oc=5",
-        "pub": "2026-11-15T07:05:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -497,15 +497,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzNGbjk3ZEFwRzVLb212NklvblprNXIxMWRXUEdEdjdDRUl4aFV5S0h1cGZzc1VYdS1NLUtDSTZVR3lTMGU1c0xDeFJjbGoybmNRbWlkbng4Y1RIZGM4aGR6MXBUV1l5ODBHdXl5TmptbzRUMEZTMmI0dHpEaG1qeUJPeUFna3BfMVQ5VXE1bHZMLWlLVnFOTkQ5NVByTHl5bjBTNzI4LTVPdndfaG5zNXlqYVJhcHBlVkc3VWFKMklvMFJ60gHKAUFVX3lxTE5GRU91SG1aMzBHMG5PaXVJNEpCcDRwLVZTVVFNSzh2cmVGUUhhQ2Y1NTljWTlQY19nUU1NY09wbFJISDBkbmRVNGxOSkdUUUVEM2VvX1VBbmlMLWhDYVRfX3V0Z3FpWkFkUmo5dWt6NE40Z3VmaWtyU1ZzUmpTYzBMcWZRTEhTWDFseHpBQWNFRno3UktkYU5HUXBGVk5IYlZMSE8zeXhHb08wMmVCWWN3OFZteHlUREhncWR0MTBGbVE2NXJzYlgyYUE?oc=5",
-        "pub": "2026-11-15T13:00:14+00:00",
+        "title": "Buttigieg takes swipe at Trump administration amid FAA flight chaos",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR25SbzlIY3hUZUxScFVOYXUwamY1X0ZwaW9UTXR5Rm5hWjVfRy1kMzc0aDFFTEMyLUtITDMyU0syTUd2QmJKeTdOcXhiUWw3X1ZZVXJ4U0FRZzJHVjVGLTZJaU82OGgxUlNaTVN6eXVwUW5QNmRWZW85VENyUkR4RXdpLTEwTFNJaEctLXUwUmhUYnMtemZIWEYwMWp2QdIBowFBVV95cUxQRVBUSVVIX2J6Q1VKM1hneHRpX0hnSWZncWpsZjNRZFNnVzhLMklxX1FsUFZRd0tSVXE3UGd4cW0tX2YwWlBPV1BfQ25INWNVbi03QzB1ZjkwYTVIM0czV21uY1BrR2p1bE4zUXdzcUJ6UWRYeDJxZWMxMEpvSkw2TVNtMVQ5VGRtMzZVTVFDWUtDNXoxdVVzUUNzWVdVNUMwRmhN?oc=5",
+        "pub": "2026-11-15T16:28:15+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "OutKick Shows",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zZUFuY04zRmlhS01MZE0zR2hUMDdhTFdBVGJabWRWMnBGeHo4ZjVZcXQ5cmlCZUt4WUllWVNha0VNek9HX0E?oc=5",
-        "pub": "2026-11-15T16:29:30+00:00",
+        "title": "Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzNGbjk3ZEFwRzVLb212NklvblprNXIxMWRXUEdEdjdDRUl4aFV5S0h1cGZzc1VYdS1NLUtDSTZVR3lTMGU1c0xDeFJjbGoybmNRbWlkbng4Y1RIZGM4aGR6MXBUV1l5ODBHdXl5TmptbzRUMEZTMmI0dHpEaG1qeUJPeUFna3BfMVQ5VXE1bHZMLWlLVnFOTkQ5NVByTHl5bjBTNzI4LTVPdndfaG5zNXlqYVJhcHBlVkc3VWFKMklvMFJ60gHKAUFVX3lxTE5GRU91SG1aMzBHMG5PaXVJNEpCcDRwLVZTVVFNSzh2cmVGUUhhQ2Y1NTljWTlQY19nUU1NY09wbFJISDBkbmRVNGxOSkdUUUVEM2VvX1VBbmlMLWhDYVRfX3V0Z3FpWkFkUmo5dWt6NE40Z3VmaWtyU1ZzUmpTYzBMcWZRTEhTWDFseHpBQWNFRno3UktkYU5HUXBGVk5IYlZMSE8zeXhHb08wMmVCWWN3OFZteHlUREhncWR0MTBGbVE2NXJzYlgyYUE?oc=5",
+        "pub": "2026-11-15T13:00:14+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -529,15 +529,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Georgia football three-star recruit Marcellus Young Casario dies after 'medical emergency,' high school says | OutKick",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGctMDlPNG1xcXEwUnlWOHdOV1JTNTd3TFZMVHR5a1J2YUt0WnB1N3FwazNQUlAycF9xQ3dpc2NqV1RJOGdyLVJyMHJMakQ5WGZZZFktNXFPOHBJaDFQNWRyY0I0Q2lSYnUwMVNLdjhQLXprdDBKM3lOelNudzdiMEM2bUxad280RFJyV0VLRXZFdlI4emR6eGxpXzNkWkxxZG5tUlA3NXBReHJ4SGlHTlFEN01nZXl0ek83X3BWTnUtd2dDRW1EdjNxMG5iWVFaUE03QW5Bam83VzJk?oc=5",
-        "pub": "2026-11-15T03:50:34+00:00",
+        "title": "Minnesota Wild's Brock Faber to make season debut just seven weeks after suffering skull fracture",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObGFTWW40MUhsN1YyckdMeDFNMVVBMXNzSkVJZXF3Q3dLQU01WEZaWnBNaTRFdTk0YWdCWlVacUVFQ0lmUHU3WWsxS0dhRHBDR3hIZVRqOVYta0t3NDRreDlSellnZGxWN3I5eUpYY19MZG1DdC1LeWk3dXJUem5BS0p0aWJtUklQWU9UbUp6YTFNZlc4VHQ0Z0xoLVI0T3dPaFFJRUhCeUE?oc=5",
+        "pub": "2026-11-14T20:57:45+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Top-ranked Georgia rolls past Missouri, moves closer to SEC championship game return",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGc0eWY4dUhkTXhGRlZQOXBxTWJPVnB3R0Jja1MwTTU0M3c4a29VWDJWUVU0dkFnTFhaY3Y4ZVRkcDBmTjBnSjExNW9nQnBpdnZHcFJFS1NodWJ0cXhnalJpMUZZd1lQc3Z2czhLZ3lRNEpWTFB0TnpFTjFnc01kQTVYTWJpYjdRdklKTTlsTjR4UnZlSWJWeUNDTUkwckJHNGVIVjZEdHNINWtibzlnM25UOXVQZnlDZUlZ?oc=5",
-        "pub": "2026-11-15T01:30:05+00:00",
+        "title": "Georgia football three-star recruit Marcellus Young Casario dies after 'medical emergency,' high school says | OutKick",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGctMDlPNG1xcXEwUnlWOHdOV1JTNTd3TFZMVHR5a1J2YUt0WnB1N3FwazNQUlAycF9xQ3dpc2NqV1RJOGdyLVJyMHJMakQ5WGZZZFktNXFPOHBJaDFQNWRyY0I0Q2lSYnUwMVNLdjhQLXprdDBKM3lOelNudzdiMEM2bUxad280RFJyV0VLRXZFdlI4emR6eGxpXzNkWkxxZG5tUlA3NXBReHJ4SGlHTlFEN01nZXl0ek83X3BWTnUtd2dDRW1EdjNxMG5iWVFaUE03QW5Bam83VzJk?oc=5",
+        "pub": "2026-11-15T03:50:34+00:00",
         "outlet": "Fox News"
        },
        {
@@ -611,15 +611,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Tesla makes major Cybercab announcement as driverless vehicle goes on sale",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWRiUWowYWVmQW9OdUFReWE4cDdfWDlZSUVJNURfUEp3UTJncjFBQVVwOVhxcVB1dmpfSkJNYVhmQ2lUM01YNHUwTzRDX2VNdHdWenNkSjN1RTFpM1ByeG1XeElsdDN6Yl8xSnlsZnlqUUtDY0VyVU90c1Rxb3JZdmM3M0czSVRTUmI5V2pVRlRVQ0VYMi0zckIycFM3eWtEcEhnTXpEa29iUlHSAbABQVVfeXFMUHp6UmxGSl9iLUxTY3hhSmRUYkNZcHkzck16VVprb3pqVE9nUnRrdDJKNWxpYUZybFNrMkt2WFFZejdJdkxBMDJESFR0N01rRTJoVGxVa21uWm1zbFk4aXFaT093SVRVQlFuaWU3aDh3MGkxeERGcmJCbzFkeTc4dnRORmFyU010cjR0Y0I3bW5RU2hweUlmQU1xVFFiZzlfN2Z0SEJubUhxR1BOel85X0U?oc=5",
-        "pub": "2026-11-15T01:49:00+00:00",
+        "title": "As US credit card debt hits $1.29T, bank algorithms are rejecting debt-free, six-figure earners",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVQwQmZhd1BObEFmRnZ2OHJBWTlmUXVycWlCTXdKeWt0UnBnWGV3SjJYdzRlR1ktNGJXaHpYNWpKYXVEdi1adURNY1cyQWlIT1dJVGg1a3h5SjhkYWwydDNuNGNPQ1dNOGtzZjVwaTFldXU0SHBRWlFRUTVZb29Qb2hPRGE1TXFpb2VFZ2dnTWFQYkF0RUZsenNHcGRhT1NBejBuejNYM3lXTGdQN1FySm5hcWZ6cVh6T0NRbmxNeFRZQ1VzQko2a05R0gHPAUFVX3lxTFAyYmlmdTZvclV6RHdBZnN4UVFtQkhSY3F2NVBtSjYzU0hBY2hqajUtRmtEX256WEUwMWpzZmpMVWNVbTI5MGdJWmp5eXJyY2lJZERveVoyajFvdDlDMlcyQ2xmZUhIU3RZTG1tZE4xcEdDUDktVnVRdWdGajFKVzNGRUFvdlRJQTdMUUdFeG4yOS1uN0JuYmNsXzE3blZZSmU3RFN2NjFmb1E5QW55Vk9ZUU9vWk0yT2FyMWp0cVRSZ2FFY3YwYTZENlZDUDhpVQ?oc=5",
+        "pub": "2026-11-15T12:00:00+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "New Orleans port seeks tanker seizure after cruise ship crash sparks $1M lawsuit",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQUpaRVhvcDFhNEN2dVZCajh6Z2lWVXhiaXRta0E1Zk9Fei02ZmhkSkFTUG1XOHNoT3RiQmJwR1B3NVc3bEU5U1hub3Z3LW54eDEyaWhtTFNxRUYtZFVvQ2VIZVlOV1NfQVc4X3BkNGd5bHloTWZraUxKS1IwUTREY3REWWZ0bU12eFgxR2hHTnlUcTYwWmdPcS0xcmtsaUFBdEdtWmI3SF9QZ9IBrwFBVV95cUxOa3hYY2N0Y196VE9VX0dNT0g3WUd2c0JUN0JHTmQ0LTRfM29xR1RQbEt2TGFYLTlXNlJHbmprMkpkME1mN1VVTkpjdVdvWFEtd0dNOTlGWHhhSWRhVXl3aWlQbjVNc01BV3NmTU4yM3pBQ2xEbHhBV3pjT1NOMVh6b0prVTBtd3pfeXNiS0VpLWdiT3pGLXlSQkNELVE1ZmxBNG5IMEtwelBPM1hVN2p3?oc=5",
-        "pub": "2026-11-15T00:01:00+00:00",
+        "title": "New York hit with lawsuit over state's new social media warning label law",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUVRcm9FeU1MT0ZsOEcwRXFHdlVFOGdDNUJoMzlTWVo3QnNVOTd4LXNEajJZUEFiZ28wdGtqdUtkZ2wxbkh2ZEpWZ3NpU20zbnlSc1lJaFdtUHc0UFA0ZUFZMldLWFFaY3pKcHF6c29OckdjNEtXWFo5Uzd4aFJFanMyUHNRNHM5OWRlSXZ2Y2FDM19hNlRfanlaVkJRYjJKUGN1OXlKU1pSUdIBrwFBVV95cUxOWWRmSTh1UFk1U0I5SnVYNVAxUzdDbUNNSWt2b1R4Sm5TQVY3em1lMWYydktwN1NsU0hDWVNER2s0VTlLUnJTY2J2QVBuaEV4VU1LTm05WjlXTDZfRWdnVkhUcndJRGpSMmZOeVcwaDF1bHdvc2RzZWUyeXNLOXJqaUZIMjFoSGpjT3YtTGxWS1FIdkJCWks1SkpVb0pOLVlYMHRQVDBmVVp5Q1BXdVA0?oc=5",
+        "pub": "2026-11-16T02:16:58+00:00",
         "outlet": "Fox News"
        }
       ],
