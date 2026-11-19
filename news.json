@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:56:07.607493+00:00",
+ "updated": "2026-11-19T11:52:51.239740+00:00",
  "categories": [
   {
    "id": "top",
@@ -28,17 +28,17 @@
       "name": "El País",
       "items": [
        {
-        "title": "Ada Colau: “La ultraderecha ha sabido diagnosticar mejor que el PSOE el malestar de la ciudadanía”",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/ada-colau-la-ultraderecha-ha-sabido-diagnosticar-mejor-que-el-psoe-el-malestar-de-la-ciudadania.html",
-        "pub": "2026-11-19T04:30:01+00:00",
-        "desc": "La candidata de Frente Amplio el 29-N defiende que la coalición de izquierdas es el voto útil para “frenar un gobierno de extrema derecha e ir más allá en vivienda”",
-        "outlet": "El País"
-       },
-       {
         "title": "90 minutos cara a cara: Sánchez busca remontar los dos puntos que le separan del PP y Feijóo repetir el éxito de 2023",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/90-minutos-cara-a-cara-sanchez-busca-remontar-los-dos-puntos-que-le-separan-del-pp-y-feijoo-repetir-el-exito-de-2023.html",
         "pub": "2026-11-19T04:30:01+00:00",
         "desc": "Al candidato socialista le interesa transmitir que hay partido y al del PP, que aún no está ganado. El último sondeo de 40 dB. otorga 192 diputados a PP y Vox y un 32,4% del voto a los populares frent",
+        "outlet": "El País"
+       },
+       {
+        "title": "Vídeo, análisis en directo y verificación a tiempo real: así podrás ver el cara a cara entre Sánchez y Feijóo en EL PAÍS",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-18/video-analisis-en-directo-y-verificacion-a-tiempo-real-asi-podras-ver-el-cara-a-cara-entre-sanchez-y-feijoo-en-el-pais.html",
+        "pub": "2026-11-18T20:33:23+00:00",
+        "desc": "El periódico despliega un equipo de analistas y de especialistas en todas las áreas para seguir el único debate a dos de la campaña del 29-N",
         "outlet": "El País"
        },
        {
@@ -56,10 +56,10 @@
         "outlet": "El País"
        },
        {
-        "title": "Vídeo, análisis en directo y verificación a tiempo real: así podrás ver el cara a cara entre Sánchez y Feijóo en EL PAÍS",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-18/video-analisis-en-directo-y-verificacion-a-tiempo-real-asi-podras-ver-el-cara-a-cara-entre-sanchez-y-feijoo-en-el-pais.html",
-        "pub": "2026-11-18T20:33:23+00:00",
-        "desc": "El periódico despliega un equipo de analistas y de especialistas en todas las áreas para seguir el único debate a dos de la campaña del 29-N",
+        "title": "Ada Colau: “La ultraderecha ha sabido diagnosticar mejor que el PSOE el malestar de la ciudadanía”",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/ada-colau-la-ultraderecha-ha-sabido-diagnosticar-mejor-que-el-psoe-el-malestar-de-la-ciudadania.html",
+        "pub": "2026-11-19T04:30:01+00:00",
+        "desc": "La candidata de Frente Amplio el 29-N defiende que la coalición de izquierdas es el voto útil para “frenar un gobierno de extrema derecha e ir más allá en vivienda”",
         "outlet": "El País"
        }
       ],
@@ -81,15 +81,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "ICE detiene a un ciudadano con discapacidad intelectual",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXJoQWlUTVZ5NkVMZ0NSMmVFZ2VNMFJRR01ubDNFUWQ5N1VEVWtTX2RIZjdjVTFwUjNRYUZUYzNjVjFSanJBV2poZ3doQUVRZFdjY05Ydk9rLWlPX01KdkpNaFdNeXZpNEJIbUdxeFNJT3ZOaXNMdDU2TWZRLVlTaW1EbVg0U2xKbjZBa1RjdjF3TTVqa25QQnRURFoySFBmenFiZGhTcVM?oc=5",
-        "pub": "2026-11-18T15:23:00+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Números ganadores de Powerball: mira los resultados del sorteo del 18 de noviembre con un premio mayor de $92 millones",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWVrdFc1bTYzV3BrM0c4T1U5QWZvUl9YLUk0TEFxT2VfbFZBRVZKQmM1YWNPa1hNM1N4OWlrVlBTTy1PUUlwSlF4WnFlMWJUMzc0dURmR2hZU0hyZ1ZfWXN6ell1c0dSLUhndWNMajhJT1BmN2hHamh4UWhUMXh4Y1JrWEpMcTZlTkNCSDB1STdqY3Vab09DQ3lKTndjVFgxVTNON1g1OWQyekZaRUdQdVYyTzNJMG02MVphS3hFRW1kZUIyblE?oc=5",
         "pub": "2026-11-19T04:09:01+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "ICE detiene a un ciudadano con discapacidad intelectual",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXJoQWlUTVZ5NkVMZ0NSMmVFZ2VNMFJRR01ubDNFUWQ5N1VEVWtTX2RIZjdjVTFwUjNRYUZUYzNjVjFSanJBV2poZ3doQUVRZFdjY05Ydk9rLWlPX01KdkpNaFdNeXZpNEJIbUdxeFNJT3ZOaXNMdDU2TWZRLVlTaW1EbVg0U2xKbjZBa1RjdjF3TTVqa25QQnRURFoySFBmenFiZGhTcVM?oc=5",
+        "pub": "2026-11-18T15:23:00+00:00",
         "outlet": "Univision"
        },
        {
@@ -129,9 +129,9 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Haitianos celebran a tropas salvadoreñas y a Bukele",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdkR3VUVzNmhrRFMxTWdLTWVqY0xjTjZlSXFEOW5kbnNkV0k2emZFcXFSUkVBZXNvaFZ0RjBSaTJsd1ZaYUJGVzl3c1NGczc5VW5Kbnk2c0VraHN3QVoyZ1Bjbmh2dHRiS3NrRG9rNUhPUmQ3b1hCZ2tkUmkxbFlGTkI3SHZUelV4QXhDa1g5b2xnVm1FMjI4TmwzUXhITmNfUUduaWYxT1dTeU8wY21PWGNVVnByTjc3R0tPN2ExWEVhZnM?oc=5",
-        "pub": "2026-11-18T15:59:06+00:00",
+        "title": "Calles y autopistas del sur de Florida se convierten en ríos",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa1JwS3JmdWEyZElnMXR4SHAxZ0tTblR6dExWY3N3TGR6MnJ1bmxwbFMtTmRjOGUxa2hMU3M5ZkVDcHhaVVIzRUhUUlR1TjJRbEdsaURXQUpsV295SHgwUTh4ZVIxSWRFX2V5UUpkSDVxbm1TM3hyNDNWYkF0ZkpONjd1NzFJVXhHY29FNTRIZkpNaHFJNU1xaGRvTFRPZHFOWmxiaDJSTUNoU0dKd0JyRk1pR1VneW50dWhIT2tIQUg0dnVKTF8xRndrTnZvR3M?oc=5",
+        "pub": "2026-11-18T18:14:12+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -185,27 +185,27 @@
         "outlet": "Univision"
        },
        {
-        "title": "Valentina Ferrer revela cómo comparte el tiempo de su hijo con J Balvin tras su separación",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVpiUm1oV0RsM0MzNGpubFpYNVBjRjNmWnFfand5bFdqel81UXRfcjVtRGdYWkU3dnRXQjVHcDZMdnRsaU9oNzQzckVLWEFMS013UnNuZ0s3WE1IQVpVeVd2dXlrckhKSllENjNmUnpSY0k1RjJyMUUwRHBJZFB4TUlCMHhmNjh5ZllieUZvM1dxaU1ZWHFKY1VldTV3ZFV6ZzBZaWNWdlVuS3ZQQTNST0JkczlkNndINVFLcmFNODlsU1VTSlZyOUp3?oc=5",
-        "pub": "2026-11-18T19:56:00+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Laura Bozzo sale del hospital tras casi un mes luchando por su vida, reportan",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZlhDOGVOenRjUGp0ellWNERjT1Rkd1g0VXJxeXBzS01CR1ozQU4zNWF5Q2gtZUNuWkVCTjNQUHZsSVB6UkNmVWl4RFVNMm5NdUhVTklCVFdDUTBFcHFDUlpTQUVrMWFOaTF4bkJWMXFiRlBQZFFUSmVNMk9ieVdPcg?oc=5",
         "pub": "2026-11-19T01:44:07+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "United Airlines informa de una interrupción generalizada de sus sistemas, días después de una paralización de vuelos a nivel nacional",
-        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSjBoTWhQZ3lfSGlFLVZOd1h0OWtYM2djRHNQUFhZYk9GUEJwSFR4d3J2WXNHWWpsbm50SnNKSV9UUlVwdmE5RTRzNmtqSXR4QklLUTJ2SmVtMC02T2pGdjM0WG12bmhieTFiajh0V3JnaEwtczhYbmE2S2ttckxSdzVQZnZnaTZpcm9nVmpJTHNxbVFwQzhzajhSNE8zbUZTMDVybzl1TE43aHA3WG9oUnlHWUdCR1dGX3FzVjl5cVlqRy15bkNLVmV5YWREaVM4Yi1yelZQSlBZb01waEFEY2RUYVZiVE80OC1OMG9kYlkycHRYMFhmb2RQenY4elVRb1JCSnQyT1JTNEM1bGRrNjY4cjVDVnc?oc=5",
-        "pub": "2026-11-19T01:59:35+00:00",
+        "title": "Valentina Ferrer revela cómo comparte el tiempo de su hijo con J Balvin tras su separación",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVpiUm1oV0RsM0MzNGpubFpYNVBjRjNmWnFfand5bFdqel81UXRfcjVtRGdYWkU3dnRXQjVHcDZMdnRsaU9oNzQzckVLWEFMS013UnNuZ0s3WE1IQVpVeVd2dXlrckhKSllENjNmUnpSY0k1RjJyMUUwRHBJZFB4TUlCMHhmNjh5ZllieUZvM1dxaU1ZWHFKY1VldTV3ZFV6ZzBZaWNWdlVuS3ZQQTNST0JkczlkNndINVFLcmFNODlsU1VTSlZyOUp3?oc=5",
+        "pub": "2026-11-18T19:56:00+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Bad Bunny tendrá su propia estación de radio en GTA VI: conoce cuáles son las otras emisoras del videojuego",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWE5dS1QY0Jldy1vUjJmQTZ2eFNrUU1LUkxyNU4ycUhLa2FfMkw4dUFMeFltbHFoamhuU2lVRzRQSFJLWk93SHhzT2xZUGVEd01iR0N1OFVxdnFJalYzdzRsSm9saDYtVHlZTm9ucmc5VzZXaTJQT244cnZnVnJ5R0pwRlV0Xy03ZXVlRFlONlg2dFJqM2tiVHFNc1QzQ0RXNjdHNlBQdU93a1MzaE5qMXJ5aDJDUWVKT3kydkVadjBGaU1mdFUtSHc2b2JZOG5Vc0gxS3RESHlaZw?oc=5",
-        "pub": "2026-11-19T04:57:05+00:00",
+        "title": "Virgo, horóscopo del jueves 19 de noviembre de 2026: abre tu mente, las señales llegarán",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkhoZS1SZ2RrZGZ2RDh0VlJabldwLTY5U0JtQ0xRdXhFS2lzQS04d3M5RXpNZE5NWFlmaDI0UXFqZ2l4MWNsR1JZU2xnMVFIY1JmZHVOaVU1SlMxd3lZU2pjYUlzMVFUX1ZQc2loWFRHcTNkUnJVX213Y0MtVTVwbmVsTXBLNC1BdjFHMGVZRTg?oc=5",
+        "pub": "2026-11-19T04:11:09+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Piscis, horóscopo del jueves 19 de noviembre de 2026: confía y establece límites ahora",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1pfOHpjTVhUR2JzMWt2SkhEU2RENkRzNXh1LXY3cFFwSUp1RWdSb05MWW9TMUJvZzhxYzZwME1UYmtyRE5GcG1OU3FiWUs5MGZIcF9PVHFNdkFwTldRUTh2RndjV2xhV01obTZWUjh0WjdSRDVQTk8wb3RmU2k2RG1qNWhXNW1FYnNrQTNFd3hOQQ?oc=5",
+        "pub": "2026-11-19T04:11:04+00:00",
         "outlet": "Univision"
        }
       ],
@@ -233,15 +233,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Milton Valenzuela advierte sobre el Atlas y manda un mensaje a toda la liga MX",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTFdFeThKZDFzSEVzSXNGcnhlUXgzOXY3bXpjTWdObktDaE5lRGVobzVNVzdoZWg1V3NfTlhMcWI5dmxoQmlrc0FqaE9haFNqc3k3QUVCMmVQV1FORm9BRkJaY1ljMU1NSUw2S0s4YXlpQnM3OUtPSWlQV3lpNDJtMkplZEVCN1k0alpSVVlLSzZXbkNxQXFWbnJ1Y1VwWkRLYTk1YmZvNmlnaUpXOXJfU3hhekpsWkxUTWdoSjVDeU96X1d4SGU3UkJ6d0wzLVphWkk5MnZTTFdVb3dlQUNkZGxBcFRTM1VtMVhZ?oc=5",
-        "pub": "2026-11-17T13:09:00+00:00",
+        "title": "El Pelotazo 11/18",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWdVTTFTYjY4VVJGdlZwMTQ1Nk9YN3psRXlYQlFEOV9xLVZVUDdndktJb0RuVDZHRFo2T293OHJORHVuSlp6NzRvZnNoTkFKRFljX3JVZUtNX29xeVhMZDlLMzU1cGRGQWlSWmFqYU1VS0RvLVRjQjBxeHNDc3dyTktJUDdRd21SZGdnOTZQb29xYnk3WXd3X3RsempSUXl4VTltNk02VW82QQ?oc=5",
+        "pub": "2026-11-19T11:08:00+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "La delantera del Tri sigue sin responder a Rafael Márquez",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVzZhSkFLZl9lVUU3NGlwYktfaDFMQVFrUnNSNDFWdHZ6TWF2ZXN6WWNMMXkwWnVjV0E2TVQ1RzE2cFoyZ05GVnlGb2ljSzZTbk5WeUxiNEhCQ3V1RDFDd21pTDVpX2RSRjFhUzRxSko1NXBQaS0teUNaS1ZfSVZ4Vl8zWkVmOWt6ZkVsdG9WS25aUjQ5amRQLVNhV0tCWjExTXVVQzJEdVRGcFVGNWRmSXRfeGZ3YXhrd19qNTY1OEI?oc=5",
-        "pub": "2026-11-18T06:38:00+00:00",
+        "title": "Milton Valenzuela advierte sobre el Atlas y manda un mensaje a toda la liga MX",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTFdFeThKZDFzSEVzSXNGcnhlUXgzOXY3bXpjTWdObktDaE5lRGVobzVNVzdoZWg1V3NfTlhMcWI5dmxoQmlrc0FqaE9haFNqc3k3QUVCMmVQV1FORm9BRkJaY1ljMU1NSUw2S0s4YXlpQnM3OUtPSWlQV3lpNDJtMkplZEVCN1k0alpSVVlLSzZXbkNxQXFWbnJ1Y1VwWkRLYTk1YmZvNmlnaUpXOXJfU3hhekpsWkxUTWdoSjVDeU96X1d4SGU3UkJ6d0wzLVphWkk5MnZTTFdVb3dlQUNkZGxBcFRTM1VtMVhZ?oc=5",
+        "pub": "2026-11-17T13:09:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -295,12 +295,6 @@
         "outlet": "Univision"
        },
        {
-        "title": "Valentina Ferrer revela cómo comparte el tiempo de su hijo con J Balvin tras su separación",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVpiUm1oV0RsM0MzNGpubFpYNVBjRjNmWnFfand5bFdqel81UXRfcjVtRGdYWkU3dnRXQjVHcDZMdnRsaU9oNzQzckVLWEFMS013UnNuZ0s3WE1IQVpVeVd2dXlrckhKSllENjNmUnpSY0k1RjJyMUUwRHBJZFB4TUlCMHhmNjh5ZllieUZvM1dxaU1ZWHFKY1VldTV3ZFV6ZzBZaWNWdlVuS3ZQQTNST0JkczlkNndINVFLcmFNODlsU1VTSlZyOUp3?oc=5",
-        "pub": "2026-11-18T19:56:00+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Yahir está orgulloso de que su hijo venda aguacates en las calles: “Él cuenta conmigo”",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1JHeldra0tSOFBOQ3JpSFVVWDFyVzZkUUNPTW00dHVkcHZHS0swcDk1bWdwam80UEl0MnlBYkJaV3YyUGlhbWxDWk92SW5FbjUwdE9wZENQSzFKVkFSYmVxZXNnWVFGZTlYam9YTVNZM0dsTTV2SXBJV240WGdNY0tBcVV3RXJWWDRYLTVIWUp2Z2tvMUR0Q19vcmtIbXRadUI3WnhrZ2RFSTFGLWg2bzdfR0t1M2xka0VGSmdicF8?oc=5",
         "pub": "2026-11-19T00:03:00+00:00",
@@ -310,6 +304,12 @@
         "title": "Muere la actriz Mona Guilmáin, hija de Ofelia Guilmáin y hermana de Juan Ferrara",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUV3VVFMZzBJc1Y0dGswUW9UWUZEems2UkE1Qld5b0JlTVFJa082QzBjbTc0WEVDZGphQ2RmSWk1R0ZDblE1N25SejFLakdkc19HNlZDVXNQcUJmdUNublZBbHdoX1lqcGVTclpQQlA4T3A1VFhhRlQ2Z1E1TFBsMTJ6T3E5cWVDNl9JNVhMbFdlcTNxRXJBZVRxeEgxeUZzLWFLN1ZGTTAyZ1FmSG5R?oc=5",
         "pub": "2026-11-19T02:39:29+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Valentina Ferrer revela cómo comparte el tiempo de su hijo con J Balvin tras su separación",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVpiUm1oV0RsM0MzNGpubFpYNVBjRjNmWnFfand5bFdqel81UXRfcjVtRGdYWkU3dnRXQjVHcDZMdnRsaU9oNzQzckVLWEFMS013UnNuZ0s3WE1IQVpVeVd2dXlrckhKSllENjNmUnpSY0k1RjJyMUUwRHBJZFB4TUlCMHhmNjh5ZllieUZvM1dxaU1ZWHFKY1VldTV3ZFV6ZzBZaWNWdlVuS3ZQQTNST0JkczlkNndINVFLcmFNODlsU1VTSlZyOUp3?oc=5",
+        "pub": "2026-11-18T19:56:00+00:00",
         "outlet": "Univision"
        },
        {
@@ -387,9 +387,9 @@
         "outlet": "El País"
        },
        {
-        "title": "Estados Unidos admite errores “sustanciales” en la traducción de la documentación para reclamar al millonario propalestino Chambers",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdFliaks4Z2V3elF2ZUVISXN6aWJZRC1xRVZULXlMZkd5bDNwYXJkcXJ0Z2FLbE1GZFc5UW1hX3d6NzItNm1KaTJydHJrVzR5c3ljaE1hcGdEblBmWmZFT1cxY0RQQmx0VVFmZ2dPWHplcC1SOVZCM0EyUk12VThxV2drdl9xd3VwTE5oVjBGM0hDWFU1WkRxMWwyRGVpSlBiYkNMWS0wZ2dNYWpPTlR6Q0ZhSHA4Z1BzQk1ySzlRcWx5RzFKOWRVWGpiWmxDeEgxdDZ6a0pHaE9WSnM2bUZ5R1JJVUtodERFblBVN0hvTGFHMjhaVW9ZTEU1TnNzSFht0gGUAkFVX3lxTFBKWlAzdGZqMGRVY19iUC1sZkxuRU1kWmthcUFjWjdNVjNiRUx1SU1MVkFnVkhUeDc4bzVERE1tTWJwc1hLRzA1QkQtbzBRbmNDV1NSQWM1ZXY1WTgySmJEU3d5azBEd090OS1wSXB3UXVMZWVycTVNaHQtb01ZTVMwbHFnRjdzUk5SZzRHZmswVERwVmZCZlhKU05MOU9qaWtVZVd3MzRDTkYtb1FDbHRZRXlleHNNb3RidWFvb09KVzZlNUdRSXliU3ZEcDZQM1FaY09tWHFMLWdXOXBHR25DSkJsWjAwNGRiTzh5Zl9JY3lwdTB3NWgwVzRWZ3pRUXBBdlZOc2E2VDdrZTNSWURzT2RQUA?oc=5",
-        "pub": "2026-11-18T13:12:32+00:00",
+        "title": "Irene Montero y Vito Quiles o cómo una misma escena se convierte en dos vídeos antagónicos con millones de visitas",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeVgyOGxQUHJscThKU2xfUjY5N2FxWFlDcVdWc243UzJqX183eGdsOXVMSGZoa1BLNFJRa3A1aDAzTVJrZWppN0MxVlhVQUFzNEUzOFZMd3FubzV2SHY2S0dKNlc3WXBaOFlLeWVkRUNLbk5hR3JnbWlUemZfVUxNMG5LeWdudTFwUUFSal9WcHcyNEswVU43MEIwUzNfZHo5c0lVRFV4YWhnVFhQeFVicFhjRzk3d2ZncXkzYURHRjhJcW5wQkdoWEozcUlPc0YxQzFRSmdsbU02VXVYa0xSWkRFSllzY3JFcWNXUkdiNjFTSTJjR2plUGN1QURUZ2d3aVNVcmxFSnHSAZwCQVVfeXFMTkRQY3FKREs5SWZlWmlObzNmdzdXMDktNFNkX1VSYXp4MlNHMFI2eThrQ004NkZsUUh5VHdOc2JCM2dkVmhKLTdSTVZQV2tFNW9UY3E1QjJ0M2Q4ekIyVVd1bzZOZGhFcVpRWmphTDE3SlIzMndySUVGSlF0Z29oX3paczNtTkpkWEF2OXUyZmIzcHdXRzQxcW1qM3Zxc2VJMDV0aDdUcWs5UGg3c0pGUGxUNl9uX3lmY2s1eUs1MERrWXNCUjNnOUFjTVpVRWdsemVtZDhaNTUyUHdnNVIzWjUtbGJVbDZLc3NucEpPWXo5Z1Nmb1RwYl9xV1JkZXlMaTdLcGs1cE9id2kyRlQxNk9ySnBkYk1VM21zZnQ?oc=5",
+        "pub": "2026-11-18T11:46:48+00:00",
         "outlet": "El País"
        }
       ],
@@ -401,7 +401,7 @@
        {
         "title": "¿Retirar dinero de tu 401(k) por el alto costo de vida? Así te afecta usar tus ahorros de jubilación antes de tiempo",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdklXcEZSOE84elFfb2xwZ2IyamhvSWVHUVUwbTk5azJ6N1poMEtSNUd6aEI4WmhuU1ZKU2hYUU1EWjhpMVgtWS1pbVhtaTdtcVRQQXdZZlpuRnRFSzhacXhfeGt1SE12c3gwQkEtQW1KWjQ0ZjN5QkhQZHZET2Q4SGt2VHdFUWtUY0xZNDhNRWJ6bGExdlNaaTBxRTlZM1FYWmhqNVBqcVVnZFJpZzBMVXB6TGdBcTl6eGtaZXMydXdZZWFxdjBXZ201c1FuT0ttTEFraVhBU2VPZzFVY3M5SzFEWk1WYnVzRTNScHYtWkpNWDBoaWc0?oc=5",
-        "pub": "2026-11-19T02:27:46+00:00",
+        "pub": "2026-11-18T07:59:59+00:00",
         "outlet": "Univision"
        },
        {
@@ -517,12 +517,6 @@
       "name": "Fox News",
       "items": [
        {
-        "title": "Legendary broadcaster Dan Hicks' death certificate reveals cause of tragic passing: report",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm5YbTFMLUJaak9VbVl6X000bG9ObTF6bmNBS3V0czJqY3pWdGxMVUMzcGU3TWhsMFhiQkFra2YxdWRwOGxabHN0YWxiX09RWXlaMWdwTnZqM2gtZnkwZUdtc1hIQWdKTzh1OEFHVkY1enItYWlISmZ5M3g1OG5CVnhVLTdnMmxlRHYtMDVPenBBalp6eEZ4dkRLc2c0U0hqQXlpUlNCUEZmUG5WYUhQNjFrMTVSWHlXU2xQOTRHeU1tdw?oc=5",
-        "pub": "2026-11-17T22:20:07+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Seattle Times still hasn't corrected claim that trans women have no athletic advantage despite studies",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeDFScVFuXzE5SWpsVF9BWGcyalphVlZfMGRXcHBGOFVSWk9VX2V2Ylh6SW1tZnRlWFFaV01VUy1oRnNtb2RXUUY0VjJ5VUdJUnplc24xMDk4cVFwcEt0VkJBaC16YXlfa2tUOC1YZjdMMGt2YllZSGFaeFpsRlE3OE43cWowNmdaS3ljMmRrLTNVREp5czJRVW9rUlRGOFA3dzBFRW1iWHJnY251QW1NcHVfb1dXV1VxWmN6Qy16ZFRYQQ?oc=5",
         "pub": "2026-11-17T12:05:49+00:00",
@@ -532,6 +526,12 @@
         "title": "Jennifer Sey fights Colorado law that could punish businesses for refusing transgender pronouns",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN0NzWEtjVExHbF9HN0I5bEhHMEwxMlRCUHljeFVVTGE4VXdEd3E2NDFwZHlLUmVyMjk3SG5QSy1Nc2lPRVliMnM4UzFRY3FrNkpjazIwWmdDSFNIN1hpalBzdUdQODdIWWxXdmg4aVo3RGktbGxhZW9uUUVXajgzcmtZZ05VTjRkQ2pwSWU5NlhUVGlNRGlzRGczM3p0cjNERVYxZ0l6T09ibVpzU3ZUelVvNXBJYXd2R2Vj?oc=5",
         "pub": "2026-11-17T22:59:34+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Legendary broadcaster Dan Hicks' death certificate reveals cause of tragic passing: report",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm5YbTFMLUJaak9VbVl6X000bG9ObTF6bmNBS3V0czJqY3pWdGxMVUMzcGU3TWhsMFhiQkFra2YxdWRwOGxabHN0YWxiX09RWXlaMWdwTnZqM2gtZnkwZUdtc1hIQWdKTzh1OEFHVkY1enItYWlISmZ5M3g1OG5CVnhVLTdnMmxlRHYtMDVPenBBalp6eEZ4dkRLc2c0U0hqQXlpUlNCUEZmUG5WYUhQNjFrMTVSWHlXU2xQOTRHeU1tdw?oc=5",
+        "pub": "2026-11-17T22:20:07+00:00",
         "outlet": "Fox News"
        },
        {
@@ -573,15 +573,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Robert Pattinson’s James Bond casting could bring 'darker,' 'moodier' twist as fans crave classic 007: expert",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHRRbmw5MHN5RHJTZ05WOVVsaFRaV3MtRWRYX1BnVHJPTTNmVDZaNG96alRKd0N5LWtSMDVlNFcxRU8zNEo1SHpORE5UOU5veHZtMU8tVkZTV3dMUHdJRkpzb1RQUGFCVHphcDdtUVhNRDZtb0p4S080Rm5KVkRTNVNEM3N5SnBmdUlxWjNfQVZIZURiTnlzME5NQV9Vd0JWSkpwd20tWnBTb25EeVlIdzQtNHZSeXo0ZFlOMkFvb012Z9IBxwFBVV95cUxQdnVvX0plTnNmeDk0NGhSc3ZlU2tBQ1huR29LWEN2Z0c3X1VSSkdPb2NWLW43WTdGbm9Ed3hYUW00LUJfZWMzcTVrQ1BqLVN0STZwRGszMDduZzlzVjlQc1hmQ3lwTDRucjVMQmd4WW9GQS1PYjFDdk01STV4YWZ4QzhfSDEwX1pxTEpTQU9BdzJtaTBqNUlSbC1Ec3hmSGY2SGxxckFhYmgwcEdDR0xqSGFmQkJkUEJUcWJ0RkJYclJ4Y3djbHY4?oc=5",
-        "pub": "2026-11-17T11:00:28+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "‘Landman’ star Ali Larter sizzles in low-cut mini dress in behind-the-scenes Season 3 photos",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb3NwNzlId3lKUDdKbVJrdkhyelp5eGd3YllTZ21kN01hMnozd000WlZtWTZxVHlPOHBMNzlTUnFLS3lqT24yTVdEd1VfTk5meWN1bkFGT3FjS1AzRUoxRTRTVUZWZ0lrSEptUy15MUpWZUdtcjVjQ1hKeV9uYmV0WVpXSVRNY052c00xY0lfSHZqSFBGdmRsQWNhUGxDV09HekVUaW1yNFNqRXlJRjB4SjhwQUhRTU4tZHlwZHRhcHZ2LUwy0gHKAUFVX3lxTE1oTXlNUHZ5Y0plWjdaLXpQS0p6NkhRSXlsd2Q4ZkdrZXFMUFFvZy1Da2wzNW5HdXNVaXdOaEkxY3Q2cE96U01iYUZ2WUtITTE5OXdiT29hQWJlT1oyT1BkcU4tSnBSanVmZS1EZk51enlzM2wwWUtuR19QcWZFdDlXR1UzT3JlVzhZUzFBWlFrSldZRHRLb01ad0hfaGZBS2M0bXExWHhPNWhUdFV1R3BqYUI0cF8xQjZpWVNWRFJpTXlNVnNfMy1CZVE?oc=5",
         "pub": "2026-11-18T02:05:09+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Phil Collins says he relies on full-time nurse after ‘enforced’ time off in hospital",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVm5keE1DTFNVeS1YWDJ2X2NCYXBJOTY0MDAwWFFRTzFURXRqQkVwdElTcmZVeGlYZTk3SnVnY2pjVlRieGMwT3EtTmFnMUtINE9janNpQU5LMHpFUFVGNGhSaUhoUmF4MkMxLWtOTTBBYTNmdzd4NkR1V0VUY3VOWUtnWktPbXN5SUpTcTY1TUpfc19kVmJ6Ulc2cWTSAaIBQVVfeXFMT0xnbDhqbC0wWUtoNXN5OFpJNEJicXdTblFNME05cGlFNXUyWnZEZk1XTzBaUFlNOFhZVHdlMnYxUHdUNm9UTXlnZENXZVM4aXBXVlNOLVZRYTZBTUxWdGNhaDdfVmpCZEpEVnNuamR0SWVYUzRCVUhYNEpEZkxiNmVCZFZycUJBb2l5alVtZXN6b0hrX1VEeFpqOU9ycDFFSE1B?oc=5",
+        "pub": "2026-11-17T13:00:28+00:00",
         "outlet": "Fox News"
        }
       ],
