@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:33:38.589519+00:00",
+ "updated": "2026-11-20T14:33:32.451111+00:00",
  "categories": [
   {
    "id": "top",
@@ -35,17 +35,10 @@
         "outlet": "El País"
        },
        {
-        "title": "Campaña electoral 29-N y actualidad política, en directo | Feijóo ganó a Sánchez en el cara a cara con 10 puntos de ventaja, según el sondeo de 40dB. para EL PAÍS y la SER",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-20/campana-electoral-29-n-y-actualidad-politica-en-directo.html",
-        "pub": "2026-11-20T13:31:14+00:00",
-        "desc": "Ester Muñoz (PP) cree que el líder del PP venció al jefe del Ejecutivo “cinco a cero”| Nogueras (Junts) critica que en el debate no se hablara de Cataluña | El PSOE confía en la movilización para el 2",
-        "outlet": "El País"
-       },
-       {
-        "title": "El cara a cara entre Sánchez y Feijóo resumido en un vídeo de cinco minutos",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-20/el-cara-a-cara-entre-sanchez-y-feijoo-resumido-en-un-video-de-cinco-minutos.html",
-        "pub": "2026-11-20T00:42:38+00:00",
-        "desc": "Desde la petición de perdón de Sánchez por los accidentes de tren o las acusaciones de Feijóo por la corrupción hasta los silencios y las interrupciones entre los dos candidatos",
+        "title": "Feijóo ganó el cara a cara contra Sánchez por 10 puntos, según el sondeo de 40dB. para EL PAÍS y la SER",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-20/feijoo-gano-el-cara-a-cara-contra-sanchez-por-10-puntos-segun-el-sondeo-de-40db-para-el-pais-y-la-ser.html",
+        "pub": "2026-11-20T13:49:03+00:00",
+        "desc": "Un 43% de los encuestados se decantan por el líder del PP como ganador del debate, frente al 33,3%, que lo hacen por el candidato socialista",
         "outlet": "El País"
        },
        {
@@ -61,6 +54,13 @@
         "pub": "2026-11-20T00:22:31+00:00",
         "desc": "Siete expertos opinan sobre el cara a cara entre los candidatos del PP y el PSOE ante las elecciones del 29-N",
         "outlet": "El País"
+       },
+       {
+        "title": "El cara a cara entre Sánchez y Feijóo resumido en un vídeo de cinco minutos",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-20/el-cara-a-cara-entre-sanchez-y-feijoo-resumido-en-un-video-de-cinco-minutos.html",
+        "pub": "2026-11-20T00:42:38+00:00",
+        "desc": "Desde la petición de perdón de Sánchez por los accidentes de tren o las acusaciones de Feijóo por la corrupción hasta los silencios y las interrupciones entre los dos candidatos",
+        "outlet": "El País"
        }
       ],
       "error": null
@@ -69,15 +69,21 @@
       "name": "Univision",
       "items": [
        {
-        "title": "Acusan de cargos federales a un presunto líder de una red de narcotráfico que operaba en Penn State",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVmRvRTRQQ29JRWxmbk1TSUZNQkZEYkRwNk4wS0ljNmtUdjZrMEJuYzZ4dnB6ZzJHdnNtQ1JxbFY1Q0ZVZVBCX09DWk15dzkzOF9mQjE5Y0FZQ0tvbl9WTmx1QmZ3VmQ1eWliWUs3Vk1BVjFibTE2YkpWQ2ZCZ2tWQlQwdHZPdnQwR0pWalNFUV9VdTZqazV6VW80SWNxNG5RTjhDUFpmZXMyeFdMelg1RlQ4Q1BBd2JaaUptOEJFMmVLQVFoaWI3OXByMmg3TUVobnlQUlEyb2ljeUk?oc=5",
-        "pub": "2026-11-20T05:48:49+00:00",
+        "title": "Agentes de ICE entrenan para realizar controles vehiculares en un estacionamiento de Brooklyn, pese a la amenaza de Mamdani",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVnJ3ZThSUWpYdnlKMHY4TjZNOWlIUUxWT1VnbXg5bExiZXZ4NUVxSUszT09DVERrQlNwNGhBYVhvWXNUd0M0dUkwZ0ZlbVNmRjdkMktDc3ZfNTN2OGh2OUJzX3VEeW9STEhpNTJfMG11MHN5SXVDWF8yR2dJYllSb084R00zaUp4UHpKanNJdnlvdWgzeUtUVXFrRXRJLXd3SWl6V0Uxb0pTQlpsempaVHppVjdlb2pfcG1MVXBSS2FIX1hJeGNaYzc1YWpIYjR1bHBQamZDSU1ZSmpjUnZFZmpGdDdpWDFBSEM3TFdEaU56Rzhsd1VfRWlTTUxBUQ?oc=5",
+        "pub": "2026-11-20T05:53:41+00:00",
         "outlet": "Univision"
        },
        {
         "title": "Tras ganar el distrito 26 en Florida, Mario Díaz-Balart habla con N+ Univision sobre inmigración, Cuba y la reñida contienda electoral",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNYjVVeHN0WmxLTmlRWW9wOVVBRmlYMVB2djVqNndfNWdZTlRsYUpkLV9ROWlkd0gzZXBNWmpMM3UtZXB6Y1NiR0JxVndwTm1CRFRic3lzZ1pJWm1KU0FUbjN4dTNfWlptcXhFRXoyWVFIaWtxazc1V3lmY0wxN3hJVW42LVRqMjBUUUNmM1g3N3lEZFBNdkQ4YzZQRWZxOWRHaGlTcDdVVHd6MHRDWGw5cl80S0YzdHNqdEw2V3BzbnRfS2N2V0NQLXduMERiUnNZRER0ZlJXWnViZXhXaV9iQWhXNUZ6TlF4X0oyRTdraU5mNFl2V2xocjVTakZaQmROYVE?oc=5",
         "pub": "2026-11-19T23:30:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Acusan de cargos federales a un presunto líder de una red de narcotráfico que operaba en Penn State",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVmRvRTRQQ29JRWxmbk1TSUZNQkZEYkRwNk4wS0ljNmtUdjZrMEJuYzZ4dnB6ZzJHdnNtQ1JxbFY1Q0ZVZVBCX09DWk15dzkzOF9mQjE5Y0FZQ0tvbl9WTmx1QmZ3VmQ1eWliWUs3Vk1BVjFibTE2YkpWQ2ZCZ2tWQlQwdHZPdnQwR0pWalNFUV9VdTZqazV6VW80SWNxNG5RTjhDUFpmZXMyeFdMelg1RlQ4Q1BBd2JaaUptOEJFMmVLQVFoaWI3OXByMmg3TUVobnlQUlEyb2ljeUk?oc=5",
+        "pub": "2026-11-20T05:48:49+00:00",
         "outlet": "Univision"
        },
        {
@@ -91,12 +97,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbzlzeUVyekxkWTAxbE55QlVwVkQxOGdJX01HWXdHeTN1bXBqTndJaTVDQ1djbDZHQzd5TjdrdndJU3Y0RVd1UVczRVRyTnJaWnRoSy1FSFdPak05b2FURUhBR1BWcjJ2U0U3VXZmYVhoUHFRT3BCeVVSVlVkUFUyVWZNT2Rmd0tZcHh2Nk1HQjJDd1FYRDh0SmgzYjEtbkFfaExSNkEwQVY?oc=5",
         "pub": "2026-11-20T04:12:00+00:00",
         "outlet": "Univision"
-       },
-       {
-        "title": "¿Son seguros los fármacos para bajar de peso en niños? Endocrinóloga pide cambiar hábitos antes de cualquier tratamiento",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQnMwSV9rdk90R3dmeFQzbXdOZWVUN2hhenhOSFZpN0RHRTNfMTBGT3BhWUt2Z3RPZEdlTEc0TmRVcUUxT0poMmh0TF95LUMtczlDOG5qcDNMM2RVaUJKdTVuM2EweFBLLXNtbDMxMmVhd0pJYV9MY0tuVGswby16eUliZXVHM0FSclRHZ25tVGdjTWx4Q1A1VDNqZWx5Z01Hc1VicVhqUXBhM3BmSlVfcGxhYzlpMUJyY3BnT0F5ZjFZM0Jfc3ZQczJob2ZHR0VZSldMSE5rVVpxWkZCU195MEM3WWhSUGJXVEFBcl9uZGk?oc=5",
-        "pub": "2026-11-20T04:42:00+00:00",
-        "outlet": "Univision"
        }
       ],
       "error": null
@@ -105,33 +105,33 @@
       "name": "Telemundo",
       "items": [
        {
+        "title": "Las noticias de la mañana, viernes 20 de noviembre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkF1azlWOVJNSHB4QjNUeXZEcjc3d1hxSnR5N0w4dEdsVjM5QlhxeVFsSEdkRjBGLUllMU1WU0pJNFNGVTBid3FKdVNfVjlic2FubHVkT0pRSlB2c1U4THlWby1HTWxoNDJleVhlVXF6S1R4NjdnemJObkNUUjBCSEE5a1dXOUdraWVaa1piSW9ySWxlNEhPSmRNS0loWThiNDdHWEkwTVVWS1A2cVYzT1VwSVdsY25oMVVqUEItbEtoX3BVTDRHU2lR?oc=5",
+        "pub": "2026-11-20T13:10:24+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Estas son las 5 noticias más importantes en Noticias Telemundo AHORA, viernes 20 de noviembre",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQR1M5aFBHdkhHZVc1ZzUxR2VmcGNrZWxIWHVGS2lKYzlkdkFKNkFvbkhiNThMREx4ZDFNb01kMGhhQUU1WHhGWXFQZE9MUHd2ZWpaVndQcF9rcjFmZ2xJZEJ0eDZOZE90Z3FnU3RCdkNuaG9MaUJveW8tbjhyYzhpb01wSHE3aHE5Qy1ZME1CUTRNN2wzVFIzRDJLYUpSa2o5cVdzcDYtUGp6blpWMlkwNjV2UXRNblNFeFBzcnd3VHl0Q2lNenA4dU9RZWdYOHJIU1JkckdFcDVTelpwbi1zdnRXVHB2NzRxLTdZRHpLTndDMmhKN1ozNHJHRjBtTFB5SlVZV1ZNbzVRcDNZ?oc=5",
+        "pub": "2026-11-20T06:29:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Noticias Telemundo Mediodía 11/19",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSTRDck5fS2JVYWIxN2tHeTJUM2ZYQUxLdFBkclh3WmwtaFBzM2ZDYk5OdEZQdUg0YlIxYzlDc0hoT0JQYnQtSUp0OFhpc21UTUZpSENsMTMwaTNOcHN5VFZIRmlWZHI3dFlUR0NyVE9MVC1uN21pRGtIdjJGV3BSSGgwRk45T1MzTndzRUo5OXhNWEdvLUxNQ3lKM3lpS0pKaXhZQ1hTVV9nSlJBdkk0c29HZE1qREdDSDBvUjdWb2lzV0lWaXgzOEo4aUZDdHp2ZjBJMXdybkY?oc=5",
+        "pub": "2026-11-20T02:04:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "Texas ejecuta al cubano Reinaldo Dennes, quien confesó a Telemundo el asesinato de un joyero hace 30 años",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTlc2ZlkyTVByLVJyT0U3dUZ5dGFnVTVhQ0NoZHRKMzluZDlfWkNRS3ppR0pBTHhYc2ItbmhZc21iY1VGMnEwLUtoWEt3OWpUU1RydDg4bHdGT2Z3S0hUdEN4cC1PWXFpUVVyM1N3dmJVS2Q3d0ktOFRVV2s3T3A3MXFvS25kOUkzYW9oTjZXLW5sM2pQZVZ4NGN2RXg2R3VOdWZxSXYwQUxZTDZhVHdvUGt5RXFhTE0xXy1xY0VUYThPcEFqQ09sQ0poTGphNUpoeXExcmhJT0VEMWZmVE9PeHpMeTAyYVNv?oc=5",
         "pub": "2026-11-20T01:21:00+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "Juárez vs. Atlas, ¿Cómo y dónde ver? | Jornada 17 de Liga MX",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1NfVW5acV9wUFFfQW5KeXprLVBZQ2Q5Y05MLWZyT1pIV0xWeGZPdk12S3pWejJmLUk4a3p2LXZ0VjMwWEVDc3lJRzBRYU44cWpYeldFei1CNmltUEpZWS1fNWlBbHpJZmFOT3BJdEpjQnBNWHpqTl8yZHdVUlFVVnVLYzA2TmE3X0tGUGdKSllCcVJfNWJYWkdOdWFKMlhHYW9pT2ptcVRUZk1C?oc=5",
-        "pub": "2026-11-19T22:55:19+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Las noticias de la mañana, jueves 19 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmQzazFlOXNLc2NnTG9Fd2ExVFVVdDdlSy1rbzlQazZyWFNsV3p6UHhkM3lELUhkYlllQzhKTVBDQ1lBbGh2UmRsYzhmVHlBV3B2Q2ROcUJOb0YtWWZkYWhLOEE5YWk2ekFBaDFULU43REpCSzJjQndzWURCZDJ0VlcwZVlqdlkwcXRZeEIzQ1JTelRSbm9BU0E4dzJrekotSHpZZzc5NDhSYU9tRkNqWms1eFBNOHpCejc1MDlKR29iMmFVMTlGUw?oc=5",
-        "pub": "2026-11-19T21:13:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Cientos de miles de venezolanos quedan más desprotegidos de la deportación tras un nuevo revés judicial al TPS",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd1ZsRW9zdmpDQnhhdVZyRHdlbnJoYXN4bGdnLXdOb1NueGM4dXl1UElzSWswSVVvRFI2aEN3a19TUWxuMVVaaU1PYXlnQ3ZZeTZkU0J6TDZhaE5GVkZ5WXpNd0J0NE93QkhWbUFBQjNsN2Y4cGF2WnQ5SWJVY2NHaDJ5eXpKQjJNTTFWdTFkb2lsSW9Ta2YzTW55THc5U3BTcDN2X0lnY1ZuT2dqSGNoQURObjlBZzZ5VDJjbHM3cDlwX3BJOC1La2hnczJYMnlWelhnTEVURkFWUXBWTmZwSQ?oc=5",
-        "pub": "2026-11-19T19:57:31+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Niegan libertad condicional a Susan Smith, que ahogó a sus dos hijos y fingió que un hombre se los había llevado",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWnVkNHJOSUdsM0w2U1dPZXFQTDRZNHZfY1NlcHhuSjZZcGxmTFc5QkdtNlVLaVlleVBEd3hhaUM3WVkxNnJYVk5xb0VCRTh1TVNQOGdHSDE2VkJjVEVpb2lXeG1fV2c2YjFlY1k0eVdKWHRXYmtCano4Njk0aHFfVEJfOXlraTdxOTlkVHhlWEhfR3ljd3lsNVdvbnRRM2F6MVB1U2xHTlh0VE83QlJvb0J1ZGRxOXRWekV5TnFzVlZWYWphcERrRVZ2Smt0NW5JMjE3Sm5LVE5OOGxUYVE0eHp6VUpPV3Z2R2c?oc=5",
-        "pub": "2026-11-19T16:17:31+00:00",
+        "title": "Inundaciones dejan a familias varadas en Florida",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMkpxZjNvRTA1ejh2ZzNGVExZN3FCYURVRmEwVFNxN0ZIemZRU005cVBwcFBGX2lHM293QUt3QmRjc0lpVmtxX0JsOUpfTFkyaDJZRE1iNVRYVGVGV3A1UXdBeXByazF0Q1VndE96NXJjTHVMQzl2bzVjQzVlV0JDZHA1dmZZVWVMMTluaWVVQWg2Q2drTE1NVVRsdjE3WExxdGs4cGdwTmw4TmRJTVV0RU9ZNXZnS3gwNTNNc2RnOA?oc=5",
+        "pub": "2026-11-20T03:07:05+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -143,27 +143,27 @@
       "name": "El País",
       "items": [
        {
-        "title": "Resultados deportivos del 25 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnOW1OdmVSOHYwdGZKWGFuYUNzRk1mWm1fTnNBa3RfZFB1TVkwWGJKRjVPUEtJby1tTGxPa0tBdmo0U0ExMVl3S0RPeDNFbHFDalVIcHhGRmFfS3VxVzU2ak1VbE16Zw?oc=5",
-        "pub": "2026-11-18T23:52:06+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Resultados deportivos del 24 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rMzN1NEFuX1NfNThpVG1IZUk5TE10ZUMteVRuRkNTRXlqemE4eXVwbnB5NW5hNmVMXy1Ya3QzWmlxZk04Qk90WW5CaTNSRVNDMGJmUjNEdFEzR2hER1F5WVRJLTU3Zw?oc=5",
-        "pub": "2026-11-18T00:52:21+00:00",
-        "outlet": "El País"
-       },
-       {
         "title": "Resultados deportivos del 26 de noviembre de 2026",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WUnFZUU8tZU1ueGtWQlRfS0I5TFlfZjlQb1lmRjhVQUpndDVXMzNJY0lCRkpuME1xaVFHbVZwV1FBc3hMdy1KT2lQS2VoVzVMeTlhdzA1RDFkbHlFSXNvazhCVktyZw?oc=5",
         "pub": "2026-11-19T23:54:59+00:00",
         "outlet": "El País"
        },
        {
-        "title": "Resultados de baloncesto del 25 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZZkUwQzJoTlBzRmc0TWRrbjZEQ3pZREVqMnh3T19tSmxMcFJRTzB2RElYT1htSlBWOThMU2ZKbGtRTDBrQk56empLbF9DdFdnSDdpYkI5Ul9DRVl5WWIwQ0RkS2pTLXdrakVRRE9NSWU5blpm?oc=5",
-        "pub": "2026-11-19T02:42:26+00:00",
+        "title": "Entrenamientos libres del GP de Portugal en directo - MotoGP 2026",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa3g1T3ZzXzRsWWI2V3FiT2hNTjRrVmhFR1NmMjVsSUhHVU9aOTNpa1RGX2xQY1J0LVY0LUJidlZaR2VPRUVXcF9TUVNndGQ3UVRJZlVvMEhOeU12NG1nc2daR2lwZWZXSm54TlZBYmRjY1c2SlI5N04yMFhvQjUtVkE4bzR1aU1LTkZDbQ?oc=5",
+        "pub": "2026-11-20T12:50:45+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "La Armada española desembarca en Inglaterra",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWXBiOE1uSmhQR2VzYmNmUkttY2Y1OUVWY2diNnNld0JIajlRb090TUtfMWVBZUVXa0pCWTVnY01reDJheG4zNW5sek9NWkdVTTVPSUZFSHc3b1JvN3RRSkxJUk80WGZIQU0zUE5uZDZ5bDhMQ05RdkxNS2NKeW5GWU02RFpfOHFaYUY1MEd5MTJienZVMDVTWno1WUdmWk5ZemNJdnl6ejNkUVhrREU0VmxwbVF6a05sSXl2c0tyRlFYNWV4SlVka3B5Q09ORDNRQXlzVEFDUkc3WnYtcEllbGNhYTN5ZXBPZmZfbG5fMUl6N1l0NlZudW1UVHRqRkRBMUxOZE9rWTnSAYgCQVVfeXFMUFlwYjhNbkpoUEdlc2JjZlJLbWNmNTlFVmNnYjZzZXdCSGo5UW9PdE1LXzFlQWVFV2tKQlk1Z2NNa3gyYXhuMzVubHpPTVpHVU01T0lGRUh3N29Sbzd0UUpMSVJPNFhmSEFNM1BObmQ2eWw4TENOUXZMTUtjSnluRllNNkRaXzhxWmFGNTBHeTEyYnp2VTA1U1p6NVlHZlpOWXpjSXZ5enozZFFYa0RFNFZscG1RemtObEl5dnNLckZRWDVleEpVZGtweUNPTkQzUUF5c1RBQ1JHN1p2LXBJZWxjYWEzeWVwT2ZmX2xuXzFJejdZdDZWbnVtVFR0akZEQTFMTmRPa1k5?oc=5",
+        "pub": "2026-11-20T04:30:01+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "JJ Gabriel, una leyenda en prácticas",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcl8zWmYwZ0RUSGtxYTFOZ29FZXJPNjZQSUlURDI2SzRtdWxDbUlhTm9SdDVyUEh4MmNWeGt5U1lDcU41LVBSUHRtbkMtaWRSeWJHYXZyWW1oUEktdFJSVmRwbUZIdFdLWVhMM2VfbkNXV2pYdjZwbmxCVUFiRTJyVzdvN2h3TERURmNoejdoNNIBowFBVV95cUxOV0FVQk9YVEpucWNHSVdmWl9leFpWOUJpdUlpRXZrSTlWNUZQeWV6SzhUUkZaOHFsM0QxaTRsbVBUVmxSVE5SRWItMnZxLVQwRXhTdVUzQUxFbkd5aFJoNXoxUWVyUjBKck91UWJ6OTE2MlZ4RVc3VFhWVE1kLUtpbGVVcFBFbHVINm15VDZvOTBRYXItZzJDTmtkVjJjMjNmaFhr?oc=5",
+        "pub": "2026-11-19T04:30:01+00:00",
         "outlet": "El País"
        },
        {
@@ -191,15 +191,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Robert Pattinson es elegido como el séptimo James Bond, tomando el relevo de Daniel Craig",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzEwS0tsZDJGaGZEQlB3Wmw1LUtIWmRheElqTlNKV2JCWV9HZi1yTzdzZm9YdFA2X0FrZS0wbm45MlRxc2JPdmd1eFY4RVZfQUxOU0xtRWtvZjdVY213NHBraGFEYXhWaGowa1ZmZEtIR2NNVXRMeA?oc=5",
-        "pub": "2026-11-20T09:57:25+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Hija de Niurka arremete contra Bobby Larios y defiende a su madre: “Nadie habla de él”",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHBRR1piYU5UdUU5RDl6dzZQUjZ5RHRsckp4UjUzLU1kYWtsYnZCTmRtVjl3dlY5LURXeHpYdlZMTXMzaUpBZjdMY0JZUHhSdnhvZUNjbDI5cExtRE5iZXZjTU9sSUdUa2tiWlhUbENtTXVxLUxwX0tNY00tOGFzdUR2VVFhN0hzcmxPb1kwMW1qQmFBdVI2Vmp5Mnc1RFhNTlBUQkVrSkFWbE5PTHVsQ3pwUzlOY1hfaWZPblVOSzU?oc=5",
         "pub": "2026-11-20T01:48:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Robert Pattinson es elegido como el séptimo James Bond, tomando el relevo de Daniel Craig",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yZzEwS0tsZDJGaGZEQlB3Wmw1LUtIWmRheElqTlNKV2JCWV9HZi1yTzdzZm9YdFA2X0FrZS0wbm45MlRxc2JPdmd1eFY4RVZfQUxOU0xtRWtvZjdVY213NHBraGFEYXhWaGowa1ZmZEtIR2NNVXRMeA?oc=5",
+        "pub": "2026-11-20T09:57:25+00:00",
         "outlet": "Univision"
        },
        {
@@ -221,15 +221,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Chivas vs. Cruz Azul, ¿Cómo y dónde ver el partido que podría definir al líder de la Liga MX? | Apertura 2026",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2ExeUJfWFJNOHU1M1Vma0NLTkhPcVZ2RGdEclJhbjg1LTdVTDg3VjNkeGl5ZF8xd1ZJUHZhNlNsamNYdE12OTV0NUh5WFp1RXlJSUVmX1ROLU5HUE54LW5YTC1wTDRDV2tsQ0tMRlhxM0pCNklQMmhDQmc3N1MtSnEwcmtMSkdjZEtQUTJfX1J5QW5RclE1Tzl5cU5lUTZuVWVpN0ZzR1FodFJ4ZFF4dXlpNGxRYnRtY0RnakEzQWc?oc=5",
-        "pub": "2026-11-20T00:13:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "El Pelotazo 11/19",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3JaRjN4WWJteGlBXy11MlZnNHo1aWlsMWxySXVoY3JTaUpqT3VkZ1NIVll5c29leGxoMEx5d0sxNnJ1RWd5SVRGeWhKZk5nYkcyMzF4U0twS1hMN3I3V21SWUxXYTJGYm5tdHQweW9CWjQ0OFVVTVVOdnBLdTEtdnpNcmptZU9Bc1dfdjlOa3Y3N253RFJ1MTBzQjlqSEYwSkQtVVFCSFMwQQ?oc=5",
         "pub": "2026-11-20T11:08:03+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Chivas vs. Cruz Azul, ¿Cómo y dónde ver el partido que podría definir al líder de la Liga MX? | Apertura 2026",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2ExeUJfWFJNOHU1M1Vma0NLTkhPcVZ2RGdEclJhbjg1LTdVTDg3VjNkeGl5ZF8xd1ZJUHZhNlNsamNYdE12OTV0NUh5WFp1RXlJSUVmX1ROLU5HUE54LW5YTC1wTDRDV2tsQ0tMRlhxM0pCNklQMmhDQmc3N1MtSnEwcmtMSkdjZEtQUTJfX1J5QW5RclE1Tzl5cU5lUTZuVWVpN0ZzR1FodFJ4ZFF4dXlpNGxRYnRtY0RnakEzQWc?oc=5",
+        "pub": "2026-11-20T00:13:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -253,33 +253,33 @@
       "name": "El País",
       "items": [
        {
+        "title": "‘Adolescencia, sexo y muerte en Campamento Miasma’: un orgasmo de cine",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHBQd0VQcmRJUVljMXAwMm1SMnpUbGJxMDhIWnRxUHFlcEpNakFqeVF5TmNGT2pXUlJzVy1DVnVMNUsybFY5ZDZWb0x3SGR5XzJEbmRSRTNUQjl1T3R5WjVJelFHcWcyMGZHNzVKQjJ3bUVOTkduTE1SeF81eU1odEdzR0tiQXFoV25WeHBWbGFmdGQ4X0hCOW82M2hJMkFiY2N3d0FUOWV6cVFMLWdaMGM5VmHSAcgBQVVfeXFMT0lXU1BQRXJUTEN2NU1jZ2tQcHpZd2dhSndRLWdrVW5NMnJIZDItdkdXNHJNRnFabWRBaUd3YmpJekNFa1ZSeEtyaVc4WWthTG43TTYwc190VENQNlJnS1RpNWVCcEpiMmpwRkl0bzB5eUcxMkFuT2IxX3JrQkQzNmh6aHFnSlhkZkNkSHFVZ0g3QlBJZWxyWlh3UmxKekY0bU5WZXlmT09GOTRObERjSGlMUHFYbTNuRU1tY3Z0NmduZUpNbWd0YUQ?oc=5",
+        "pub": "2026-11-20T04:30:01+00:00",
+        "outlet": "El País"
+       },
+       {
         "title": "‘You Can See Everything’, un profundo análisis sobre la conducta humana",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQem01VWs4OVdweXRlck51SE15NElxVkpJaEpVSkFLWXY0Ty1ybkk4dy0yRmNIZUFZU2JOdV96bzNJSWs2TVZ3T1R5Qi1JOFYtRlFaWGFZX2ZoY1Z0N3MwSjBBX2FWZDlTbHpYUmpaRXhLd3ZUOG5tTHZxMjZzeXJxYldyeDNPNE11NTNXcHRzbWZ1WlV1ODZHNWRZS3pWc1V2MXdQWWc1d21XOVZGa092Z3g5UXdFbTTSAcsBQVVfeXFMTWl4bVM5cE1oaDZUNDdHUktZdmdWMHFHMWxaSk1TUHRjNEZUcUNDdnhyUU1xVWlqQWdEQW9RTk5OYXZOYldmWWNtU2lXWGNrS0lkQWtEdDRFQnFubW1jN01yVEI5cmRfeEk0RmxoSzRSamtHRndCTXNCaGxRdWt1VlpHZXhaMVBpMzA2MXd3WmNTYnNCT0ozcEVSY3dUeVVIS0d3c1hiaWFiaUFWdG1SVEd2dTV3Zm54TjVBcUFQbU9uWVpQc2lNeW85b2M?oc=5",
         "pub": "2026-11-19T11:13:14+00:00",
         "outlet": "El País"
        },
        {
+        "title": "‘El mal padre’: otra de tensiones entre un padre y sus hijos. Y está bien",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFNsYmxfWThrWnhvdzl4R1JfOGVnMGZMVERJRlVQU0pzUDk2OTZUNWp2dGU4S0dLZUtrem53Nl8zRERuQmR6eDJpOGE1U0NKLUZSUkV3NERad21WTnVneFJ2MjFRdHhfVFpvSXgzTlJxbDJMa19WQU1jQzNyZkd5QlZ3NmN3U1Nack83dWQ0Zjg4ODFzenpYZlk3VHBRMWZ5S3NTTVp0M3lKOWdqX1JjR2pUTG9hbnV50gHMAUFVX3lxTE9EV29jeTJWSHdiUFg4anl2ZVc0VW5vYm1oVnhYQ05vZkM5c2tkSFRzaTRNdkVaLTBlNjNpeDlQYVc3YXNzbnd3Q3RRT2oyaUkySndGdUpTQS0tUUpLSXN5RFBPVm82bUZWcnBTQUpLR0VaSTNFbzJSV0d1UkZfNmx4VGJzUk83ZG5NTWFCY25LVlV0d19FYkZaN3hvS2NaS0c1VlFIZEJranEtQmdrMU5aQXlLVnFObERJMzZPeVA4QXVuc3pfcDNzaXpXMg?oc=5",
+        "pub": "2026-11-20T04:30:01+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "‘Les Indes’, la agitada historia de un cuadro de Velázquez en clave de ‘road movie’ barroca",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWhCR042TVMxdFhqX3lkSHFOY1h3YWFvV0l3T3dmTlZGdy1OVXNwTTVUTDR6T0dLLXByeTZjb2JzTDZKa2xXWmlDNy1qZFBpRzFkeVlTS0NFWUdTb1VOWUZtcXRrZUJZRlVRWnA5V250bjEtRmxKUVNwcnpjeEZWREYxR1ZlRkFFTWZ5UDZzbnhfV3Q5MFZxbEdwU3dvMElaQV9abXQ3Q2hKRjY3Nm9jS01WbmdObkZqdDlNZkdyOHM1QmJnY3NtWNIB3AFBVV95cUxNeGNkWmRfZ3ZxVUE0OEZCTDFBOV9lcmtVNHpHdXRzR05Nai1renFMenRIaFFvQ0lRZGdSYXV6M3MydG85Tnh1UG1ERG9pVFozSUloNlR3aWxEcWp1QzhySzhMaGV5ZnVPcGZyYkViVHZqR29KaGt5ZHFFLUF4X3dWOGpkMHZaWUpZMElwVWV4TE5aYWQ5XzVxU2pGRmRKUnU4MVJFZlB4UW95Vzc1WmxpcXNCS2tLOU1zUTZKWjF5elc3OXdMSWc5UGFOdUFKLWtkbC1hRzh0eThSQkpj?oc=5",
+        "pub": "2026-11-19T04:30:01+00:00",
+        "outlet": "El País"
+       },
+       {
         "title": "‘GTA VI’ presenta a su primera protagonista latina, Lucia Caminos, interpretada por Manni L. Perez",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTlR6cGhhanRHUXI1aWpVek82OVBJSDB2a1JtelhFM3Yzb1ZsWVY2UVVfMmtDS3NTUi1sSVpkWVE4T2F4NHpiT2NYeFhEdHEwSFBDcnFkdTdVWlB5WmJZUkFERDJNNFNfaXFHRmk0S0luU29SYWxQcE1kNEhBY2d4bklMMDM2ckZrZU43V1NyZnNUa3NaRkpBcGw2alpPNmo4R2JsQTFFOW5NU0hVTW0zMkZLMDdpOFdFR0pMRXAyMUVNNnFxVHFZS0dLenoxQ1lXRHZ4TXpPZ3BLTUp0U08wMtIB9AFBVV95cUxQc3FkTllGci0tU0w1bHlvdXhROE9zOTFENjkyTThYMkpyY0NTTTRuS0F5SlpfRnpOMWMzamtNVENIYVBINWZ0UHZIbTNhcDdqZ0E1Zkd2eWVpQlNQX3o5U2JnZmFaTmMzTmFzRUl5ZlJ0aXo0VXV5djV1ZHZBNjlyRFM5dlNHbUJlaDBqRGNELUxIblBPbEVZUy04c01WQktxVkk5UnM0Q1ZSdGhxcFZyQ1VUd2d3c0RXM043WEVROUFFVHFaR01rMm5xYm9BX1BKU2RDZ1NsZEdzeG1yODNjelJTaGlfaWwtNFJRRmsydjh0X0dY?oc=5",
         "pub": "2026-11-19T04:30:00+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Rihanna desnuda, junto a su hijo Rocki Irish Mayers, imagen de la nueva campaña de Dior",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeHV1WFIzNEhJb0lqNmJxclBaQUduYkRDcVlCdnFwc3N2LS1vV1VzNzR6T19lOUxFVlNjdmFCUGxJeUxQd2RlZlpJZ0dnNHRqRklnekJXZHVMUUs3RlBpTHRZN0VpTTFXZG1PYjhoeWNZdl9vUlNPd2FBSnQySE5VTzJjeXlCQWphVHpST1BQRVlpcER6XzZBYTEyR2NVS0RPV3dETnpCdWpPcnJvbU1VcnQ1WjZ1ZmRzQjVDT2hWczdvNEFw0gHYAUFVX3lxTE1FdkhSUDUzSXJDMG1iOEN3Q3NvMmNZQ3FPMF9yRU4zajdHREhERTNOb01UdXozSVJDMGoyTGZVVGxkSHFNZGFkclBhOWQzOVNyelIwb3JxWWYtbVZQOHZtNUxtY005X2d6Y19tSHQxd3o5aTV2OUV4Ym0zV282RUhOa3ROVkxvVGs0ZVZkdm9TcTB5ZWhpSnBnOFFFM0JhenZrMUtEMmNhU3g0ZEpIM3FLQ3VWd0g5TGROeEg2R0dpbHBQQmdKS0w4MTdKbTFDQmlKcXlPenFiYg?oc=5",
-        "pub": "2026-11-19T11:48:50+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Ashton Kutcher, a un paso de convertirse en milmillonario con la salida a Bolsa de Anthropic",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTjY1clZzeEEyUkZzZ1hrUmJuTFBMdlJvNHBreENOdmZrUEd1eTlFakRtQk9WRExRSVZDNGNSb0kyVkNyUElrRm4xLW1aLWVMd2tlVUFiMEtZN1F3QXNfVEViZ0pxUWg2ZHQzVTJXYnFVOEJwaHN6U3g3WWN6Tlpualp3Y0hrN18yV0ZxekducVUtSVJRWVFod2ZsWHZidDZUQ1dwUGxNQWQ3YnQwa0VsUzhOZ283OUVFLXlNS0NubGREZkt4d2hnbFlVYzTSAeABQVVfeXFMT0h1WmVTVE1BLVhYd2dIOEVJRDUwSFBreHNhdHROYW1ReEU1bm5YMENRSGtyNFBiUzM4S3BwRW5KM0NBdTNnWkduemt0dnFpQ1I2LXE3TE1TYXpIcTczbXhicHlkTnE1YkNBQnRaNE9jckx5b1ZPd0FaTEpfeHZCZ29HZlE0WVN6dm9qNjZiWWpnNUdNN0h0ekxRb1FoYWVBcEtQQVhaUzlDR2NpdTFEdnUwbEN4a29LNDU4ZE45SXhjaThKdERfUFpERWhDYlZfMnF2NFVNbWFaVERUcXVDWmU?oc=5",
-        "pub": "2026-11-19T12:30:59+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Stephen Baldwin critica las dotes interpretativas de su hermano Alec Baldwin: “No es el más talentoso de la familia”",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNTJ3dG9qSzVrY2xPbVpUa1llNmRZUVR3U3I4XzhLbDVtSkFaUDlCeXY5aTEwUjVuWTZ3dG1Hc3MtTGU3SmRkOHR2UE1FbmxNcHVEd0FSNlcyRUs0OEZ4M19NNGwyajB0bk5GYkxJZ1RnMlJyYzNoa2lVazFhbU10aEsxYUJTck9fLWc4LUZLNENiWGQ2bmFSeTJISTFvcS16dWtjWlhLVGVjb0hvaGRaZlBYWDlUNVhuclh4cWlvazROczY1T0s1SGtQeW14Y0NVWXpKbzE1blEtWlA3b1oxbzRRRHNpUHdocnfSAf4BQVVfeXFMT0lWTnhQbHBoUmU3ZHkxb1pRWUlOb3YzSEZfVncwSVp2WXY4cnB2RGtGTXZ0VDlCcklQanFGbVFkY1Y1TnltaVg4UE9TUVd6RVllOFN3djBMZ1owT0JDUDFkNHFmMEJoRjBQVlZrVVlyTVZxNFlKRDNhelhUOGtoS2xJY3FLcGNuZEtnQVd0RnMtQ1NCTmhOcnZjRmVzdDJ3U2F0YnlKazRVaTgzeUY4R1UzdTdhNTdoWVhfRHo4TDhrOEJ2cVdKTTlEVjRxZnhYMkdjQWVwN3hIYXJPWmdwTGRQM2hIUnFTT2JacmN1aGxUMmlyQTB2VVRoOHJKUWc?oc=5",
-        "pub": "2026-11-19T11:08:54+00:00",
         "outlet": "El País"
        }
       ],
@@ -295,15 +295,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Así luce la tumba de Edith González a siete años de su muerte",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnpkQ0xKelhmcHVST1htUy1ZQkhvdXRnNlVOOUVBY3poLURBaE15OVR5VFM1dWxvUEdMZFJvVk12LUdwZTFzZ01VczNGWk1BUXVGLTdaSjYzRUFZVFo3ekFrTWdDNVRjNEx4a3E0MWVDU2s0aGFQTXRyVEV5djdCQ0ZoY0FkMmlmQmJPLVJmdFQxd2RtWC1kTkRvYmpWUlFyMllR?oc=5",
-        "pub": "2026-11-19T23:57:00+00:00",
+        "title": "Hija de Niurka arremete contra Bobby Larios y defiende a su madre: “Nadie habla de él”",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHBRR1piYU5UdUU5RDl6dzZQUjZ5RHRsckp4UjUzLU1kYWtsYnZCTmRtVjl3dlY5LURXeHpYdlZMTXMzaUpBZjdMY0JZUHhSdnhvZUNjbDI5cExtRE5iZXZjTU9sSUdUa2tiWlhUbENtTXVxLUxwX0tNY00tOGFzdUR2VVFhN0hzcmxPb1kwMW1qQmFBdVI2Vmp5Mnc1RFhNTlBUQkVrSkFWbE5PTHVsQ3pwUzlOY1hfaWZPblVOSzU?oc=5",
+        "pub": "2026-11-20T01:48:00+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Sabine Moussier revela que estuvo a punto de casarse con “el amor de su vida”: revela quién es",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSERtei15VFVXT3BmMzBMVUJZdGVyV3Z4Y0lKZXgwblV1R3I3VEVibi1COXZWWUtkdXNSQUNJeE1jemlzWkk0cnJwUEZjd2JmZFp4Mnd4cU5WMmVDbU11NlNHTGdESGtmbkZkRElLYzVJQTdFOXVZa0lyZmVvMS1KVGFHU2E4Y0hTN2lKdGhBd0FEZ0pmT3B2bFBtTTZRRjJCVWpGc01IWVVlRTdvUGpDZF9kUk85NmpvQ0JVUXJTRVEzdGtpWmVHY0d4cw?oc=5",
-        "pub": "2026-11-19T21:34:00+00:00",
+        "title": "Así luce la tumba de Edith González a siete años de su muerte",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnpkQ0xKelhmcHVST1htUy1ZQkhvdXRnNlVOOUVBY3poLURBaE15OVR5VFM1dWxvUEdMZFJvVk12LUdwZTFzZ01VczNGWk1BUXVGLTdaSjYzRUFZVFo3ekFrTWdDNVRjNEx4a3E0MWVDU2s0aGFQTXRyVEV5djdCQ0ZoY0FkMmlmQmJPLVJmdFQxd2RtWC1kTkRvYmpWUlFyMllR?oc=5",
+        "pub": "2026-11-19T23:57:00+00:00",
         "outlet": "Univision"
        },
        {
@@ -313,9 +313,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Hijo de René Strickler y su esposo celebran el bautizo de Marcelo, su segundo bebé",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDdPemY5TWM2WEN4aDlfZzlMVmlhRWhyTkRUWmhLalJTRjZyZkxRcTg5QVhPd19qaXFTMGc0TVEtM2VNdmZuYUxlQ3VxMFdHdE9PVEhsRTVrY3ozOXBTN3ByWlZXSFVlN1dXa194SGxna0UyN3p0T25UM1NDenpLZzVETzZZak5jOW8zSVNZUTNCTzQ?oc=5",
-        "pub": "2026-11-20T00:14:59+00:00",
+        "title": "Causa de muerte de Patrick Stewart, estrella de ‘X-Men’ y ‘Star Trek’, es revelada",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnBNRVp2MExkV3BnNjliMzgzY0x6NXVjSV8wcS1xd2NyUkJ2ZEZqS1p6QUJKbmxmU3d3X2g3TzN0ZDJPMk1FS2RqNFNRdFFoWDJNQkY0bm1kRWNqWkY4NDZJTlpVYVRSWXdXRVlDUGxfTlVhZENWTG96eWc3cDgxZVRfUTNacUxhcXZuWA?oc=5",
+        "pub": "2026-11-20T01:14:05+00:00",
         "outlet": "Univision"
        }
       ],
@@ -325,15 +325,15 @@
       "name": "Telemundo",
       "items": [
        {
-        "title": "Las noticias de la mañana, jueves 19 de noviembre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmQzazFlOXNLc2NnTG9Fd2ExVFVVdDdlSy1rbzlQazZyWFNsV3p6UHhkM3lELUhkYlllQzhKTVBDQ1lBbGh2UmRsYzhmVHlBV3B2Q2ROcUJOb0YtWWZkYWhLOEE5YWk2ekFBaDFULU43REpCSzJjQndzWURCZDJ0VlcwZVlqdlkwcXRZeEIzQ1JTelRSbm9BU0E4dzJrekotSHpZZzc5NDhSYU9tRkNqWms1eFBNOHpCejc1MDlKR29iMmFVMTlGUw?oc=5",
-        "pub": "2026-11-19T21:13:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Las noticias de la mañana, viernes 20 de noviembre de 2026",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkF1azlWOVJNSHB4QjNUeXZEcjc3d1hxSnR5N0w4dEdsVjM5QlhxeVFsSEdkRjBGLUllMU1WU0pJNFNGVTBid3FKdVNfVjlic2FubHVkT0pRSlB2c1U4THlWby1HTWxoNDJleVhlVXF6S1R4NjdnemJObkNUUjBCSEE5a1dXOUdraWVaa1piSW9ySWxlNEhPSmRNS0loWThiNDdHWEkwTVVWS1A2cVYzT1VwSVdsY25oMVVqUEItbEtoX3BVTDRHU2lR?oc=5",
         "pub": "2026-11-20T13:10:24+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Las noticias de la mañana, jueves 19 de noviembre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmQzazFlOXNLc2NnTG9Fd2ExVFVVdDdlSy1rbzlQazZyWFNsV3p6UHhkM3lELUhkYlllQzhKTVBDQ1lBbGh2UmRsYzhmVHlBV3B2Q2ROcUJOb0YtWWZkYWhLOEE5YWk2ekFBaDFULU43REpCSzJjQndzWURCZDJ0VlcwZVlqdlkwcXRZeEIzQ1JTelRSbm9BU0E4dzJrekotSHpZZzc5NDhSYU9tRkNqWms1eFBNOHpCejc1MDlKR29iMmFVMTlGUw?oc=5",
+        "pub": "2026-11-19T21:13:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -369,15 +369,9 @@
         "outlet": "El País"
        },
        {
-        "title": "Hungría pisa el acelerador en su ofensiva para desenterrar la corrupción del mandato de Orbán",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR29nc3gzTXpkNjAzR2lNZE9XMEdpc2hja0lnNUYtNXFwVkl1RDZCVGVXeHBaQWJQVi1JMzI2VW9mWEZ6R2tGbXhxWW5kN2l1RTRmV2RrdlFaM0ZoY1IwU0NpVWFPc0ZBdVdhcWdEU3RKRGtsdXkxdER0bmk2ZFJ1THRyNEZnOEpoREk5bmNJU0JrTmZKdm8wZ0pBVjEwcG5sQnVCY3M1RFhOZE9tcy1hTkpDU2g5dkhiTEZIZThjclRiRW9yd3Zla0pkUTRvZ1lRYWZSblZoMDE2Q25jb1BUdFRfbVVWMFVRSjM2cXpB0gHuAUFVX3lxTE1Hb2dzeDNNemQ2MDNHaU1kT1cwR2lzaGNrSWc1Ri01cXBWSXVENkJUZVd4cFpBYlBWLUkzMjZVb2ZYRnpHa0ZteHFZbmQ3aXVFNGZXZGt2UVozRmhjUjBTQ2lVYU9zRkF1V2FxZ0RTdEpEa2x1eTF0RHRuaTZkUnVMdHI0Rmc4SmhESTluY0lTQmtOZkp2bzBnSkFWMTBwbmxCdUJjczVEWE5kT21zLWFOSkNTaDl2SGJMRkhlOGNyVGJFb3J3dmVrSmRRNG9nWVFhZlJuVmgwMTZDbmNvUFR0VF9tVVYwVVFKMzZxekE?oc=5",
+        "title": "El milagro económico español (y sus carencias)",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOakNkemtUUk5DVXVHX242YWQ0RHdFWW1XdHBmZndRdXFYd3VhYmkwUVo0anBZaG4tMGxiaVIzdG1MeHVKblhyYUlfd3FvUk51MTRQZ21YTGJXaGtqMVFGQ0JHVy1XaEZvMXhiVXhGaVNScXIxWkdGa3A2WHVnUlRPT0lEWDd1UzlfcnJRdHlSakbSAaQBQVVfeXFMT2ZtUW45VGpSZHl6cFRUdm5LRnQzcGVjSEd2cmtnWWFlTnFIaV83QlkteFZiblJacTJQeHM0c2FmZmE4UFhuaW55ZzVTcWw0VWNxTGE4NjV6TnNtZWlsYURNbkxoOE9Temg1OWIzREJKQkVONEZGV1dUR0lLNEtIdWZpZ2hPS3c2eVFmNlRNc19vZHBhZUQ0bkVZTVltLTdxWUFfd2k?oc=5",
         "pub": "2026-11-19T04:30:01+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "Carlos Slim, junto a Joseph Oughourlian: “Invertir en México significa empleo y desarrollo económico”",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTDRZX256Zk9rWVo4Y19hN253cVBMVVM0M0EtaVJZcVhNWGpJQTEwSlVtejM0aG1VVnNKZ0ZFNGNmdUFtSl9qdVl3VjRxQWd5TldoQXpyQnlhbUVsZU9sUUdLamhjUXo1b29vWUVhTDhvcEF6MHBVYWhLLWFWamd5X0JQTkZRQ1Q5bEN3czFRdnM1LTItNzVqakR6U2lMOVdoWTBMU3NhRmxwM3R1aXFTZENhdlRqM3FtaG84ZGQ0eUJ3bUNUT01iaGNrTldBSnE1WTB1VU5R0gHqAUFVX3lxTE9CbldUUlBPN2N6cXRZOGw3WnpsQlRyRy1kZmo5MUd4T3JFY0FTSi1ZbGQ4M3Y2cjJacko0R3kxbHJoeERhd0U3aWRQTDcyRkM1dHRVZ2JQLVM5eTRrbk1GVHprUjA1Z3p5LUExMG4xOERYbWFYQVo1aFZkc2piNVRVcUZCS0FjdVZXMTRfWGNzbG1mTHF0T2M5dlhnTl9iVloycjZGVjRHMHR5dnpScEY0YWx6ZTdPUjNOZ1haQ1FzYVpaZVNieG02cjFsZzhMWjdUUTl0ZEVaM0pVNDlBZ2U2SlFwZXdXRlJTUQ?oc=5",
-        "pub": "2026-11-19T07:31:00+00:00",
         "outlet": "El País"
        },
        {
@@ -387,9 +381,15 @@
         "outlet": "El País"
        },
        {
-        "title": "Anthropic se dispara en su histórico estreno en Bolsa con una subida del 17% y un valor de casi 1,8 billones de dólares",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdFMxa2JYa0xFZERXRXZZaDVrYTh0SGJJRGdaY3c3TmN3cDF6WFcxSTd0S2ptV2ViZGlLMFk1UDlaODQySnlvZ2FkcV8wNEpxRU1CZzUzOVNaN0xZdWo0NXZ1UWZMa2d3NDZEQzNaeGM5Ri1oSXJnRGN3ZW55UUxJQXItdk16N3JKcEJaMFJ3ODdjU1dJTUFHeGFGUnNQc09qeVRhZTA2bGtNQXBaSDNBa2E0aUw3anl4T3hCa3poNDR5bVBX0gHYAUFVX3lxTE50aks3OXdUT2NpSS1hdGtfQ0pQT2NiQWg1YnhLNXRMbV9ELU5JQUpnb2VCMDU2bV9uaW4yckNiVzBTUGdIZG9FX0VDNk1BN0JMaWpxeXN2cGtSQmhIY0t2RjloSTl4cjJFMFRLbTdPdjlTV2RRUkRvS2RiMktHaXcxb2ZEcG44SGp5bmVlNnpUQkpHbHFwUUVNZWlNdThGRk53clJUVG9acFlKN1BoOWx1ZUh0OG83WWJ4X1Zuc3h1RWdtVGNUOFFPcHA0VWFqZEZhX2JBV3RFYw?oc=5",
-        "pub": "2026-11-19T15:12:36+00:00",
+        "title": "Ada Colau: “La ultraderecha ha sabido diagnosticar mejor que el PSOE el malestar de la ciudadanía”",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV0J6b0VYUlVoaU9aV2ZpVlp0bXRjMGdXdTgydlRpRU5zRmc4YjVDMnVwaXdQLUZPdjgyVTJ5a1BtV3NrOEM2UUloSXRhb09XbGtWakhwWjI2dVVDSUN0LW9GblRvbVBINXpVY1RBNmFXZ2JZS0IyQ1ZXdVRZUFpYZDdzNzhrYjJnSVhKZWlIX2tRdWh4MHRWYmpNSWdqdmVUOHMxb2xUUXRnQ0lsS2ZsTk5iSUVNLXJMVVVXdUxJZ2xqOGdjRUMwMVpSUnRoaVdPb3Nzd3hJWExyMGJQZ2REaTRnaGtVdlRITjFxVTZNa9IBgwJBVV95cUxOTGtmODg4SVhIamczV0RESjdCWUZ4SVZFV1JrZGotV2RRekVFT0hEa3Z3a0VzTmVrMlNwclVfWXNTVUw4TWFpcTJIcmh0b0VJOGF2NmRGWkRMbFNjeFE0OWZ6dzRBYmh4LW53ODZ3Um42WmVLUXFHcFZpcXdrd1VWbGpFcXFJT0UzNXp4bWNiNERSTDFZNENncWZ6bFNLcFR2d1pXaGFENWpZc3Y1SGRFS1U3VU4xRW9aSDBJTENVMVplWG5VdjEyOGdVSTlyZ1BGLUVWRlluSFk0VlhMbVhFMERBb1l6RmRnYVZYZFF6RmVpby16czFLaGh4V0FacWVKRG9Z?oc=5",
+        "pub": "2026-11-19T04:30:01+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "Feijóo se lanza al ataque ante un Sánchez que evita el cuerpo a cuerpo",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZnlyXzhsUWlJWXJISG1tZkNlNG92aE8zZ1pndGljLXdzTDVwMDltT2FzVlBVeThhMlZPb0pGd1NPNk9zcHNva0w3TDh3WGduYm9KRkVEd0RhaHRDTUFEQkt5UEJDem9MYjJZQXZRenctOENpYlFVNnhFVmdRWUVvWjMwbEY3MFBMM1laQ1FTMFlTQ3d5eElGVldtX3BkNGQ3aG5heDh4cVYzT2VaTHlOOUdPVnJra1YwT2czZHNRYTJuVDVmZjhkdDJlYjkxMUcwUFJNMEFxdlN5SXPSAe8BQVVfeXFMTkQ0WS0tSk9RSXVjdWp2TzFKdWtjZ2poS1JmRUd5ZUhwMVhkNGYzMFlVRW5NcTNpVFl5azZRRWpmQ3VDNTQ2X1NiTlc2cGROXy13Q25UenZxQ3R4TUxCZ3BJeWl0UEIzQU5VeVBGclpxbEpwZnpNT2ZRZ3ZJWmNYRUxOekN0eFkwN2ltWUhMNExzb0RXREM2a1NLLXRfaFdfRS1uMkZoYnVFSVdRZ3FzRDdpVDdKeHM3Y0VnY0ItNk03QlY1Ujc3MXJ1cjJpVWl3WTNfOHczM3RsZ28wY3lHNHd1cjB6NHpzZzgwVWlPRTA?oc=5",
+        "pub": "2026-11-19T23:13:55+00:00",
         "outlet": "El País"
        }
       ],
@@ -399,15 +399,15 @@
       "name": "Univision",
       "items": [
        {
-        "title": "Economía local",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xbk5EZG5GTWx4emhidGFsSzBaTHN4QnlMbi1ZZDVOUW5LYi14bUs3NzJYbjE5dnpoZWlZbE5tdVdQVXEwdmZUWDF6akdlQkc0Tmk4LWllUVVXZw?oc=5",
-        "pub": "2026-11-20T00:16:33+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Economía - Página 532",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUX3UteUMyeUk1VjdpWVB3VEZCbXIzSmlKTWlKYmdremxIbXBSUDVveVhwZXYzZXBUUDJ4Sk1oZ0Vwemp4X2FOWmRUb3lsNWRfdGVieENEd0FHVFBHRlE?oc=5",
         "pub": "2026-11-19T12:34:36+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Economía local",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xbk5EZG5GTWx4emhidGFsSzBaTHN4QnlMbi1ZZDVOUW5LYi14bUs3NzJYbjE5dnpoZWlZbE5tdVdQVXEwdmZUWDF6akdlQkc0Tmk4LWllUVVXZw?oc=5",
+        "pub": "2026-11-20T00:16:33+00:00",
         "outlet": "Univision"
        },
        {
@@ -423,9 +423,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Los inmigrantes han generado un superávit fiscal de 14 billones de dólares en Estados Unidos en 124 años",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY0xjajZJSEd2SlU5bEZnV0Nrbk1pZ1llaGE4N0xueFpheElqUXBLQjVSanlaR3BYXzFlSkNiOHJMejlya2RtbjJIVzNfMk5DWUx2d0pJREdRZjJMUmFUOFVoc1VwNklMSXFJSmFVV2c2MnZ1OVQ3cjBfaVdZUEdOcXRsckQ5YVgwSW1ySFlfZWY1bk96V1ZrMFVjSXFHejNydTlPbjNGdVc4Zm5SMjBoN2thbEM0NFhYOHRHQVhlQlY0ckZSdTd6X1dNMEVSR1pZT083RHhiZ1JaLWtvN0l5bDkyd3VQVVYweE1vSmFSYlg0VEZGb2M0ag?oc=5",
-        "pub": "2026-11-20T05:59:44+00:00",
+        "title": "Adamari López recibió una propuesta para un romántico viaje",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOenc0SmstY2pnaFVqY1hhN2wtZGhvX0NRTjZ5NEhvYkU2QzZoVjUxMm9od3dqV3YyeDZVdkdfQVFGYUY0Y1U4b3lpVDJMZGpzdlRybUdtQnBjNkpjMThKdERhMWI3bERqaUtYeW1OY2lGekU4d19XenZaSElFTHR0VC1tT1hsdUpLQm80Y01xOFloc1g4NXB3MW1udzBjSHpuSkJLNS1sY29MckI0Wm4yNUhTTHRVQlJGWVE?oc=5",
+        "pub": "2026-11-19T00:49:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -479,6 +479,12 @@
       "name": "Fox News",
       "items": [
        {
+        "title": "‘Stand your ground’ claim falters in road-rage killing as men charged with murder, ex-cops face accusations",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMy15VTQ1Wk12ZnNFeHV5OXNCWkRhbGU1bTM1NkxuUUktOVpPQV9sNVE3d0Z3RWVhTUZ3dHRWY09KMW52QmVLQUp6UDZjUGt3MDdHNnpORUhDNGJmOHVlMkkxTlYtVElycU51N2tWbHlocU4tTWhwbVNfZ1NsSWY3QTU3X1dSb1NFeEQyRXJibDZZZnV6N0szRzJMTnlIRW1tZTE5WTV5aXB0bUdyYm9rcTVMNUxKXy1VVEFZONIBwgFBVV95cUxOQXFHZjlNOVNUdmpFLW5oSVRRcTBpd2k0RXh1RkZObHI1ZmxhbWhqTEo5S0FYem5CVHRZUDBMX0dORzhlYk42bWVsTjhSNlMySDEzNWlJY0NsazdoUjA5U0ZKdmxXQkVNMnR4VHhYbmQ5dFBTUjNKcnFjQmp1VlZidG5LYnhMLU43aHB2WTlZYllaQ0k1czAzVGN0U1EwWGhqUDluRl8wcFdSOHlaSElHYmk5cC1kamNGckhUZGtaMlBVdw?oc=5",
+        "pub": "2026-11-19T22:33:22+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Trump’s National Cyber Director Sean Cairncross fired amid widespread tech outages",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3NyMjZDcThkU0JaTmJXeWpqcHdPN0dQZlo0UVREQWhQa1hFN0tJLXVTUzMzZE16VEsta0cwdlhHVHpoTFBGZWxWcWdIQld0ai00N1pqYVRFeG9XZ2c3YmwzVDc5aVR6UkZZRnFuMVdLdERqTjgwVkEwTDYzLTZicEU0SXlhM0g2SXlnU2J30gGTAUFVX3lxTE9BSURrMzZ3dkozYnBtYll4SHZQckh3U3ctTzBTZl9SSnVhaUJaZjhCSGJ4Z3ptenV6NGJxRWdRZWF5VWlJVDU0STRRbkpLUTM4VmVqcFdpcFRuU3RUdlduRnQxVFVhRWM0S3NkbHlGQ1JhT3RsTUVYeHBmZndiVWNadXJYbWJIRzlnb2VFLXdpYlZSNA?oc=5",
         "pub": "2026-11-20T02:00:36+00:00",
@@ -497,15 +503,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "College student accused of locking fellow student in bedroom during attack as roommates raced to save her",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzhhYVdjSWtBb2dBS3MtVnJMNTZMSVl2dVdsWjFZajJRR3REa1ctLUhPNDJhcHF4ZzhsbWhLNXpXa0NOeF9aUkZTWlIwOEN3ZXpSbnh3aDZxa2JRblczT3lMUTBtZ0RJSlpJTndGNFRyWHFYZ0FKM3dKQzB2MGx6bkdGN2xLUGdSUE05RVBtaTk0UmwtZWZXQVhiVk1pNjBlVFh4LTNHMllSTHNwaC1ZZVJLUDc3ZmswSDdpWNIBwgFBVV95cUxNcUFLZVFKSW1ITzRQeVZoRUIxNWZBajVGOWNNWURpTUVic3BDb1NqbWUzQ3lzaklpdXQtTjgzSnNHaDNlYU5kSEFrakhMVnpRSDY3R2wxZURobHlHWnNuYWg0LXVJTG5BNmlLOFpVU1RlNjZKWktJWTNJUW1nSmhPRTVfSGtka1NOSV9Sa0JRU09JR2FCdy02U3BtLUNQcVhXTEcyY2V1eTRINl9BMHExRTBxZGpmRnpRWkZxXzlSaXRnZw?oc=5",
-        "pub": "2026-11-20T12:00:45+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Teen accused of fatally shooting identical twin brother after fight about touching his belongings",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjMweENJaUI1ZjVtM2tPMW5sVEZLMDhja29lZm1fdVhwQ3VtY1hIUU5aT0dtdGNWU2ZyaE04amlQZmNHenJ4ZDV3RzBiZThLTk5Kelg4ZGllaHNFczVIYW95cDloam1jTFhHdXRsNnFsdkpQbUNCd3Y2TzN1WFcyTG9BVjBjd3VjS09PZjAwUFJYRWRTbElBSWltcUZtdktKUTgyMUdJc2lseUZMQWQ1R25ZeERFZEs1STRzOHlB0gHDAUFVX3lxTE85ajF6bGJZcDFpZTU4SV9LRDN6Yi1TbkhuNGdRanZsWkxqdldXSFpQcnpDd0tsMDFObkFtUzUzZVo3MDhySC02T1diM3h0SEc4Y3lJeGRTZ0ZPVTZwOEpPUlVaSUkzQTBrUjhLMTRzZFpTZ2dPRHd2SjNsSlRjMHNaN1N3a245NmZBM0RaRXlUZkl2WmNHUDBzVFJpZGJmNFNOaW9ONVNidDNRd0xocUVnc2FXcTk5Y3hvVkVwMU5ROEZDaw?oc=5",
-        "pub": "2026-11-19T23:32:45+00:00",
+        "title": "NWSL doesn’t have a problem with political activism - as long as it agrees with the stance",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUFEbHNiclJuRllNZWdGeThhNUFDQ3IxSktUWjhGeWhOeGZpUjd6UDh6Sm1wcEY3UUxTZURkaDc1cEhVeDN5a1djN0hoTFhLQnJqT2kwM0tXRXBwWGcxNUNRNUNmZnJxdVpsTWdhN05Gd1JzME9DYmx2ZUNyc0xYUVowNnVPd1BLVUN0Y0M5TGR1ekE3Umc5NU40RnlrNGFOYjdr?oc=5",
+        "pub": "2026-11-20T11:54:22+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -529,9 +529,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "NWSL boss says all fans are 'welcome' ahead of final after multiple ejections of women's sports advocates",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeGJrM1oyQ00xQ0M0dXdaVnVud1ZfNDZ4WFB0amZfeWRHNFh2dHQxWFlYZDB0R0loa1lNbG10Q1ZKb2l2aFlIUUtrU3BIbUhRUWN4cWNXVU5tOUY1enRQVHJhZ2ctb2I0TFc4R1JnbnBPWG1EaGNkN1YxS0g1SDh1dkJBR2JZVzRRLTc4TWFWZGFLMy1GU251U09HVG5OZXh1UjBZbFlpZTMyYW1YaUdPNkJITFVubWVQOVJrb21rcHFQbmw1QlpjQmZYcw?oc=5",
-        "pub": "2026-11-19T23:00:03+00:00",
+        "title": "With Major League Baseball's lockout looming, would the league's proposal 'fix' baseball?",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEVmVWFHVjFTQzY3ZHRYeE1PQ29CWTNkcldJNmZZWFhTM3d2azJrZGRWTEE5MzFvZkZUVm1MMW9UR2FPYjZKREZZTDloRzZhTmNCRGdCZWx1Mm9sUHJvWXAtVk4zT3UyMVo4Q0ZKQWQ4RS1hOVh5cWE1XzFGaU9Fb19lRGduUHJaVVdzM3Y2MzZ1eVhjM2laazhsWFhaaWNJZ0pFTFFrWGxhVlFadXk4aDljOA?oc=5",
+        "pub": "2026-11-20T11:58:32+00:00",
         "outlet": "Fox News"
        },
        {
@@ -541,9 +541,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "With Major League Baseball's lockout looming, would the league's proposal 'fix' baseball?",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEVmVWFHVjFTQzY3ZHRYeE1PQ29CWTNkcldJNmZZWFhTM3d2azJrZGRWTEE5MzFvZkZUVm1MMW9UR2FPYjZKREZZTDloRzZhTmNCRGdCZWx1Mm9sUHJvWXAtVk4zT3UyMVo4Q0ZKQWQ4RS1hOVh5cWE1XzFGaU9Fb19lRGduUHJaVVdzM3Y2MzZ1eVhjM2laazhsWFhaaWNJZ0pFTFFrWGxhVlFadXk4aDljOA?oc=5",
-        "pub": "2026-11-20T11:58:32+00:00",
+        "title": "LIVE CHAT: Does the College Football Playoff committee have an SEC bias?",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZko0YUR6bUg3cUstbnFtRHdKVjRzZ3V1Q2FtU1dheEJOSUFUeGVYVFQ5dXphdmJyT2NwNExrOG9SMUZKUHVnUFY1OHRqcWRrTzQzWnBqcl9oMW11dWxpWTB2TmdkUEdpUkw0bHhLSy1KNERORm1HVW5iM1NqejFsSUcwUVd1UnlwZHY3SFlPQjlFZVFiUm5N?oc=5",
+        "pub": "2026-11-20T12:56:12+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -561,6 +561,12 @@
         "outlet": "Fox News"
        },
        {
+        "title": "Russell Brand could be banned from contacting wife after 'appalling' prison message",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNlhHWDdjNmRTcVhPM0VyNGpYamd0S0pOY0NEZU1pV1ZydHpibkZFY2dfQllCYnVJNlVkc0Q0SEhnVVo0OFE1SGpjdjlYRDNNbVNNZkRBOFlxLXFXVklVZXFFcjItMEMyRkpNc0tkdldfcDZOaDlQQVpJaV9FTTBic2VZMzFOQUlRbm5ZT2ZCb0FIdDlkNEtzbmdQcVZhY2xfb3ZCdkZEV3VLR3pySThkYUwyMzVhN1HSAbwBQVVfeXFMTmF4T3Frb1A3alIyMW4xS0k4RTU1el9CLTZHcU9OWkZOR3ZBUDNTazZTdlIxbmEwUWlfMjV6cnMyZVdwWC15blhUcmRyeUxkVWRWU3ctUER0MTFfMzd6Y1JHekRWRkxYYWRzb2dBaVlwSmYwbHBsbTE3Q0J0cC1WdU5pSDBLSUZaZS16WnlrcU9Wa0xwUVpLaHNUdklSTG5lTkNqSDlNMWU2MUpiSFJSX01kaHhEY0x1ZkJyeDc?oc=5",
+        "pub": "2026-11-18T18:19:03+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "CMA Awards 2026: Taylor Swift, Lainey Wilson and Ella Langley dazzle as stars hit the red carpet",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaE1sLXlOQ2hyQ0NydHhQRUZlVGdNTmRNRlVhVDNxakg3V0Y5bWZsUnpDQUs4SXZ0TmhkSmdRQnRFd2x1RGUtMkZKMU5IS25teU54VUs4UW9NMFE1TjVKeVNEd0ctb3l5VU5aN1hsby1OTDA5OEMxeDZpWVAtZHRCRnZ1QUFhVXZpVGhnWG1nUmpjMG54ZEQzMnd4bWRIdFU4b1k1by1zRGdiQl9UY0o2VDVNMkxWWWVRZ2o0RTd30gHDAUFVX3lxTE8yXzVCVDNCdW8zV0MzQ3h6RVdKZ2JtdjZtTklGTmlKWk5VQ040ZnhDUXBsWmtZaEtOZ1E3VTRMU29xZ1pWdHp3VlNZOHJJQXBkQWFFVDhSUnkxSmdEdkU3RlBLSHVmRVlhcTZwWFAtU3I3TFVmVVliT2dTMVZhQkJzLXlCS1k4c0kwN19mbVNFaTFjZEJOd1dsWTlxNjktTmlKTkMzMU1GdDBIMl81eFlUdUdmWW9EUmdlYlhqSklfZG41UQ?oc=5",
         "pub": "2026-11-19T00:03:41+00:00",
@@ -570,12 +576,6 @@
         "title": "2026 CMA Awards: Winners and losers",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45NjFXdnlXOXZXY0JsVXNWSThuNW5XOW1WS3FqR2R3a0VkdU9qYy0xQmY0RGJObGpkd3JudS1ZM3FsaFUzQ3FKTndUaTZhbjBfcF9pNEpCVUJLUDZLSHZTZHBjcU1sVHJEVnI5b1Jvb1AwcUZQU19j0gF8QVVfeXFMTjFiSmRSX25rMjllM2NsNXViVTJvQllzNUdqaHUxWFNhQ1RqNEx3U0V5eDZmSnRQX0M5aWxMbUtiQ2dPQ1hSLUcwa0llaFBfS3hndkhDN3dVRW02S2FIYzVSU0p5aHdZMlprOW15LTJyVVl6Uk5JRGV2a0tPbg?oc=5",
         "pub": "2026-11-19T13:30:49+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Taylor Swift returns to CMA Awards for the first time in over a decade as Ella Langley ties record",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGJtcDgydG00TGhBQVRDMjR5eGI5TldLR2diUlQyTW1vbTZDcW8xeF8xYlZOX2x2ZU1Dd253Xzk2YTBYa09qajFLLVY2U1RGZU81TXpkbmlnS0xOZmxraTA3el84akNUcHBhb0Y1TTlNUTNKZFctZElGcTJmVXVoc0lEd003Z01kT1pBTE9qTll2YUxhOU5vejJfakgtLUN0VE9oWG0wWGw1UEZfd0dvX1cwdmxNVk9T0gG-AUFVX3lxTFBGLVNoX01KT2piel9mOUljQ3FmaE5wTjJDcTU5RG9OeFpqNVRmRGxSRHdqLUtWdU5KWnRMYzR4cXVMYlFlQVA2VlYwWGFhLVMtMFoxdnEweWJnZFlHWFJTTWhORWlVeXBJMV9VNzluMmZyUXhzMUdPc0FSVkQwTnJYc004ZEpUM21hSzFONF96MVlldnFVQ09YcTExMi1mbVhtX01jTUUwRE5lbjlwamF4MHA1czVkb0pFNUN4dHc?oc=5",
-        "pub": "2026-11-19T02:16:34+00:00",
         "outlet": "Fox News"
        },
        {
@@ -593,15 +593,15 @@
       "name": "Fox News",
       "items": [
        {
-        "title": "Major KFC franchisee files for bankruptcy, puts 84 restaurants up for sale",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWjVFUUR0M3F6WHNuQXVydjFINVp0ZlYwTkZRUWMzQVlMZnBIN2ZnVkRNYUdQMlg4d3dIczJ1bndIcXE1VktUbm9YZHk4NXRRR0t6WUFmRGdWMjJRaXRHLTRzLVVyWVRDWTE1MXJwTUE3TmFSaW1CbFo0aGN2ZTZMYkppTzJTYXZmU2dDSGdmMzVrVUlBYWk0TdIBngFBVV95cUxNLWwzMXpwd3lVbzcyM0hMWDdfczZlbVpDZzE0REpNMWZVMW9ibUJidFVJcC1teFpYS0F2ejAyanJzcG5XV1J0ZDFYV1VVLVo1LV91bFUwMUFvVkFLbzJ1ZmQyeENuWFhCMmRjQXlhMkxtN3VXaUlRVFR1eTh2R3RvNzhEbUcxaFZ0WUl6VUxJZ2hHRURxUTQ2OXA5YThYQQ?oc=5",
-        "pub": "2026-11-19T13:01:24+00:00",
+        "title": "Costco sees panic buying surge after tech outages, report says",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMU1OWnJRTDRHN1ZKTktOOVY2MFZ5WGd5bldLZnh2M3FNTlBkLUtEUHd4ZnRHZkZ4emZuTGdPTUF5UDJRUmdYQ3J6Yk9LZGF5SnJHcEVQZF9odDNZTEc0NWMyVmpGeGNpWENvRUZVX2Z6WWlLbG1MVFJtQ0Fsa01VQS1ZR2FYYXBLX3BiTVJRTDRoOVQxNFBkTWJRcFpMNWNm0gGmAUFVX3lxTFB2WXphbUp2OXZmM29DUUJEempzVDRXdFg5Vy1IV1pOUm50ZTl4Qkl1eXN4VVJBM1ZHa2pRVGpzRExKSjhHWVg5XzZUcjZyeU14MmhHVkJKa0tCcjlLdWhjMGYwU1FEMjRJNXlKNXpqa3Nzd0sxRUF6Uk1DTmg1b2d2Nzl0aDJXV3JIU1RiRnB5b1BHRjkzNDB1VDNFVDlLcm8tcDlrVWc?oc=5",
+        "pub": "2026-11-19T20:21:00+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Anthropic begins trading on Nasdaq in record-breaking IPO",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUxIenRLbGlKSU1BbkhLTXVJRzdOZWxUTXQ0YVIydzE3Nkk0VEJ2bEMwZXdCUzBsQ2U3ZEdUbWpKN3dONEduZDhmRHJGRW42UE9JdjE2aVpwaWZ3bENXdGRBMXdGVDdrb1RoZlJOSFBVM2RXT1Jja1lpVHg5OTJmVmwwajZZSUJQeFYtZFRUUWfSAZYBQVVfeXFMTTVnX0FIMF9tV2tfUnJNQkFZdHlDRGVCcE9pUGtmZkZDTzY5ck5icVpzVzZSWExPUm1CbzNhSjlsT19NUjc3dkxDMDhjcXZuN0xlZmVzV3JHaU1pWDNqRXVJUUxsaUxKVEJPaUUyRlZqUFJjWG9IakVjTEVBZklhMU9lUjNhblo2WE5BMzh0c2c0WTV4aml3?oc=5",
-        "pub": "2026-11-19T16:52:00+00:00",
+        "title": "Amazon warns NYC shoppers of potential $5 per-order increase over proposed delivery law",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0xGYndaRHpSSXlmMkdxdHhobi1YQ014NVBYZ0p3QkQ1ajVHajAyNkJ6SkVibFpBMjI5RzJlTUhtV0tYVnYwSy1KV0ZFRkNwY094OUxJM0JNZHByTjQ5YUZvcldqeUVkTDZJR29BdGd6SEM1Nnk4ZGlCVzJyWnNSVXRYSmEzdFBlT2l2d2lB0gGTAUFVX3lxTE5TeDR2SWtPc3JqQUdtVHRUNXB5LWl0VTRSMUJ0S2JHa29iVFFYejlGMkZuMF96VVJveTl6R00tQnByRGJ4VjRxckszbHk5QjJPOUVqZEQ4YmFhMFIxN0NiZ0hlNnowbVpGZzZTeTYzaHU3TWs2LVZSdlVPbnVzR2JYbHN3UWNHaEEweGNVTFVtWGtNOA?oc=5",
+        "pub": "2026-11-19T19:08:00+00:00",
         "outlet": "Fox News"
        },
        {
@@ -611,15 +611,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Take-Two stock jumps over 6% as Rockstar's long-awaited ‘GTA VI’ arrives after 13-year wait",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVRJakcxRmVtREpMZWJFWGZGX1NnRWJSOGtqQ0xPVE1hOWxCTkhWUkZ6ajlaTUFocnlkZlFTLVA1bWpVWHVsaS1sNVZCenZMb2lnRElCSDNVcGlmc3dSMFl4dEhMdjhlQ3VUWjAwREwxbVhvUWJQNFZfZ1ZUSjQ3aE9SeFV2NTNOYVlGNkVHUlVBa2xLYjZlR2pleF9PWGR5dkJGYm9EcF9CY2ZrVlZmTDdFSGdHUDdOQ0JVTdIBwgFBVV95cUxPV1BYV2JCalNaZURZcGYzMVVoRTAyNGtvRjYtV2MzY0kwVi1MaVhPaXV1cmFGbkhHdnpoU3pFZlVidDNvMHAzNnlKNWlIYnFjTU1FYjJmWTBLNlV0bUFOTnVqa0Z5OEtCNGtOejA1ZzBUZGJZRWVpQkh6NlhGaHNZWHhMd05lWjBTYnU5NXI2WkEtaWhxLUFNNmw5Z0poRzlXN0hvZUh1TDZhZWRXV3IzVHFJV0xORk0yVTl1NmNvMjZ3dw?oc=5",
-        "pub": "2026-11-19T02:04:00+00:00",
+        "title": "Anthropic begins trading on Nasdaq in record-breaking IPO",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUxIenRLbGlKSU1BbkhLTXVJRzdOZWxUTXQ0YVIydzE3Nkk0VEJ2bEMwZXdCUzBsQ2U3ZEdUbWpKN3dONEduZDhmRHJGRW42UE9JdjE2aVpwaWZ3bENXdGRBMXdGVDdrb1RoZlJOSFBVM2RXT1Jja1lpVHg5OTJmVmwwajZZSUJQeFYtZFRUUWfSAZYBQVVfeXFMTTVnX0FIMF9tV2tfUnJNQkFZdHlDRGVCcE9pUGtmZkZDTzY5ck5icVpzVzZSWExPUm1CbzNhSjlsT19NUjc3dkxDMDhjcXZuN0xlZmVzV3JHaU1pWDNqRXVJUUxsaUxKVEJPaUUyRlZqUFJjWG9IakVjTEVBZklhMU9lUjNhblo2WE5BMzh0c2c0WTV4aml3?oc=5",
+        "pub": "2026-11-19T16:52:00+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Costco sees panic buying surge after tech outages, report says",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMU1OWnJRTDRHN1ZKTktOOVY2MFZ5WGd5bldLZnh2M3FNTlBkLUtEUHd4ZnRHZkZ4emZuTGdPTUF5UDJRUmdYQ3J6Yk9LZGF5SnJHcEVQZF9odDNZTEc0NWMyVmpGeGNpWENvRUZVX2Z6WWlLbG1MVFJtQ0Fsa01VQS1ZR2FYYXBLX3BiTVJRTDRoOVQxNFBkTWJRcFpMNWNm0gGmAUFVX3lxTFB2WXphbUp2OXZmM29DUUJEempzVDRXdFg5Vy1IV1pOUm50ZTl4Qkl1eXN4VVJBM1ZHa2pRVGpzRExKSjhHWVg5XzZUcjZyeU14MmhHVkJKa0tCcjlLdWhjMGYwU1FEMjRJNXlKNXpqa3Nzd0sxRUF6Uk1DTmg1b2d2Nzl0aDJXV3JIU1RiRnB5b1BHRjkzNDB1VDNFVDlLcm8tcDlrVWc?oc=5",
-        "pub": "2026-11-19T20:21:00+00:00",
+        "title": "Elon Musk says he is 'not MAGA,' in departure from past comments",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDNpV1F0M0FmQ1BPSjllY2dFbWxZNlEtTnRadEl0Z1dURWpaU0hpbzBrUi1kSWU4dHQ2UlNhTnJBRDBzNTZVY1NlUmdxbE00RlhRaXVGazBpMHVSNVFaRjVpVDdqZ3RkNmV4NWRCd3VfSm5aSXMxb0xKOFQxSnZKNXM4WllMVmNueGY1cWN6eTJfMUV5eHFF0gGcAUFVX3lxTE5EQ3dPbTI2UDZNcVlsUE12OUFjWDNUalE2S1NjRjdUZGZBcWlkOGhRVlphUHpTdE5CVTVOZ3RQVUdiTkxJSkoxcjZTVksySUpxaVZWcDZfb01IZWNndWRzY1ZUUzNTRnZUem1KQVdpWU9SZ284eER0LTdLdnlkN2pqQVVWNk5YTFBGXzdjcnJZamNDblAtWUEzUUQ4Nw?oc=5",
+        "pub": "2026-11-19T16:54:02+00:00",
         "outlet": "Fox News"
        }
       ],
