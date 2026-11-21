@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:00:15.426060+00:00",
+ "updated": "2026-11-21T12:57:41.819543+00:00",
  "categories": [
   {
    "id": "top",
@@ -35,6 +35,13 @@
         "outlet": "El País"
        },
        {
+        "title": "¿Cómo se mueven las encuestas? Lo que dice nuestro promedio",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-14/que-dice-el-promedio-de-encuestas-consulta-todos-los-sondeos-en-tiempo-real.html",
+        "pub": "2026-11-21T11:56:52+00:00",
+        "desc": "El promedio de EL PAÍS se actualiza día a día, dando más peso a las mejores encuestadoras. Además, construye tu propio promedio",
+        "outlet": "El País"
+       },
+       {
         "title": "Lea todas las entrevistas a los candidatos a las elecciones del 29-N",
         "link": "https://elpais.com/espana/elecciones-generales/2026-11-20/lea-todas-las-entrevistas-a-los-candidatos-a-las-elecciones-del-29-n.html",
         "pub": "2026-11-20T14:28:57+00:00",
@@ -49,17 +56,10 @@
         "outlet": "El País"
        },
        {
-        "title": "Mentiras y medias verdades del debate cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/mentiras-y-medias-verdades-del-debate-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo.html",
-        "pub": "2026-11-19T22:17:20+00:00",
-        "desc": "Los expertos de EL PAÍS analizan las afirmaciones más controvertidas del primer debate electoral del 29-N",
-        "outlet": "El País"
-       },
-       {
-        "title": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
-        "pub": "2026-11-21T04:30:01+00:00",
-        "desc": "El modelo de EL PAÍS dice que hay 40 escaños en el aire. Consulta a qué partido le sirve más tu voto",
+        "title": "La plana mayor del primer Gobierno de Felipe González pide el voto para Pedro Sánchez: “Hay riesgo de involución y recorte de derechos”",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-21/la-plana-mayor-del-primer-gobierno-de-felipe-gonzalez-pide-el-voto-para-pedro-sanchez.html",
+        "pub": "2026-11-21T11:47:46+00:00",
+        "desc": "Solana, Serra, Almunia y Solchaga encabezan un artículo en apoyo del actual líder socialista frente a la posición del expresidente",
         "outlet": "El País"
        }
       ],
@@ -93,9 +93,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "“No me dejen sufrir así”: los agonizantes minutos de la ejecución en Texas de un reo que gemía de dolor mientras el personal le buscaba una vena",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbGc5QWF6ZUdZUlh2M000SnRHSUhxY3ZwS0pBZnRmY1NGbmR1Q3ZDdzRmZ0FEaTkzSm9zRWg0VkFPVnJWcGdjRjBZRnNDS0d6TFVBa3h1Rk44WU5WWGVfaXVpSEhRNUdwQ0JIT2hRQ09YekFheEZPdmRIcnRtUTZBYkdQQWVHSnNfSFA5OE5sQjVsQW9nLXVtc1RPUjYyTGZUSTBTeU90WmtpYXBPdDVUSElqS0ZEelc4R05QLUd0NzRTaWdUZHVpOHNnWGsxZTNLallyV3pxaENaVnJrTzJsR0JLNHJzS1dGTXlWMTNSTWpNRU56Uk96OV8xSnZLbVNaYzg4ZDNUd255dURW?oc=5",
-        "pub": "2026-11-21T02:21:23+00:00",
+        "title": "Jornada de pesadilla en Wall Street: Temor a IA causa fuertes pérdidas pese al debut bursátil de Anthropic",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeHNub2ExRVJCZk5EczNrQXA4cFg3Szk4aXE3Nks3WVBvWnR4UW5BSWhiZGl2WU02UmY4ZG5YZXJTVUNBQUxjdFpGX09rRnROOFNnOFJFN25BUlJBcDc5TldPcVFOaVpFSHRYZWVSLVlaalZWY2pjTjlSSzVfeEQtekl1eEs0MUNsSWV2alZOODFoQWM3ZDJSOGNHbm04b0ktS1FtMzg0elEwSjVNX19ycDVyOTJJSHFMSHdrUzhiU29CTGFxT2VkMjhqLVFqbFc0Vy1zUkNyUGsyRFlXQ1NETzlubFRQQmV4LXRPNTBNVEthcW8?oc=5",
+        "pub": "2026-11-20T23:17:21+00:00",
         "outlet": "Univision"
        }
       ],
@@ -123,15 +123,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Al Rojo Vivo 11/20",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3JoREdpTWd1VlpVOGtOaEdMamRrd2tfM3F2NXVHMU9qWVVuTUFpTU9MaUV0dmdYaWZjVmU0WVpZc1hOU254OVl1M2N0bVRLeVdwMjNuc0txY1E4VG1TS2dXTHkwVjJ4S000ZzhfV3VYRE44QmdmeGlXN1JCSjc2T18wUGo3MVNPamU3UHhBQzEyMFd0YWQteVhneDRZTjdyb3JBOUlzRTdZRnlh?oc=5",
-        "pub": "2026-11-21T09:28:01+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Las noticias de la mañana, viernes 20 de noviembre de 2026",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkF1azlWOVJNSHB4QjNUeXZEcjc3d1hxSnR5N0w4dEdsVjM5QlhxeVFsSEdkRjBGLUllMU1WU0pJNFNGVTBid3FKdVNfVjlic2FubHVkT0pRSlB2c1U4THlWby1HTWxoNDJleVhlVXF6S1R4NjdnemJObkNUUjBCSEE5a1dXOUdraWVaa1piSW9ySWxlNEhPSmRNS0loWThiNDdHWEkwTVVWS1A2cVYzT1VwSVdsY25oMVVqUEItbEtoX3BVTDRHU2lR?oc=5",
         "pub": "2026-11-20T13:10:24+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Al Rojo Vivo 11/20",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3JoREdpTWd1VlpVOGtOaEdMamRrd2tfM3F2NXVHMU9qWVVuTUFpTU9MaUV0dmdYaWZjVmU0WVpZc1hOU254OVl1M2N0bVRLeVdwMjNuc0txY1E4VG1TS2dXTHkwVjJ4S000ZzhfV3VYRE44QmdmeGlXN1JCSjc2T18wUGo3MVNPamU3UHhBQzEyMFd0YWQteVhneDRZTjdyb3JBOUlzRTdZRnlh?oc=5",
+        "pub": "2026-11-21T09:28:01+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -289,9 +289,9 @@
       "name": "Univision",
       "items": [
        {
-        "title": "Ricky Martin revela que sus hijos mellizos ya manejan, ¿tienen su propio auto?",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3pPdzgwTjRGU2prT3RNNG5PN2FiR1VscFktSEJtYVlqZ1V5eDhPNUNzZDcwTGpFcmUzT1VSd2d5ZnFzQ1BEYVE4S0VsNUVmS0t2Z3RUWm5zazFGZS1SUVJJUkZfRzZHdzB1bHUzZUhBZm9Hb1NWa3hEWjR0SU1LSWRFLVZtSnJsYTBweDB1aGN2cDhtbWcwYkE0Y3lfMllySHIxTlpUckJjd3o3bkM5VWF5VlJXQQ?oc=5",
-        "pub": "2026-11-21T01:07:00+00:00",
+        "title": "Entretenimiento - Página 2826",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9za2lzcmNCQnVDVEpsU25IeVZEdWJoTW9jV0tDRjM0QVhkRnliS1lJUnJYUHJZbWk3Smk1SVkzLVF5SzJWc0ZNaTRLV1doM3VETWJST2JjNlZHWG5rejgzSWhQZmpIT2M1?oc=5",
+        "pub": "2026-11-21T10:31:06+00:00",
         "outlet": "Univision"
        },
        {
@@ -307,15 +307,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Así luce la tumba de Edith González a siete años de su muerte",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnpkQ0xKelhmcHVST1htUy1ZQkhvdXRnNlVOOUVBY3poLURBaE15OVR5VFM1dWxvUEdMZFJvVk12LUdwZTFzZ01VczNGWk1BUXVGLTdaSjYzRUFZVFo3ekFrTWdDNVRjNEx4a3E0MWVDU2s0aGFQTXRyVEV5djdCQ0ZoY0FkMmlmQmJPLVJmdFQxd2RtWC1kTkRvYmpWUlFyMllR?oc=5",
-        "pub": "2026-11-19T23:57:00+00:00",
+        "title": "Mía Rubín confiesa que le aconsejó a su madre que se besara con Galilea Montijo ¿lo harán?",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa0ZaUUhxN3l1Q3VPMGNMRnh5MzJGdDdvaHJFbm04OXRvUTNhMjNSUHdHUkM4ZFpta01aYVJUVmlHTE9JNkhVQkNBRU5wLVBZMjJKeERRazdZY1VGTEM4ODV3Nm1nNERKM3c1MXljZ1hMUXl6UlNYTUhnVG9ZbTc4eFFUdmFwdVJ3eFNUV0VoS2Q4d3NvamdmTzRhS3FOcFdWTFBteDd1NEphMUFGRl9OdExjSEJPSkVuNmp4bWo2T2FtczZtSFJj?oc=5",
+        "pub": "2026-11-20T20:45:00+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "DJ Mariana BO aclara si José Eduardo Derbez es su “amigo con derechos” tras admitir que están saliendo",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVkUtR25leVlvQmV0bFMzQVZpS2I0NWUwVWRRNEpmcVhTbUZiV0hZSmNRRS1YVkY4UHRoUDhTcTZoU3Z3VncxVGFTdHV4SmhDUEdwdDctZ1hoeHRMRkJveXgydHo3elRPLTRHR3gxNW9jdHl2ekI2Mmg0R0R6WmdTWDFKRlJmUUZtNUhHRl92UkZraWdEcmxyZklmbmtKcnQtRW1DUA?oc=5",
-        "pub": "2026-11-20T21:50:13+00:00",
+        "title": "Héctor Soberón revela que se someterá a revisión para saber si está libre de cáncer",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DWTdWcUsycUxqU1kyNy03V1dqdWVCZV9aZHVWZGx2MjVmbHZhcmFGUEJLaWFBbXNXWE1JNy12S2JsOGZnQ01yOWpwVXVfb3EwVlRVekFmMTd5R1EtVUNhS1pEaDZsSmxRWkZFMHhQc0RGYmpnTm4tWkRn?oc=5",
+        "pub": "2026-11-20T21:32:49+00:00",
         "outlet": "Univision"
        }
       ],
@@ -411,12 +411,6 @@
         "outlet": "Univision"
        },
        {
-        "title": "Economía - Página 532",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUX3UteUMyeUk1VjdpWVB3VEZCbXIzSmlKTWlKYmdremxIbXBSUDVveVhwZXYzZXBUUDJ4Sk1oZ0Vwemp4X2FOWmRUb3lsNWRfdGVieENEd0FHVFBHRlE?oc=5",
-        "pub": "2026-11-19T12:34:36+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Los compradores redujeron sus gastos en octubre debido a los altos precios",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS2V3bHNnaFpzSHo1RDF3bUx6bm5jREg4SnlhdEY3bE11Y1dKbWtJZzAyNFRJU2hhN2l4LVlPZ09lWE94eDlGR2hNbksxakk5NFBxSnh3Q2xuR3dKSVU3SUFoSS1VVmdxMmc1cXRjaXpjTDJnUG9QT3FnbHFaQVFrSERXRk1HVXZERUxhQUdmMEIzeEprSkkxZ0VTZTlwcTdDMnZKNFJfQ3c1OURESENpMTFBMmtmUGwtS29MMTVieVVSQQ?oc=5",
         "pub": "2026-11-17T18:00:06+00:00",
@@ -426,6 +420,12 @@
         "title": "Perdieron acceso a sus ahorros y ahora enfrentan deudas: La incertidumbre de los afectados por la caída de Ueno Bank",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRFJKZVhmQ2VtaE9ON09iWHZIbWpIY3g0c3ZEWnFGUkUxdnQ0UGp0OEg3SzJxREdWcXRQSWVnaTgyRWd3TE1XeTlqWGlVMkw0bmtiaF92b2NQM2l2c2lfS2tIWUx6M1E1RFNKcUp5bHE2WXBaQkE3el9uWEV3Rk04X0dRdlRmM0hwZkNaMmRNSzJxdmpReE1nYkkxMVk2WFpFVzRNMWVaeVp3RDJwMDVZQ2RWaE1xRXhIcGsxXzVzU3dFSUdwZ1NqeXRCNTlzaE91LXpiSVpWV1QweWtzQ283WWVYUHJfRU1pQXFEREhvTTFQS3ZmdmZPeXRqOHo?oc=5",
         "pub": "2026-11-20T15:11:58+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Elecciones 2026 - Página 31",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tcnRGRkR0VzhIaW1QNU1ZdzZJVXNJX3JHVDZjWFBKenM1dHNKX0M1ZDZ4RFg2clUzeU1kU3VsTTNINGRXUHFJOW9aUEJ3cGZ4cWNhd0Frdi1KZldBZjF2ZHBsb0ZMQQ?oc=5",
+        "pub": "2026-11-20T13:56:45+00:00",
         "outlet": "Univision"
        }
       ],
@@ -491,21 +491,21 @@
         "outlet": "Fox News"
        },
        {
-        "title": "College student accused of locking fellow student in bedroom during attack as roommates raced to save her",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzhhYVdjSWtBb2dBS3MtVnJMNTZMSVl2dVdsWjFZajJRR3REa1ctLUhPNDJhcHF4ZzhsbWhLNXpXa0NOeF9aUkZTWlIwOEN3ZXpSbnh3aDZxa2JRblczT3lMUTBtZ0RJSlpJTndGNFRyWHFYZ0FKM3dKQzB2MGx6bkdGN2xLUGdSUE05RVBtaTk0UmwtZWZXQVhiVk1pNjBlVFh4LTNHMllSTHNwaC1ZZVJLUDc3ZmswSDdpWNIBwgFBVV95cUxNcUFLZVFKSW1ITzRQeVZoRUIxNWZBajVGOWNNWURpTUVic3BDb1NqbWUzQ3lzaklpdXQtTjgzSnNHaDNlYU5kSEFrakhMVnpRSDY3R2wxZURobHlHWnNuYWg0LXVJTG5BNmlLOFpVU1RlNjZKWktJWTNJUW1nSmhPRTVfSGtka1NOSV9Sa0JRU09JR2FCdy02U3BtLUNQcVhXTEcyY2V1eTRINl9BMHExRTBxZGpmRnpRWkZxXzlSaXRnZw?oc=5",
-        "pub": "2026-11-20T12:00:45+00:00",
+        "title": "Carville calls out 'ultimate urban progressive' Pramila Jayapal for Jeffries comment, urges 'self-education'",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2lvUUtnMUZVcXZvZ3BZaXFZcWRKSENHTWxkWVg1WEZUaGxZRGVmTVliOHpFZ0dmd1pCMWpGOEdBWExtZVY3c0NCdFdPbWlZRTBWd3BybTdycHJHenh0SjVwSHYtMEJybDBldTF0eVhmN3RYWm96U3FCSVUxR1lLN1RuMkpNdWk4V0o3dWhwcU9ZcE5vbjRRQmlBNEl1emdINC1lUldOQWxZb0xHTGx5UUt6Mm5JakJYRG9mLWpjRFNZMkZUOTItSdIBzgFBVV95cUxNWjRydDlnWTlzc1FMUVFuelBDbUtQUFBpaFFwYXJXMG9OTTZ4LWhBRFpHaElkUHVlOHFvZTl6cXJPV0xBbnlaTmJfazRMZHBPZU9WSWJETjdsdVd3Nl9kREJUOUhiWTlsVnBoQ2F5UnBHRXFTeE5HLXlQajdaRGVnazN1WWUtbndDYzJGSkhZZ2NXbVFJVTd6bmh1NjZBRUxqM084VjRVdnJfcFlzTFFIVnVUMDYyUG9uRzYtX296UXZOUGZsclhKcWlsSW85Zw?oc=5",
+        "pub": "2026-11-20T18:44:04+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "OutKick Shows",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zZUFuY04zRmlhS01MZE0zR2hUMDdhTFdBVGJabWRWMnBGeHo4ZjVZcXQ5cmlCZUt4WUllWVNha0VNek9HX0E?oc=5",
-        "pub": "2026-04-08T10:40:34+00:00",
+        "title": "Cruz turns tables on Democrats crying foul over GOP's 11th-hour judicial confirmation blitz",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVJvTUlTcDVPXzhNbEFUZTQ2UlVCOEUyd2JBdUVtSC1NcXRkRzFPWXlGTmxCWDRxOFBqNUhsVHdldy04b05oZU5RcE1WS1ZwWEdSNlFPS2JCRG9ILVJkbzRQWnRxRWZnZVdQTlZDc3hPbXpBSl9vYjY1aDgzcGtfaXJVNV9mdllZOG5fSElqQW5SMDhzd2wwV2taTTJZY3BWQUlheTBJb2VzSXFKXzZTcUkyeWnSAboBQVVfeXFMT2FxUlhMRlltNTQ3anRtYWxWeG02aWktcFVOVlZYU1A1T2RCWjJuQmpxR2VjZ2ZOSE5SWEJZaERhLU8zWkNDYjVyVHdIazJzNkJnS3FPX0I1Z1htUmoxbmc5RE5uZ2xyaFZENEtBVHpXVk5YNHdjOWFxa0FYeG9Md0Z6VG1qVHJDemJGNGxZbzFTNDF4WW5OU3ZSR2p2TGxCMGo5a2ZpbFE2WExYN2Faei00dW12ZjBMeVF3?oc=5",
+        "pub": "2026-11-20T18:29:52+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Van Hollen scores support from another Dem amid Senate majority leader bid",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUFBDdDZGTE8yblZST09uMzJzUzhpLTdMdzRhcG5JWUtTejh0TWF2LXF6SUlxc2k3OWtEZ2RMNlg0WEREUHphdUpONlZDcy1VTV9jcnpkalFIZmZNcUNaanZ5Y3NCWE10SDBDbTlyY2xyX09zYnZNNVlpbm9CTjJuQTE0UGM2RzJNSFhrR3BCMHIySW9hNVA0NTl4S0p5UdIBowFBVV95cUxQd0tNWndIZFR3T1ZlUWlDcFlfTUxKRURydWZsZHhGRTI4MFJja3U3M05RVnYwSzRTMEI5RlhDZkRMb1dPMDlZVTFkSUw1aVJ2Y25UUENFZXIyNHBWYVduMU02RGlpSU90azktRnFXanBJeGtOcHpJZUoyZjlkNDNZY19MdS1vS2U2WEFYeXRFR1o5OXAtd2I3Y3owd2FISFFGUDVJ?oc=5",
-        "pub": "2026-11-20T12:02:29+00:00",
+        "title": "Stock market plummets amid AI sell-off",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IbUgtXzU5Qkhsb3Ywd3BaTmxJVUV0ZU9JUTI3NnJLTERjaWdta29VRVlBTlk0MXM5dWZsMlYwakJEZ3E2QmdVWllDVEFqY0ZHekJ1ZkVR?oc=5",
+        "pub": "2026-11-20T23:43:09+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -617,9 +617,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "American Airlines pilot declares 'mayday' after flames reportedly spotted coming from engine",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1M2U2dUblpoMHRaQ3lHS3diSGlwQ0REWldwWHRBdmcxdlNXSlBmOURjVEpqUVBNdFh1R2RGTkFWam5DWnhvQUhydnl6TVlrWnNBTHBDOHFNeXNzaUw0MHZoV1NJSzJZd0lRLWtGd21INkI2UHJncWZ5bnkyMUVuSXBJR3FZS1QxSXRCTi1xdW1jaXJ0Nmd5eGJrOGZvbThJZDBTNnJacmZwdXZMV1prLXpUUEU0VUxNdzhvaFFqZm9zSjFHNWhLdllaN3ctY2N4TGNn0gHYAUFVX3lxTFBGUGI1YXJIc3ZFVUFzcHFKM3JNeUdGZkgzNEJYWE1zWldnUk41YWd2bHpHUWlyMTZwR1dUQl9sdkNWbTFpUHBOR1BzMElqU1dLazFpVU5oSW5LZnBOclBacldWaERmc1M1SjBlSmRsVnd2NFN3TzdXS3ZCbXVveUV4U2lKR3ljMy04Z0xOX0J1a0NuS0VzZEt0aTZQZjJOODN0VEVlaWl4ZWJFcUEtQkJOYWFNVXVsWXlSUEJWclpCU3JZaTR5bFhRR0RhNHlFQlRFVE5oTVFKVQ?oc=5",
-        "pub": "2026-11-20T16:00:48+00:00",
+        "title": "California entrepreneur says state avoided economic disaster with billionaire tax rejection",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU2lQaWRKajZEM1FWdy1MNVhPUEl6Y2N5LVpHci1zX3V6M1I2S1c4UlVwaGpFRE1fT0tjNk9mWDBJdjY5NjVmNlB1MzJ4WTZGNFRfZ0lKeWFlNUx2STRiWHhGTlcwSUxBMFhsRmhOZTBsTzEwMjI3Sy1uQkY2aXNhcEctSmFYSDRZX3FDRXdJa2V6Um0yQzJpWllBTjFfSUpoZkRRelVzazRMWmFkNW5ocDZkeUs5ejk2X2VtdkF1d9IBxAFBVV95cUxPb29ad0F0aWIxLTI0bGFLQ1VJNjZkeElwMkhXTHpOVVU1dFkteHA3M2xKVEJ0eGFFVkM1c2JYSkxscmFpT1F6UGRLaFlrSGFNNE9HZnpTQVFWUVY2eF9DR0hoZFJ0NnJOOXJJcmU5Z1BLb0xPUUVWNWtDVzRrUVI2RzZUbXIwTG8zTDRQblphaFFiUDJ5VGlON2xJcVhoNG94Z1B0OXE0QUhUd0pTV18tbWMxWkxFTjRvWGlDRDZRRTJtZ1kt?oc=5",
+        "pub": "2026-11-21T06:16:00+00:00",
         "outlet": "Fox News"
        }
       ],
