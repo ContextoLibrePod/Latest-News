@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:38:24.419912+00:00",
+ "updated": "2026-11-21T22:18:42.834697+00:00",
  "categories": [
   {
    "id": "top",
@@ -69,6 +69,12 @@
       "name": "Univision",
       "items": [
        {
+        "title": "La inflación, el crecimiento económico y el ánimo de los consumidores estadounidenses son los temas centrales de esta semana",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOd20wUkdZTmUyemEtOERHdjloRVdOT3hTUFJEUFFQNTF1OE9jZ2pGbEI2eElBQ242aEl4b21HMU1iRXp5THN3NHh2S21acVVENEJUTktLTi02VWpSSlFlaFhYNW9yUXM1UHhfTkNFaFRycWdlOXFhcm9BN050eEpFbDJ2LU1lLXRvZ1FPNTBNdmhWbmZwTkF2aTFUZjRhNTk5LXJUcTBzZ2tBTEMxcm1FQU02cFFyaUp4d2I2Q2RNVnNfUTFGR0tMcFdnNlVKUlJYdGVWeFB0NHlLc2hTLW4zN2VNSS1OWUFyU3hDUlJQQWtsRnpFY3ZGcHp3ZjZ1UkMwbTVZ?oc=5",
+        "pub": "2026-11-21T20:00:34+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Un terremoto de 6.7 preliminar sacude Lima, Perú",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2d4LXVXazVsWG44b0xaUktHd0U0djRQQlhvMmZKZGxlSVQ4emYyY3MzbXpUMUxGVFRxUDYzMmlaSlBkM1ZINDZzUmF0VlFQSjVrcTBxem5tdDNZeTZJcy1ydlh0OXZMamw3dHd0ZFNJVUxTcmJqN2JLUndPMlhZMTZ2MHVSTDFIOUdsS0IwMU40cnN0eHZndDdWSlBTeDQ?oc=5",
         "pub": "2026-11-21T00:29:14+00:00",
@@ -91,12 +97,6 @@
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWnlWdENTb2FBX1FZMVVYcU1KZUQ3UkdwRWNLSDFkMGVEQzhmSjU1ei1GTTRJMGd0dWZiTE1mUkxsRW9Fc2ZQSENMQl9wbnRNQldxYkJnZnZtSllxTXpRaXZiQncxZ2NIRWZ3U2V6WjM1TEJpSXpzejJ6Z2JVMm5YVUllOGlveUw0Vm9qVlUxakwzU3VFMGExbFYtdnNDelRpQzVfT0ZrVEZFT2dJMzhJZ3BPUTFNTWhVZWlHSGhwZFdNTk5qck5mTms5MF9ja1ZrOHdtLVRSVzNmTDNLRmlNS3BONXg1YVNFSjJxYmhGMHJVN1E?oc=5",
         "pub": "2026-11-21T02:03:24+00:00",
         "outlet": "Univision"
-       },
-       {
-        "title": "Un padre y su hijo fueron declarados inocentes de los cargos imputados por ICE tras una redada en su restaurante",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb05fR1dBXzN0R2FvSWd0NTlEZmpvYXV3dGFoX2s3UlZGRzRHSXZVdUlicUlYWW9LU004eWRVS1ZWNFVXTmJ3VFEtNGNCdXBtM3RFamtmR185Z3MyNlNER191UFlIVnBMbFRla3pxRnVNN1BHcjh2bVNxTmh3b2ctY1NwUzhyTzluYTRlYU5PUFlqaDcwa1ZwOHgxSV9NZk4wRU9LcTRlbUNycjNSalc2SW9QQ3ZHZk1LSlNLSjFlQ0FRRVZ2MHNRQW5xVzhaWlFPRlBPaE5pUENtWVNwWmpCLXR2dDEyNlpnbjBKNmNQUE0?oc=5",
-        "pub": "2026-11-21T04:59:13+00:00",
-        "outlet": "Univision"
        }
       ],
       "error": null
@@ -105,21 +105,9 @@
       "name": "Telemundo",
       "items": [
        {
-        "title": "Noticias Telemundo 11/20",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmdrMm84eHFSTllQY2w0YzFaZXdZaVRQQ3E1UGVaTVlUNllwdHpxZzNpMU5CeFZJeGd3d29ZMVk2NjVNeDdqSXRFZFFqV1pGQUJ1WllEenFHc2J2bk9Fc09KeGVaNjgzWUZNQW5pMU93YmlDWEtxSHRoYTR5UHJSTkI2Z0JKYlFFQ2drMzdjYzBNSTJlcnEzZlZ2VkxxTGtLenBublRlTHRSZElQSWtKc0NacFdLMGxUQXdDRGktN2R1N0t5SjFGS1RCaw?oc=5",
-        "pub": "2026-11-21T03:51:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Noticias Telemundo Mediodía 11/20",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1lBUHhUZXE3THBKZ0dDcTZHYVlDYlpScmU3VV9Td2k1Sm1WLUlla3ZMTTYza0FmQnVkWWVIS1ByNWRUUC1DZnY5aEdwN3RfSER2RGZOc2NzYkdoSEp4dXV3OVhGVXRtVWVDdENueno3Vlp0V0I4TzJ1aEpMWVB1WHFfU2tMTVFpZ2poOFNtRVJ3bGR4LUpVQllLUUFPNmJveXZIUVZtb1V6aVBMc1czUGNHVElRb2ltV2NwUkNmSVhKby1IX3VLRS0wM25JVTVPMU5VeGlWN3c?oc=5",
-        "pub": "2026-11-21T02:05:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Sismo en Perú activa alarmas hasta Colombia",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZDZFQVU1WTduNndreV9tblR4VXdnUlV6NnpFd0t4THYtSnFmTjV1bk45YzY2X2w0bTNTalNxX0pSS1JNdnV1b05SMUEzYmhvT240ZlNaelRsNzVUWHNxV0JuTzY4cE90ZGdLMUhGanlhMGpGdERiSEJ5RTc5VVlOak5kdVpSRGRxTWxjeTJBaDBQTl9MMVFHOWJJWERGSVBDYmlxNEV2NTJTMm13SXFjZWh3Sk03SkhO?oc=5",
-        "pub": "2026-11-21T03:20:26+00:00",
+        "title": "GTA VI: el videojuego que tiene el mundo paralizado",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNazNZTGJacGhfMWJHUUlFMWlydVJyb2FTUmpYOXhFMnpTUHBZdDVqYWdnMGFUa3hobzF4cUtjS2NMT2FJVzNUT1RwN1kxUGhrbko2eEdoWk9yY2xQVGpnQlNtSnVpUHl6MzYxREw2eURUWVR1ZkN0ZGx0ZEluN21LaFR1dDdIbTU0SkladEJNcHdyS1hEbHRMVkVKaV9kMWpiRDFoanNMYkJxaGgxOFNnVjVVRTdzc1FFT3hIMWUyb1lQUQ?oc=5",
+        "pub": "2026-11-21T04:17:18+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -129,9 +117,21 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Lejos de ti Resumen Semanal 84-88",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekROOERvaFhmVGRhdmRNNmxUc2pnR2FYdzVJRzVxMWdqc2lZa2NfOUtzaGJLQUFocG9PMU1lVjRJenF3cnozS3M5bHlkWUgtVDlwTHdXNmhOdFRyRk94TzBvdHNodE5XdHdVdG1uelpUNGVKeXNZMEV4Qm1hMDhfMWdtZHRXRWpnRlFKVUZhT3V5UGtmLWk1ZlZ5cE1jYTZYN1NQc2pUSnlJTVNQbkZPaGlkdkMtSTBKbnc?oc=5",
-        "pub": "2026-11-20T22:55:14+00:00",
+        "title": "Noticias Telemundo 11/20",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmdrMm84eHFSTllQY2w0YzFaZXdZaVRQQ3E1UGVaTVlUNllwdHpxZzNpMU5CeFZJeGd3d29ZMVk2NjVNeDdqSXRFZFFqV1pGQUJ1WllEenFHc2J2bk9Fc09KeGVaNjgzWUZNQW5pMU93YmlDWEtxSHRoYTR5UHJSTkI2Z0JKYlFFQ2drMzdjYzBNSTJlcnEzZlZ2VkxxTGtLenBublRlTHRSZElQSWtKc0NacFdLMGxUQXdDRGktN2R1N0t5SjFGS1RCaw?oc=5",
+        "pub": "2026-11-21T03:51:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Serie A - ACF Fiorentina",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51QV9iSnVVbWpReVhqeW9PZ0ZVLTN5QlRPUHZnVzZORjNxMVl3ZlRtM29iVUNwaDROVTdMOWZDaEtKZE9CdVZCOEtJOGlOaTNIdlptbVk4SEJ2VGk5OV96NnY0WmdKanBBRWVFbXRNSGxIRW8?oc=5",
+        "pub": "2026-11-20T22:43:46+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Noticias Telemundo Mediodía 11/20",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1lBUHhUZXE3THBKZ0dDcTZHYVlDYlpScmU3VV9Td2k1Sm1WLUlla3ZMTTYza0FmQnVkWWVIS1ByNWRUUC1DZnY5aEdwN3RfSER2RGZOc2NzYkdoSEp4dXV3OVhGVXRtVWVDdENueno3Vlp0V0I4TzJ1aEpMWVB1WHFfU2tMTVFpZ2poOFNtRVJ3bGR4LUpVQllLUUFPNmJveXZIUVZtb1V6aVBMc1czUGNHVElRb2ltV2NwUkNmSVhKby1IX3VLRS0wM25JVTVPMU5VeGlWN3c?oc=5",
+        "pub": "2026-11-21T02:05:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -191,21 +191,21 @@
         "outlet": "Univision"
        },
        {
+        "title": "Aries, horóscopo del sábado 21 de noviembre de 2026: fluye sin forzar definiciones",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3BESFZPQ1NzWFNNNWxTMUhfbTRLbU1kWXVENHpUZXR1dzRVX2ljTGc3aDZvUUExVk5LU2ZlVUwycWxiTEZicEFoNXB2LS0zT3ZlUXpfZXRtOGJzSTJEenRoeHhaTzRGdXk0Xzk0bDZCZ0F3N2paUjFOT2JUMC0tZHNBTVdFYmdDdFh5WVpubzg?oc=5",
+        "pub": "2026-11-21T10:06:06+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Virgo, horóscopo del sábado 21 de noviembre de 2026: transforma tus hábitos paso a paso",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd2RsSEh2a1RWOWpQWGhxb0c0TjAxcDVkU3Q2UlVhdUtZU2lfVWNpTE9ybk5RdWNCQWNpU1dGYTM1TlU4TkdLVXkwM0g5Z1BSeXBuR1c1V2I4bmJoZWRucUhjNFU0LWRfX3JUODM1OGJCYTFseldUX3lYMzMxUWF5bzZUMWVUemUxRFdDNl9NOEo?oc=5",
         "pub": "2026-11-21T10:06:04+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Leo, horóscopo del sábado 21 de noviembre de 2026: aprende de cada paso adelante",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQU1XOHVhOWxQeG81MFk2bjBtalNLdkp2T0hEZ3dVRzc0OXBDczItWWh2SFliS201QXl2TXJpOG4wMXdGRzFFei1QdWtkNEJTWFlvZUdVSGlfaVJsWERPWEpqRHg0SnY1dW15dTVpcFJlNjRVN1pHa2t1WDdtNGFCVF9hbFZoY1lOZ0tENzBR?oc=5",
-        "pub": "2026-11-21T10:06:09+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Aries, horóscopo del sábado 21 de noviembre de 2026: fluye sin forzar definiciones",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3BESFZPQ1NzWFNNNWxTMUhfbTRLbU1kWXVENHpUZXR1dzRVX2ljTGc3aDZvUUExVk5LU2ZlVUwycWxiTEZicEFoNXB2LS0zT3ZlUXpfZXRtOGJzSTJEenRoeHhaTzRGdXk0Xzk0bDZCZ0F3N2paUjFOT2JUMC0tZHNBTVdFYmdDdFh5WVpubzg?oc=5",
-        "pub": "2026-11-21T10:06:06+00:00",
+        "title": "Escorpión, horóscopo del sábado 21 de noviembre de 2026: silencio revela respuestas ocultas",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTExM0VNY1oxOWN1NjY4d1NOMFVuOUZqUUc3UDAtMGVTQ2F0QnZ1aGVzQmNlWUlCOGFhaTdFWmlUTmZqdnlNeUhfX082NUlnSmJiTXZuWjRuQVRNYV9EUlV4WEw5RDNrZ1NHU1pHR1Q4VklYM3V1RlZQelBKVEpLb05vMzBURGtiSjFDdm9CVXpjOWhwYnc?oc=5",
+        "pub": "2026-11-21T10:06:08+00:00",
         "outlet": "Univision"
        }
       ],
@@ -227,21 +227,21 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Regalo de Martin Odegaard y Harvey Barnes anota el empate para Newcastle",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2RLc0xPZ3JnM2xrT0k5OXdfRFh0bWZ1ZmRkdFgxU2pVVThFUm5zd2lMMjE5cEFhT1YxbTFrN0JGbXpnNFVRTEJxTEd5WWxkeVJoX3Njd042U040U0lqY2NGVkdtS0drMXVqLTBQYmtfeVJDM29KQWx3UUFEVGdiTFUzaE5pTll4Nk9NSVJBNlNkRENBS205azBueXNRZXB5NWRwYXNFX0ZDcXRndVd4T1VMTHRpdnVuRy02XzBreGlHSXIybjBfbWRNNy1maktCVEo3S0ZaaWQ?oc=5",
-        "pub": "2026-11-21T07:18:00+00:00",
+        "title": "Ángel Sepúlveda: “Sabemos lo que es Chivas, queremos ser dignos de esta camiseta”",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZml4S054RnZfdk9YWWE5MVhEdDJIUS1ZR0JSemtGbEZHNDAyNHVMcWZyYUJ5RHpYNi1BSXlqMU5abWpJR2F5VDJnNGVtTlNvWVdBMzNEYVphUzJUN0liRUNMWWhqUVFKTjh0U0p3MVFkTTFIRmRXZHFIcDBoTU9lUVV5ek9KR0kwTTNheER2NzBwZ1h1Y0hVRnJIajQxdE9RZGFKYkpqZ1RBOVNWWS1FcTc3TWhpQ0FrMFRWVmVubDZzX2JPUTQyb0V5b3NBU3FUcnpUMkRLX05lM1lJWnc2LVhiQ0VuekFIamc?oc=5",
+        "pub": "2026-11-20T13:17:00+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "Evanilson sigue encendido y guía al Bournemouth al triunfo sobre el Nottingham Forest",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMW1lSGtZaFRFZXVmVE1RM0FEd1lsM2dwdml5ZXpUTWo4N3JtUjc5QnNFUGk2cm5nUVVuclFvc1Z3VDU1elNHalJZYmJOQTcyWFBhVXZfN3FMSHoyUTN3eDBfTXV4Q1pVTGFNdWVHa3o2elhnOHBTUGRLYy1LQVd1WDBPaUF4Y256THpyLVBjUldGSzJ3eVpoeE53LWxPd1VXQmRYa0R3clZBcGQ3SWJNcmpsNVdid3lSSlkxTGJoNFQ0elo2VDM0UjJRZXNHT1QtUDFpQUVNZUJrbHdON0ZRa0Z5OGd3MzBTamc?oc=5",
-        "pub": "2026-11-21T18:58:47+00:00",
+        "title": "Atlas abre el marcador ante Juárez con un cabezazo de Victor Ríos",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckVPZ2dncHVPRDhHbmstM09aTTB4T0xJQkZEVG5fRlZqQXhfa2syd1FEbHhxekVsRDlLUnE1Vmg2MmhtLUJHaklaSjRFY1NJMG1VY1dTWDljdTBheHRtOHl4THBCbnpVTXMtOUpUTkRQRWpuWndubjAwU1liSmNWRk5sdHRIYkd2bU1qWHhKNFNzYTcteUhRX0dxT1RpZ1Y5d3VoOHRDWDZxQl84MjVJMV9EckNRbTh2LUliQklqQ1dHZDdPTHV5djljZGJJNDBJcVNlMkR6MWtudw?oc=5",
+        "pub": "2026-11-20T07:01:00+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "Bombazo de Eberechi Eze, tras gran pase de Havertz, para adelantar al Arsenal",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNnF2djZkSnhLQ0xOZ0V6RzNMNmdPRGVOQ2Uwak9HVUdWV1Q3VU9VRVVmNk14UTRycmk4NnZ4M3FwTUxZUXVDcUExYXVXVXJIeGhCYi1ycmgwYmVPUEpyZzJ5UEl4WnpwZkdwU1pfbTJ5ZHY4dW41MW1oc29QcG41YlJfQl96MUFGb0FOM1BwYTBfRGltX1diQW55cVlndG9SRWVUWEV0b0xCbFdZbXV6VTZmaTZXNEN1VGNMQVRTZ2RZNmp2UTFmdmlUcnlnd2F5azItMmc4cmlqRjky?oc=5",
-        "pub": "2026-11-21T07:10:00+00:00",
+        "title": "Sunderland resiste y empata ante el Aston Villa",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaU4yd1dtejdKc25SazhpbmRBNm1qeU5hUEVtN1JTNWtCaWUzTHZ6NmVtMHQ2UmVoT2lGSWx0REI3X3RoMXMwTklMMWx3NFZPTEpUMVNwc1p3YjZlMVVFMEZXV21WQzUzUFpqaEhuajFNYmI1WjlDZDlkcEdkRVB4aXI3SnFRcVRKWmJkRG1RbXlZa2NZZS1NWGllLTloUGhrelZpcVg4c0Fwd2JudEYwODc4cTE0c1U?oc=5",
+        "pub": "2026-11-21T18:50:15+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -349,9 +349,9 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Will Smith es demandado por un examigo por presunta agresión sexual",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbGtfdmxjSDUwN0w0SEtmdHI4QWQ4aDRxVzhIbWlNYnBwbmVmanhRVHF0UEhqS0xiMUExRXpObmhaQjVyc1M1dVVDcWdZRU4ySFFUSXNFX2lKbEtjUy1wUzNERlBUSlNvOFNScFczc1liOXJrRWRSQm9KSUtrU1hUdnQyUGlwWUFtc0VER2E2eXFNLUZ2bXNRclJpVHBfUDZ5WHFyaW1rQ1VmdG45c1VpZzFfTFlOOEZoaS1vQURlN05zbGIwMkNGWVF6YTM1ZlpoRG01ejQtYklDOGM5MnctR2ZR?oc=5",
-        "pub": "2026-11-20T06:07:00+00:00",
+        "title": "Demandan a Dalvin La Melodía por disputa de millones en ganancias de conciertos",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZEExQ3RTWG4xVzdDYnhwcmVGbTV4Rl92bEpJR3pkUjYwaVFVMDYwMzllWmxJOHk2ZlRqcEowakpDS0VoSXQycDRkc0g1bm5TNkhDUXVsWXBrV3ZyYlJnc1FnbndTWkhZeHZNQ3M0SHQzLVhUYlZJTzI5bmdEbkFzWi1CTnVWZURRMWFVeGVxakp6anVwVGxoMmIwNjZpbUo4bU9aMUliRFFWUUROX2hNaFFpS2NsTlAyU2ZlbUN2QkRqZllNS1lCY1VmMUhHQWhkVEs0VGNxa2ZOSGMxdnJMMmZIQl9OZw?oc=5",
+        "pub": "2026-11-20T05:31:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -417,15 +417,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Costos de guerra de Irán superan $48.000 millones; legisladores exigen estimaciones de daños a bases",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZWhCQXJad292YTZCWXhDLVAtNFVqcVBXOVJ3T2czV0VROVRmX254QndlREJtUXM0MnM3Y2QxVWdZUnNWTFFIX2xTTkgtaDFjbkFEMUJEaXdROG5yQU9ITUY3NjhLNHB1b0lIcmdNQ3NqdnVWZGJJdjA5eENSV3RDa0hKXzA3VzNnWFlJRGRiamJXRHREX1E0NE5KWnQ2UkZKdTRzMWl3YXBDZzVUaDVmd3FmMkk5aGt0QUx1TFk2N29lQ3ZqUC1ZWGxnck5ycllfVzNBaFl0YVozTEVHMDJJSkVzVGdIY3F6VEUw?oc=5",
-        "pub": "2026-11-20T05:42:10+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Los compradores redujeron sus gastos en octubre debido a los altos precios",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS2V3bHNnaFpzSHo1RDF3bUx6bm5jREg4SnlhdEY3bE11Y1dKbWtJZzAyNFRJU2hhN2l4LVlPZ09lWE94eDlGR2hNbksxakk5NFBxSnh3Q2xuR3dKSVU3SUFoSS1VVmdxMmc1cXRjaXpjTDJnUG9QT3FnbHFaQVFrSERXRk1HVXZERUxhQUdmMEIzeEprSkkxZ0VTZTlwcTdDMnZKNFJfQ3c1OURESENpMTFBMmtmUGwtS29MMTVieVVSQQ?oc=5",
         "pub": "2026-11-17T18:00:06+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "El presidente de la Reserva Federal analiza el impacto económico de la IA y evita abordar su riesgo inflacionario",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb3RHcVpybHBoSUdyN3dpZklvWTZDbkxZNk43WEFlcTRTY1NSeWc1TWZJUWFmTG1janI5ZF9DVFVjMkdjam5rYUF3VUFSYzREREk5NWJLMGJSOG5SOEs2cUZXSDNnTnMzc1h5bnkzN1NONE9PRVk5ZFNQNWdOTDBFSjBLSWRPYS04RHN0RlZya0E2MmpjWU5Ob0JKQzJNMktVdEl6REhxTTN6ZTdjY1p3RVEyb1NjR25KNFdNWjMySXpiTHpaTnhUYnZDN2dSbXMzelRDTDI5cGZWeklBcEw3cERSTmdCYVo5QlRtcGZRWWFwWmFhbUlFWWx4bWNScXY3SlJB?oc=5",
+        "pub": "2026-11-16T19:19:12+00:00",
         "outlet": "Univision"
        }
       ],
