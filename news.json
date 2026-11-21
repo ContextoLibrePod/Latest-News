@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:18:42.834697+00:00",
+ "updated": "2026-11-21T23:00:00.029548+00:00",
  "categories": [
   {
    "id": "top",
@@ -81,12 +81,6 @@
         "outlet": "Univision"
        },
        {
-        "title": "Al menos 15 heridos y más de 120 viviendas dañadas tras el terremoto de 6.7 que sacudió a Perú",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGxVY2FqUDVZTVhWWjBDSno5X1dPMENnVUR6WldRU2xrUGV1Zld0ZXJSSjM2dG05VlB5MzZwLW9uZW1LTlN1NlZIMHdGOHV2M2lkWFJhSllmaThyd1JCdDNtY0ZyOVpOazN1cU9WOTJ0bWxZTWRMSTF4VEt6QS1MQlpUamstNVRXWGJXTWk5NVllb0stUG1uZ09SaEE4VW9TbWZTMHFkTzFtSS0yRG5WS2RGcTRjNEt6RzFzbm5xNTVsN056ME8zVHV4cDVmN0IxcHAw?oc=5",
-        "pub": "2026-11-21T19:50:33+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Audiencias migratorias bajo supervisión de ICE: ¿Qué podría cambiar para los inmigrantes con este nuevo procedimiento en Dallas?",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQLUE0OVRRLWRnRDdCQ1hSUFhTRWtDOExnR0Q2cDhLX0ljNmE0T080a0pXQzdoOU5UY1V6bm1mTWFqdlRwdHdocDFyQ1dtRzUyclJQajNmdUV1a2NwSjVzd3hZakRsN3NZZFlsYTNuTXRyZjVCZlBCVFhxUC1xR2s5c1ZjTk9uZTFIWHJsTGlQa0FtcHBRSl93YmZFMDZ6RWVPRzdINzRlVnB0V01RRzdqRDEwaloyMml4cDRxc2t6Rm96Z3o5RzFmQUM0YllFNjdQbnc0RUVqN2xuOXVpdlNJTm1LU2YzSjJXUmhCZFgwUlhaUWtJSlpyLWJR?oc=5",
         "pub": "2026-11-21T03:52:30+00:00",
@@ -97,6 +91,12 @@
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWnlWdENTb2FBX1FZMVVYcU1KZUQ3UkdwRWNLSDFkMGVEQzhmSjU1ei1GTTRJMGd0dWZiTE1mUkxsRW9Fc2ZQSENMQl9wbnRNQldxYkJnZnZtSllxTXpRaXZiQncxZ2NIRWZ3U2V6WjM1TEJpSXpzejJ6Z2JVMm5YVUllOGlveUw0Vm9qVlUxakwzU3VFMGExbFYtdnNDelRpQzVfT0ZrVEZFT2dJMzhJZ3BPUTFNTWhVZWlHSGhwZFdNTk5qck5mTms5MF9ja1ZrOHdtLVRSVzNmTDNLRmlNS3BONXg1YVNFSjJxYmhGMHJVN1E?oc=5",
         "pub": "2026-11-21T02:03:24+00:00",
         "outlet": "Univision"
+       },
+       {
+        "title": "Al menos 15 heridos y más de 120 viviendas dañadas tras el terremoto de 6.7 que sacudió a Perú",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGxVY2FqUDVZTVhWWjBDSno5X1dPMENnVUR6WldRU2xrUGV1Zld0ZXJSSjM2dG05VlB5MzZwLW9uZW1LTlN1NlZIMHdGOHV2M2lkWFJhSllmaThyd1JCdDNtY0ZyOVpOazN1cU9WOTJ0bWxZTWRMSTF4VEt6QS1MQlpUamstNVRXWGJXTWk5NVllb0stUG1uZ09SaEE4VW9TbWZTMHFkTzFtSS0yRG5WS2RGcTRjNEt6RzFzbm5xNTVsN056ME8zVHV4cDVmN0IxcHAw?oc=5",
+        "pub": "2026-11-21T19:50:33+00:00",
+        "outlet": "Univision"
        }
       ],
       "error": null
@@ -105,9 +105,21 @@
       "name": "Telemundo",
       "items": [
        {
-        "title": "GTA VI: el videojuego que tiene el mundo paralizado",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNazNZTGJacGhfMWJHUUlFMWlydVJyb2FTUmpYOXhFMnpTUHBZdDVqYWdnMGFUa3hobzF4cUtjS2NMT2FJVzNUT1RwN1kxUGhrbko2eEdoWk9yY2xQVGpnQlNtSnVpUHl6MzYxREw2eURUWVR1ZkN0ZGx0ZEluN21LaFR1dDdIbTU0SkladEJNcHdyS1hEbHRMVkVKaV9kMWpiRDFoanNMYkJxaGgxOFNnVjVVRTdzc1FFT3hIMWUyb1lQUQ?oc=5",
-        "pub": "2026-11-21T04:17:18+00:00",
+        "title": "Noticias Telemundo 11/20",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmdrMm84eHFSTllQY2w0YzFaZXdZaVRQQ3E1UGVaTVlUNllwdHpxZzNpMU5CeFZJeGd3d29ZMVk2NjVNeDdqSXRFZFFqV1pGQUJ1WllEenFHc2J2bk9Fc09KeGVaNjgzWUZNQW5pMU93YmlDWEtxSHRoYTR5UHJSTkI2Z0JKYlFFQ2drMzdjYzBNSTJlcnEzZlZ2VkxxTGtLenBublRlTHRSZElQSWtKc0NacFdLMGxUQXdDRGktN2R1N0t5SjFGS1RCaw?oc=5",
+        "pub": "2026-11-21T03:51:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Noticias Telemundo Mediodía 11/20",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1lBUHhUZXE3THBKZ0dDcTZHYVlDYlpScmU3VV9Td2k1Sm1WLUlla3ZMTTYza0FmQnVkWWVIS1ByNWRUUC1DZnY5aEdwN3RfSER2RGZOc2NzYkdoSEp4dXV3OVhGVXRtVWVDdENueno3Vlp0V0I4TzJ1aEpMWVB1WHFfU2tMTVFpZ2poOFNtRVJ3bGR4LUpVQllLUUFPNmJveXZIUVZtb1V6aVBMc1czUGNHVElRb2ltV2NwUkNmSVhKby1IX3VLRS0wM25JVTVPMU5VeGlWN3c?oc=5",
+        "pub": "2026-11-21T02:05:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Sismo en Perú activa alarmas hasta Colombia",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZDZFQVU1WTduNndreV9tblR4VXdnUlV6NnpFd0t4THYtSnFmTjV1bk45YzY2X2w0bTNTalNxX0pSS1JNdnV1b05SMUEzYmhvT240ZlNaelRsNzVUWHNxV0JuTzY4cE90ZGdLMUhGanlhMGpGdERiSEJ5RTc5VVlOak5kdVpSRGRxTWxjeTJBaDBQTl9MMVFHOWJJWERGSVBDYmlxNEV2NTJTMm13SXFjZWh3Sk03SkhO?oc=5",
+        "pub": "2026-11-21T03:20:26+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -117,21 +129,9 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Noticias Telemundo 11/20",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmdrMm84eHFSTllQY2w0YzFaZXdZaVRQQ3E1UGVaTVlUNllwdHpxZzNpMU5CeFZJeGd3d29ZMVk2NjVNeDdqSXRFZFFqV1pGQUJ1WllEenFHc2J2bk9Fc09KeGVaNjgzWUZNQW5pMU93YmlDWEtxSHRoYTR5UHJSTkI2Z0JKYlFFQ2drMzdjYzBNSTJlcnEzZlZ2VkxxTGtLenBublRlTHRSZElQSWtKc0NacFdLMGxUQXdDRGktN2R1N0t5SjFGS1RCaw?oc=5",
-        "pub": "2026-11-21T03:51:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Serie A - ACF Fiorentina",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51QV9iSnVVbWpReVhqeW9PZ0ZVLTN5QlRPUHZnVzZORjNxMVl3ZlRtM29iVUNwaDROVTdMOWZDaEtKZE9CdVZCOEtJOGlOaTNIdlptbVk4SEJ2VGk5OV96NnY0WmdKanBBRWVFbXRNSGxIRW8?oc=5",
-        "pub": "2026-11-20T22:43:46+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Noticias Telemundo Mediodía 11/20",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1lBUHhUZXE3THBKZ0dDcTZHYVlDYlpScmU3VV9Td2k1Sm1WLUlla3ZMTTYza0FmQnVkWWVIS1ByNWRUUC1DZnY5aEdwN3RfSER2RGZOc2NzYkdoSEp4dXV3OVhGVXRtVWVDdENueno3Vlp0V0I4TzJ1aEpMWVB1WHFfU2tMTVFpZ2poOFNtRVJ3bGR4LUpVQllLUUFPNmJveXZIUVZtb1V6aVBMc1czUGNHVElRb2ltV2NwUkNmSVhKby1IX3VLRS0wM25JVTVPMU5VeGlWN3c?oc=5",
-        "pub": "2026-11-21T02:05:00+00:00",
+        "title": "Al Rojo Vivo 11/20",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3JoREdpTWd1VlpVOGtOaEdMamRrd2tfM3F2NXVHMU9qWVVuTUFpTU9MaUV0dmdYaWZjVmU0WVpZc1hOU254OVl1M2N0bVRLeVdwMjNuc0txY1E4VG1TS2dXTHkwVjJ4S000ZzhfV3VYRE44QmdmeGlXN1JCSjc2T18wUGo3MVNPamU3UHhBQzEyMFd0YWQteVhneDRZTjdyb3JBOUlzRTdZRnlh?oc=5",
+        "pub": "2026-11-21T09:28:01+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -197,15 +197,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Virgo, horóscopo del sábado 21 de noviembre de 2026: transforma tus hábitos paso a paso",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd2RsSEh2a1RWOWpQWGhxb0c0TjAxcDVkU3Q2UlVhdUtZU2lfVWNpTE9ybk5RdWNCQWNpU1dGYTM1TlU4TkdLVXkwM0g5Z1BSeXBuR1c1V2I4bmJoZWRucUhjNFU0LWRfX3JUODM1OGJCYTFseldUX3lYMzMxUWF5bzZUMWVUemUxRFdDNl9NOEo?oc=5",
-        "pub": "2026-11-21T10:06:04+00:00",
+        "title": "Julián Gil explica que el amor de su nieto no se compara con el de su hijo Matías",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWWpYSF9yckVLMWx3elNkYkREaEpJOWR1RUhHbjhldTExM25rUnVNeFZlRmNjZVJ1eEktNk5pMXl5ZElZUnpRSVJWc0RNUHVZaS1UTTBGTmR1U0IzMnpzNlFIb2ctWVdtaF9feVhZdllmRURfdF9YdDQ4c3BUY0ZsYUR1Zzd4NWM3WmlMem1TOGIzZVdUSW1ITHNFZWhhU2hacXB2WldUaEpGLWFxZndMWHBTV2RhemRBeG9yOGprU0dIYkxKRjEzc0t3?oc=5",
+        "pub": "2026-11-21T21:43:00+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Escorpión, horóscopo del sábado 21 de noviembre de 2026: silencio revela respuestas ocultas",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTExM0VNY1oxOWN1NjY4d1NOMFVuOUZqUUc3UDAtMGVTQ2F0QnZ1aGVzQmNlWUlCOGFhaTdFWmlUTmZqdnlNeUhfX082NUlnSmJiTXZuWjRuQVRNYV9EUlV4WEw5RDNrZ1NHU1pHR1Q4VklYM3V1RlZQelBKVEpLb05vMzBURGtiSjFDdm9CVXpjOWhwYnc?oc=5",
-        "pub": "2026-11-21T10:06:08+00:00",
+        "title": "Virgo, horóscopo del sábado 21 de noviembre de 2026: transforma tus hábitos paso a paso",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd2RsSEh2a1RWOWpQWGhxb0c0TjAxcDVkU3Q2UlVhdUtZU2lfVWNpTE9ybk5RdWNCQWNpU1dGYTM1TlU4TkdLVXkwM0g5Z1BSeXBuR1c1V2I4bmJoZWRucUhjNFU0LWRfX3JUODM1OGJCYTFseldUX3lYMzMxUWF5bzZUMWVUemUxRFdDNl9NOEo?oc=5",
+        "pub": "2026-11-21T10:06:04+00:00",
         "outlet": "Univision"
        }
       ],
@@ -227,21 +227,21 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Ángel Sepúlveda: “Sabemos lo que es Chivas, queremos ser dignos de esta camiseta”",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZml4S054RnZfdk9YWWE5MVhEdDJIUS1ZR0JSemtGbEZHNDAyNHVMcWZyYUJ5RHpYNi1BSXlqMU5abWpJR2F5VDJnNGVtTlNvWVdBMzNEYVphUzJUN0liRUNMWWhqUVFKTjh0U0p3MVFkTTFIRmRXZHFIcDBoTU9lUVV5ek9KR0kwTTNheER2NzBwZ1h1Y0hVRnJIajQxdE9RZGFKYkpqZ1RBOVNWWS1FcTc3TWhpQ0FrMFRWVmVubDZzX2JPUTQyb0V5b3NBU3FUcnpUMkRLX05lM1lJWnc2LVhiQ0VuekFIamc?oc=5",
-        "pub": "2026-11-20T13:17:00+00:00",
+        "title": "Regalo de Martin Odegaard y Harvey Barnes anota el empate para Newcastle",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2RLc0xPZ3JnM2xrT0k5OXdfRFh0bWZ1ZmRkdFgxU2pVVThFUm5zd2lMMjE5cEFhT1YxbTFrN0JGbXpnNFVRTEJxTEd5WWxkeVJoX3Njd042U040U0lqY2NGVkdtS0drMXVqLTBQYmtfeVJDM29KQWx3UUFEVGdiTFUzaE5pTll4Nk9NSVJBNlNkRENBS205azBueXNRZXB5NWRwYXNFX0ZDcXRndVd4T1VMTHRpdnVuRy02XzBreGlHSXIybjBfbWRNNy1maktCVEo3S0ZaaWQ?oc=5",
+        "pub": "2026-11-21T07:18:00+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "Atlas abre el marcador ante Juárez con un cabezazo de Victor Ríos",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckVPZ2dncHVPRDhHbmstM09aTTB4T0xJQkZEVG5fRlZqQXhfa2syd1FEbHhxekVsRDlLUnE1Vmg2MmhtLUJHaklaSjRFY1NJMG1VY1dTWDljdTBheHRtOHl4THBCbnpVTXMtOUpUTkRQRWpuWndubjAwU1liSmNWRk5sdHRIYkd2bU1qWHhKNFNzYTcteUhRX0dxT1RpZ1Y5d3VoOHRDWDZxQl84MjVJMV9EckNRbTh2LUliQklqQ1dHZDdPTHV5djljZGJJNDBJcVNlMkR6MWtudw?oc=5",
-        "pub": "2026-11-20T07:01:00+00:00",
+        "title": "Evanilson sigue encendido y guía al Bournemouth al triunfo sobre el Nottingham Forest",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMW1lSGtZaFRFZXVmVE1RM0FEd1lsM2dwdml5ZXpUTWo4N3JtUjc5QnNFUGk2cm5nUVVuclFvc1Z3VDU1elNHalJZYmJOQTcyWFBhVXZfN3FMSHoyUTN3eDBfTXV4Q1pVTGFNdWVHa3o2elhnOHBTUGRLYy1LQVd1WDBPaUF4Y256THpyLVBjUldGSzJ3eVpoeE53LWxPd1VXQmRYa0R3clZBcGQ3SWJNcmpsNVdid3lSSlkxTGJoNFQ0elo2VDM0UjJRZXNHT1QtUDFpQUVNZUJrbHdON0ZRa0Z5OGd3MzBTamc?oc=5",
+        "pub": "2026-11-21T18:58:47+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "Sunderland resiste y empata ante el Aston Villa",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaU4yd1dtejdKc25SazhpbmRBNm1qeU5hUEVtN1JTNWtCaWUzTHZ6NmVtMHQ2UmVoT2lGSWx0REI3X3RoMXMwTklMMWx3NFZPTEpUMVNwc1p3YjZlMVVFMEZXV21WQzUzUFpqaEhuajFNYmI1WjlDZDlkcEdkRVB4aXI3SnFRcVRKWmJkRG1RbXlZa2NZZS1NWGllLTloUGhrelZpcVg4c0Fwd2JudEYwODc4cTE0c1U?oc=5",
-        "pub": "2026-11-21T18:50:15+00:00",
+        "title": "Bombazo de Eberechi Eze, tras gran pase de Havertz, para adelantar al Arsenal",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNnF2djZkSnhLQ0xOZ0V6RzNMNmdPRGVOQ2Uwak9HVUdWV1Q3VU9VRVVmNk14UTRycmk4NnZ4M3FwTUxZUXVDcUExYXVXVXJIeGhCYi1ycmgwYmVPUEpyZzJ5UEl4WnpwZkdwU1pfbTJ5ZHY4dW41MW1oc29QcG41YlJfQl96MUFGb0FOM1BwYTBfRGltX1diQW55cVlndG9SRWVUWEV0b0xCbFdZbXV6VTZmaTZXNEN1VGNMQVRTZ2RZNmp2UTFmdmlUcnlnd2F5azItMmc4cmlqRjky?oc=5",
+        "pub": "2026-11-21T07:10:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -295,6 +295,12 @@
         "outlet": "Univision"
        },
        {
+        "title": "Majo Aguilar detiene concierto para ayudar a fan desmayado",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjBnLXFyTUtpbG9IYzY1UzJFLW9xZ3JsVnY4MEFpZWNOTlhYX2p4cVE2dEUzZnpnYm52ZnQzTlVGZHZDckpuRl9CdGYyY2ZHcGd6RW94YWcwU25wNWNnYVlhT0dZTHZ4dGlxcDdoSkpaMjZhT29vUW13dnRBX3VZb2ppMUlXZE1KMEdZdHZSbU9GT21KVVVINTlBM1MtbnFQRlFEdFQ1c3BRc0U?oc=5",
+        "pub": "2026-11-21T21:50:00+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Ricky Martin revela que sus hijos mellizos ya manejan, ¿tienen su propio auto?",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3pPdzgwTjRGU2prT3RNNG5PN2FiR1VscFktSEJtYVlqZ1V5eDhPNUNzZDcwTGpFcmUzT1VSd2d5ZnFzQ1BEYVE4S0VsNUVmS0t2Z3RUWm5zazFGZS1SUVJJUkZfRzZHdzB1bHUzZUhBZm9Hb1NWa3hEWjR0SU1LSWRFLVZtSnJsYTBweDB1aGN2cDhtbWcwYkE0Y3lfMllySHIxTlpUckJjd3o3bkM5VWF5VlJXQQ?oc=5",
         "pub": "2026-11-21T01:07:00+00:00",
@@ -310,12 +316,6 @@
         "title": "Periodista responde señalamientos de Vadhir Derbez y asegura que sus abogados intentaron sobornarlo",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZThnQUZZWldwUDFKUTBSUjNCZ3FtaHBnMi1CYUhzSFJTSUNDaXUzVnNTUkhNcTNSS1dPN1lKeWxjY1QwaWpwaW9IT2ltakROcU1ZN2hWYWliZ003dE1Ha0hWdF9DZlc5SEE4cU1yQ3VjQ3dLRGNPeDQweU9VRk5YNGs3Q3hMdlpjOFlWdFBmQV96S1VqSHZJ?oc=5",
         "pub": "2026-11-21T19:42:08+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Carlos Rivera y Cynthia Rodríguez a punto de ser papás: ella revela cuándo y dónde nacerá su segundo bebé",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVNwelQ0R1o2TE5uX1hIRlhqeFdSS2oyWlhZU3EtZVBmMGtsS3VtblhFdUE3WVVQdDhENTRlNHpMb0NMbDNrb2k5V1lHOHVfa0s2X1FmdUt3LXFRWVNDTm9rdXN6Y0NHRldxbUpSQkFLa2lxY1VFN3A1bFp2WDRfeTRVdkxJREhkTUJMWEV5b0VtSG40WXhFZmp1Ml9nUTN2cTBoU0hyVQ?oc=5",
-        "pub": "2026-11-21T01:18:08+00:00",
         "outlet": "Univision"
        }
       ],
@@ -405,6 +405,12 @@
         "outlet": "Univision"
        },
        {
+        "title": "Dinero - Página 1281",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iMU53VDJHUE5SdW1kbFE5LUZ6ZmVienJ1dURuWjZMNVBQNzNpa2R5NWFvM0ZLNE9YeDlmZTgxR1RhVzJHV2tOXzhHRElOM19wTFIyd0ZGaXg3TmtC?oc=5",
+        "pub": "2026-11-21T21:31:55+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Donald Trump ofrece balance sobre su gira asiática, situación de Irán, Ucrania y economía de EEUU",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZWFBOWpsM2hkT0x0ZUFJRzJTU1JsMWlxVkNqNFpHaVpIWU9zZjZEZkxHcGxvU3IteGJjeV9wdWU0VUtCaWVINmFFMS1mZGFmbTdqUzZkb3FxMWRTSGp6S0JuRzdGR043bktTbnVwMHIyRUVac3h3RkhpTlJLZVhiTVhvMHpnU2d0RThwaU1mRXI5bV9lTVUtOHdvOWV6QjE2dEhkcklVb0JPa2RMWm5BVkRnNDdCWUV6V1pBTFo2dTVjd2owVkhxYk56X1VMeFhvMXpmMVVUZGRmRG9uaXRnMjA3MUY2eGs?oc=5",
         "pub": "2026-11-20T19:16:00+00:00",
@@ -420,12 +426,6 @@
         "title": "Los compradores redujeron sus gastos en octubre debido a los altos precios",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS2V3bHNnaFpzSHo1RDF3bUx6bm5jREg4SnlhdEY3bE11Y1dKbWtJZzAyNFRJU2hhN2l4LVlPZ09lWE94eDlGR2hNbksxakk5NFBxSnh3Q2xuR3dKSVU3SUFoSS1VVmdxMmc1cXRjaXpjTDJnUG9QT3FnbHFaQVFrSERXRk1HVXZERUxhQUdmMEIzeEprSkkxZ0VTZTlwcTdDMnZKNFJfQ3c1OURESENpMTFBMmtmUGwtS29MMTVieVVSQQ?oc=5",
         "pub": "2026-11-17T18:00:06+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "El presidente de la Reserva Federal analiza el impacto económico de la IA y evita abordar su riesgo inflacionario",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb3RHcVpybHBoSUdyN3dpZklvWTZDbkxZNk43WEFlcTRTY1NSeWc1TWZJUWFmTG1janI5ZF9DVFVjMkdjam5rYUF3VUFSYzREREk5NWJLMGJSOG5SOEs2cUZXSDNnTnMzc1h5bnkzN1NONE9PRVk5ZFNQNWdOTDBFSjBLSWRPYS04RHN0RlZya0E2MmpjWU5Ob0JKQzJNMktVdEl6REhxTTN6ZTdjY1p3RVEyb1NjR25KNFdNWjMySXpiTHpaTnhUYnZDN2dSbXMzelRDTDI5cGZWeklBcEw3cERSTmdCYVo5QlRtcGZRWWFwWmFhbUlFWWx4bWNScXY3SlJB?oc=5",
-        "pub": "2026-11-16T19:19:12+00:00",
         "outlet": "Univision"
        }
       ],
@@ -447,15 +447,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Aseguran que Miley Cyrus se casa este fin de semana en California",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZWVueGJJNS0za2poUnZveFo3SFNtdUtHUnkxRnZKNE1lM3pnemdSV1pPM3RzWW5RdW8wZjlfZGt6RkMzR3dVejFSVDdoUWdBRW5BazFnLVFtRGtGdFItV2dQX1Z2a0k0NzBaRENmdnRYQTlkRzcxdHEtdlpXRFlldnBjdWRqelJWR3BOUzMzVG91WW1yUTBFTG9sQkIzclkxUUlId1VtdWJKMlk1ajA1aHNER0Rvd1ZFRm1ZZGRDZ1NuZw?oc=5",
-        "pub": "2026-11-20T05:29:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Gianni Infantino tendrá que pelear su lugar en la FIFA y Pochettino llega al Manchester United",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSTdDcHp5c2VXaVAtbDhqanpvQVFRMkt1T3VsVksyZ0lHdTUtSFdTbjJoYVNXR0VJTTFQRHVaNjM4X1hvZWo0LXlwYUtXczhudWNjeURReF9RSzlQZEQ2X0l3SzZtaC05ZTFscGN5UFhCSG5Ockg4QkZXMUFJS2s4amlvd2dYQ0J6eU1CcFlNMndHNXZuUXJVcUcxeFdHd1VHR3U3UkJKcnRDUnR3ZDZoekc0WmV6UDMwXzJObkNZeFU2NGZ3OEZqZFpRMFEtZEZubW04cEoxcGg1MTF2SlBwZnpDVWYxcnRC?oc=5",
         "pub": "2026-11-20T06:30:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Aseguran que Miley Cyrus se casa este fin de semana en California",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZWVueGJJNS0za2poUnZveFo3SFNtdUtHUnkxRnZKNE1lM3pnemdSV1pPM3RzWW5RdW8wZjlfZGt6RkMzR3dVejFSVDdoUWdBRW5BazFnLVFtRGtGdFItV2dQX1Z2a0k0NzBaRENmdnRYQTlkRzcxdHEtdlpXRFlldnBjdWRqelJWR3BOUzMzVG91WW1yUTBFTG9sQkIzclkxUUlId1VtdWJKMlk1ajA1aHNER0Rvd1ZFRm1ZZGRDZ1NuZw?oc=5",
+        "pub": "2026-11-20T05:29:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -497,15 +497,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Chuck Norris’ ‘Firewalker’ co-star doesn’t regret quitting Hollywood: ‘I’m glad I’m out of it’",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekZjZVZaM3VWcEo1QnBxVVdScGsxM2hlWXVxSnpocGM2bUJHaVRybG0xWS01cVg1cFVMNDFLOXR4Ml9yTGtHM1Jyc0Q1NVNCNVF1QmZ0U3lmQjNHRmpoSnVZN1dRZFpJcUpGOHVOQkhtTnFUVVZPaVk4c2QtdzgxdnRqTkZRemwwaHZTNlljZnBsc19tLTFjbDdLbGRJajZ5ek9XRmlOQnpXNnQ5WndPbdIBtgFBVV95cUxPZWFEWkp2bkdYM0w3RnRheTlHaHFmdnZzR3BSZzM1OURxRFRjcG5YYWVCYXRhNmNoRS0xMlRDR05EakE4cW83N01hc2pkOWV5anE3b3pGdUxROWhTSVJDWnZVZGZ5ZXptV0lIQ3RNVmxXNk5lMlZRSlQ4MmZmMXZyWnhOa1VkNExJNDYwUUVvWGxWajFxU091ZkIzYmFJZGdQb1JFLVljN0UtaDVLWW5KSFdNeU0yZw?oc=5",
-        "pub": "2026-11-21T17:00:55+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Tennessee can smell a CFP berth and fans are preparing for Lane Kiffin’s LSU to hear every decibel of hell",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSG82SEJhdjhCQ2RtN0ZTNFpKM1ZhZ3JOa25aWDBOZTVETFhZbExfUDFtVGhZV0IxX2tWNnFONkp2X0I3WGVtaFVoUElNd0toS1hScEl5S28zckx4S1BSQXo3V3pYbGJhVFRaZ0JOV2hUV1FvT3RvWE1VMnVCQkNfWU04TEpWTWRPZm8tdFFnbVZtZ2ZBSlo4RjFkOVpRY0JOTWxEdndzQnBUV1p0QnUwYmZycnN3blBvVVVN?oc=5",
         "pub": "2026-11-21T12:58:37+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "DEPROGRAMMED: He lived as a woman for six years, hit ‘rock bottom’ and found Jesus. Then he detransitioned.",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcks2ZEVfSUtvTkJUT1hnYlJvMW1FZ2Z3ZmdxQ1Z3VURiYzRxYzhYR2I0VnlWb0NDMTRBcFJMbVdlV3ZkXzlJc1RsVkN5UGtzanZqREFGUUkyTUw5YmI2OXZJRUFpY2pCcDRQcnBLVjZfMmdGV3dHS2NYNDFPeW9lbV9UTkpWWFY1eWU3bEotSzIwQ3NuUVpTVVVBQk9LUlFrMFFLTUhoMGJuRWvSAbABQVVfeXFMTklUOTNOUDNad3NoUTZsR1E3eGJtckd1bE5FQzZ2aTVpVFRpakFqNFJSeU02dEVtenlJSFA5bWlVc3JnZ0wtQWJJclFqT2hwVS1JaHl0dmZzVGZUTUVqNVlRekt5cHpQMEdPSGhNLV9Pa29HNlYtRFplTi1sZUJtemZhWXByNlB0R3hyZmhJUDhuU0ZlWDUxSVNYQTBWZ0tNMV83bkw4Sk8zTUllakl2TS0?oc=5",
+        "pub": "2026-11-21T12:00:28+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -523,27 +523,27 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Dallas Cowboys fan dies days after falling during fight at AT&T Stadium, police say",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM3VrM05ZRlVwdF9HOFktcHMzaGNPSjF1dG1UTzR2T3B3aEJzX2ZkaGVvVGpVU3AzSUJfRS1DRlI5UHpzX0dzUkEtb0d6VXJ3a0k1dVRuRE1rbERWRVN3WUdLNmNNU3JTSTd4Z1J4di12ck5HN3pfN2JyUHN1Mm9sWUEyaThZQWdFcDByWk16a0NQMkZjcXdtSFpiZm5kNWRfSXE0TndzT2lHT1NZR3VoMVRTZVRMMEEy?oc=5",
-        "pub": "2026-11-20T19:17:15+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Mets offer superstar Tarik Skubal the largest pitcher contract in baseball history: report",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdlZ1ZE01NERfX2ZJYV9vdGN6eDJlYl9rSV9fSjAzMG9EaDJOMFlESUg0ZXhzdHVNeERyOXN5cEpPOHh0X2hMbDFaSE5JYzV4akZldW0tR016Zm01aTFOa0tacWlfQTZmMTcxMGtwUTJPc1B4MzhTMzRyVjVPOENaTmNSWEplX0s3OXRrZXg1QVJyeURWcXFKcDhlUXZjVGJyWENxcWFmcVdtd2Zwc09YSVBPLTM1WVl6ZVpmcnR3?oc=5",
         "pub": "2026-11-21T02:30:14+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "New York City mayor Zohran Mamdani shows up to City Hall event on crutches thanks to soccer injury",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdU5qMlRwcEJQRGVGWWt6dUVuYTA0ZzVWTi1BSi1tcWo2TERGaWhKSG1rMWpEbEx3NjUwenJkSUxTYmNiVEsyZ3Q2OEk3ZzlXdUpoRktzY044Snl6WjlGYWMySkgzVTYxbUc3XzNwM0FuTjBQb1NtSEZNeUZ4T0w0SUlGenpyNzRETUFiSlNYU25udkcxdUpEVW5lcWRiYzFzcWVBTEhoSHJBanNkTzFFNEU5SEdrVTNNS3c?oc=5",
-        "pub": "2026-11-20T19:35:08+00:00",
+        "title": "Dallas Cowboys fan dies days after falling during fight at AT&T Stadium, police say",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM3VrM05ZRlVwdF9HOFktcHMzaGNPSjF1dG1UTzR2T3B3aEJzX2ZkaGVvVGpVU3AzSUJfRS1DRlI5UHpzX0dzUkEtb0d6VXJ3a0k1dVRuRE1rbERWRVN3WUdLNmNNU3JTSTd4Z1J4di12ck5HN3pfN2JyUHN1Mm9sWUEyaThZQWdFcDByWk16a0NQMkZjcXdtSFpiZm5kNWRfSXE0TndzT2lHT1NZR3VoMVRTZVRMMEEy?oc=5",
+        "pub": "2026-11-20T19:17:15+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "MLB's all-time leaders in hits, home runs and Cy Young Awards aren't in the Hall of Fame, and that's a problem",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1JaU0NXeC1lMVlGZGdQSTF3YWhGVThzMDFLY1FHakFfUktUbkJYaW8tYkFfbzAzRFRvNF91VDRuNWVobWhMbEx0dWFicXdWQnFyQWxhalBVMGlrM2c1azc1LV9ETkhlb21jWTl3OGJ1MnJRM3RrUmg2cjZsMmVDVlJ5Y0xNLWNlbzZoMXlJRjRVaFoxdGt0R2pIVHZfOWRNTmtRb01VTVpobGZfMmg5VXlGTUEzX182TFhNRHRGZTg?oc=5",
-        "pub": "2026-11-21T13:07:29+00:00",
+        "title": "LSU women's basketball star MiLaysia Fulwiley faces only misdemeanor charges after arrest",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVE9mM3lxbVhTeWNoR041LXkwYTQ3aWR0aUNMbG5kTk5uakV6bkVaN04yWHBTX1FQYmR4bWs1ZFJmblM5MkRacS1iY05Wc3JNWFB2WmtpOG1kQXJsbTg1dFdNV251QlY5NkxaMzNMTUh5ZGprSFBIb1JJNWh6WVJYNlRCVUxHR2d1eDhmLWRhWnNDWTdfYWRSbHZWQjBZbjhKeDZZRF9uWHJTaEFSVEsxUGVVdHZ0QWs?oc=5",
+        "pub": "2026-11-21T02:50:07+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "LIVE CHAT: Does the College Football Playoff committee have an SEC bias?",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZko0YUR6bUg3cUstbnFtRHdKVjRzZ3V1Q2FtU1dheEJOSUFUeGVYVFQ5dXphdmJyT2NwNExrOG9SMUZKUHVnUFY1OHRqcWRrTzQzWnBqcl9oMW11dWxpWTB2TmdkUEdpUkw0bHhLSy1KNERORm1HVW5iM1NqejFsSUcwUVd1UnlwZHY3SFlPQjlFZVFiUm5N?oc=5",
+        "pub": "2026-11-20T12:56:12+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -567,9 +567,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Chuck Norris’ ‘Firewalker’ co-star doesn’t regret quitting Hollywood: ‘I’m glad I’m out of it’",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekZjZVZaM3VWcEo1QnBxVVdScGsxM2hlWXVxSnpocGM2bUJHaVRybG0xWS01cVg1cFVMNDFLOXR4Ml9yTGtHM1Jyc0Q1NVNCNVF1QmZ0U3lmQjNHRmpoSnVZN1dRZFpJcUpGOHVOQkhtTnFUVVZPaVk4c2QtdzgxdnRqTkZRemwwaHZTNlljZnBsc19tLTFjbDdLbGRJajZ5ek9XRmlOQnpXNnQ5WndPbdIBtgFBVV95cUxPZWFEWkp2bkdYM0w3RnRheTlHaHFmdnZzR3BSZzM1OURxRFRjcG5YYWVCYXRhNmNoRS0xMlRDR05EakE4cW83N01hc2pkOWV5anE3b3pGdUxROWhTSVJDWnZVZGZ5ZXptV0lIQ3RNVmxXNk5lMlZRSlQ4MmZmMXZyWnhOa1VkNExJNDYwUUVvWGxWajFxU091ZkIzYmFJZGdQb1JFLVljN0UtaDVLWW5KSFdNeU0yZw?oc=5",
-        "pub": "2026-11-21T17:00:55+00:00",
+        "title": "Ty Pennington calls out 'excessive' home renovation trend people do in kitchens",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2hyMW9EWUdMMnVDVVdKMDFWWnhtSk5FY0ZFSmhNdjZFZV9Gbl96T2FFSHZhSlJvdnNSbGxld25nd2U3R05UWmxlQkpBQW1MM0RjNEMyazc0a1VEcmFZT3Vrcm1NRHBLLTJnMkowaEJNSU05dHAxbjdpMFhSNmY4T3hhb3I5VkVHSTNtS1ZJZDhDUTZjb1dMd2txd3JhaFJqMDV0cXhheGtkamdmeHfSAbMBQVVfeXFMT1MzNDVCcGJFb09hZkF5OXRWcm9keTh2TTZ2Y0hKQTZ4SmR0MnhuSDZXUUpCV2RaclNIaFBvcE9aX3FDSnFjSm1ZQVhpWjl4UkgycGw5enVEMlBzajdfTnJxdUZzZUo5NXhTV09acS1hbWotTmNLSHpsbUJFOXNTNkVnTHpqekpWZ2JkUk42UWR0SlhEQTdNclY1ZnU4UDhIRkJFVHNoQ3U0b1Zqa21xQ25hN00?oc=5",
+        "pub": "2026-11-21T22:00:36+00:00",
         "outlet": "Fox News"
        },
        {
@@ -579,9 +579,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Cameron Mathison says he has ‘tons’ in common with new girlfriend Taelyr Robinson despite 24-year age gap",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR0hNNHI1N0J4cG5BVUtJU0RSbG1PZ2pkLVotMG1jMlkxOU9kOVV4MExnRXl5NWdBcFp3OEN6QS1CQmtQS3FkdzlxT205aWlBY3FzYm5wVmNjNUdSUDFBdGotWTVia1hWbWFpX09IeldzemlyenBXNmRuM3RqczFpekdoNEtyU19meUdXYllUVmc3TGpuOG81bmRFWjNGTEFEaGgyaFhCajdXVHpkcEtfa0hDSVVDNG9sUEt1UHpn0gHDAUFVX3lxTFBLenhrTzBxN2NWblAteTl1enZ5dG5rRW04LVBsUVlpYmpNeFBZRWZWZFJ0RnZkOVUtdWJEYTA1eGhwaEJFdk9xeE1fVHdwNENhNC1pSVNndEVLR2duMnJoRW1wbXVQcTZFSE9nOGo3SXJneXpUY3VtcllhWkVJeFVzWjhzbTF2ZmdYcEZZaVd3TmZYVld3bkd3SHhaY25sVjZPNmRqaTlWQXV5MXJuTDBYVzRUbk1GSlFPeTR2OFlYUnlKSQ?oc=5",
-        "pub": "2026-11-21T15:00:36+00:00",
+        "title": "Chuck Norris’ ‘Firewalker’ co-star doesn’t regret quitting Hollywood: ‘I’m glad I’m out of it’",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekZjZVZaM3VWcEo1QnBxVVdScGsxM2hlWXVxSnpocGM2bUJHaVRybG0xWS01cVg1cFVMNDFLOXR4Ml9yTGtHM1Jyc0Q1NVNCNVF1QmZ0U3lmQjNHRmpoSnVZN1dRZFpJcUpGOHVOQkhtTnFUVVZPaVk4c2QtdzgxdnRqTkZRemwwaHZTNlljZnBsc19tLTFjbDdLbGRJajZ5ek9XRmlOQnpXNnQ5WndPbdIBtgFBVV95cUxPZWFEWkp2bkdYM0w3RnRheTlHaHFmdnZzR3BSZzM1OURxRFRjcG5YYWVCYXRhNmNoRS0xMlRDR05EakE4cW83N01hc2pkOWV5anE3b3pGdUxROWhTSVJDWnZVZGZ5ZXptV0lIQ3RNVmxXNk5lMlZRSlQ4MmZmMXZyWnhOa1VkNExJNDYwUUVvWGxWajFxU091ZkIzYmFJZGdQb1JFLVljN0UtaDVLWW5KSFdNeU0yZw?oc=5",
+        "pub": "2026-11-21T17:00:55+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -599,15 +599,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Grand Theft Auto VI shatters entertainment records with staggering $3.79B debut",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN241czJCWFM1TGtvSm1LbGctd2k5N1BwZTIyNXFZN2JHcEVycE96M1RtZlJvQjRHZFlfMkQ5dkh1MXotWGI0U0pnV1d5aVZvdmZXMnBEVjdxNGF3TjQyNEVBTHUySWI0OUJGTU41Qy1GbGVOQVphcmNSYW1qSkx5bTBxMmVzWVVGa3VkTTF5NUl3aldrWmowODR3T0JkNnlDZVM3bk1SWnJPQS1nb0dyQWlFWUtfZ9IBuwFBVV95cUxPNnJxaDlrbkZ4SlBDV2p0ekZkQjVBUWVpOHVzSkp4ZUZIQ1dEMTEzd055YmVFNk1DclFNZzRxUWNmMkRKYzFraGc4WU9RRGVGcWdJcWRYTTVMVVJ5SVh4LTJqZlRkQzBRSGtXVmFZYnZBbXdKMU5RbmlxOXBqOEhiZ0ROYkgxbGZ6Nlk5Mk5QSm5Ld0RGS2M1RUZoZkxkVVBLcmg4SHQ2OUYwT2d5NE5BQmYzNWYtaXc4aHAw?oc=5",
-        "pub": "2026-11-21T07:59:58+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Walmart shoppers stocked up on emergency supplies after series of tech outages: report",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUng4UVFJOXRjQ2lwUU5MZ2dwVVk5WEkwNTJjT3g1UkZkOXhrcWRPZlowUDJkNEhnclJtOFhJRUYwbFdaYlNDMFctSXRrODNaZlZ3RDQzUUw2ak5uQU90RktjZDM0TTlkTUw3TjNYNVU3LUVrSXlYN29QRGtwNDdGYTl3QUtZTklrLU9XMDBJdGpxYzVlT1RhZVBrT0I0SnFoM2d1WXBNd0RRUGJCeFBGbEN6YjZmUdIBuwFBVV95cUxQd1B4c3htS0puckdCQllyQ1dwTm8wSWhMdkJjbjFDUFh4ZEpHcGhwM2VBMHpYa3NWdDVPNl9TQTc0QWlVUU9DZUNQWmp4NFVCUzFtSGZodXJ4NmRvb0lpLXB3YVVEbzVoR3RoTzB1YXZOakJJSm8zdHJmbnR4MC1wQUZKUGoyMmk3WnQwUXItMnI1RVZBaFRmS2FVRGdiUGg5N2NKM0NEMjRtbGRYektDcmRBcVk0b3BDZjJv?oc=5",
         "pub": "2026-11-21T10:52:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Grand Theft Auto VI shatters entertainment records with staggering $3.79B debut",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN241czJCWFM1TGtvSm1LbGctd2k5N1BwZTIyNXFZN2JHcEVycE96M1RtZlJvQjRHZFlfMkQ5dkh1MXotWGI0U0pnV1d5aVZvdmZXMnBEVjdxNGF3TjQyNEVBTHUySWI0OUJGTU41Qy1GbGVOQVphcmNSYW1qSkx5bTBxMmVzWVVGa3VkTTF5NUl3aldrWmowODR3T0JkNnlDZVM3bk1SWnJPQS1nb0dyQWlFWUtfZ9IBuwFBVV95cUxPNnJxaDlrbkZ4SlBDV2p0ekZkQjVBUWVpOHVzSkp4ZUZIQ1dEMTEzd055YmVFNk1DclFNZzRxUWNmMkRKYzFraGc4WU9RRGVGcWdJcWRYTTVMVVJ5SVh4LTJqZlRkQzBRSGtXVmFZYnZBbXdKMU5RbmlxOXBqOEhiZ0ROYkgxbGZ6Nlk5Mk5QSm5Ld0RGS2M1RUZoZkxkVVBLcmg4SHQ2OUYwT2d5NE5BQmYzNWYtaXc4aHAw?oc=5",
+        "pub": "2026-11-21T07:59:58+00:00",
         "outlet": "Fox News"
        },
        {
