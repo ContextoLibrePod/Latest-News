@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T14:44:27.073108+00:00",
+ "updated": "2026-11-21T15:28:58.442883+00:00",
  "categories": [
   {
    "id": "top",
@@ -105,6 +105,12 @@
       "name": "Telemundo",
       "items": [
        {
+        "title": "Noticias Telemundo Mediodía 11/20",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1lBUHhUZXE3THBKZ0dDcTZHYVlDYlpScmU3VV9Td2k1Sm1WLUlla3ZMTTYza0FmQnVkWWVIS1ByNWRUUC1DZnY5aEdwN3RfSER2RGZOc2NzYkdoSEp4dXV3OVhGVXRtVWVDdENueno3Vlp0V0I4TzJ1aEpMWVB1WHFfU2tMTVFpZ2poOFNtRVJ3bGR4LUpVQllLUUFPNmJveXZIUVZtb1V6aVBMc1czUGNHVElRb2ltV2NwUkNmSVhKby1IX3VLRS0wM25JVTVPMU5VeGlWN3c?oc=5",
+        "pub": "2026-11-21T02:05:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "Noticias Telemundo 11/20",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmdrMm84eHFSTllQY2w0YzFaZXdZaVRQQ3E1UGVaTVlUNllwdHpxZzNpMU5CeFZJeGd3d29ZMVk2NjVNeDdqSXRFZFFqV1pGQUJ1WllEenFHc2J2bk9Fc09KeGVaNjgzWUZNQW5pMU93YmlDWEtxSHRoYTR5UHJSTkI2Z0JKYlFFQ2drMzdjYzBNSTJlcnEzZlZ2VkxxTGtLenBublRlTHRSZElQSWtKc0NacFdLMGxUQXdDRGktN2R1N0t5SjFGS1RCaw?oc=5",
         "pub": "2026-11-21T03:51:00+00:00",
@@ -113,7 +119,7 @@
        {
         "title": "Sismo en Perú activa alarmas hasta Colombia",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZDZFQVU1WTduNndreV9tblR4VXdnUlV6NnpFd0t4THYtSnFmTjV1bk45YzY2X2w0bTNTalNxX0pSS1JNdnV1b05SMUEzYmhvT240ZlNaelRsNzVUWHNxV0JuTzY4cE90ZGdLMUhGanlhMGpGdERiSEJ5RTc5VVlOak5kdVpSRGRxTWxjeTJBaDBQTl9MMVFHOWJJWERGSVBDYmlxNEV2NTJTMm13SXFjZWh3Sk03SkhO?oc=5",
-        "pub": "2026-11-21T03:14:06+00:00",
+        "pub": "2026-11-21T03:20:26+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -126,12 +132,6 @@
         "title": "Código de villanos",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV01FUVpqdFY4V1dxM1MwaUJ2RlR5a1FPUThUQTRPellfcF9nQUJjYVZqbC1idDRyeWl4YmdaSnBDb0ZrbUZVYXdqamR2c21jLTZYTGgxNzBkU0gta2gwTXg5NzJ3MFhGRHR1TUFfNWQ2OTkybnk4aExTcHg4SHVHQjNSMnRYNEdla2tudEY4dmZoNXJodmp2dzhHNjI1Y0c3QTNCeVNOa3MxRHplcHc?oc=5",
         "pub": "2026-11-20T23:57:03+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Al Rojo Vivo 11/20",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3JoREdpTWd1VlpVOGtOaEdMamRrd2tfM3F2NXVHMU9qWVVuTUFpTU9MaUV0dmdYaWZjVmU0WVpZc1hOU254OVl1M2N0bVRLeVdwMjNuc0txY1E4VG1TS2dXTHkwVjJ4S000ZzhfV3VYRE44QmdmeGlXN1JCSjc2T18wUGo3MVNPamU3UHhBQzEyMFd0YWQteVhneDRZTjdyb3JBOUlzRTdZRnlh?oc=5",
-        "pub": "2026-11-21T09:28:01+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -185,27 +185,27 @@
         "outlet": "Univision"
        },
        {
+        "title": "¿Shakira y Antonio de la Rúa fueron captados “comiéndose a besos”?: lo que se sabe",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSktVREMtckw4dDJrZm5kbUNhVFJiS0FUZzBiTU5adFVFUzJRaGVaVXc0cnk0OUpQRFFMMERMaVBYR2hOYmI2dWx4NkZMMXlubTdXUGNrWXZmN2wzSDBmNWJsWE45TkVsZzd0Mm40dWp3TzJ1LVlFNlRudkQ1Mk14dHV2V3gzZ0JSRnc?oc=5",
+        "pub": "2026-11-20T23:49:22+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "GTA VI reaviva el debate sobre la violencia en los videojuegos: ¿Realmente afecta a los usuarios?",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMXVBUWs0cWpDODFIbVVFb3drVU5DdzhxRHBqR1BicnJfQ2R3UUlhdXBPWV9Qc0J4WDgyVTRtRmNvaGNYaFFXQVZ6T0pMLUNraVpEaGtIMFB0ZFZaTGNaUUlVeEJLTmt3d2dKZG5Za0hiXzktQ0VaaUg2WHRuXzBfNFU4Y2RzM0NEbmRodE9DQk15bXlKbUc2V0pySFBBQkpHcmw3WEZuc1lKSkQ5TTVfbVdfOHk4ZUdMb0FTZUtMR2xmcDFFbnk3NlJMb3V6YmNn?oc=5",
+        "pub": "2026-11-20T21:52:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "¡Hijas de Ximena Duque como todas unas artistas!: así posaron frente a las cámaras en evento",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZzlYcVZXWWlXR3VDbU9BbUhrN2FIU2tZTnNodFRMelhiTVVvc0VSc3JITlZiWGU5ek1sWnJsYzJSME91SElZdndiSEdVeHh0VGN3ZjJ6QmV6WTExajhEMFJVcHZaMk5rclBMNVRVTHl6ejVYVDJTXzExTlgzSUNDcVp6VmtjWTBJS3duU0M3Q1pUSHNhMm9LYlFfTEFoTUdJa0FxTmk5T05PS1BTWkdDSnpOZ0o5ZzE0c3Y3ekF4NTVmSVQwSUJsXw?oc=5",
+        "pub": "2026-11-20T22:57:00+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Ricky Martin revela que sus hijos mellizos ya manejan, ¿tienen su propio auto?",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3pPdzgwTjRGU2prT3RNNG5PN2FiR1VscFktSEJtYVlqZ1V5eDhPNUNzZDcwTGpFcmUzT1VSd2d5ZnFzQ1BEYVE4S0VsNUVmS0t2Z3RUWm5zazFGZS1SUVJJUkZfRzZHdzB1bHUzZUhBZm9Hb1NWa3hEWjR0SU1LSWRFLVZtSnJsYTBweDB1aGN2cDhtbWcwYkE0Y3lfMllySHIxTlpUckJjd3o3bkM5VWF5VlJXQQ?oc=5",
         "pub": "2026-11-21T01:07:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Valeria Villalobos lo vuelve a hacer: convierte obra de Frida Kahlo en su vestido",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUVBnaUlTLTJzZXdua0Vtb2kySU5CUTRRUlBnV0JOU2U0bGpOUzkwaEhGYTF2MzhZQTM3d0VMUlc1QUNIcjV3VWNCcXU2dDJZT3Q4bFBFX0VqV3BhWHBCU0k1THdvZDdZRlpBU3F4XzBVUGFiUTIzWWtLTnFtU29aNjhGSzhyNHZNSUpXekE5UDZsSmREejVGbFVHWV84dVZSaV84VEFVWndoOE1XMjJaVFF2SXlTQWFvWmU0T3ZnM25zc055ZnFIbA?oc=5",
-        "pub": "2026-11-21T00:53:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Sara Corrales impacta por su figura a meses de tener a su bebé",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV1VldnNUWTVVYm5lYlhMYVZIN3d1aWkwMC1lSnZWRXQ1MDBWQUFFek5vMlJLQ1YzTjZaeWRwNG8yNWhXQ3VIbUdNS2t3U0RKbWhqUjZuakJTUE15VE5SOFluX0dBa1QzbmcxVHF2ZVFId2dwbW1ybHlhV2NlSUkwaWZjYXRaUlJPeFYzdGxDZ3FYQXFKcHEwcFlUSXVSVUdZNVVWLTNyNGFuYTY1aXFubg?oc=5",
-        "pub": "2026-11-20T23:55:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Virgo, horóscopo del sábado 21 de noviembre de 2026: transforma tus hábitos paso a paso",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd2RsSEh2a1RWOWpQWGhxb0c0TjAxcDVkU3Q2UlVhdUtZU2lfVWNpTE9ybk5RdWNCQWNpU1dGYTM1TlU4TkdLVXkwM0g5Z1BSeXBuR1c1V2I4bmJoZWRucUhjNFU0LWRfX3JUODM1OGJCYTFseldUX3lYMzMxUWF5bzZUMWVUemUxRFdDNl9NOEo?oc=5",
-        "pub": "2026-11-21T10:06:04+00:00",
         "outlet": "Univision"
        }
       ],
@@ -253,14 +253,14 @@
       "name": "El País",
       "items": [
        {
-        "title": "‘El mal padre’: otra de tensiones entre un padre y sus hijos. Y está bien",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFNsYmxfWThrWnhvdzl4R1JfOGVnMGZMVERJRlVQU0pzUDk2OTZUNWp2dGU4S0dLZUtrem53Nl8zRERuQmR6eDJpOGE1U0NKLUZSUkV3NERad21WTnVneFJ2MjFRdHhfVFpvSXgzTlJxbDJMa19WQU1jQzNyZkd5QlZ3NmN3U1Nack83dWQ0Zjg4ODFzenpYZlk3VHBRMWZ5S3NTTVp0M3lKOWdqX1JjR2pUTG9hbnV50gHMAUFVX3lxTE9EV29jeTJWSHdiUFg4anl2ZVc0VW5vYm1oVnhYQ05vZkM5c2tkSFRzaTRNdkVaLTBlNjNpeDlQYVc3YXNzbnd3Q3RRT2oyaUkySndGdUpTQS0tUUpLSXN5RFBPVm82bUZWcnBTQUpLR0VaSTNFbzJSV0d1UkZfNmx4VGJzUk83ZG5NTWFCY25LVlV0d19FYkZaN3hvS2NaS0c1VlFIZEJranEtQmdrMU5aQXlLVnFObERJMzZPeVA4QXVuc3pfcDNzaXpXMg?oc=5",
-        "pub": "2026-11-20T04:30:01+00:00",
+        "title": "Christine Baranski: “Doy a las mujeres un consejo: no pidáis disculpas”",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXFQejhDampYdkZwbmRZNXRfQmJzVmZIV1ZydmFkcDVDVmN1Y0pfZFFrcWthTzJJckdKMmhaYi1VN3NYYkRxcVlJSVF1RFFYOWplMkZqSzZKMUlvRWdZZFBMNHRjcTFzWE1ydkFZU1Naa0FqNExFR0FLS2VhZTB4UGdZd0tBRnVWTnVyWnRicFhid3ZCNWhhcmtPNGxsQ2NkQ2xObHE3MTdZaWNRU2JFbjE2TnR0amfSAcsBQVVfeXFMTld4R1I0dTc0b1M1VkdDUTNsUjlPYTZUbjFTemZ5enZ0d3Z6M3A1UVg2enk3akxWS2RjYUJpUmF5Z0hNMjhOcldqN1FVTlJFQWJVN0Zoc283eEwzbXd3SEdOLWlBMTc0dV9jaG5sYlBJWjQ5Rk41NU9lTmxmWjRRMnhjcTl3Y0RyeXZxbU5IZHhUdkxkdzJieVhrN1BtUzBGeEl3VzBKVGhKZlFIeWtfNHo0TkVRUzBxNlE5NEhya3ZmeEFNOVZBenBQM0E?oc=5",
+        "pub": "2026-11-21T04:30:00+00:00",
         "outlet": "El País"
        },
        {
-        "title": "‘Adolescencia, sexo y muerte en Campamento Miasma’: un orgasmo de cine",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHBQd0VQcmRJUVljMXAwMm1SMnpUbGJxMDhIWnRxUHFlcEpNakFqeVF5TmNGT2pXUlJzVy1DVnVMNUsybFY5ZDZWb0x3SGR5XzJEbmRSRTNUQjl1T3R5WjVJelFHcWcyMGZHNzVKQjJ3bUVOTkduTE1SeF81eU1odEdzR0tiQXFoV25WeHBWbGFmdGQ4X0hCOW82M2hJMkFiY2N3d0FUOWV6cVFMLWdaMGM5VmHSAcgBQVVfeXFMT0lXU1BQRXJUTEN2NU1jZ2tQcHpZd2dhSndRLWdrVW5NMnJIZDItdkdXNHJNRnFabWRBaUd3YmpJekNFa1ZSeEtyaVc4WWthTG43TTYwc190VENQNlJnS1RpNWVCcEpiMmpwRkl0bzB5eUcxMkFuT2IxX3JrQkQzNmh6aHFnSlhkZkNkSHFVZ0g3QlBJZWxyWlh3UmxKekY0bU5WZXlmT09GOTRObERjSGlMUHFYbTNuRU1tY3Z0NmduZUpNbWd0YUQ?oc=5",
+        "title": "‘El mal padre’: otra de tensiones entre un padre y sus hijos. Y está bien",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFNsYmxfWThrWnhvdzl4R1JfOGVnMGZMVERJRlVQU0pzUDk2OTZUNWp2dGU4S0dLZUtrem53Nl8zRERuQmR6eDJpOGE1U0NKLUZSUkV3NERad21WTnVneFJ2MjFRdHhfVFpvSXgzTlJxbDJMa19WQU1jQzNyZkd5QlZ3NmN3U1Nack83dWQ0Zjg4ODFzenpYZlk3VHBRMWZ5S3NTTVp0M3lKOWdqX1JjR2pUTG9hbnV50gHMAUFVX3lxTE9EV29jeTJWSHdiUFg4anl2ZVc0VW5vYm1oVnhYQ05vZkM5c2tkSFRzaTRNdkVaLTBlNjNpeDlQYVc3YXNzbnd3Q3RRT2oyaUkySndGdUpTQS0tUUpLSXN5RFBPVm82bUZWcnBTQUpLR0VaSTNFbzJSV0d1UkZfNmx4VGJzUk83ZG5NTWFCY25LVlV0d19FYkZaN3hvS2NaS0c1VlFIZEJranEtQmdrMU5aQXlLVnFObERJMzZPeVA4QXVuc3pfcDNzaXpXMg?oc=5",
         "pub": "2026-11-20T04:30:01+00:00",
         "outlet": "El País"
        },
@@ -271,15 +271,15 @@
         "outlet": "El País"
        },
        {
-        "title": "Rosalía, Aitana y Guitarricadelafuente brillan en la gran noche de Los40 Music Awards Santander 2026",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV1QxWXAyYUZIZFJ5bXJraGZIUFl6QklHRzlzTjVWSmVya2U2ZWpQb3gxZ2xIdXFBWE5nU2REeU9aRy1QVjU3Vk5kTnFkdTZKVkJqMFZSVmZQaU5WSnVzalFGVHdBLUhBcjJKbS1wT0RzTUtwZVcyaTVVNFNXaTFrbHRMb2VHbTlFMzBtTGxxVC1VVmNvdEZNNTZZYjBYX1V4dl93dHlhbzV6ZjNCZjdDY20xeWQtdDdGZk1ITVhqZTctRUhxX0xQa3NjX3cyMFBRYk1LeGVyRTNCUdIB7gFBVV95cUxPQ2RsYktmVXhwcjRQTXRNRFh6UzhwZ0tqM1VUWHRqWmEzSFhrMG5hTU9ldnRZM1d1LWhraDQxOTFhZ1JLaFhiVHhpdzdqV2FjRXMyRHdUem11S0RHb0dsT2xXckpNQVo0SnpDb3g2ZVNiN2puQ0psVWdldDBaN09aWVBTQ05fQ2VUbHJBSFJJNzNDaTEzTFhEeWNXNzVzdHJ6TE5qbC1mUHp2RElTblloV0JQTW82VG9HZ3ZqVWp5YnlGcVdHOEpHcDlwUmdhbjVNVjVNYThIUUJmamxzaEt4ejFINGN6aE1zcUxmejRn?oc=5",
-        "pub": "2026-11-20T23:44:01+00:00",
+        "title": "‘Adolescencia, sexo y muerte en Campamento Miasma’: un orgasmo de cine",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHBQd0VQcmRJUVljMXAwMm1SMnpUbGJxMDhIWnRxUHFlcEpNakFqeVF5TmNGT2pXUlJzVy1DVnVMNUsybFY5ZDZWb0x3SGR5XzJEbmRSRTNUQjl1T3R5WjVJelFHcWcyMGZHNzVKQjJ3bUVOTkduTE1SeF81eU1odEdzR0tiQXFoV25WeHBWbGFmdGQ4X0hCOW82M2hJMkFiY2N3d0FUOWV6cVFMLWdaMGM5VmHSAcgBQVVfeXFMT0lXU1BQRXJUTEN2NU1jZ2tQcHpZd2dhSndRLWdrVW5NMnJIZDItdkdXNHJNRnFabWRBaUd3YmpJekNFa1ZSeEtyaVc4WWthTG43TTYwc190VENQNlJnS1RpNWVCcEpiMmpwRkl0bzB5eUcxMkFuT2IxX3JrQkQzNmh6aHFnSlhkZkNkSHFVZ0g3QlBJZWxyWlh3UmxKekY0bU5WZXlmT09GOTRObERjSGlMUHFYbTNuRU1tY3Z0NmduZUpNbWd0YUQ?oc=5",
+        "pub": "2026-11-20T04:30:01+00:00",
         "outlet": "El País"
        },
        {
-        "title": "Rosalía, con un gran pájaro blanco como tocado: lo mejor de la alfombra roja de LOS40 Music Awards Santander",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmp5UmpwSG04TkJhdHZQRGpkMnZ2TzQ5X3hyRHVkbHhrYVMyYnZnc2EzVUlINGtqMDBYSTNxcDJhVHFtbkx3THlDUkVFWER0ZGpCTHlINndaTXNRM2ltOFJQaWJfWVB4N0E0ZlBpSzgzR0VjUTZ6b2Z5WW0tVTJEY0Q2dUl4Zy1WUFRGVU5udXJ6a2c?oc=5",
-        "pub": "2026-11-20T17:59:12+00:00",
+        "title": "Rosalía, Aitana y Guitarricadelafuente brillan en la gran noche de Los40 Music Awards Santander 2026",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV1QxWXAyYUZIZFJ5bXJraGZIUFl6QklHRzlzTjVWSmVya2U2ZWpQb3gxZ2xIdXFBWE5nU2REeU9aRy1QVjU3Vk5kTnFkdTZKVkJqMFZSVmZQaU5WSnVzalFGVHdBLUhBcjJKbS1wT0RzTUtwZVcyaTVVNFNXaTFrbHRMb2VHbTlFMzBtTGxxVC1VVmNvdEZNNTZZYjBYX1V4dl93dHlhbzV6ZjNCZjdDY20xeWQtdDdGZk1ITVhqZTctRUhxX0xQa3NjX3cyMFBRYk1LeGVyRTNCUdIB7gFBVV95cUxPQ2RsYktmVXhwcjRQTXRNRFh6UzhwZ0tqM1VUWHRqWmEzSFhrMG5hTU9ldnRZM1d1LWhraDQxOTFhZ1JLaFhiVHhpdzdqV2FjRXMyRHdUem11S0RHb0dsT2xXckpNQVo0SnpDb3g2ZVNiN2puQ0psVWdldDBaN09aWVBTQ05fQ2VUbHJBSFJJNzNDaTEzTFhEeWNXNzVzdHJ6TE5qbC1mUHp2RElTblloV0JQTW82VG9HZ3ZqVWp5YnlGcVdHOEpHcDlwUmdhbjVNVjVNYThIUUJmamxzaEt4ejFINGN6aE1zcUxmejRn?oc=5",
+        "pub": "2026-11-20T23:44:01+00:00",
         "outlet": "El País"
        }
       ],
@@ -301,21 +301,21 @@
         "outlet": "Univision"
        },
        {
+        "title": "Mariana BO confiesa que le gustan los hombres y las mujeres: esto opina José Eduardo Derbez",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLU5pWFoxQ2FidVZTZXAwYUtSdVo3WDBpOVgxUFhJWFYtU0diRklYd3hjbjNSOGE0RnotTjVqNWkyVzA3VzZHSFc4XzRrcU5rbXhBSXFyaTEtam10dHpheTdTTnhBVl9LYm9SSGo4cDZBRFZla0w0UW1kUlNETXg0dVYzZTNzOTZmV01yZzhRSmQ2cE12Z0R2UXRaLWdWV0ExZGMxbk5Fa0tzeWJnajNMNUl1X1FwQlZNY2NTTkZ0Nm9PY0J6N2gyNi1B?oc=5",
+        "pub": "2026-11-20T18:59:00+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Ricky Martin revela que sus hijos mellizos ya manejan, ¿tienen su propio auto?",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3pPdzgwTjRGU2prT3RNNG5PN2FiR1VscFktSEJtYVlqZ1V5eDhPNUNzZDcwTGpFcmUzT1VSd2d5ZnFzQ1BEYVE4S0VsNUVmS0t2Z3RUWm5zazFGZS1SUVJJUkZfRzZHdzB1bHUzZUhBZm9Hb1NWa3hEWjR0SU1LSWRFLVZtSnJsYTBweDB1aGN2cDhtbWcwYkE0Y3lfMllySHIxTlpUckJjd3o3bkM5VWF5VlJXQQ?oc=5",
         "pub": "2026-11-21T01:07:00+00:00",
         "outlet": "Univision"
        },
        {
-        "title": "Mía Rubín confiesa que le aconsejó a su madre que se besara con Galilea Montijo ¿lo harán?",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa0ZaUUhxN3l1Q3VPMGNMRnh5MzJGdDdvaHJFbm04OXRvUTNhMjNSUHdHUkM4ZFpta01aYVJUVmlHTE9JNkhVQkNBRU5wLVBZMjJKeERRazdZY1VGTEM4ODV3Nm1nNERKM3c1MXljZ1hMUXl6UlNYTUhnVG9ZbTc4eFFUdmFwdVJ3eFNUV0VoS2Q4d3NvamdmTzRhS3FOcFdWTFBteDd1NEphMUFGRl9OdExjSEJPSkVuNmp4bWo2T2FtczZtSFJj?oc=5",
-        "pub": "2026-11-20T20:45:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Mariana BO confiesa que le gustan los hombres y las mujeres: esto opina José Eduardo Derbez",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLU5pWFoxQ2FidVZTZXAwYUtSdVo3WDBpOVgxUFhJWFYtU0diRklYd3hjbjNSOGE0RnotTjVqNWkyVzA3VzZHSFc4XzRrcU5rbXhBSXFyaTEtam10dHpheTdTTnhBVl9LYm9SSGo4cDZBRFZla0w0UW1kUlNETXg0dVYzZTNzOTZmV01yZzhRSmQ2cE12Z0R2UXRaLWdWV0ExZGMxbk5Fa0tzeWJnajNMNUl1X1FwQlZNY2NTTkZ0Nm9PY0J6N2gyNi1B?oc=5",
-        "pub": "2026-11-20T18:59:00+00:00",
+        "title": "Héctor Soberón revela que se someterá a revisión para saber si está libre de cáncer",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DWTdWcUsycUxqU1kyNy03V1dqdWVCZV9aZHVWZGx2MjVmbHZhcmFGUEJLaWFBbXNXWE1JNy12S2JsOGZnQ01yOWpwVXVfb3EwVlRVekFmMTd5R1EtVUNhS1pEaDZsSmxRWkZFMHhQc0RGYmpnTm4tWkRn?oc=5",
+        "pub": "2026-11-20T21:41:13+00:00",
         "outlet": "Univision"
        }
       ],
@@ -497,15 +497,15 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Cruz turns tables on Democrats crying foul over GOP's 11th-hour judicial confirmation blitz",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVJvTUlTcDVPXzhNbEFUZTQ2UlVCOEUyd2JBdUVtSC1NcXRkRzFPWXlGTmxCWDRxOFBqNUhsVHdldy04b05oZU5RcE1WS1ZwWEdSNlFPS2JCRG9ILVJkbzRQWnRxRWZnZVdQTlZDc3hPbXpBSl9vYjY1aDgzcGtfaXJVNV9mdllZOG5fSElqQW5SMDhzd2wwV2taTTJZY3BWQUlheTBJb2VzSXFKXzZTcUkyeWnSAboBQVVfeXFMT2FxUlhMRlltNTQ3anRtYWxWeG02aWktcFVOVlZYU1A1T2RCWjJuQmpxR2VjZ2ZOSE5SWEJZaERhLU8zWkNDYjVyVHdIazJzNkJnS3FPX0I1Z1htUmoxbmc5RE5uZ2xyaFZENEtBVHpXVk5YNHdjOWFxa0FYeG9Md0Z6VG1qVHJDemJGNGxZbzFTNDF4WW5OU3ZSR2p2TGxCMGo5a2ZpbFE2WExYN2Faei00dW12ZjBMeVF3?oc=5",
-        "pub": "2026-11-20T18:29:52+00:00",
+        "title": "MICHAEL RUIZ: Half of California's DAs sue Newsom over death row clemency",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLThnT25tampBczR0c0dqR09RSHM1STVHOHNtUjhPamFpd1FjSTR2anpzU0UyNVhHbU5QU2g5SGdKUmNRUVU1aWdBdXhVQU56enZpaTcyZERiYTUtVDcxczRlSU4xRGNKS0xpNjhkRHJsUnFRelFBbnJPbHJLdUZjY2YyVlk2Ri1iQkE1ZU9FcGJqTmvSAZgBQVVfeXFMT3JKNkF4MC12OFVMRU5uYTJmcFNoTUVtbHNyN19XdUdqLWFMOHY5QUM1MDg0bzJ0b2diSjZULWxtdjRvajFKZk1iMFJWdFIySmxTVjVMOWp4Y0NrTmRwY1MtS0t0c1FyS2loZ281U2p0NWtObGRzdzAtSW9nMzZETG1BQmxqN3VrUFYtOXozc3dhLWh4TEVjeEY?oc=5",
+        "pub": "2026-11-21T11:00:58+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Legal expert weighs in on lawsuit challenging Democratic California Gov. Gavin Newsom’s commutation move",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5weHZWQ3I2RTdhYnNnM1V6akxGVkVrVnhmY3ZybXRTRnZVZTdYclF5V1l0cHIzUzFtYlltNm5MUEY5TmxqY3pHMjhialhuUDlVTTduOE5B?oc=5",
-        "pub": "2026-11-21T12:09:49+00:00",
+        "title": "Tennessee can smell a CFP berth and fans are preparing for Lane Kiffin’s LSU to hear every decibel of hell",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSG82SEJhdjhCQ2RtN0ZTNFpKM1ZhZ3JOa25aWDBOZTVETFhZbExfUDFtVGhZV0IxX2tWNnFONkp2X0I3WGVtaFVoUElNd0toS1hScEl5S28zckx4S1BSQXo3V3pYbGJhVFRaZ0JOV2hUV1FvT3RvWE1VMnVCQkNfWU04TEpWTWRPZm8tdFFnbVZtZ2ZBSlo4RjFkOVpRY0JOTWxEdndzQnBUV1p0QnUwYmZycnN3blBvVVVN?oc=5",
+        "pub": "2026-11-21T12:58:37+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -523,12 +523,6 @@
         "outlet": "Fox News"
        },
        {
-        "title": "LIVE CHAT: Does the College Football Playoff committee have an SEC bias?",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZko0YUR6bUg3cUstbnFtRHdKVjRzZ3V1Q2FtU1dheEJOSUFUeGVYVFQ5dXphdmJyT2NwNExrOG9SMUZKUHVnUFY1OHRqcWRrTzQzWnBqcl9oMW11dWxpWTB2TmdkUEdpUkw0bHhLSy1KNERORm1HVW5iM1NqejFsSUcwUVd1UnlwZHY3SFlPQjlFZVFiUm5N?oc=5",
-        "pub": "2026-11-20T12:56:12+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Dallas Cowboys fan dies days after falling during fight at AT&T Stadium, police say",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM3VrM05ZRlVwdF9HOFktcHMzaGNPSjF1dG1UTzR2T3B3aEJzX2ZkaGVvVGpVU3AzSUJfRS1DRlI5UHpzX0dzUkEtb0d6VXJ3a0k1dVRuRE1rbERWRVN3WUdLNmNNU3JTSTd4Z1J4di12ck5HN3pfN2JyUHN1Mm9sWUEyaThZQWdFcDByWk16a0NQMkZjcXdtSFpiZm5kNWRfSXE0TndzT2lHT1NZR3VoMVRTZVRMMEEy?oc=5",
         "pub": "2026-11-20T19:17:15+00:00",
@@ -538,6 +532,12 @@
         "title": "WNBA star Caitlin Clark reveals unwavering loyalty to Notre Dame football after going incognito",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORmFLa2hDVkU0OVVvU1lOd1lsaGRYRVJCY3pUMjB3Sm1RQ2hsRHlTTEU4SnE0bFdKVGMtU1BnR3AwRTByd1UzdTBGZVJTV08wQVZULUs1X0xkc0NxRDBMNWhoNHd1RWdHZ2xEMlVFeUxjdnpFWU5ZdFlzZXRCbGpicnhWREZFYmk5b0k3ZnFlVWE3dFVwcDFnRFRqNTJ2QWZFME05amZmdW5oc3ZUZnpMTW1WRnV6WUJiajFxNFZaUmVYcjg?oc=5",
         "pub": "2026-11-20T03:49:36+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "MLB's all-time leaders in hits, home runs and Cy Young Awards aren't in the Hall of Fame, and that's a problem",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1JaU0NXeC1lMVlGZGdQSTF3YWhGVThzMDFLY1FHakFfUktUbkJYaW8tYkFfbzAzRFRvNF91VDRuNWVobWhMbEx0dWFicXdWQnFyQWxhalBVMGlrM2c1azc1LV9ETkhlb21jWTl3OGJ1MnJRM3RrUmg2cjZsMmVDVlJ5Y0xNLWNlbzZoMXlJRjRVaFoxdGt0R2pIVHZfOWRNTmtRb01VTVpobGZfMmg5VXlGTUEzX182TFhNRHRGZTg?oc=5",
+        "pub": "2026-11-21T13:07:29+00:00",
         "outlet": "Fox News"
        },
        {
@@ -561,9 +561,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Hayden Panettiere's mom says skipping daughter's funeral was 'probably for the best'",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVm11dndTT3NoYVBmYmlkNEVRc0ZrVW15Y05taElVeXI3OVJMcExaV3FyRUtnMU5zajNwWm41b0htM0lsWHpXUUF4TGYxUy1DVEhNRThBZ1VzekxrakhaeWUzQ2l0WWZQbHR6LWFQS3BoRUV3RjhxOVN3TXRNOHNFU0cwcGJlZHJqaVNvTjRET0NlS01zOGtrYjlITFp6WFdkQjBHbk96cDRtUdIBrwFBVV95cUxPYVBWRGJzRmZCX1FHV3A2XzlUNTVrN3kweFU2YnNuX3JZQllXRWdYdHpLdXZJS2Q5eGtLQmhnZHNMMS1ZT0FLZjFMZERXeEtuRW41aFhJLVhSS0hOWXpEVHhfTnpFOUZXZ3BNQk1fQXgweGh2NFp6LXNmNWJkenl3S3VKV2lHeGhsMlJZRF8yWjJtVXNFa0ZwQ3J2bmpWN29zakJSUGt5Tk03bnhnNEVr?oc=5",
-        "pub": "2026-11-19T21:18:23+00:00",
+        "title": "Ashton Kutcher on track for billionaire status after ignoring wife Mila Kunis' early tech warnings",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGFvUUl2YVVSdXlxa1MyQXo4ZTlraEJoc0JlUE04LUMybjd1RmlRelNHVWNoT18wSWlyaGtOaVFncmhFX3EzTy1mQWd1WldzZ0hTeG9tSXRwTWh6TVdOa2U2NWt2RXpFV1pXLXZKTEpHWHZ6SFR5Q3pYd0V0UDdQcWc0Vk9wMVlwV01zZzhQcjRtOVEwYjQ1cmxyWTVXS05RT0FBbVpBMTNvRHVJYWlHNlNpYUl0SV90SldzVFpGcFAxNFNsU0xv?oc=5",
+        "pub": "2026-11-21T14:00:18+00:00",
         "outlet": "Fox News"
        },
        {
@@ -593,6 +593,12 @@
       "name": "Fox News",
       "items": [
        {
+        "title": "Walmart shoppers stocked up on emergency supplies after series of tech outages: report",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUng4UVFJOXRjQ2lwUU5MZ2dwVVk5WEkwNTJjT3g1UkZkOXhrcWRPZlowUDJkNEhnclJtOFhJRUYwbFdaYlNDMFctSXRrODNaZlZ3RDQzUUw2ak5uQU90RktjZDM0TTlkTUw3TjNYNVU3LUVrSXlYN29QRGtwNDdGYTl3QUtZTklrLU9XMDBJdGpxYzVlT1RhZVBrT0I0SnFoM2d1WXBNd0RRUGJCeFBGbEN6YjZmUdIBuwFBVV95cUxQd1B4c3htS0puckdCQllyQ1dwTm8wSWhMdkJjbjFDUFh4ZEpHcGhwM2VBMHpYa3NWdDVPNl9TQTc0QWlVUU9DZUNQWmp4NFVCUzFtSGZodXJ4NmRvb0lpLXB3YVVEbzVoR3RoTzB1YXZOakJJSm8zdHJmbnR4MC1wQUZKUGoyMmk3WnQwUXItMnI1RVZBaFRmS2FVRGdiUGg5N2NKM0NEMjRtbGRYektDcmRBcVk0b3BDZjJv?oc=5",
+        "pub": "2026-11-21T10:52:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "Grand Theft Auto VI shatters entertainment records with staggering $3.79B debut",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN241czJCWFM1TGtvSm1LbGctd2k5N1BwZTIyNXFZN2JHcEVycE96M1RtZlJvQjRHZFlfMkQ5dkh1MXotWGI0U0pnV1d5aVZvdmZXMnBEVjdxNGF3TjQyNEVBTHUySWI0OUJGTU41Qy1GbGVOQVphcmNSYW1qSkx5bTBxMmVzWVVGa3VkTTF5NUl3aldrWmowODR3T0JkNnlDZVM3bk1SWnJPQS1nb0dyQWlFWUtfZ9IBuwFBVV95cUxPNnJxaDlrbkZ4SlBDV2p0ekZkQjVBUWVpOHVzSkp4ZUZIQ1dEMTEzd055YmVFNk1DclFNZzRxUWNmMkRKYzFraGc4WU9RRGVGcWdJcWRYTTVMVVJ5SVh4LTJqZlRkQzBRSGtXVmFZYnZBbXdKMU5RbmlxOXBqOEhiZ0ROYkgxbGZ6Nlk5Mk5QSm5Ld0RGS2M1RUZoZkxkVVBLcmg4SHQ2OUYwT2d5NE5BQmYzNWYtaXc4aHAw?oc=5",
         "pub": "2026-11-21T07:59:58+00:00",
@@ -614,12 +620,6 @@
         "title": "Mamdani dodges pointed question on economics of taxpayer-funded grocery stores",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEtvUVppVFlUaWFsU3Z3NTNPelduaEZXUjliWFBtaGQtR1JITjgyOTZIRVNBdkRkd25Bc2hkbW5wZXNFTGl0ZUZTRks3ZWlRYzc1akxibk1OUXFwMVdwVUh6MUxnSnBNU1B5aDBqbVpacE9zSzg3ZFl6Y0FINUc3UjdSTkNDV3V5ZHF0aWRiNGNLQUlaQ2NOYV9id0ZNdE1XN2JBSnJ5UGR2LWZtWEHSAbMBQVVfeXFMT0ZFeU1JOGRET2FfWlpGS3p3LVEwLTdlSy1idEdIQ1dYWW41WXg5YmpuQWp3cFAxZm9YTzJwSjJNVXgtRnQ3WnMyR3JTMWpGT0tSejBmMjJOWGhoWFBJcktFZzN5RTV0OUsybUxHTElIcXA4RU5YUC1sRGNxbVhwaEVtZHY5SXMwSUhYVzVuWUNVOFB1UmJ2a1JsVm5oN0loUm1sZ1k2c3VsRkhLTnFTVG9hLVk?oc=5",
         "pub": "2026-11-21T02:52:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Walmart shoppers stocked up on emergency supplies after series of tech outages: report",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUng4UVFJOXRjQ2lwUU5MZ2dwVVk5WEkwNTJjT3g1UkZkOXhrcWRPZlowUDJkNEhnclJtOFhJRUYwbFdaYlNDMFctSXRrODNaZlZ3RDQzUUw2ak5uQU90RktjZDM0TTlkTUw3TjNYNVU3LUVrSXlYN29QRGtwNDdGYTl3QUtZTklrLU9XMDBJdGpxYzVlT1RhZVBrT0I0SnFoM2d1WXBNd0RRUGJCeFBGbEN6YjZmUdIBuwFBVV95cUxQd1B4c3htS0puckdCQllyQ1dwTm8wSWhMdkJjbjFDUFh4ZEpHcGhwM2VBMHpYa3NWdDVPNl9TQTc0QWlVUU9DZUNQWmp4NFVCUzFtSGZodXJ4NmRvb0lpLXB3YVVEbzVoR3RoTzB1YXZOakJJSm8zdHJmbnR4MC1wQUZKUGoyMmk3WnQwUXItMnI1RVZBaFRmS2FVRGdiUGg5N2NKM0NEMjRtbGRYektDcmRBcVk0b3BDZjJv?oc=5",
-        "pub": "2026-11-21T10:52:00+00:00",
         "outlet": "Fox News"
        }
       ],
