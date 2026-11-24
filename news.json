@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:12:21.242625+00:00",
+ "updated": "2026-11-24T12:17:54.083724+00:00",
  "categories": [
   {
    "id": "top",
@@ -56,10 +56,10 @@
         "outlet": "El País"
        },
        {
-        "title": "El Gobierno amplía el permiso por nacimiento, que podrá llegar hasta las 20 semanas",
+        "title": "El Gobierno amplía el permiso por nacimiento y cuidado hasta las 20 semanas",
         "link": "https://elpais.com/sociedad/2026-11-24/el-gobierno-amplia-el-permiso-por-nacimiento-que-podra-llegar-hasta-las-20-semanas.html",
         "pub": "2026-11-24T10:39:53+00:00",
-        "desc": "El Consejo de Ministros alarga de dos a tres semanas el permiso que se puede disfrutar hasta los ocho años del menor, que si se suman a las 17 por nacimiento, eleva el total a 20",
+        "desc": "Los progenitores disponen de 17 semanas durante el primer año de vida de los hijos y el Consejo de Ministros eleva de dos a tres semanas las que pueden disfrutarse hasta los 8 años del menor",
         "outlet": "El País"
        }
       ],
@@ -72,6 +72,12 @@
         "title": "\"Querida Gina Hinojosa\": Las cartas de mujeres a la gobernadora de Texas desde el centro de detención de ICE en Dilley",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQjB3ZWwyR3VjOTBHQ2pXLS1GUmhlNlhWRHpLSXRDdjN6VnV6d1ItcjUtamdYZVNmXzh6eTUzMzhHOG1Fb2FFUU9maVJRS1JsVERpdU9obU5iTVRYUjJtcGJjQWdlajhWTndySjRxd1Y1TUdwVUhYWE1SMGhSOE9rc2xxSG9EcUY0dW8zaENUVmFhTDJuc0taLWktRnBnYS1ST2Q2VEEwRmNmd3RlNHhiQ2RkVk5YYkpGNlBaV19yZmV1TUlvLUQ3NDZ1ZXJ5R29HdWtoU2NZbDV5UU1XY1JWLUxjdnFBQ012NTZqYWlpXzlCNndr?oc=5",
         "pub": "2026-11-23T22:38:29+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "El drama de la \"salida voluntaria\" bajo custodia de ICE: inmigrantes aceptan irse por desesperación, pero pasan meses detenidos",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ0hucm16NlJmajZmM3JkUVBwS3M0and6WXJ0MmpvWWpQR080U0kxMDhRZ3J3U0hLc3l4U3k1TXFBcTdFR1RxbmNPa2Q5WWd5ak10bXNJQ1hPUDNadTdGa0lJb3ZXUlNjMjZzOVZrRFk4SDZUTkhFUUlZQnowblE2VjlSYXBoSnkydldTbG5uWFk2VjVLd1FMTE1MamppLWdYdkJtMHhsVVlPUGdhZkNfamN2cTVzaGVmNkplSXdLbzVCRG40bVNUTXJWX0ZhTmFJdFhXT01yVS1RSTdoZ185d1oyOTY3aHFXRFdVN1JnbWNuRV9VUUdMN2pOQy1OWGVxSGJrVEtQOA?oc=5",
+        "pub": "2026-11-24T04:11:44+00:00",
         "outlet": "Univision"
        },
        {
@@ -90,12 +96,6 @@
         "title": "ICE agrede a observadores y detiene a dos ciudadanos estadounidenses durante operativo en Oakland, California",
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQR19XRE5hMjl1N2FaUWJfLVZudE13dnBlVDR2emVWNkFrRmsyUFAxRTNzZ3dJQjJCUXV6OXd4dkdXOWFoQ2R4bUpVV1V1OUtfMDZJN2Zqc0NMbnB4SFZ4NzBHeFBLSHFvUG1aSlVFM2Z6XzlqdjRpUWxRU0dmSXNaWkxmM2tFeVZXUTUtV0VsUmVzbU9sNnRab2t3Snl2SGo2SXNCOTR1aDJHbGdTUjlVNzNRYkpBX0VXSGstc05HTEs0blFsd0VqYWd2dUFMT205bFN0Ti1oUEpaNjZyXzQ3aURZenBqaWlkYllodmtZcXNucjgtQkxsaVNpZDRjU2k4RWtGUWhn?oc=5",
         "pub": "2026-11-23T19:47:06+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Trump frena al Ejército y ordena que no se detonen sustancias químicas para fabricar bombas en Iowa sin el permiso judicial",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONk1NNU16NFI1QWVxQm9xbTV5MHFEQmVDOHBNbUpOZ01BeWhxMzZiN0ZGdXpKcjE5bkZ6bmJpWjFtMkFqTUxVaUxkcWlGZ1A3V3hIbUJSNGE5MmVHbjRFaG1ZWFo1aVpsNjlHVlRmUnBxNm1fQ2xuY0FEbW9kaU9LQmp4Q3BaQVB3R3RDRlY2cV9VY2tHdTFyQllMdUptMkYwclJvV2k1c0sta1gyMi1oM2l2U0k3M0MzR2taVGQyaUJselViNkVVX2JsaGgzTGZJYlZBZmVGTzBySVBWU0tTT2N6NzM3cDNOTTdxVkRhWjVLbDJhdjhqWjRRclN2OGx3clRz?oc=5",
-        "pub": "2026-11-23T19:42:29+00:00",
         "outlet": "Univision"
        }
       ],
@@ -143,15 +143,15 @@
       "name": "El País",
       "items": [
        {
-        "title": "Alineaciones Real Madrid vs PSV | Champions League 2026/2027",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjNGR0hNZUVMWWZBLUxxRWlnRVJIbmZYVGo0ZXN3MF9CUW4zU3VRTGhOVGlqX3E0R284N08zSTgtWlB6eTJpQ3VCcnVJY3R4alVsRDJPNy1vY0xwdUQ4cUdqVXZ4V01LeUlZcnlPVUdzczNXbE1yMG1mZjhaT2s0V25IRmNiNVJrdy15RWF6NVpzOF9LMG5KQ0VVcFBCX2tTWV9xRUZnOXdnSVptYUJpdVp6eGVFZw?oc=5",
-        "pub": "2026-11-24T08:52:30+00:00",
-        "outlet": "El País"
-       },
-       {
         "title": "Barça vs Fenerbahce: estadísticas previas y datos | Euroliga 2026/2027",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzQ5cTRfRHF6Y3RaQ2lsTEk5V2FzU05Oeml6N0JqNkdxdmgzVWNYOFZzQjBjMEZHMm02bTFmQS1hRlFkUUkxOExFcE4tYlV2cVhaLUVfOVZZXzZBMEV1VVRmanB0U0RBOVpIZGJCNm5ZMEFFYlpmQ28zeW1TVjQ1dXJnMmRPVlVjbU1SM29vaGNTT2YtSV9ONE5lLW5hYlRKa0F4S0kwdkd5UQ?oc=5",
         "pub": "2026-11-23T23:23:32+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "Alineaciones Real Madrid vs PSV | Champions League 2026/2027",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjNGR0hNZUVMWWZBLUxxRWlnRVJIbmZYVGo0ZXN3MF9CUW4zU3VRTGhOVGlqX3E0R284N08zSTgtWlB6eTJpQ3VCcnVJY3R4alVsRDJPNy1vY0xwdUQ4cUdqVXZ4V01LeUlZcnlPVUdzczNXbE1yMG1mZjhaT2s0V25IRmNiNVJrdy15RWF6NVpzOF9LMG5KQ0VVcFBCX2tTWV9xRUZnOXdnSVptYUJpdVp6eGVFZw?oc=5",
+        "pub": "2026-11-24T08:52:30+00:00",
         "outlet": "El País"
        },
        {
@@ -179,21 +179,15 @@
       "name": "Univision",
       "items": [
        {
+        "title": "¡Leonardo Aguilar se compromete!: su novia presume el lujoso anillo",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTQURvX0IwaDYzVVNFaWdqRTVvVnB3ejROazhDZ2ZtOWRHeUVCQm96b2lsOC1HWi0xeUJZZUoxOE80TU9JNWRzdUYzU05aX3N0OHFGanozVkRzdmc2WWZVeXpGVkN1NTM3NUFNa0xPMzRlSFRUS2JwMk1XUGtadEU?oc=5",
+        "pub": "2026-11-24T02:14:51+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "¡Francisca está embarazada!: así reveló que espera a su cuarto bebé en Despierta América",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBYXJ6WUo5ZEcxRXBtYk9vNFJwLUxUdU9NQTF3ZnVYS29WaFFwRkUxSFN5TkpZcTAtUDdvc3hZTUp0Y0JDTnVrb2FuU3pqYmF0STZXdTFVUTlybWRBaFMtc0tEYnNHQWJYWXNSMWZlM3VkeDNq?oc=5",
         "pub": "2026-11-23T14:10:11+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Roban celular y cartera de María Alicia Delgado en su funeral: sospechan “de alguien que la conocía bien”",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQekpZMU53MnFpRmpkZEZOMlBSdHo5QThOTW03SGdjTXZ3ampqNWY0LWVDQkt2OW9Lbm4weXh3dWZxc05CcTlpSnp6WHBBQ0hOamtBRWY0aDdlcC1qbS1OazdjT0FpMEV0eHQxU2o0RWtNRHJCZnlkZG1WWG9DMFo4dkp5bEtTQk9lTkhhZA?oc=5",
-        "pub": "2026-11-24T06:39:31+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "¡Leonardo Aguilar se compromete!: su novia presume el lujoso anillo",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTQURvX0IwaDYzVVNFaWdqRTVvVnB3ejROazhDZ2ZtOWRHeUVCQm96b2lsOC1HWi0xeUJZZUoxOE80TU9JNWRzdUYzU05aX3N0OHFGanozVkRzdmc2WWZVeXpGVkN1NTM3NUFNa0xPMzRlSFRUS2JwMk1XUGtadEU?oc=5",
-        "pub": "2026-11-24T02:18:22+00:00",
         "outlet": "Univision"
        },
        {
@@ -207,6 +201,12 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObDFSWlUybFpYaVpFX29yQ0VDa0hjV3FiT2pCZlJqVUIwR2dhSEowRVhpaldoTUo5M2tDTk5xM0N4c19MX2YweXpTeThGVTBRT3l0d05zek5uNVRsb2l2N2ZlTVdueG0xczNtVjFRblBsSnliMFZuZ3Y5Q0VlM2VjR1FkNmdpcmNoM2ZMMkJyMkI?oc=5",
         "pub": "2026-11-24T04:09:05+00:00",
         "outlet": "Univision"
+       },
+       {
+        "title": "Géminis, horóscopo del martes 24 de noviembre de 2026: cultiva la quietud y suelta",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc2lOOERSRVRfQjBIaEJWTGhRUC1XWlpDcjl6d1RDcTYzdFkwRlI0aG44NWd0cjhQVEhwUE55TmlYbENFamxua1lKSFVvd2ZiWGY2NFJqZm9NdlJRY3dSVFpuSzBKQk9rTHV4MUF4M0JPQ1F4c2JSaXJZWk1zTG9ySU1VX2gzd2hEMFZid3VjbXRmc28?oc=5",
+        "pub": "2026-11-24T04:09:07+00:00",
+        "outlet": "Univision"
        }
       ],
       "error": null
@@ -214,6 +214,12 @@
      {
       "name": "Telemundo",
       "items": [
+       {
+        "title": "El Pelotazo 11/23",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlcycWpfb3RRWkUtYmRGR0Q4YWxfY2VnNUZ2cFlSaDZtOGdzVUJrbkRPQ3hUbTNsNi14UUVVbFRXOS0yR0VVY0VvZC1MVC1tcnBFdUpDSVBSWVFteUthUDhHOWZjQ0J0cHp0U09rOU9pcHh2aDIzNDZJR0IyWHZZVGlfNHBqODNPZENtSjduRHJuRVVScXpwWDJJZzBxaExHU3NlUEpUUzJ2QQ?oc=5",
+        "pub": "2026-11-24T11:42:54+00:00",
+        "outlet": "Telemundo"
+       },
        {
         "title": "Sonríe el USMNT: revive todos los goles de los nuestros este fin de semana en Europa",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaWVmaTMxTzhxTU1IRGZ4RUMtXy1DbElqSWl2THNsZTVPQjUxQkFRWnJyaVFTMDl3cmljempERUlTd09aUVIyejdzMU1KY3NEV3lQaXZVZlBjZ2xyNzlULU1FazhaNHBSNTN2dXBMbERNaVpiUDM3M1M2b25OWUstMWRVOF9OQVVFelB1bjNxc0RZenloVDRFc3NHZUxWalFkbE1WckFKY3lMVlRxYVQyTnJOd3lqTWF4QVJZUHp3XzJJLXJnMV9DZjhYeC1ITDFTQTFjVS1Xbk1scXpTb2Vfa0ltSXpHZkU?oc=5",
@@ -236,12 +242,6 @@
         "title": "El Liverpool golea al Manchester United en el primer partido de Mauricio Pochettino",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaUczbzhrdkYtXy1nWmVXYWFmcXBxQ2I0OHF4RFhRd3JjZDkzMHpQTEdrR1dkakNYR2dUQjJQYWVRZ2U4Rll1LVFaN0pSTFlWSzFDU2xOZ2JJR2E0R0QxUXpZZmUza2JXaFc0dmgzekJnZk1TQ2xkbkxmTXhMdHhiMm9FaHVlNzZJTTBiWENtei1WbHduWlR6QlRiT3VYcDVXRzgteWUxQ1dnSUhYNFpTTU1IdUlReW53UDZ0UGV2dWZMRW5PcXN4OTFoN2tuY2pwRkZzT0NYTFZIbzFsdFFSZnlYMmlRclU?oc=5",
         "pub": "2026-11-22T19:53:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "El Pelotazo 11/22",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckFXZTNtX3dtaUR4NGQyRGhfemZ2R0hwTE1LTVIzQmNzNlRubnFjUzFCSDNXTURDQzJnTjhGR201YXVldUZOdmhESjFPNEpSbkJSWXU5NjlDY1FNZXlpZzVJTHp1eEFyMnBVLWl3VjlDcU12T0pSM094ZHpCT1pkNzdyUkxMUFl5ckhrVm9rcFFKa3dxdGJSWURMTWwxZWtqaW1tNURqTFJhdw?oc=5",
-        "pub": "2026-11-23T11:09:54+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -271,15 +271,15 @@
         "outlet": "El País"
        },
        {
-        "title": "Almudena Grandes vuelve a reunir a los suyos cinco años después de su muerte",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0RDWGxZZEp4dUdJNTJSRS1ESHN4T0hoamx2d0tVUGNFZW40NlZTemx4Q0dlR2JyU1dLbHR0UWRyc3FkTTNnVkdlNVVzVVVlWDJQczlwYmRmeFQ0Q0FBVjJFNmwtZ0xVU1dXcEdxcmh3VDBubDI0N21qdnV4WTlzdFFWZlRpek9iUXpVbmRfbTZvWlNsSjVVVV83c0pEN25tZkluVTVpQ0IxVWhOdThRRUJZcDlydUduQ09N0gHPAUFVX3lxTE5aT200Z1Vfb092Ti0zY2Z1ZmQ5WGlXWFJIelNxZWwyOENvV1ZCeEc1MEZ3ZzdiRkJJSzBEWXg2TTMtZENTQ0Z3Uy1Tb0RLMTlzaE1acEI3a1JiN1dvekFGX2N5aGEwVjR2QVlwT3pMR0hlZVFWYndnU3MzOVRpR3JwQkptQWI4R2NJczVjVmg0cS04aGJXOS1xcmpCcHkwQ2Y4MWM0Y0hPVmt6dTk1YjR4QzdVWWp4MFFjM3o4cG9YY0R5WUx6ZkhDX19PdWFnaw?oc=5",
-        "pub": "2026-11-22T16:55:09+00:00",
+        "title": "El vestido de novia de Miley Cyrus: un Saint Laurent clásico y sofisticado con un gran escote en la espalda",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPem5QYkNVS0ppMGh0NWFjQmcyRk0zNzVhTkVLQXRUNmFyZ3paWlNBdEtHUUVnQWtWclNhMGF5R2Nja1pFNXZLLWw5Q2hiRGNITXRxZVpnOVVuVDZzUFpkZXk2UzhQcHRVdHRuT2NGb0Y5RG4wazNNQ1dGRWhmekRJZEJ3bUduZktzQ2NEVXY4dWl3bGJkS1dKdGxlYkZkbHRYWG9xSzFPV0NrT2E4dlowdGVfamczaDRuNXM5TmJjMWo0Slc2eVZqdng4SXdGdTJUdWZKQWFEamgwX2thVlYwT3hWbGNnT1nSAfsBQVVfeXFMT3lJaXFicHFFcWN6UGxpbHVMMHFBa0lhUmZERHJvaW1nZ2JYLWY3Rk5oTXFKbjNZX2xyYTJybUl5RTctOWlod2p2TWVHLXhhR3dtRlBsRldINFdMQkJvQjBQVmNfbXFTWC1HaTA1dThyWG9sLVk1QWdJUHljeWJoREpPRGVRZlQxcTQzbTBPWDdNdWhYdlRyMHNkbXFael9nck5NM2xuUmUtSkxyQXFKTVJkYTVZTnhTdTJJV011bm54REhDTDJnQUlBVW56Rk9sV29FdHJhdVZuSGgwXzc3QTZXMXNkNHBwYzM3VWRSeElzTTRHc082bTNneG8?oc=5",
+        "pub": "2026-11-23T11:23:11+00:00",
         "outlet": "El País"
        },
        {
-        "title": "Jamie Lee Curtis, en su cumpleaños número 68: “Es el primer año que soy la única superviviente de mi familia inmediata”",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWkEzS1gxWlJQT2FzSDBUU19JalFXb212MVZ3TVRXdWRINjB3a2JESlBvbG10cDFWRGtOOVNfU3BQb1BEaUNzc2NVcTBKaGdiMGRGRWlKZHhZbnJIb0NQTUF5SE5FMkozYS1kZDJBMVVFV2FaZS01MW1aVWdyNDNLZFlrY21KeUt0UVZiR0ZBbmRwQzRhbWtGaUczd3NWZlVMWkk3YlNFYVAyNm1mSXljWUJZLWo1V3owbGlINTJsWFhTaDVad292Zkducnh4OHR1cU1kVzg4aDFfWTNEY0NIT1NGaUM1bEF1T3RpY9IBgAJBVV95cUxPUmJ4YnlLNVpGQV9FS2NjUFpsVzlOV2s2eTB3eEU1bGE3LXpVZktlZUFlOGI4cjEycExSbFVUWkNNSHd6RUVZMG96bUJwZDNXZ01tMFlfRmpCLTdyd2w0ZnhRdGF3TEVsZ3dDTXd4aXdJUW1ZQVNBSkNjeVA4QW5pRVlRQ1RxbDlaaTN1cHcwSUZhWExvS2lULWh1VEUwRWU4R3MtNDBVQ2x3aUNtVm81eFpUTjZqeDh6LXBjT3h6X21xMUUxVmZNNi1TTTJzWXkxakF0SE45MTFLWFlFN3dRZy1RZUtWYW9hM2E2S0JENVFGU2xvV3ZTci1FUWhtMnFS?oc=5",
-        "pub": "2026-11-23T12:48:16+00:00",
+        "title": "Carlos III se une al actor Idris Elba para un documental en Netflix sobre su fundación",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3dzOHhrVDRTUktWVkRoOGp4Y2ROdVJNWE53eGRSV1BkLW1hclZSZ2tjSzQxMXlMWElIYVpZVUV6a2tKSmcxS1lFdko4a3FVUV83U0hDdkliRTB1VmtGcUQyc3lKeXVsU0N1T01sV0xEU2Z3UHpKc3Q3VlRPQnFXa05GWE01MDQtUTA5dWptNDRMcWJyYUJ2Yk13OGpicnZab2hQVmRZTkgzNTNZU21jMU1IZDd3akRUMTJsRHRiWi15S1BqMkHSAdoBQVVfeXFMUG1qMTNQSDloeTJyOXNTMk0zOE5qeGVUOXVwemN4ODAyeFNtUTBpSFZSeHF4QXNPRjRXamtCSlZycDdwTi14UURxZmdXaWpZTWo1eVhrekRINENONFBQQ2hMU3hMVG9NaTZjRFR4RGhycXIzcVRoMWJyd2QxNHBIb2hxMnNzc2x6U2ZuSGg0M0FMYnZZd1ZLeVhzOExvZ092bmpLLVhyVzRtQnI3M2RYTzBmdE9mQk85UkhEbkE0bF81M2pkaV8tUUJUNFIwbGthYmxHRXlDakIyWmc?oc=5",
+        "pub": "2026-11-23T11:14:56+00:00",
         "outlet": "El País"
        }
       ],
@@ -288,12 +288,6 @@
      {
       "name": "Univision",
       "items": [
-       {
-        "title": "Contador defraudó casi 1.8 millones de dólares a 17 producciones de cine; fue sentenciado a prisión",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlNSbVZ4YnFrXzRQMldTbDl6SE1ZUTRheU1DS3A4VEdhRU0za1VYQ05hb2pPZjJyMVcwMEpFU3F2cEFPOTZZVWtfLTJELWtGWURYX3JTT3pSRjAtX1ZSdG5lMzI1ZXY2RFRadmFwZmVFeVZ5Mk4wTVlZTHpBRF92bTZ0cnF1S1Bidmc3emZ1RHRQbk1IMnpZdFBERTlzOVNWNkxmOGZUSFB6ODVaMmZONHJUemhpbVE?oc=5",
-        "pub": "2026-11-24T04:12:19+00:00",
-        "outlet": "Univision"
-       },
        {
         "title": "Famosos - Página 1852",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qd1RTa19vX3Q3T0E1OFRvNTcyM1JRcTlTTm8walVSdW5PcnV6VWVjM3JwUjZjOEtOSVNCRzRqM0dBb0RGeF9hUUotMzdLdXhnTTR6TEtpNTlNQzlpd1E?oc=5",
@@ -315,7 +309,13 @@
        {
         "title": "¡Leonardo Aguilar se compromete!: su novia presume el lujoso anillo",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTQURvX0IwaDYzVVNFaWdqRTVvVnB3ejROazhDZ2ZtOWRHeUVCQm96b2lsOC1HWi0xeUJZZUoxOE80TU9JNWRzdUYzU05aX3N0OHFGanozVkRzdmc2WWZVeXpGVkN1NTM3NUFNa0xPMzRlSFRUS2JwMk1XUGtadEU?oc=5",
-        "pub": "2026-11-24T02:18:22+00:00",
+        "pub": "2026-11-24T02:14:51+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Cantante Parastoo Ahmadi cumple condena por cantar sin velo: recibió 74 latigazos",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb3JRVEhWb3pPVFdJbTJ2amFBUnpsSU1tdVB5clZLTHZVZTNWN19WVmFjNmRMU21kQi1mR2JuaHdTZFJNbzlORWVnV1JNeDNhUUU3MWRGMktPTEw1T2pDemRlX2IyWnY0OVVROXZQX3YwR3BwWUFkdExpdXBBUlU2OGlfV0kyVk5QeUZjZ19LR3QyZVZQQmFlaWw2Qm9PZ01oRkZBWXRtMEZ1NUR4WGVvX0pMMjJFeEZFdDhSRg?oc=5",
+        "pub": "2026-11-24T01:38:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -393,21 +393,21 @@
         "outlet": "Univision"
        },
        {
-        "title": "Golpe al bolsillo en Thanksgiving: las cenas de Acción de Gracias serán más caras que en 2025",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMlNobkdCMU45bFV2MFhTRWFaSlh4VTJ4d082Q25MdUxOWG9KbDFoc1lKdkVTdlZ2ME5ZMzY0OVdtZlcxbEVaY0Q1THVzQUR2eWNock9tQ3N5VHZKZmlhaEpzWGRXX19yVnVZZkpEMWtxdlhxMkc4MmlxaDVQUmxqdXFDaFNwa2VNc3IxdWxVVm1UamZnWW80OGhiQjhlcUs3RFdSYWx3TU16NVUxaEFPaVZkU013bDFmOV9rdzZsTlA3bXkwRnpvaTIySGo4TmhPMXY1cHZhSExibVUxNVE?oc=5",
-        "pub": "2026-11-18T23:45:47+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Contador defraudó casi 1.8 millones de dólares a 17 producciones de cine; fue sentenciado a prisión",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlNSbVZ4YnFrXzRQMldTbDl6SE1ZUTRheU1DS3A4VEdhRU0za1VYQ05hb2pPZjJyMVcwMEpFU3F2cEFPOTZZVWtfLTJELWtGWURYX3JTT3pSRjAtX1ZSdG5lMzI1ZXY2RFRadmFwZmVFeVZ5Mk4wTVlZTHpBRF92bTZ0cnF1S1Bidmc3emZ1RHRQbk1IMnpZdFBERTlzOVNWNkxmOGZUSFB6ODVaMmZONHJUemhpbVE?oc=5",
-        "pub": "2026-11-24T04:12:19+00:00",
+        "title": "Números ganadores de Powerball: mira los resultados del sorteo del 23 de noviembre con un premio mayor de $20 millones",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUkyejhGeGNESjNZMGw0YjVDYWVRZWx6WmZLQ3ZwU0o0OHVTeXVyLW9HR1RzSjJHUDBvSXh5LTBBUGxETUpiWlRuNl9QdlFjVWpLcmJ6VzZwV1BJcWpNY0xPaXhUZDJhRkFHUEx6Tkh6VjJlYTNkN2NPTnF5ajkwdFMyN3hNQXNsY2NmeDUwMHd4SlJvQXcwYU1sUE5PNnJFWHJUbGtydnFTN0cyNVZ1a3hDdS1helV0WXJCWDM1V2JaejhicGc?oc=5",
+        "pub": "2026-11-24T04:09:01+00:00",
         "outlet": "Univision"
        },
        {
         "title": "Cómo ahorrar en la cena de Acción de Gracias ante el alza de precios de alimentos y uso de tarjetas: claves de expertos",
         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNS0Y0bE5WMkNTOHJJaXMyQ2JGVk5zS25GTTB5WmhHTHd5ekRMRE1YUTJ4WXpJN1FwamFyRVhOcldPVHlhUjZBWUpVcjBzOWVaZHlXTjRvV0ZHdlVJTmpvRjgwVWIyeU5vWVk1Y2E1LW9qNmJfbDg0WUYyLU5NMnE1RjNldUdYeXdkcGJwdDA2UUl3cURJbGhmOUoyUnhzdkY2MkI0SlFjbjV0T1RsZFlCR3BCUnVWQmg1NUd5aG9CdDZWNE03SkxaMjJxUTJyVkRUbF9LY3FyMnA0WVZ2elZ0bjJwMlVjUkZYcUNJa1c2Smx3ZGg3alBfckRWX2I1b1dPd3dwSGpOdw?oc=5",
         "pub": "2026-11-24T05:31:00+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Españoles en Miami votan en el consulado para decidir el futuro político de su país",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUkpUaW1kM3dCbkpLR2xtQ0lvR203RGpfSjg1NXh3eXMySVA1NmdWaTVfc1dLUVl2dmg3WEl5cFNLVkx3M0F3R0NUbmliSEhqTGl0bENTbHBrNVJ2SEh6OG9rRlNsaWNIdGdsZDVsQTVaR1k3dHpNdlBJczdpMWMxUVFFY1dqNHBxMmdsdVZ0X3I2bnpTLUZaM2pnZmF0UmdteWdHMzVOYjYtWjVrWU4zSnQ4TFB1R1NRZHhOX1BFUExJNUE3ejVVWlVvVFU?oc=5",
+        "pub": "2026-11-22T23:32:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -435,15 +435,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Qué conviene comprar durante Black Friday y qué productos es mejor dejar para enero",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dNUkxMQnRfZjN3Zkp1WlFjRF9rd3hOSEhQRmM5T0FKbGpuazZjMC01bTZZOS10T0xQaGQ3Q2JaUUZFQ3dVMF9OLVM1blVZNUZpLWZyT2o3dGU2Rmx4VURrQXBZekNJMFYzS2hZTXpFNnlIWU9GaTR5cnpjNGZfZ0NSU1FyRm1LUnpQeFpRZVEzUXcyWWxuU0U2RUlkMVZSeFN5NjdVdWxGTGVmRVV6U2NtVjYtUmRxcmc3V1BuenRrbHFLN01KR3cwMDA1LTFudERBZWRKNFF5MzAyY1o2d3dac1R1eWh6bTdvWU10RzJRdXV2WU5Wdw?oc=5",
-        "pub": "2026-11-23T09:24:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "El S&P 500 y el Nasdaq se disparan después de que Nvidia volviera a nombrar a Jensen Huang como director ejecutivo",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTTVWR19vYlA3cjBVN2p4REh5VXdnOHVfb3Faa3N4M1pSOTdVSndqWGs1Ti1sVm5QNG92Rjh5ZTJFVUZNUy1vODVNSkhnTHVuSkk2a1daVEV6WnpVNW9ZbWt5Vkt5SUZQM1V4cnBZdW4tcVdWZWdYeEJKRXFWb2wySGNhQ2ZwTFhmc3NXeTNIYUZJWXhJYlE2S3A4VWpwbjhlaE1TZUxpeUNUWHQ2R3BXY21FSDd6UHFWamQwQnEtWkZqMVIwNkgxOG1yX0Nsa2tLWkE?oc=5",
         "pub": "2026-11-23T19:04:18+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "Qué conviene comprar durante Black Friday y qué productos es mejor dejar para enero",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN3dNUkxMQnRfZjN3Zkp1WlFjRF9rd3hOSEhQRmM5T0FKbGpuazZjMC01bTZZOS10T0xQaGQ3Q2JaUUZFQ3dVMF9OLVM1blVZNUZpLWZyT2o3dGU2Rmx4VURrQXBZekNJMFYzS2hZTXpFNnlIWU9GaTR5cnpjNGZfZ0NSU1FyRm1LUnpQeFpRZVEzUXcyWWxuU0U2RUlkMVZSeFN5NjdVdWxGTGVmRVV6U2NtVjYtUmRxcmc3V1BuenRrbHFLN01KR3cwMDA1LTFudERBZWRKNFF5MzAyY1o2d3dac1R1eWh6bTdvWU10RzJRdXV2WU5Wdw?oc=5",
+        "pub": "2026-11-23T09:24:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -523,9 +523,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "NWSL final sees pro-trans protesters have spats with women's sports advocates but no violence or ejections",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT01zTUtkcE0zaXN0cEM2X1lZNzdjMGpxcEJ6S3JZYklfUDR5TjFjS1ZLU09ZeEdhbmJuUW5KVWRYWk02RVdzRVAyNGctemxCa1VETGQtaXVpdXhOdlctbEY2dm5ka183V0Q2SDBGTUY3MFdqXzRFYTBQY19rMW1DdU5UbG5nNmVRbGhCcjAtdHFmS2F0V3hNdzg3YjZCQUtNSV91TlZuZ2dqQTZDMXdxZERCRVpzek1jZWs3d2E0UQ?oc=5",
-        "pub": "2026-11-22T13:44:37+00:00",
+        "title": "Once again, the College Football Playoff selection committee has an opportunity to fix their mistakes | OutKick",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGx1bUlZcnlqNmFGRExRcWtVd1EzS0EyNDdEOWJLcEk3Sllva0tvNGU4V0lSZmVaa2k3Z2oyT1VlczE0V0ZscDFkd3FvMjR5a0drTDFERVljYVBILXk0aDhyVVdpbEQ5Si1ZcDhWVTZOc3ZnOXJQQlVoUW5ITGhpLWdvdy1uV3dkMmtqbU9RdXNLd2F1V3NZSGUtTU13cUFxdUpGVG1DVmVlNnVq?oc=5",
+        "pub": "2026-11-24T01:59:38+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -549,21 +549,21 @@
         "outlet": "Fox News"
        },
        {
+        "title": "Billy Bob Thornton says he’s a holiday ‘purist’ as he brings back ‘traditional’ Thanksgiving at home",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWklhdGxmZ2hkUEp5aEdIeWNNTFMtd3ZyQ3FSak9GY2RkVEY2SDBOV0FndmY3aGxiOTVBV3BzUkZCWkFLSmFQZDBFZ0xwR1c0eUk1M1RvYlM0b0E4RV9VSHZsTG4yQ3N0dnh1QmZQMnVnY0sxa25JTGRPWWFBT25yRnI5b1ZUVUprRlF5cjJlTUFod3hDOFlpLXlqMEhmLWl6ekxaUkdmQnhDM191THM2d1dKOVJCMmhxVFBmUkpGV1ppNzDSAcgBQVVfeXFMUGRvcllyQm1DM3N3UzlmbV8wblFOWTM4SEVlcTBzUEZmWDEwVmtEbWEwOE45eVJCQ2ZWNXA0SC1EWHlYX2NfSFVFVmZ4RHlENnZrVmw1dkZCTnc4TXVJUklQcWduY21EZHdvTk10R1lrZ00yTHA0N3ZZWXZZNEFKRjdTTkd5enhXOGtOa0QzRGtSTWg2VzAxeFBxdFN2WWp1amZya0tMWThOOTRuOFBMX2NOdnFfVUdiQWpqWExJOVFyRlZTY2FYaUs?oc=5",
+        "pub": "2026-11-23T19:00:02+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "‘Dukes of Hazzard’ star Catherine Bach says co-star stripped naked except for cowboy hat to cheer her up",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQelVOc1NMQnhHV1EyMWZoOG9HWWF3SFJ5NHVTb2w4c0hrWjE3YjVWRC0yY2cxOUlnWlc5YVhwS1VLeEI4Q1JScnFRV3NFZC1uOXkwX0RCdjdKX0NRYk56QWhWZzdFZ00zaVhPaVJXMC1DdWZRWGFTdzQ3Tlo2Y1NHRDNiOFc0YjlkT2h2N1VtY294TDBQTTZFbjBudDBwWG9KR2tRME0tLUxGZnBxQWxsVS1EczJPbl9PdE9pTGlYVnQzZFNoakJ1R1930gHPAUFVX3lxTE1GRmFZajBKbFduRGtONDlIN3prNnNteXQ1U3NuNnhWYWFCNEJSUS12M0dmSkhGc2tHMFJQQ0lCM095VF9mVlkxMUdvOEUyQjgyOUw5Q3plTEMwS2JXbDFhcVVVbGlKWkc0bW96dENCUjRMYnNsbG9hY2JYemsyWFBqVHdaR2RiYW0zcEVFMm1fRzRUTnZzRzhqeTJMaFpaR0VrWWpWS2xYWGRYWjFSQW5vNG1UdEZEaUhCTGRnWXNESGhWcXVvZTYzMmFKQ2VTSQ?oc=5",
         "pub": "2026-11-22T17:00:04+00:00",
         "outlet": "Fox News"
        },
        {
-        "title": "Famed NYC restaurateur Keith McNally hospitalized after getting caught in France protest chaos",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHN3YWlmQkI2VFBjUTBzbTZOU2xKUzFEUG9ETjRLcDVKNXRoM2prWFlIbzQ0RkxoRkFmbzZNZFBEUE9OVThacDRlUGdTWkpPSHl1R2RpNEUwMWZ3eXRIS0t3VE9LUlVOd1ZMZ2lHZkdVdEVBck40aXE2cWYwQ3BpeE9uejFfV1dxSW40Wi1VVTI1eGpKdmtJMHpxbzBQbUdWSjh6OTRTSDhuNVJEekE5WWVBeUp4UdIBuwFBVV95cUxNcGZ5YUw0R2hSNGNDNVp1T1Zna1V1eU5jMlNHSXJ6QkZVOXBoaXpITjZ6dzBQR3dYOEp6N3FKU1doZHBSS1VCQ01HYlJ4Q3hvaDNraWo4MERTN2RFRGgzY1o4SEZIeldzaWx1RjRLQy12VC1nU1lYd1ZMWmpOVkRJYTg4RGRoSzBJcjNWSmhLTC1jdUJZdDFtVUFGWkM2R2lyeVpoc3NvUEYwNG80d0ZKSlk2TVVzOVM3TUpR?oc=5",
-        "pub": "2026-11-22T16:17:40+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Billy Bob Thornton says he’s a holiday ‘purist’ as he brings back ‘traditional’ Thanksgiving at home",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWklhdGxmZ2hkUEp5aEdIeWNNTFMtd3ZyQ3FSak9GY2RkVEY2SDBOV0FndmY3aGxiOTVBV3BzUkZCWkFLSmFQZDBFZ0xwR1c0eUk1M1RvYlM0b0E4RV9VSHZsTG4yQ3N0dnh1QmZQMnVnY0sxa25JTGRPWWFBT25yRnI5b1ZUVUprRlF5cjJlTUFod3hDOFlpLXlqMEhmLWl6ekxaUkdmQnhDM191THM2d1dKOVJCMmhxVFBmUkpGV1ppNzDSAcgBQVVfeXFMUGRvcllyQm1DM3N3UzlmbV8wblFOWTM4SEVlcTBzUEZmWDEwVmtEbWEwOE45eVJCQ2ZWNXA0SC1EWHlYX2NfSFVFVmZ4RHlENnZrVmw1dkZCTnc4TXVJUklQcWduY21EZHdvTk10R1lrZ00yTHA0N3ZZWXZZNEFKRjdTTkd5enhXOGtOa0QzRGtSTWg2VzAxeFBxdFN2WWp1amZya0tMWThOOTRuOFBMX2NOdnFfVUdiQWpqWExJOVFyRlZTY2FYaUs?oc=5",
-        "pub": "2026-11-23T19:00:02+00:00",
+        "title": "Russell Brand's wife vows to 'honor' prison rules after comedian's 'not guilty' message sparks investigation",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT0kyZUh4M1AyUFA0c0xRc2VRZlBMT0tnVjgzaFFWeXBEeDFyRmxRVXNRRXpmbS1zRW1GSVkydVpMYUszQm1HUlE2RGJ2Qk1oajNmQnNQVndSdmZqWHNkYXQtMWszQUlma0NaSHFKMlFEbm5ndFVEVWtvUWpUSWZjbnBMTUg1eEVPV2hKMncwN201RXFJVEhtQkNWZDBXaW42cDNXdzh5cHNiRFc5UXE4MFVOZDV3Y1NyU2s4SDNzVVlGbkJ6OVHSAcsBQVVfeXFMT2pYc2xlMGs4eWk3anVoU2NGNzQ2YXRScVI3bWdMWDFaSVVwc0FiWjdFME1qVFZHNGk5WnctNFZBTG9YOEhnQ1BxNUMtZVZGeWZqQ0E0S1piMmwyS2ltMUZFUEtacXFVTFFEQjQxd253Ry1qc0c4R09fN1RRcThUQmxpb1gtVXNRMVdhVGpLMWdON2NBaU1RQjNGN0hpamZ6ajU1bXV6WE5sRE5CNVJlR01ET0dyYjhGeEtNaUxVMFBWOVpNX19tUGh4VjA?oc=5",
+        "pub": "2026-11-23T15:55:55+00:00",
         "outlet": "Fox News"
        }
       ],
