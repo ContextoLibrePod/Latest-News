@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T01:14:02.254818+00:00",
+ "updated": "2026-11-24T02:27:08.448065+00:00",
  "categories": [
   {
    "id": "top",
@@ -69,9 +69,21 @@
       "name": "Univision",
       "items": [
        {
+        "title": "\"Querida Gina Hinojosa\": Las cartas de mujeres a la gobernadora de Texas desde el centro de detención de ICE en Dilley",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQjB3ZWwyR3VjOTBHQ2pXLS1GUmhlNlhWRHpLSXRDdjN6VnV6d1ItcjUtamdYZVNmXzh6eTUzMzhHOG1Fb2FFUU9maVJRS1JsVERpdU9obU5iTVRYUjJtcGJjQWdlajhWTndySjRxd1Y1TUdwVUhYWE1SMGhSOE9rc2xxSG9EcUY0dW8zaENUVmFhTDJuc0taLWktRnBnYS1ST2Q2VEEwRmNmd3RlNHhiQ2RkVk5YYkpGNlBaV19yZmV1TUlvLUQ3NDZ1ZXJ5R29HdWtoU2NZbDV5UU1XY1JWLUxjdnFBQ012NTZqYWlpXzlCNndr?oc=5",
+        "pub": "2026-11-23T22:38:29+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "Los demócratas obtienen una mayoría histórica al ganar 258 escaños en la Cámara de Representantes, su mayor victoria desde 1992",
         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNGMweHZWVUlSQzl6c1ZrQXlUZkRBckZPX08yQVl0UTl5SnpyenUyaWFWM2tuVm1yVGxUN29MdDlUM29FeTFhYWh4Q3UwSFBRb1FQUHNfS0lfT2MtamlWR1dscWYzM3Zsb0t0ZXRuOUlGeUE1cldUQmNLcUNEWjIxU2UyVFI2OGNzaUlFdmxpTy0tUHhCWkNxc3pyb0dBYllUU2RMT011ZmF6U3g5ckxQMk5pQkFISl9WeEVHZ01kdldlUjJsS0lwTjBFVGFsMzk0ZF9HVGJHSGtVVk1lT193S3dGd3dQY0hPRXZGLXFTZUR5alZLNmktTTRwdVpUQWJ0NTNTamROMA?oc=5",
         "pub": "2026-11-22T20:37:57+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "¿Cuál es la obra de Van Gogh que se vendió por 190 millones de dólares y rompió un récord en una subasta?",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWXQzNW92SHpsU0tYaFpVMG9MZ01Ud3RHTkdmOGdYdFczTVZZdnp4V1QzdXJVZTRwTW92aEZaa1J1djhMQnN6Tk9zc1czZ2JLUTZGS3hnajRNOUdSN3Q3SU8wUHZQNzBDQS1OQ2ljVkdHelVObDV1dnpidHlKdW9YcFFyWGxOblpXMmhYQ1dPVU1PTVNCWmJNVEE1LWcxY0xCSGJVaXk4T284YXdLSVVsMUozQlFuZTVmS3M5cVByUHJ0VUV6UzNRRDdmelBTdk8xNWV5c09VTUIyX3ZScFZlLTdlQWQwUkFycjVjejl6V2c?oc=5",
+        "pub": "2026-11-24T00:01:03+00:00",
         "outlet": "Univision"
        },
        {
@@ -84,18 +96,6 @@
         "title": "ICE agrede a observadores y detiene a dos ciudadanos estadounidenses durante operativo en Oakland, California",
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQR19XRE5hMjl1N2FaUWJfLVZudE13dnBlVDR2emVWNkFrRmsyUFAxRTNzZ3dJQjJCUXV6OXd4dkdXOWFoQ2R4bUpVV1V1OUtfMDZJN2Zqc0NMbnB4SFZ4NzBHeFBLSHFvUG1aSlVFM2Z6XzlqdjRpUWxRU0dmSXNaWkxmM2tFeVZXUTUtV0VsUmVzbU9sNnRab2t3Snl2SGo2SXNCOTR1aDJHbGdTUjlVNzNRYkpBX0VXSGstc05HTEs0blFsd0VqYWd2dUFMT205bFN0Ti1oUEpaNjZyXzQ3aURZenBqaWlkYllodmtZcXNucjgtQkxsaVNpZDRjU2k4RWtGUWhn?oc=5",
         "pub": "2026-11-23T19:47:06+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "En Illinois se habría triplicado el número de personas que padecen de inseguridad alimentaria según informe",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ1VFa0RwYU9EZ1VTd0ExMnhJQzVyajhtb0VHRXdZWkVqbmlfYUpHV2xJcl81WlgwSGVLWG1vLXAyWE8zMzcxV1VHZVVQUnJ5Qk52YngwNXpWZWFqSjZzeGJkQUJUaUVQaWVGNjRhUG01TWVrTmdTdVRDSXJKN1MxYUJRb2dkNUZrbi1nSV9fWWstVTU5RFRTbnZUZFgwam00cHRXMmRheHlXM1ZLVWtRRDZfeEdFTjZNWllZb2JSUTJCUU50MlVaYVVRUTdyaW9wUjlyTFQtU1piUQ?oc=5",
-        "pub": "2026-11-23T19:20:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Trump frena al Ejército y ordena que no se detonen sustancias químicas para fabricar bombas en Iowa sin el permiso judicial",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONk1NNU16NFI1QWVxQm9xbTV5MHFEQmVDOHBNbUpOZ01BeWhxMzZiN0ZGdXpKcjE5bkZ6bmJpWjFtMkFqTUxVaUxkcWlGZ1A3V3hIbUJSNGE5MmVHbjRFaG1ZWFo1aVpsNjlHVlRmUnBxNm1fQ2xuY0FEbW9kaU9LQmp4Q3BaQVB3R3RDRlY2cV9VY2tHdTFyQllMdUptMkYwclJvV2k1c0sta1gyMi1oM2l2U0k3M0MzR2taVGQyaUJselViNkVVX2JsaGgzTGZJYlZBZmVGTzBySVBWU0tTT2N6NzM3cDNOTTdxVkRhWjVLbDJhdjhqWjRRclN2OGx3clRz?oc=5",
-        "pub": "2026-11-23T19:42:29+00:00",
         "outlet": "Univision"
        }
       ],
@@ -117,15 +117,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "El director puertorriqueño William Caballero estrena su película ‘TheyDream’",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVm1zelhDR1dvREE4RmhaZFFUY1hOSEdVQW1jRVM5ZlJ5TlpCb1lYSW9iX2hRRUEtejFGbUVueHFiRG13X2lTUDJSbkt0bXYyNGdPNHlKRlBtVHYyeWx0ektYeWxwVUhnamZHMC1CVWd0NDMzYUFDNlVhdU1RQXM1VWhWMU1PTldqYjFVakJQaVNEc2JYSXZHWWhuSnMtUEZiRUxDd3RCeWJEamtDSHN5OGxlZ3RUUjVPQXd2MW1pdlV6UGRaZFFfWUZsYnFoVlUtWFBMVDc1Ymh2cUNKMXBMU0J4UnhHXzhKVi1j?oc=5",
-        "pub": "2026-11-23T08:00:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Se multiplican las cancelaciones de vuelos en California antes de Thanksgiving",
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTlJtNW93djh0SHVXU25UU2prdzdlckFxREpVY2xaNHZ3d3ZiT2VOdE0zVTJZd2Q1cmtPMU5aTExhSXVtaUdGRXNsSVN4djFDX1hHY01KaW9jM0hqbjVvMGdhNEI2NHZkdkllTDBOQmUyOUVDZ3Zoa2taSDB5RU55OFlScW5QQjlfODBXOEZnU1lLamltVkRHZmpyRms4dlZidkViV29rVWVMUzU0eUlQSlNQWVU2MzUwSHJrdnZlXzlESFJLUTZWVzYzYUJMcWlFaVhQMEFOaDFkeC1tc283bWp3RFRvYnZRaERQZnBzaUdrbm9MbEpQcHhDTGNmRGpjcEJ2UFRn?oc=5",
         "pub": "2026-11-23T07:07:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
+        "title": "El director puertorriqueño William Caballero estrena su película ‘TheyDream’",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVm1zelhDR1dvREE4RmhaZFFUY1hOSEdVQW1jRVM5ZlJ5TlpCb1lYSW9iX2hRRUEtejFGbUVueHFiRG13X2lTUDJSbkt0bXYyNGdPNHlKRlBtVHYyeWx0ektYeWxwVUhnamZHMC1CVWd0NDMzYUFDNlVhdU1RQXM1VWhWMU1PTldqYjFVakJQaVNEc2JYSXZHWWhuSnMtUEZiRUxDd3RCeWJEamtDSHN5OGxlZ3RUUjVPQXd2MW1pdlV6UGRaZFFfWUZsYnFoVlUtWFBMVDc1Ymh2cUNKMXBMU0J4UnhHXzhKVi1j?oc=5",
+        "pub": "2026-11-23T08:00:00+00:00",
         "outlet": "Telemundo"
        },
        {
@@ -155,12 +155,6 @@
         "outlet": "El País"
        },
        {
-        "title": "Agentes del ICE causan terror al detener a dos personas en el embarque de un vuelo en Seattle",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOEJKYTJhM0dJbWRfMkNicVFxc1QwQXhTX3VFem84UG52V1liczZjNjd0VVoxbVFuM1NWOFp3aTYyWnR1TmxhNjl5b0hOYm9mSlFwb0xEOFFSbHU3YldhR3BBQUcxU0NVMmg5LTdPTTRqMFRDU1c0aExSRWtZbHo5OG0wRTFQZzdUS09mZXFsa0NGODRuMThpWXdNUEF0R2wxcG0zNDlKTk83TTZwbVdIT20xckJVRTVEUTVwSFlPeERUSWRuWlprMXVlQ1JlcHA0eEREN0cxQVHSAewBQVVfeXFMTUx2ZjJyWTI3M0Y3RW1BRXJzSmg2d2VUNnlfZ1ZzeWpSZ2Nka0xrbVd1NWlJZnhwaGpTLWFMb0NwMk1fdWRvSXRsTl9vNDhYY0Q1eV9SMlRQVnQ0NXhYcDlkRDZMYUo2UWxPcUhjVnljMTFDWVBTazBUVFZiNnJEVEJOVVhEWm1DT0w4WHg1ZC1GODVBSzQzTVJSYlcyTGVCd1o3b2c0aGtkTG84RlpfUFd6MW5ub19ENndDZ1Q4YTZUOWZxeWNaZ1dodDVrY0FUWGNCd04zQnlfMHF4UTZmWEF4bG5YbFlKVmpRRVQ?oc=5",
-        "pub": "2026-11-22T01:44:03+00:00",
-        "outlet": "El País"
-       },
-       {
         "title": "El ICE recurre a delitos menores cometidos hace décadas para deportar a personas con ‘green card’",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcUR2RzlSTUw0dlpiRTA2VGd3Tzd1cklkczZlOTBFS2dzNlBNdWNpQ1hCMHBkR1VnSjl6M0RhaWcxMnpUV2NyOWlBVG52eTY0eWxHMmE2TU56WHdQc01FWkNVUlItZWJ0NVdxYWhjV2FLMkFyYzJkbXlaLWhQVHplcUFUb3dWTWJmQXVzMUpIUEFBQ01NVW83ZzZsLUhjQjNTaF9JSmV2Uzk3LTFERkI5dURkbmlKQjRaUXlrR3dneFl6ZFZ1MXRLMHE3WTl2d0xSLVdGRGtVNTUwemPSAe8BQVVfeXFMTWpTa1NOLWJPczJlQ0lhbTdza0s1RHpCa0dJSWZuY2lDdjFqNDRnTnphazZiLVZkX2UwLUVZX1BCYmYxVHZYd1lNdnBzVC1EMVg2ajgzdFdOdndFUm1zWndKQlozcTZpcmpyckhiMk1EdS0tQWZOLUh1Uloxc1FpUnQzZkVDaHozQkxXSXpaM3pVbE4zZ0U5cGhXUzdMejl5SUdSazVrdUJZLUlEaFFEY3ZsLWF0OVRBbEFfYmJwZTJKT0MzcjMwZmFkRHd5M0o0dXdJWjdWTEd5Wm1YdkdCRzZRU3hCMHlzNi12eWlTUUE?oc=5",
         "pub": "2026-11-23T09:30:00+00:00",
@@ -172,6 +166,18 @@
      {
       "name": "Univision",
       "items": [
+       {
+        "title": "¡Leonardo Aguilar se compromete!: su novia presume el lujoso anillo",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTQURvX0IwaDYzVVNFaWdqRTVvVnB3ejROazhDZ2ZtOWRHeUVCQm96b2lsOC1HWi0xeUJZZUoxOE80TU9JNWRzdUYzU05aX3N0OHFGanozVkRzdmc2WWZVeXpGVkN1NTM3NUFNa0xPMzRlSFRUS2JwMk1XUGtadEU?oc=5",
+        "pub": "2026-11-24T02:14:51+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "¡Francisca está embarazada!: así reveló que espera a su cuarto bebé en Despierta América",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBYXJ6WUo5ZEcxRXBtYk9vNFJwLUxUdU9NQTF3ZnVYS29WaFFwRkUxSFN5TkpZcTAtUDdvc3hZTUp0Y0JDTnVrb2FuU3pqYmF0STZXdTFVUTlybWRBaFMtc0tEYnNHQWJYWXNSMWZlM3VkeDNq?oc=5",
+        "pub": "2026-11-23T14:10:11+00:00",
+        "outlet": "Univision"
+       },
        {
         "title": "Paola Dalay se defiende de ataques por irse de vacaciones con el futbolista César Romo y ¿sin su hija?",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeS1XeGlrMmVockY1NklOdmdvVFdLbjFZUU9wVTVnazdtUWNIckZuMklXVTFfeEN5RkNGZGxBRWZheUxDRERhV2VGay00aGtwZlNpNnlBQy1mQXFod292a05UQWJqcDgyX01ydDRQRVkyZEV3WjNxQ0ZmTXdOdjY5VHRiei11VHQ5bzF2RFVjdkx0TFk?oc=5",
@@ -188,18 +194,6 @@
         "title": "Hija de Bruce Willis se disculpa por foto “muy íntima” del actor en medio de la demencia que padece",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaVNISGRVWFJ4dldzRmRKZGM0STI4WGhZVkt2cjNrN25IV1plV1ZKeFN2b0hZNEFYZ0duelI2WER5d3FfdkZ2TGxEUlMzOWRYM3M3TlFUWkRUSDRsOFh0bk15aFNqV0liMTg2Qm1jV2RaTmllRVhqTUhDNDdZanJGSlZBc1ZVclhtRnkzSV9KZFFQR0J6Y3lhSXhhMEZ1LU1jc1BFeU1TQ3RTWjRNclItM24xbVA0a3dXN2lEZlhVbENzUEFzT1RrM3VUTEZENTZSYWtn?oc=5",
         "pub": "2026-11-23T20:28:00+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "¡Francisca está embarazada!: así reveló que espera a su cuarto bebé en Despierta América",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBYXJ6WUo5ZEcxRXBtYk9vNFJwLUxUdU9NQTF3ZnVYS29WaFFwRkUxSFN5TkpZcTAtUDdvc3hZTUp0Y0JDTnVrb2FuU3pqYmF0STZXdTFVUTlybWRBaFMtc0tEYnNHQWJYWXNSMWZlM3VkeDNq?oc=5",
-        "pub": "2026-11-23T14:10:11+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "Laura Bozzo sale del hospital tras casi un mes luchando por su vida, reportan",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZlhDOGVOenRjUGp0ellWNERjT1Rkd1g0VXJxeXBzS01CR1ozQU4zNWF5Q2gtZUNuWkVCTjNQUHZsSVB6UkNmVWl4RFVNMm5NdUhVTklCVFdDUTBFcHFDUlpTQUVrMWFOaTF4bkJWMXFiRlBQZFFUSmVNMk9ieVdPcg?oc=5",
-        "pub": "2026-11-23T21:59:27+00:00",
         "outlet": "Univision"
        }
       ],
@@ -253,21 +247,15 @@
         "outlet": "El País"
        },
        {
-        "title": "Agentes del ICE causan terror al detener a dos personas en el embarque de un vuelo en Seattle",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOEJKYTJhM0dJbWRfMkNicVFxc1QwQXhTX3VFem84UG52V1liczZjNjd0VVoxbVFuM1NWOFp3aTYyWnR1TmxhNjl5b0hOYm9mSlFwb0xEOFFSbHU3YldhR3BBQUcxU0NVMmg5LTdPTTRqMFRDU1c0aExSRWtZbHo5OG0wRTFQZzdUS09mZXFsa0NGODRuMThpWXdNUEF0R2wxcG0zNDlKTk83TTZwbVdIT20xckJVRTVEUTVwSFlPeERUSWRuWlprMXVlQ1JlcHA0eEREN0cxQVHSAewBQVVfeXFMTUx2ZjJyWTI3M0Y3RW1BRXJzSmg2d2VUNnlfZ1ZzeWpSZ2Nka0xrbVd1NWlJZnhwaGpTLWFMb0NwMk1fdWRvSXRsTl9vNDhYY0Q1eV9SMlRQVnQ0NXhYcDlkRDZMYUo2UWxPcUhjVnljMTFDWVBTazBUVFZiNnJEVEJOVVhEWm1DT0w4WHg1ZC1GODVBSzQzTVJSYlcyTGVCd1o3b2c0aGtkTG84RlpfUFd6MW5ub19ENndDZ1Q4YTZUOWZxeWNaZ1dodDVrY0FUWGNCd04zQnlfMHF4UTZmWEF4bG5YbFlKVmpRRVQ?oc=5",
-        "pub": "2026-11-22T01:44:03+00:00",
+        "title": "El padre y la hija detenidos por el ICE en Seattle son solicitantes de asilo y se dirigían a un bautizo",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ05Zd1RfSFA0SFZnWVVxUm00dllQYV9manY5MHNqeEVXZVotbkdrdmFYWHE2SDBtN0tXRGg3VmFGbmlVaTVGcU9OQVVoeUl5UTdTZ0Y0U295ZW0xbHVFLTBZQUtUSHBRMEtadERJRGc3VF91dXZTTXVwaG1xOVJ3TzRDamZjWUlMcTVFWlJRZXIwbGMyeHZES1p4ZjNrRmlBNHpRckhZRXJ4WEdGbkJwZ3lfNFB2cDJ5YlNOS2daZ1MyeWthcllXWXdvSm0xQkZFTWpsWnE2ZWjSAewBQVVfeXFMT0ZFRVBCajB1Qm1TRWlySjl5b3RydlNMRDBIcXhsRXJja1JqQmtIZGtpNUhBb2VlNi1EMzFTcGk0eXBDOGFSWmJGbVU5eVFIV2xUbk5oeVR5Q2gwNWh3V2Rva1oybzIwbHlmN1FqbDlzNHo5QnI5aFRvSVRVd2tjVlFRZktKQWZoV3ZnY1pyWXZITl9fM2o5dWg2SExTRjU1SE1JQzg0WlF4UDdTUm1ReEhwaUV0c2g2VkFBQVpId1RNdXZFWVJBRW03NlZQWTFTZXNDLWY5RFNDQ3RLcFg5Q2JNZ1BCUGg5VnQwMFM?oc=5",
+        "pub": "2026-11-23T02:49:12+00:00",
         "outlet": "El País"
        },
        {
         "title": "El ICE recurre a delitos menores cometidos hace décadas para deportar a personas con ‘green card’",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcUR2RzlSTUw0dlpiRTA2VGd3Tzd1cklkczZlOTBFS2dzNlBNdWNpQ1hCMHBkR1VnSjl6M0RhaWcxMnpUV2NyOWlBVG52eTY0eWxHMmE2TU56WHdQc01FWkNVUlItZWJ0NVdxYWhjV2FLMkFyYzJkbXlaLWhQVHplcUFUb3dWTWJmQXVzMUpIUEFBQ01NVW83ZzZsLUhjQjNTaF9JSmV2Uzk3LTFERkI5dURkbmlKQjRaUXlrR3dneFl6ZFZ1MXRLMHE3WTl2d0xSLVdGRGtVNTUwemPSAe8BQVVfeXFMTWpTa1NOLWJPczJlQ0lhbTdza0s1RHpCa0dJSWZuY2lDdjFqNDRnTnphazZiLVZkX2UwLUVZX1BCYmYxVHZYd1lNdnBzVC1EMVg2ajgzdFdOdndFUm1zWndKQlozcTZpcmpyckhiMk1EdS0tQWZOLUh1Uloxc1FpUnQzZkVDaHozQkxXSXpaM3pVbE4zZ0U5cGhXUzdMejl5SUdSazVrdUJZLUlEaFFEY3ZsLWF0OVRBbEFfYmJwZTJKT0MzcjMwZmFkRHd5M0o0dXdJWjdWTEd5Wm1YdkdCRzZRU3hCMHlzNi12eWlTUUE?oc=5",
         "pub": "2026-11-23T09:30:00+00:00",
-        "outlet": "El País"
-       },
-       {
-        "title": "El padre y la hija detenidos por el ICE en Seattle son solicitantes de asilo, según la abogada",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRkVFUEJqMHVCbVNFaXJKOXlvdHJ2U0xEMEhxeGxFcmNrUmpCa0hka2k1SEFvZWU2LUQzMVNwaTR5cEM4YVJaYkZtVTl5UUhXbFRuTmh5VHlDaDA1aHdXZG9rWjJvMjBseWY3UWpsOXM0ejlCcjloVG9JVFV3a2NWUVFmS0pBZmhXdmdjWnJZdkhOX18zajl1aDZITFNGNTVITUlDODRaUXhQN1NSbVF4SHBpRXRzaDZWQUFBWkh3VE11dkVZUkFFbTc2VlBZMVNlc0MtZjlEU0NDdEtwWDlDYk1nUEJQaDlWdDAwU9IB7AFBVV95cUxPRkVFUEJqMHVCbVNFaXJKOXlvdHJ2U0xEMEhxeGxFcmNrUmpCa0hka2k1SEFvZWU2LUQzMVNwaTR5cEM4YVJaYkZtVTl5UUhXbFRuTmh5VHlDaDA1aHdXZG9rWjJvMjBseWY3UWpsOXM0ejlCcjloVG9JVFV3a2NWUVFmS0pBZmhXdmdjWnJZdkhOX18zajl1aDZITFNGNTVITUlDODRaUXhQN1NSbVF4SHBpRXRzaDZWQUFBWkh3VE11dkVZUkFFbTc2VlBZMVNlc0MtZjlEU0NDdEtwWDlDYk1nUEJQaDlWdDAwUw?oc=5",
-        "pub": "2026-11-23T02:49:12+00:00",
         "outlet": "El País"
        },
        {
@@ -283,6 +271,12 @@
       "name": "Univision",
       "items": [
        {
+        "title": "Famosos - Página 1852",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qd1RTa19vX3Q3T0E1OFRvNTcyM1JRcTlTTm8walVSdW5PcnV6VWVjM3JwUjZjOEtOSVNCRzRqM0dBb0RGeF9hUUotMzdLdXhnTTR6TEtpNTlNQzlpd1E?oc=5",
+        "pub": "2026-11-24T01:33:18+00:00",
+        "outlet": "Univision"
+       },
+       {
         "title": "¡Francisca Lachapel está embarazada!: ¿cuántos hijos tiene?",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTVLVWdQaEtzN24yQmh6aDJNNXF6UDVybXBMRmlQMnFNcmpfM2ZxQ2xqYXo0cG5QUml1OFdnc2NkYW90ZWxXcGxjeUJfQS1LQXVlVVZ1OTVrRnEyUFBhdVd0VjhzazN4bG92Sndqc2tJaEJYbWVqZFI2SXpZSjRRcGNlTlpVMzJBX3dNOVZKVjVwUWUwZUVkNEliSkhjLU5sa2gyWE13?oc=5",
         "pub": "2026-11-23T14:16:00+00:00",
@@ -292,12 +286,6 @@
         "title": "Famosos - Página 1851",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Wdjk5akxsNnNuYk1ZY1M5WGRia3kzeUZCNGI3RC1HclkzQnVvV1VpWGtrcHBXNXNlczJOVlBCX3M3ZFhhb2dIWEYxbXVfXzV3QkVQZU1LUHVxd3Bkdmc?oc=5",
         "pub": "2026-11-23T19:43:06+00:00",
-        "outlet": "Univision"
-       },
-       {
-        "title": "¡Francisca está embarazada por cuarta ocasión y así muestra su pancita por primera vez!",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ05tQkplZ2FHNFM1cDRIVnVPNjhxZlgzRVptZUhkMTM0dEN3VXdVQ1kxUTR4Rnozd0hPVmdMMDZZQkFydTVuTU5fYkFSWW9BdmgtUUhnNldIUHN3a3E2bDB6UDA2Y3N0Zzk0MFA1YWRxYjBXRldlT2E5QkU4LVJSY0pzLTZEbjA1cHc4Ml84OWtZQXFuWTZVSktjeWhfb0dZS3h0aTFobzRaVzNVZTRWQTdhLS1icF9xdVJxTDVjQkJvYjA?oc=5",
-        "pub": "2026-11-23T14:19:00+00:00",
         "outlet": "Univision"
        },
        {
@@ -319,6 +307,12 @@
       "name": "Telemundo",
       "items": [
        {
+        "title": "Famosos ARV: Chiquis ayuda a familias necesitadas siguiendo el ejemplo de su madre",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNExrNGxHX050Q291ei1fZ1hTOE05dVRYRmV2Nm5UX3BCd0pZVXcwdEhPekN6cF85cFlrblFOMC1LUW9GVmdTQWQxRURsMWw4YjhKbUkxQkVNSTNaVXpWOXhQc0wwd0NPSG5aRG5faXpFck9tcVhlM1JWOHBFZ2s2amt3Qm1lLVlKeDY2a1pZRzJTQmMtUzVuM1dzUmZreVYzdmN3VWlPcGg4VWxIZnlsWjJ6NW12SEZuaXVaLVRnMWNiUkxrRmlhSkJTd0d1SWNoZmhQRmQ0aUVIOVlvOVE?oc=5",
+        "pub": "2026-11-23T07:03:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "Aseguran que Britney Spears podría regresar a la música",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX2liM1NXMnpsZWJlVmIxekQ1Z2c1MzZfYnpqUHVkMUxPUU8wd3FfMnZLMjFvZjNGOTdIQ2o4VkVyck9wdHNnTWtqNUk3MVByY3dXdUg5dnJjQU5DNlAwQVhWVEw4MzdZRHY5ay1od0hscmxFb3VIUnQyLUNUMzh2MDhER0lYODg3Y2RKdGpZZng4MlptbjZvdjZkWVh5VDVRUk9nVzVFdmhvNWR4ZEotWUtUNUhodGNHUW9tZFpULXdCaUkzLU5yRkt4eWNhVy04dlE?oc=5",
         "pub": "2026-11-23T06:47:00+00:00",
@@ -331,21 +325,15 @@
         "outlet": "Telemundo"
        },
        {
+        "title": "Christian Nodal hace un sorpresivo anuncio, ¿se retira oficialmente?",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd1l1RWRfSm1fbjFmWlNNdEphczNtV0MyVG1xb25zMjRTazNFb0tPdXIzbUdDTVVEYVRSTnpodWtOTzB5cndqU3NxUzQxcnhnTng3WGpsdWtZbk80RWtIMlNVUkNQZFk4T29kSEdzbTREbWVuQ09STTN2WFZBMDQ2VkJuY2VUN0ZsWGkybHU5MDUtQVpGWURvV2NzTWdJLUU2ekhIZTJ0RTl5c1hqZnZVRW1nRHhvLTBqcmpCZlVrVXpyQXdybWFVSEp6ZEphSm9lYlJmODRLbmxFWHJsSnpF?oc=5",
+        "pub": "2026-11-23T08:04:00+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "En exclusiva: Zuleyka Rivera comparte consejos de pareja",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaVNQZU5aZ240bzhzMEgtSXozTGxhRFdBZ1VVVk92MGFXWHNmbTlDWHRtOTlBZjBiTlh1dV9MVGpWRktvZWFzZmRIb0ZjNzd5eGIwb0ZpVDhkcW5BaWRRQ0lEVmVWQU1wVmd2bDNSMWZNQ1lFd0lnSzFPSEVkT1Q1V3dnay1qbjJna1FlLUtEUXFjUUlCbVliWWU1X2JHb25wSEs2UUVoUkczT2tqVDItRVpJQVowdEZiVG1lMnhYc3h2NWFpOVo3WjU1X0pyMlVBVnc?oc=5",
         "pub": "2026-11-23T07:45:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Max Peraza inaugura su quinto restaurante y recuerda su pasado",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZjlTV3phM2dyUGdPckxLWm1mdnFKSU0yWTh4NVBFbFBCcnAzbm0xelBOUWpnTjBaNmx2SFAtbnh0RmhkTVdUY2xuemxSS1MtcXRBOWFtc19XdWQwXzJvWUdaTDh1MkJJS1oxVV9ZbGEzVHJGN0tkb0l6UkdrNWdTMk1ZMDlESFJZZzFiWVFTY2Z0cFN3b1dpT3I3VXc2bUE0SWttOHRrcmowUnRzQkYySjVBcDVsbHh0aTJnZEIyWTFURXBQU0VFcQ?oc=5",
-        "pub": "2026-11-23T06:58:00+00:00",
-        "outlet": "Telemundo"
-       },
-       {
-        "title": "Manny Manuel es detenido en Puerto Rico por presunta ebriedad al volante y rechaza acusaciones",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN19BZkVtamVvUDRnUU5ZZEpJdmg1MnVzbUlkRklnbW9nU3NRZ1hvU2pEbU5tYVMxLUhCYUJkVnhWMXhleW52aEt6eTRVSlVzNnhwWU9xWTFnTzRSOVdqZlFLVkF2NlkyRlRCSWlPc2l4YzNfZWxTNFlwcTAtazFjSjhjX3JLekI5aDkyQTY5bHdNLV9wRlk2UkZHVmtpZGhiR1FuSmQ5a2pTSllaRVFiOVRMeTU4RnVheWRfNTRqTHJsSXFoWlNBeldzYmZKV3Q5dTRWRGQ4d0JpaV9HRERVWHp4cFdNd0NQMm01SHJnMWdMTUZDcTNwUU5R?oc=5",
-        "pub": "2026-11-23T05:20:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -366,6 +354,12 @@
         "title": "El ICE recurre a delitos menores cometidos hace décadas para deportar a personas con ‘green card’",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcUR2RzlSTUw0dlpiRTA2VGd3Tzd1cklkczZlOTBFS2dzNlBNdWNpQ1hCMHBkR1VnSjl6M0RhaWcxMnpUV2NyOWlBVG52eTY0eWxHMmE2TU56WHdQc01FWkNVUlItZWJ0NVdxYWhjV2FLMkFyYzJkbXlaLWhQVHplcUFUb3dWTWJmQXVzMUpIUEFBQ01NVW83ZzZsLUhjQjNTaF9JSmV2Uzk3LTFERkI5dURkbmlKQjRaUXlrR3dneFl6ZFZ1MXRLMHE3WTl2d0xSLVdGRGtVNTUwemPSAe8BQVVfeXFMTWpTa1NOLWJPczJlQ0lhbTdza0s1RHpCa0dJSWZuY2lDdjFqNDRnTnphazZiLVZkX2UwLUVZX1BCYmYxVHZYd1lNdnBzVC1EMVg2ajgzdFdOdndFUm1zWndKQlozcTZpcmpyckhiMk1EdS0tQWZOLUh1Uloxc1FpUnQzZkVDaHozQkxXSXpaM3pVbE4zZ0U5cGhXUzdMejl5SUdSazVrdUJZLUlEaFFEY3ZsLWF0OVRBbEFfYmJwZTJKT0MzcjMwZmFkRHd5M0o0dXdJWjdWTEd5Wm1YdkdCRzZRU3hCMHlzNi12eWlTUUE?oc=5",
         "pub": "2026-11-23T09:30:00+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "El padre y la hija detenidos por el ICE en Seattle son solicitantes de asilo y se dirigían a un bautizo",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ05Zd1RfSFA0SFZnWVVxUm00dllQYV9manY5MHNqeEVXZVotbkdrdmFYWHE2SDBtN0tXRGg3VmFGbmlVaTVGcU9OQVVoeUl5UTdTZ0Y0U295ZW0xbHVFLTBZQUtUSHBRMEtadERJRGc3VF91dXZTTXVwaG1xOVJ3TzRDamZjWUlMcTVFWlJRZXIwbGMyeHZES1p4ZjNrRmlBNHpRckhZRXJ4WEdGbkJwZ3lfNFB2cDJ5YlNOS2daZ1MyeWthcllXWXdvSm0xQkZFTWpsWnE2ZWjSAewBQVVfeXFMT0ZFRVBCajB1Qm1TRWlySjl5b3RydlNMRDBIcXhsRXJja1JqQmtIZGtpNUhBb2VlNi1EMzFTcGk0eXBDOGFSWmJGbVU5eVFIV2xUbk5oeVR5Q2gwNWh3V2Rva1oybzIwbHlmN1FqbDlzNHo5QnI5aFRvSVRVd2tjVlFRZktKQWZoV3ZnY1pyWXZITl9fM2o5dWg2SExTRjU1SE1JQzg0WlF4UDdTUm1ReEhwaUV0c2g2VkFBQVpId1RNdXZFWVJBRW03NlZQWTFTZXNDLWY5RFNDQ3RLcFg5Q2JNZ1BCUGg5VnQwMFM?oc=5",
+        "pub": "2026-11-23T02:49:12+00:00",
         "outlet": "El País"
        }
       ],
@@ -393,15 +387,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "¿Por qué se dispararon las acciones de Nvidia tras el inesperado anuncio del regreso de Jensen Huang?",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbXdyZWxwbWNIVFJRd0R6NEZlU0MyYnZuR1hMWWYyTm0yUVZuaHlaSVBJM2hTMl83S3Z3SnNRMlRJeEtIUDRTWFd0WWhoaG9CSEpCWGR0S3AySmpYWnRGVFJTSVJ2dDRWQlJ6MzRacHdVRGRtNGJvYlEydGNvSnVWMTNaMWFYQ29FaDVDMUVNTnFoNGNjSUlCN09DMWFxc2NTWGFwbUdHcTh5UUctVHhpaHFLaGw3NHpPdzhBaFF6R1RmYWx0aVVzdXREVlhheXBjVWdSa1daVQ?oc=5",
-        "pub": "2026-11-23T19:44:00+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Los inmigrantes han generado un superávit fiscal de 14 billones de dólares en Estados Unidos en 124 años",
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY0xjajZJSEd2SlU5bEZnV0Nrbk1pZ1llaGE4N0xueFpheElqUXBLQjVSanlaR3BYXzFlSkNiOHJMejlya2RtbjJIVzNfMk5DWUx2d0pJREdRZjJMUmFUOFVoc1VwNklMSXFJSmFVV2c2MnZ1OVQ3cjBfaVdZUEdOcXRsckQ5YVgwSW1ySFlfZWY1bk96V1ZrMFVjSXFHejNydTlPbjNGdVc4Zm5SMjBoN2thbEM0NFhYOHRHQVhlQlY0ckZSdTd6X1dNMEVSR1pZT083RHhiZ1JaLWtvN0l5bDkyd3VQVVYweE1vSmFSYlg0VEZGb2M0ag?oc=5",
         "pub": "2026-11-20T06:03:50+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Golpe al bolsillo en Thanksgiving: las cenas de Acción de Gracias serán más caras que en 2025",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMlNobkdCMU45bFV2MFhTRWFaSlh4VTJ4d082Q25MdUxOWG9KbDFoc1lKdkVTdlZ2ME5ZMzY0OVdtZlcxbEVaY0Q1THVzQUR2eWNock9tQ3N5VHZKZmlhaEpzWGRXX19yVnVZZkpEMWtxdlhxMkc4MmlxaDVQUmxqdXFDaFNwa2VNc3IxdWxVVm1UamZnWW80OGhiQjhlcUs3RFdSYWx3TU16NVUxaEFPaVZkU013bDFmOV9rdzZsTlA3bXkwRnpvaTIySGo4TmhPMXY1cHZhSExibVUxNVE?oc=5",
+        "pub": "2026-11-18T23:45:47+00:00",
         "outlet": "Univision"
        }
       ],
@@ -467,12 +461,6 @@
         "outlet": "Fox News"
        },
        {
-        "title": "New York Dem addresses bizarre 'lizard people' claims after viral clip behind Mamdani",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1hxeEpoeGNQY1dNRGhQTkdMMjIwQzM3Tmd6aldrSURKbEw0MHZkbGNhWXJHTHNWQ0Rlc21uNWV1SUc4SDAwbUplN3VjNnFwcUR5dnhPWHM4a29pcnk4TFhHLXlfRDhJdGh5eXR0MjRLd2ZrX2FWNDQwMFlJZlE1TjFuNll3Q1pxWEFNS0FTSzFCVTlTVUh0bXpjanhKdlBhNHZscnlYZG1BdEx0YWNVSkJrV3MyZjDSAbwBQVVfeXFMTjdMU2lTb3hDLTlhVGk2U1dNVy01RkNCa1VXVVp6Umc5SEZHb1BuZ1lUa2QxTmJqYlo5ckQtN21sLUUxWjdRUWZuVzF4U1FKTXYyMFdsOWJFZnRubC1ydDhkZVJ2N0c4RXZRWEpYQkZlWVVzMGQ5eTZTaGtXV05LdUJrM0hoRklvbVVLc3B5N1dTdVM5RVUxQjJBclVTZDFZRWg1cDFyMlBWQlMyUlFnQzZieVlvYkp2YWdOZlA?oc=5",
-        "pub": "2026-11-23T02:16:02+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Man convicted for role in Tessa Majors' 2019 NYC killing released on parole",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOak5USVNXZXBfZDNGRDl2NTZwQ3pmcmFqdjFYOHIxeDgzWld0TjVaSjNtcTJYdURMbU1HZkhuc1Z0VEJLZktkc0FtRlZJdVd2UGJIMlJsMjVZZDBSNjJoZlVKTEM3MmNKQzUtb1dQN1F3U1Q0S1RBVFJqbTBMWi1lWTlCSzRVeE45eXUwRXI4bkxaSjVwbXfSAZsBQVVfeXFMTnB6RGY5Ykx5S1JUM3ZrNURQZkM1ZXFhempRcmZWeEZvX2lySkJGY3pSUzlsbWxuV2hKLTFIc29Pc3RfNGVkZnEyWWRkaHlCSURYZEkzVUtiTFVNbXRNZ1lEY1E2UXlGZnJ1bU9xWEVVakpIYUNRTGYwRmJEQWxZRUZnY1NqbHhTcC1iekFDTWpVNUJzZWZMRFZ6Ync?oc=5",
         "pub": "2026-11-23T02:34:57+00:00",
@@ -482,6 +470,12 @@
         "title": "Trail camera captures rare mountain lion roaming through Buffalo County, Wisconsin wilderness",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMk5ud285TlhScWFLWFVLYlFucW1zOC15bjdoNTNKeGdEaHUzM095a3NxNFF6NzdscktsQWNVYVVwLUg4aVEtMGNjYTdoa1VGNEEyeDBDT1BXSXZoLU1NaGpkeE5Za0xUeTZ0aDAtQVk3SDFDOVhNZ19wbjkyRFhRbl9HUFl2czNfb2Z2dFdSRHlma055UGI0Q2xhZC1WbzVuYUs5RkZPRnZwV2lydEFmZnRXQTNxd1NEZVhMWlFFVkpUUQ?oc=5",
         "pub": "2026-11-23T14:01:04+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Giants pass rusher Abdul Carter celebrates great game by proclaiming 'Allahu Akbar' on his social media",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc3NqRW1iVTVVeG1KcHJuYUxwbHZLN2U1VDVia1hMQWlOUHJrSEZnbEVfbHhtWnhkSGRNRTlWWUV5dkJUM0NHaWZpN25OZkxuZUwtQ3YxaEhvbEt3bGZwOWk4bzdwbUJHSjY1QTB6X2pWZDB2VDlVRW9adnFWd25OQ2ttbXc1SnZEUVFGQWFRSW5SRzJHOUtpeEZJbzhkOEhBOFh2eFJRak95RFllWi1iUnVzekUwVkVrX3dZOVhWZkhtbzlLU2VSUnB3?oc=5",
+        "pub": "2026-11-23T11:40:38+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -517,9 +511,9 @@
         "outlet": "Fox News"
        },
        {
-        "title": "Indiana's national championship defense on the brink after overtime upset to Washington",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNanFhNUNfUmZkN05FUkI3bkstMmdQczhJTTZ2QmFBaU9LUXFNSDVuSFpYUFl1aFZNaVZZbFp6UzBKaTNKaFdLN3BZSVc4Rlkxc0VsRTRaN0IyX2oyU2l5YUpPNzEzT0F5aWxIcjNLUXZPcDhqV2M3SlE4OG5sLVp4YUhKejBZU19fSlVyNkl2S3Q3M1g0TGRfb3VLNDJySVFrU0xuamk1a2I5UnVSV3c?oc=5",
-        "pub": "2026-11-22T02:20:10+00:00",
+        "title": "Bengals Joe Burrow is chasing history, an MVP and a Super Bowl on Monday Night Football",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1FTSFpLUkE4UmRQRzhxcTh3VnloQ3VxdVUxTGFjVTVfRDl3QzhLOVZpY01XOUhqUDNpaDI2dkt6T3AwTjhCSWx3Tm4wOHExZklJRzYtWEd6ZGdSM0Fycm1CYmwyQ091QzJhV2NfV3ZGOVlxbXBHNERUYnJNR0RfN1NUdEp0a1l1MFN5eVNCdnprM0tNMmNSNUhIU2RXdEU4RFRlRHNHYWF1ci1hdFZZ?oc=5",
+        "pub": "2026-11-23T16:43:30+00:00",
         "outlet": "Fox News"
        }
       ],
@@ -531,21 +525,9 @@
       "name": "Fox News",
       "items": [
        {
-        "title": "Ronny Hallin, who played Maxine on 'Laverne & Shirley,' dies at 88 after decades in television: report",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbXU5TWdhR1VDUUl2bVUzM1dZZF8xaVJZWXVPR3dZZm9iN2JxSjhUMEU4T2IyM0YzQjROUWs2azVPbUoyUE5mQ0dsZEdOUVQ1UzBRRTdrTUUyMXpGSzljV2x2OUZEd2M2ekxJQ3d2TVp1M0o3SWdLcnRXem5BWFEwTXdGbF8tVnRWWmlXTTJ1enpPZ2VPOG42QnJZOGRqZ2lsWXdUUWFtQ2lLT1AtLVVYdzg4SnbSAboBQVVfeXFMUDhhNG40bEdYTW1NLTVkUHhPZHl2amVCeHFZNHpYQkVwaWMyMWVHWFlicXg0bnZuQnVaQzNUSjdwdjFTcEJ4Q0R2cFJLeW1HVDBiQU5zQWpDbGt5Zkw2aWN6UnBPOEdsVW9xbDk1RWs4bmhvMDE2dWhFLTFpVE9tYU5vLWQ4cVZFMHRneWk1c1pZNHJkX2cxV1JGNEFFdEFyS0FsZlRDVUFWWXBndFU4LUpud1o3empTR1pn?oc=5",
-        "pub": "2026-11-22T02:05:15+00:00",
-        "outlet": "Fox News"
-       },
-       {
         "title": "Robert Pattinson becomes seventh actor to play James Bond in franchise's 60-year history",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY3FGTWhERWdJNWZJbC14SkJldDVpX3RtazZGajRGUy1tR0Rad1dhenp4X2F4dDVUWXVnUjBrRTdWdDNETUdscUpxdmNYeWVHRzFMOGllQV9IUkdwT1BBaUE1U09wLUJuM1NseWRlMTVibS1jZ1k2VE44c2NMSUxYQnJ1bmU2OExnbVpkcmd3M0tVUmdkcGh1eS1ZRy1FOUZHUlBmTnVCdkpWUHVQS2EwcnhhRHZhbDdXN0xn0gHAAUFVX3lxTFBuM3ZJbEJYTHVOQTlfcy1ST2Y5WDlBeHBsS1ZLellqTkFwVl8xdjg4am5OU2pzN1dTZnUyR204eWpSNzdwZkhweXNFNmhqZzlab0x5WEVhclZJQ2duYmNiRkoxRmxHY1plX1FfWFBneUp3MFRHX2lSLUVmX1AwWFNsWDlraWd5bTJCbmJNaXRvcFgzc2thOFJzb3RwRGFlajJOTnJTbWRJYUxDYVpPR2FCT0dVS09qWWdSZERIeUFWcg?oc=5",
         "pub": "2026-11-22T14:00:21+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "'Yes, Dear' star Anthony Clark's cause of death revealed: report",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTDFNQnYzc2dBcGI4Yl9Rd204MjhTX25yZ2wtSnNoM1I2UHg0dE9qcEM2a1lFYThRVXhUd1o5ejdxQXBBYjRORFZJdFNVUE9VTVJkYVBWRkZ5eXhzM3ppNnB5dTNDRHkxTWRjdncza1VPd1ZyUUIzVERTdFRCcENQT1JscnQ0NkpxUWUyRzNkQUxvMlNaX1E2M0Fn?oc=5",
-        "pub": "2026-11-22T23:55:46+00:00",
         "outlet": "Fox News"
        },
        {
@@ -555,9 +537,21 @@
         "outlet": "Fox News"
        },
        {
+        "title": "'Yes, Dear' star Anthony Clark's cause of death revealed: report",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTDFNQnYzc2dBcGI4Yl9Rd204MjhTX25yZ2wtSnNoM1I2UHg0dE9qcEM2a1lFYThRVXhUd1o5ejdxQXBBYjRORFZJdFNVUE9VTVJkYVBWRkZ5eXhzM3ppNnB5dTNDRHkxTWRjdncza1VPd1ZyUUIzVERTdFRCcENQT1JscnQ0NkpxUWUyRzNkQUxvMlNaX1E2M0Fn?oc=5",
+        "pub": "2026-11-22T23:55:46+00:00",
+        "outlet": "Fox News"
+       },
+       {
         "title": "‘Dukes of Hazzard’ star Catherine Bach says co-star stripped naked except for cowboy hat to cheer her up",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQelVOc1NMQnhHV1EyMWZoOG9HWWF3SFJ5NHVTb2w4c0hrWjE3YjVWRC0yY2cxOUlnWlc5YVhwS1VLeEI4Q1JScnFRV3NFZC1uOXkwX0RCdjdKX0NRYk56QWhWZzdFZ00zaVhPaVJXMC1DdWZRWGFTdzQ3Tlo2Y1NHRDNiOFc0YjlkT2h2N1VtY294TDBQTTZFbjBudDBwWG9KR2tRME0tLUxGZnBxQWxsVS1EczJPbl9PdE9pTGlYVnQzZFNoakJ1R1930gHPAUFVX3lxTE1GRmFZajBKbFduRGtONDlIN3prNnNteXQ1U3NuNnhWYWFCNEJSUS12M0dmSkhGc2tHMFJQQ0lCM095VF9mVlkxMUdvOEUyQjgyOUw5Q3plTEMwS2JXbDFhcVVVbGlKWkc0bW96dENCUjRMYnNsbG9hY2JYemsyWFBqVHdaR2RiYW0zcEVFMm1fRzRUTnZzRzhqeTJMaFpaR0VrWWpWS2xYWGRYWjFSQW5vNG1UdEZEaUhCTGRnWXNESGhWcXVvZTYzMmFKQ2VTSQ?oc=5",
         "pub": "2026-11-22T17:00:04+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Famed NYC restaurateur Keith McNally hospitalized after getting caught in France protest chaos",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHN3YWlmQkI2VFBjUTBzbTZOU2xKUzFEUG9ETjRLcDVKNXRoM2prWFlIbzQ0RkxoRkFmbzZNZFBEUE9OVThacDRlUGdTWkpPSHl1R2RpNEUwMWZ3eXRIS0t3VE9LUlVOd1ZMZ2lHZkdVdEVBck40aXE2cWYwQ3BpeE9uejFfV1dxSW40Wi1VVTI1eGpKdmtJMHpxbzBQbUdWSjh6OTRTSDhuNVJEekE5WWVBeUp4UdIBuwFBVV95cUxNcGZ5YUw0R2hSNGNDNVp1T1Zna1V1eU5jMlNHSXJ6QkZVOXBoaXpITjZ6dzBQR3dYOEp6N3FKU1doZHBSS1VCQ01HYlJ4Q3hvaDNraWo4MERTN2RFRGgzY1o4SEZIeldzaWx1RjRLQy12VC1nU1lYd1ZMWmpOVkRJYTg4RGRoSzBJcjNWSmhLTC1jdUJZdDFtVUFGWkM2R2lyeVpoc3NvUEYwNG80d0ZKSlk2TVVzOVM3TUpR?oc=5",
+        "pub": "2026-11-22T16:17:40+00:00",
         "outlet": "Fox News"
        }
       ],
