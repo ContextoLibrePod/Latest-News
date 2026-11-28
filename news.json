@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:30:19.953619+00:00",
+ "updated": "2026-11-28T12:29:45.244979+00:00",
  "categories": [
   {
    "id": "top",
@@ -56,10 +56,10 @@
         "outlet": "El País"
        },
        {
-        "title": "Elecciones generales del 29-N, la jornada de reflexión en directo | La visita de Feijóo a Ceuta, en el límite legal en jornada de reflexión",
-        "link": "https://elpais.com/espana/elecciones-generales/2026-11-28/ultima-hora-de-la-jornada-de-reflexion-de-las-elecciones-generales-del-29-n-en-directo.html",
-        "pub": "2026-11-28T11:13:14+00:00",
-        "desc": "El ministro del Interior visita el Centro Nacional de Datos desde el que se seguirá la jornada electoral",
+        "title": "Feijóo viaja a Ceuta en la jornada de reflexión para pelear los últimos votos",
+        "link": "https://elpais.com/espana/elecciones-generales/2026-11-28/feijoo-viaja-a-ceuta-en-la-jornada-de-reflexion-para-pelear-los-ultimos-votos.html",
+        "pub": "2026-11-28T11:33:15+00:00",
+        "desc": "El PP afirma que el candidato no tendrá agenda pública ni participará en actos políticos para no infringir el límite legal",
         "outlet": "El País"
        }
       ],
@@ -77,7 +77,7 @@
        {
         "title": "Desfile de Thanksgiving de Macy's 2026: a qué hora empieza, dónde verlo, la ruta y todo lo que debes saber",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ3hLMThhY3NtSDBSWmUwcTBzaEpjdzZmcXJ5YWN6ZGs0M1RYcG0tSnFvczZfcnFpNHFObjZVbTQ4cjBIMTBMdlhoSUhFa0g2ZWwzTGlWYUxyV1p4bllZbEFOT2dIZHNGTHh3SjFBNkVQb19zY3ZzbllqeUY1VjlEckZiQS01LWYtMVhRTU1hcjZmSmxjcjdPNXJvM214U1QyeEktMFV5em9WN09DTW0xNWs5bGNQWjBhUGh3cHNsMk5qVFZqaUxIdGRTa0RFVF90LXYzVDgwSzZNejRyTDM0?oc=5",
-        "pub": "2026-11-28T01:38:13+00:00",
+        "pub": "2026-11-28T01:41:58+00:00",
         "outlet": "Univision"
        },
        {
@@ -105,6 +105,12 @@
       "name": "Telemundo",
       "items": [
        {
+        "title": "Miles de personas amanecen sin luz mientras las tormentas complican el regreso a casa tras ‘Thanksgiving’",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZXJ6ajNyN1hLQjN3dEJtLWNORVd6LVlENXJzd3Jwa1dBQ1BsaWM3NFl3WHJrVVJLakVQSEFSVUNNcTdETkVjZ0RsTHJzc3lBbXh3MlZycF9MUnpsRmEtRkJvSXQ0RlZPRWxHZzB6V0VSa0szTnlXZkVrd0stMHppVWQzeHcxckpnWEVESEhkeFFZQ2d5TXRraWxUTElRcEN1MHUxUzFZOFRjTktEQmVSWEtmYVhTNDZoOFZQUVZqeUI1WjdoWEUxUVFrUWtMTXVLNFpnQTJncDhwZ28wb2NqZXZYZXBMSS1QbUdZ?oc=5",
+        "pub": "2026-11-27T15:00:24+00:00",
+        "outlet": "Telemundo"
+       },
+       {
         "title": "El sorteo Mega Millions de Black Friday: estos son los números ganadores",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdTNsalhnRU9EV2NiVjlmdmw5cU9HN0hBb1hNandMZkxmbWxnN2lKdzZlRVdMeEp1ZjdMS0toN08yM3RDV0IxT0x3eHZiTktQUVNOeHZWNXNSRTJHQVh1OVh2ODNrMC16UDFKT1ZNc3lBOWZEV1d0Z2RFeng2enVuSC1PYVlxaGVBY1FvV1N3VnBLWnRWOXlZSWZfRTM1ZUVxbmRXb25ORGhpQXh6RUYzVjdaSTVZSm9Wb2YyTFRMSm9WZw?oc=5",
         "pub": "2026-11-28T04:20:00+00:00",
@@ -117,21 +123,15 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "Miles de personas amanecen sin luz mientras las tormentas complican el regreso a casa tras ‘Thanksgiving’",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZXJ6ajNyN1hLQjN3dEJtLWNORVd6LVlENXJzd3Jwa1dBQ1BsaWM3NFl3WHJrVVJLakVQSEFSVUNNcTdETkVjZ0RsTHJzc3lBbXh3MlZycF9MUnpsRmEtRkJvSXQ0RlZPRWxHZzB6V0VSa0szTnlXZkVrd0stMHppVWQzeHcxckpnWEVESEhkeFFZQ2d5TXRraWxUTElRcEN1MHUxUzFZOFRjTktEQmVSWEtmYVhTNDZoOFZQUVZqeUI1WjdoWEUxUVFrUWtMTXVLNFpnQTJncDhwZ28wb2NqZXZYZXBMSS1QbUdZ?oc=5",
-        "pub": "2026-11-27T15:00:24+00:00",
-        "outlet": "Telemundo"
-       },
-       {
         "title": "Noticias Telemundo 11/27",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQm5WSFNYNTdPbnluRzZaSkduVHkwWktvRm1OcGYwZ1l2bWRaN1NVeHZCY0hoaWRKYlEycHdpTjdNWVRfTUJ3dUFCWGdDTE5wMUo2M2trOFVxRVRLTmRjM2ctbHU3cWE1S2hxWWM4aWFySW1oVUxjNTUxb09sVF9jdjFqbGNMZHk1Znk2a2V4cFFMQkJMMG1tTHZqODQ4bGlZUllrU0o1VmZlUG40aHhGNk95WS14R0FmR2ZUamVRRW5hOUNfRDBUTDZfaw?oc=5",
         "pub": "2026-11-28T03:50:00+00:00",
         "outlet": "Telemundo"
        },
        {
-        "title": "Noticias Telemundo en la Noche 11/27",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOXg5ZkJpZG1JVU1qTUNucHBOdEUzLXJNZG1pZjEzZVQ4Q1lXdVRFVVpZNUM3SDlJVU1xQ3IzclRnQWlyNjZ0elhSeGNURWJKTkpjTVI3ZjlZTXBsay1UU2Y1a0Z0cnhhcXBrVWVTUlJpZy1KWXBoVUlhQ1YwVmthZFE0M1VFczFzb0dKVWZDVzNvYVk1SGdGQW44ZFF1UUJDc0ZGQkxuRWRqclFxZUUyZmg0X0xwOWNKamxEbUViWHJUWTVhWGstcXVMNWlPOFVJTDF3Z0RhOUFHRUR3UzM4VQ?oc=5",
-        "pub": "2026-11-28T08:29:36+00:00",
+        "title": "Demandan al Gobierno de Trump por ir contra gente que critique a ICE en redes sociales",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFlyTkFYWDRla2h0YXE5NFZickV4enQ2aXBZNTJTbFg1UDJ3VlgtbndUSFl3QVNCeWI1bHBnWUg2WVJ3eXpJTzQtNkFFd3p3VGIwQjY0ZnlDbTlZQXUxRS1rQVg1bm1mdVNZTDFBRmZOeEJjVlhVSnZieGZmT1cwZFJaM2JjQU51aXZrWE1nY1JtYzZDNzg0dmVhVXdJTFdGWTVNclBzOWxZYVJsazN5aGdFbTBMUEdWQ2c?oc=5",
+        "pub": "2026-11-28T02:16:00+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -161,15 +161,15 @@
       "name": "Univision",
       "items": [
        {
-        "title": "Hija de ‘La Venenosa’ se pone implantes de seno: “Es mi cuerpo, es mi decisión”",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDNZR3J4NjhiVmNzcWR4bTNDOENYbEMyTjdGZzluOEN3YVV3dURQZHUzbW1kNGttcUZYOXhQTVhBbC0zUXBnY2NneTFQTGxkTmpwVUhoOFhaRndmU1piVkZXS0VaQU84MU9uRHl6MklNd2hXNGhEdW9MVDFTWlBFdDZXRjVjR18xUDdEa0xaZ1lRYldwY0RpZGMycmh0US1aQWFJWERvUkw1SkpHYVUtY0Fidw?oc=5",
-        "pub": "2026-11-28T00:11:00+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Ex de Ernesto Zedillo Jr habla de su relación con Michel Kuri, expareja de Lucero, ¿fueron novios?",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUxyWlR4NmZEcGwydzBjLVJTcnMxQm4zRWRVUEhjVWYtUFVxU0twTFFhbFhOaHNKcW9XMTlBTFotZUE4ejR4cWR6NFJDNHZjemlxc0NXbHR1QjlBS3NpZ2laSlBfb2loN0VHekNFQnV2NFZiVEEtQm1DYkRicU9HLTZNajExa2ZybVZKenV1YzVZWklvQklmUUNYWHJEMXZxeU1kTFBiSFA?oc=5",
         "pub": "2026-11-28T04:28:27+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Hija de ‘La Venenosa’ se pone implantes de seno: “Es mi cuerpo, es mi decisión”",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDNZR3J4NjhiVmNzcWR4bTNDOENYbEMyTjdGZzluOEN3YVV3dURQZHUzbW1kNGttcUZYOXhQTVhBbC0zUXBnY2NneTFQTGxkTmpwVUhoOFhaRndmU1piVkZXS0VaQU84MU9uRHl6MklNd2hXNGhEdW9MVDFTWlBFdDZXRjVjR18xUDdEa0xaZ1lRYldwY0RpZGMycmh0US1aQWFJWERvUkw1SkpHYVUtY0Fidw?oc=5",
+        "pub": "2026-11-28T00:11:00+00:00",
         "outlet": "Univision"
        },
        {
@@ -221,9 +221,9 @@
         "outlet": "Telemundo"
        },
        {
-        "title": "México se juega el futuro de la selección femenina ante Haití: el anhelo del Mundial y los Olímpicos",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRUZMaC05MVpjWWdENG1UY25YWENyVzZ6V0ZjeFRnZXlwaDV4YjVsLXM1eDFyNU1EeWJrWUJvYkZaUkRBRmswZnFNT21XLWF0dU5JUkxyQ0hTT2MzYnBqOEkwc3NnM0llQ3NLd2djOFNOblJnZ0QzcU4zODZyMDctd0Z2OW1QR01URkpDZ1RBVWtZUUpDal9yZjdybXVPZk5oTXJLNjFiRVJSUk9JS21XODhUbVdPcThPb2ZYdHJZaXNQMHA1YkpRYXhJMGZRV2lIVlhxdV9wWWQ0NmkxQUIzRlp1M3p0bWZ5WU9PSkRPQjVKejdjOFJhUA?oc=5",
-        "pub": "2026-11-27T18:37:28+00:00",
+        "title": "El Pelotazo 11/27",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQanhRNXZ4Yk9SVXFYUHhtS25NbFM5WTNLdHRvWFA2MWxpSzFvTkZkSnRwWm00ZkdMV1hwYnVnQ1p4NjVkcDFnTmh2aFZDWmxzRmtwODJmdEJsWnBtWVMyNkJRcTAxa0kyZHQtekN1akZlY3pueDE4eFNGOW1HUURMNXFVU0ZwWlE3MUlIMENyOC1DYTkwcUMtVERtb29TT1BkbHNBWlVGd2kxZw?oc=5",
+        "pub": "2026-11-28T10:45:07+00:00",
         "outlet": "Telemundo"
        }
       ],
@@ -233,8 +233,21 @@
     "ent": [
      {
       "name": "El País",
-      "items": [],
-      "error": "No se pudo leer: HTTP Error 429: Too Many Requests"
+      "items": [
+       {
+        "title": "Las tormentas dejan más de 900.000 hogares sin luz en Thanksgiving en Estados Unidos",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaExDOXR4Y3BxaGhrMVNMV21LS2Z4U01uLTV2TUtpX292VC1qUE8xQ3N5WFI2UU1tSUpCQWtEcnZPLXAxQnFFSFpJMVhDU3hEUHU2cFc1VzdZdExFOGNOM04tQXVhTklDU0gyVmZKZzl6T3hibHpFZEQ3c3pENGttd21ORWdpTENNeWV6Ty1Edk50bGZnUm84ejVwQUNQem1kaXFSZzBnQU81OUZoekg5VnFMQjhDaFZQQnM3SUhR0gHSAUFVX3lxTFBXNkhTU2ZRSHZpWERHdFJoTTJlWUxIUF9oRk41U1Z6cDFLaDVERS0xNWJ2azFvTGI5V3RLdWpEYnVZOW84Z1lnaG0xa3FGMjVTeWlxN2ZyVzZsNlJQYmxWeWpBRFo5VjBrenJ4cE1yU2V4TXJFRjRRVlVsWW1YMEl2Y3ZEQ2NaWEtRTDVSUk1HbmlFUUZCQlZUSFg1cThvaU1mLVVGV2lVZHJoMGFTTHp6VW1tYlJKdFNja0RxUDktTm9UMFVUa0c2dDF3bUc1OUNaZw?oc=5",
+        "pub": "2026-11-27T04:10:09+00:00",
+        "outlet": "El País"
+       },
+       {
+        "title": "Samuel Vilchez Santiago, representante estatal de Florida: “Los demócratas deben priorizar una reforma migratoria”",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQby03RzlITW5zVWRUMExOSmR6YVZBVVNGZUJsS0l4MExSWk0xUlk3SmdValNLMUF4ZC1ZS2VnR2JZQmJnSUN2eEZ2aHVqRWd4NkVxSV9FeGplbldoUmhOdVZ0RTVnY2lmT2ZkNnBCajB6QktJb3prd19GSmVmZjBSM3BiZzFEUUhnTnZiZXhoUU1zRGV5azJKTE5hQkNnUnpjSUlsdFA3MXQtUmR0enhBSkR3MjFpX2xqMTh2a1FqY0VkNUpYbnFmODBJTVQ4QWRIUTdDN2FqUTRCclRRY09CMHg2YTkwWnRSZGI2cERfONIBgwJBVV95cUxQLXRmVVpUTXgyMHB2dElDV1k0cTdWMlpQZ3N5Y2lXX3Y1TG9sWHFNNDJxdjd3WUQwdF92Njg1WGVQOVM3Um95RjlSWUcxTXZZMWxSWDNHY1VIeldBX2xTRzBsb1pZci0taEgwZXZVTXFKNmlDWk9Qc19MOUlwNnFqbUZGTk4xNW1kdndzU1ptNFA2akV3clRkRTRaN2dRekdGYlJ0by1KdXNOOE9oM2xJM0xNVnczcElmS0kydi1Scy1SLWVscFQ5U3FDMVhqYk9iUlM0MmdsTk9LaU02UGdqa3JvMzgxNWdTM2F2RHNsV1l0dHgtaDllUHNHajhtWE9SaHBR?oc=5",
+        "pub": "2026-11-28T09:30:00+00:00",
+        "outlet": "El País"
+       }
+      ],
+      "error": null
      },
      {
       "name": "Univision",
@@ -246,15 +259,15 @@
         "outlet": "Univision"
        },
        {
-        "title": "Famosos",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5veFpHbVdmN1hscTgtRXY3cDI1REJNTkxjU0pVNWdLNEFLb2pxTlVRNjMxN3NqUm1WZW1heXpITGNHS00tN0JaMEs3SWRjQ1Y5SXZKZnVhWUZiTkI4eVE?oc=5",
-        "pub": "2026-11-28T05:32:47+00:00",
-        "outlet": "Univision"
-       },
-       {
         "title": "Entretenimiento - Página 2830",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MM21uMzVPWGFFSC01bko0ZThLMG45dUwxdEZDSWxZNlk2Sjg2b0dJckcyd3p3LXVIdFhzYlRlQmo0Z3huQXBCX2tiNVpwRUxYbDVSRmQyVnBjQVlHclhlYVhxRE8xWnh1?oc=5",
         "pub": "2026-11-27T07:59:37+00:00",
+        "outlet": "Univision"
+       },
+       {
+        "title": "Famosos",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5veFpHbVdmN1hscTgtRXY3cDI1REJNTkxjU0pVNWdLNEFLb2pxTlVRNjMxN3NqUm1WZW1heXpITGNHS00tN0JaMEs3SWRjQ1Y5SXZKZnVhWUZiTkI4eVE?oc=5",
+        "pub": "2026-11-28T05:32:47+00:00",
         "outlet": "Univision"
        },
        {
@@ -264,9 +277,9 @@
         "outlet": "Univision"
        },
        {
-        "title": "Luis de Llano afirma que no podría pagar indemnización a Sasha Sökol: vive de su pensión",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUhXc2JXWmg4aWNVb21SMWEwNHQxcDEzNURyeUl4VHFlOHBkTEN6Sk1TVFhwbzdvRjFmQVlVcndKNFFmeHA2dUE3RVdMR3F1OG1JWWp6ZGQ4eEJITWlRRTNHM2xpNzBvZU1SX0RKSE1UbU0zV1BJeVZlSTd3YWhESGM5WElqR3lIMlhrV0RsX2V0Q3BPbmh1VkFXREthLUdBWkk0cTZJSmtRMkl6c19LTDU4T09EZGI4VHRTbEEyU1lpNE1WVGc?oc=5",
-        "pub": "2026-11-28T01:58:00+00:00",
+        "title": "Hija de Lili Estefan narra cómo supo que tenía esclerosis múltiple: su cuerpo estaba “paralizado”",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLW5SYlZFVFcyVHpWM3d1SnZfckp0bGp5d2JYMi0xa1V1ZnJwNnNFX3VlSGtPU0xtdFVxdmJRMnhWZDBSTmRiNzd6ajY0U2FyRzNnYkhmYXhUWmJYYnNfa19kZWNXMmNGNHJ0d2M1d21QSjhtMl9tb3FCUEw2eTZDLTFuLW5lcnBBN2NXLThSZzJxcjdPWXdBSzk3ZXlfUXNCMkYzcTRNeVRfbVpBS052U1lzREV3anduR0pfN3loSUNhZG9PY2s3S1N6ZHZYZVU?oc=5",
+        "pub": "2026-11-26T12:53:00+00:00",
         "outlet": "Univision"
        }
       ],
@@ -332,15 +345,15 @@
         "outlet": "El País"
        },
        {
-        "title": "Lula elige al primer ministro de su próximo Gabinete: un banquero para dirigir Hacienda",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc0djRDN6d1ljZXl0VzMtaUtUZVZzYURQRVVwVzFPdGhVNFQ4UjV6bzA3WGtQZXFkUVBuQ1RtRlIxWjNMTjhvODNMRTJDTC01SVNmeTNVM2l2RWE2c2RhdnZvYWZ2REh3YnIyZzVySldXV2RZdmUwQ1c3cm1rMHotOGowbjdFNkQtRnJOVXpWR2VGWm1VUi1sX1lKWVlTMm95ZmhNdXNIVlVTNXlQMS1ld3hTVmdkX2RscjlxeDVtX1E1cFFHeTJUV9IB3AFBVV95cUxQNmsyYks4SjcxQnNCbUo2UjdsdDV5eEtnbXNZUzVqc3hxbW13dGVMZFk4dTQxWnQ0TkFMV3g1QXhpRE0wdm1RMjJmcnl3eG83X0VPLW1iODlfcWlKVkwzR0xKTkpXUVRqTTk1LV8yVDZiMUJoN0RwR0tmc2VFbTN5ZVQ1aVBfblFNQ1Y4Z0hsbFpQemlQa2kxbUpYYWRieGJvc1JKMDhpTmtjR0dhY2tLaWVacTVOT09VYW43dkpaWHBCY3lOWTRKbVJYMzN1eWZDODdBTmRuWk8yRnRD?oc=5",
-        "pub": "2026-11-27T00:14:32+00:00",
+        "title": "Los diez minutos que desenredaron el nudo para encumbrar a Hernández de Cos como presidente del BCE",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRDR3R3hSb1VZQTRweXh1NEtvaFVZMm96ZjdtNk84T1ZGZmRTWHVvOEJkOGxITGpQVlRiTUtKZTNLNEtGU1hGb2lVVGZ2MTZkNWtEUTZjZXZzYmN5ODV3aFVuUHFtUFM2MXFVQVdCY3lMbURwa1MzZldaSHVIc0h1LTJUWmRWVlZjNEt2Q05HTlFUMnBpb2EyRDNXNTV6SnYyM250R0pHb0FIS0hkVFlpUWVmUEtISnExX2NqUkhXOElmUWpoYWE5cDJnU2JDM2NZNkx4NUhwRFEyTmvSAe8BQVVfeXFMT2V5N01tSWh0VTVaRnZoQ3ctUkZkWjJUY1ZNc05YZnZVd0kzZWdRWHlYcUtkNVdwY1FweGxSbE4tWW5RTkVqY25pYlZLRVVkNUN3REdEc083N2RjLXROWFQ4b3BUVjJ1YU5vODF5WnhOTXNsM1NnbllOM05BMDZfZ21xUFB5dzdiSGx4RjF5MXo2N3RCVWtFcVJ4aExiSUR1RHBjSjF5M2hWMkltX3YxZnJ6WldIZW9uZXRFTW02OHdRZGdtOXJGVmhhcEVfa3FQVC1GNnhaRm01Y3YyRUpHUjhid1Y1eG9aUGVmMGQ2OVk?oc=5",
+        "pub": "2026-11-27T04:30:01+00:00",
         "outlet": "El País"
        },
        {
-        "title": "Ethan Hawke: “Cuando conoces a un hombre en su punto más bajo, sabes que hay una buena historia”",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHNkOE5ua0FRcmQ3enM5cGotNkxwRm9YOFdVUmxKSWZSQ1d3T3ZtbW1FSjd0T0lKc0Z5LUt5OTQ4dWlCTlZKNko3SVB0SFRpZHJTYzJOZVVHSlBnZW5UU2duUzBmcmJOd2xKQ25mN1dINTN6RW5MMHYxd2U4b1E3QUpRZVFkTVpCVGhQRFlVdEpnZUVnWTN5TDdoU3oxMlVlQVBDUDA2N3F2dEhLS2JfVTJDMFlBZjl6R2gtY1htUWh3UXdWcVI1WHNKQmxxN0hLeU00bl92UdIB6wFBVV95cUxNZ252S0w5WjV4S01WSi03TXBicVl6bGFnd3daX1RBMnBUaWhuRDl1eG1Wa2tLQ210THZtUVN2UkNBUFhSc0w2NUQ3cDM4X2xCZV9qMVMwLWVmOXBjWVRac28xLVlmeVo2dlZWX0xvNkdFLVIzc1g0LVlER29CeVhiUGIySDF6VGItZ24yUlZDWFgxdVlfTmhhN090UmNoN1ZGaWR4YmFVa3hQVlBGT2QyZ2JJa2U0NDZhcmZ0aWdyRUlxWUZCbXFzc3A2ZUhVZWZ1aTdYakVmeGkxUkFjQkJUZGNwbjRuRUVYUlpR?oc=5",
-        "pub": "2026-11-27T04:30:01+00:00",
+        "title": "Lula elige al primer ministro de su próximo Gabinete: un banquero para dirigir Hacienda",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc0djRDN6d1ljZXl0VzMtaUtUZVZzYURQRVVwVzFPdGhVNFQ4UjV6bzA3WGtQZXFkUVBuQ1RtRlIxWjNMTjhvODNMRTJDTC01SVNmeTNVM2l2RWE2c2RhdnZvYWZ2REh3YnIyZzVySldXV2RZdmUwQ1c3cm1rMHotOGowbjdFNkQtRnJOVXpWR2VGWm1VUi1sX1lKWVlTMm95ZmhNdXNIVlVTNXlQMS1ld3hTVmdkX2RscjlxeDVtX1E1cFFHeTJUV9IB3AFBVV95cUxQNmsyYks4SjcxQnNCbUo2UjdsdDV5eEtnbXNZUzVqc3hxbW13dGVMZFk4dTQxWnQ0TkFMV3g1QXhpRE0wdm1RMjJmcnl3eG83X0VPLW1iODlfcWlKVkwzR0xKTkpXUVRqTTk1LV8yVDZiMUJoN0RwR0tmc2VFbTN5ZVQ1aVBfblFNQ1Y4Z0hsbFpQemlQa2kxbUpYYWRieGJvc1JKMDhpTmtjR0dhY2tLaWVacTVOT09VYW43dkpaWHBCY3lOWTRKbVJYMzN1eWZDODdBTmRuWk8yRnRD?oc=5",
+        "pub": "2026-11-27T00:14:32+00:00",
         "outlet": "El País"
        }
       ],
@@ -504,8 +517,39 @@
     "ent": [
      {
       "name": "Fox News",
-      "items": [],
-      "error": "No se pudo leer: HTTP Error 429: Too Many Requests"
+      "items": [
+       {
+        "title": "Jennifer Lawrence ranks Chris Pratt as her ‘worst’ on-screen kiss",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHpMdThNcWZacUF1VUdFUFF6SVR5MHN0OUR4MDZudG5KZ0p6V3VaWGNsOVJWU0syZVdKTWRQQ1RxTzNHM1dvMkRaa2tYeUhqdXVwbFUzbTd0TGhKVnlfM1hXTFlvRHRYeXQxdm9PTm5pbTJSeXB2MjhHbDFGcElnT2d3aUstTklRbDd4NGdaUHJfMDFxbXB3QkVn0gGfAUFVX3lxTE5zZTZMTmZjbFpyTmxkYm1OSWNOcTNjcXFyQ1pBQ3d2UWtLMTktQ1VZYlM5aFRnU2ZsTjBzaDFpbU5kbEI4ZmdMX19kQlZ3allTZHdQVGNxZ3N4SHBzN3lPcGFvaC1La1djWkRZUTlXNGhFSW5rQzhjZFVtWkJhbXVwSGdXLTRhVF82QzhZckhFc3ZFdmVlS1QzcFpwV2NUOA?oc=5",
+        "pub": "2026-11-26T19:29:40+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Sylvester Stallone endured broke, lonely days cleaning lion cages before Henry Winkler changed his life",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWQyNndVTXNBaG5IWkdaZ1RwT3BMcUNRVjFZa0NvX2NtVDA2d3oybXdHZ0lGM3F5d2R1VWhnMmRGWDlmNFZrMVIzSUtMZE1VSDFIVGhDYUthM0ZLdV85cFFrM0NBSVhlNmpkVGxRbjgzdnA0amtHUGVfNGdhR2t2dC12Q0VpRW1udnB6bWZTUFdsSU04X1Y4OUUwTW1iQXB0ZmJHVWMtaGVXelFGMmJrRnlEYkNOc2pQLThrNzlVSkpHR3gta1doddIBzgFBVV95cUxQcWZlb3BpZF9wZkdGZ3BQLTdYNWktN1c4MUFkZzF5M0J4VU93REkzY2hyRlllanowWVFtcjdEQ2RaTnBPdHoxQ0xzbzFSVlI4WHltclVXdkhrUXh4Y0tpa3EzQ0lWMFpZMzFYeXhCeXEteEdvSG5lLXg1aWJfZlZ4REdoZ0lPOHBtblE3VHUyZEdEekdreGdqSWg1c3JGdGVOZXBXWjhpemtaT0piN3dNbmNDc3YyUDJLN3BNZWZjZGU4a201bFF3V2paV0F2dw?oc=5",
+        "pub": "2026-11-26T20:00:45+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Wayne Newton says today’s politicians are missing one quality Ronald Reagan always had",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXFXZHh6eFZkdGdNdlNueV81U2JpXzFOZlRWRTFhZHM3blR5Zjk3TVZteTFDLTIweGxHbU40Tk4xNDREUUV6aVl4RU9iYThvUGVLcEVfd1VncmFFMWFyVmk2UUZ3UFo2WldrVzQxckxuaWpFVHJiLUJ2V3RzUnRYWHpPSHo4RmNfMG1PUEZ2dTJEd05MekpDRENsU1pVR3VyMGZXYzBMUTBVTjFf?oc=5",
+        "pub": "2026-11-27T20:00:43+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Veruschka, supermodel in 'Casino Royale' and 'Blow-Up,' dead at 87",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGpvNzNNbHhVMWZ0ZlF5TjZpSV9HUTFjQnJBWHZqbU1oRk9USlJXdDJvZld1U3RLVWEtYWVlUnRDN3E0Mmk5czhBU2NteUthS3Z1VlQwbkZvUVpMaEFvWVFGbmJMc2RHY19GWGdxbnZKbVFkUWYxVFNtSy1Kd0p3Skl6Q0JyN2dYQTVjLWVpQnJSQdIBlwFBVV95cUxPaHFfX3hVMDVfR0VsNHJ0TjItYmktWlIxUlRLVldVLVIta2lGeWxzcTJ1ZERsMS1SWU1FWGk0bGUxS0wzRnYyQkZOampKVzZzNW1MMVU5U3NHWGV6aTZjZm9uYm9tekp3RFhybVMzcWUyaF83TC01dHd4MjRQU2VRQ3hfb1VZX1A5ZGJ3a1k4Z0tIbGcwVkl3?oc=5",
+        "pub": "2026-11-26T18:00:52+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "‘Charlie Brown’ voice actor received zero residuals for nearly 50 years due to banned ’70s contract",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRDVwbUxMNmN4Qkh3eDFiazZpM3BLVWhsZy1ETEpZZlI5R1NXZmJpTVVReFoyODdFMzBsRDI2WWkwYTJKaEV4WGlfb1V6TDNwSTJWQWZXTzNqVldkRVVPYXExOTNKaGRvQ1FOaDVGbVluVU5Rck90c3l6SGdXcWZUU3Q3Vk9DTDNkeFEwd0ktNHlOOVZqSnpPUk1oZVBMcGRnN2F6OHA0VmhTQy1sbVYwdnRubWJ3a3pBQTR3STVSOGNaVkZEMUHSAcsBQVVfeXFMTk9Mc0NfanRlcWZ4bGhIbzBjTE9SaEV6aDVfcElMdTBSM2NDWUVfak9CcEl6cXBwYTM4VGpYS3A2dGlWUTZrZktKSGJxSmtkaEc4VHpzZ2paNm8tYmdGV2x5cjFTZEJJd0NyTE03YW5CUmpvRWR2b1lxYmpOS2pIRkU1WXpkZ0ppOTd6bXBGTWxOakxYVGZOTTZQR0lVRGR1Y2FhZUVTUnFJblc0bFRycFJsMTk0ZUlCV1pFTnhhWkRObzBRcnFIc1FVNFk?oc=5",
+        "pub": "2026-11-26T22:00:42+00:00",
+        "outlet": "Fox News"
+       }
+      ],
+      "error": null
      }
     ],
     "fin": [
@@ -516,12 +560,6 @@
         "title": "Black Friday shoppers brave early lines, packed aisles to score in-store deals",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWpfU0Q4Y2pVRmhOc2ItS2F0QkhXY2E1OTBmT3NCMUpNYzFoZlpQdHdaTXhpS2FLRjBrclQ2MmMxSlNaNDg4cGZrdXU4RzRyQXNIbGxVakF2YldUU3FXQm04UU5xbUI3NUtyNkNoSEQ5TGJ5STNGMGhMY0h0d3Qyb3VIc3FSbDg3ZnFXem80MDVzWkYtOHpndWZVV2RpNmZ4ZTBna3FlU3lNbVQwbXJtdWR30gG3AUFVX3lxTFB1WjJaNTBia3l1YXFIMTlwTjI2VWtQdVRaSkc5MmtIX3dqWjRhQXkwdHhVTjRtYTJFM1Z6LTZCZTZMcEVTRWRDZ2NHX1Q4WnFIYUJPSk40aV8tWkJQOUNDYlo2WDRpZWR2dExGZTBFUEFGa3BPYXpYYWVYc1lFWGFwUGE4NGZjeXR6akM2eHNOTmpCalF5MV9kalltMlcyeDE4c1ItSkN2d0c1R2c2QXNmcGN2VVFfdw?oc=5",
         "pub": "2026-11-27T21:22:00+00:00",
-        "outlet": "Fox News"
-       },
-       {
-        "title": "Trump doubles down on support for Nvidia CEO amid national security concerns",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkVaLURTV2JWVUE4TnBpOTlxTDB0MUlmaWlwS01kaUhfZmhNYlJkN0JMbHc5X0ZZeUpXYlZ1eTktbHNoWk9wSWI5S0ZzSDc2OTFPb3FJdDZYNmJJaUtjNWp5d0VmalpDcU5qRkd5Z0ZsRUxPSzVPaUJ2RDh2WVl3MVZOSXk1RFgxcVN4WkI4TE4zTU9VSm45b2Z0ZnVOUHJLTHVxdENxOTF2QdIBrwFBVV95cUxQbjR1cjlWa0loTVFvME5Rb1l4WmcwSDJ2YnY1UHRiVllubTEtaWpFRmJGR1ZMWVpWWXBqVGpGbXJZN1c0QWQ1NzNBYUNTdjA4Z0tLUVpVb1dJa052TlVVNnZjbFhuX21iUkdpLXFNNmI0anVTSWFBLTFaWXo2RXdxSmtsb1BTX3Q2MlVBbmJTZnVBbzM2cTBHc3RNVk1tRDdPdzBrcFdQanFBYXBDR2hJ?oc=5",
-        "pub": "2026-11-27T07:11:25+00:00",
         "outlet": "Fox News"
        },
        {
@@ -540,6 +578,12 @@
         "title": "Denny's faces backlash over heartfelt tribute to reinstated Nvidia CEO Jensen Huang",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGRpQVpRRU5rM3hDTnpTVU1oRGhRTTNwRzdtOXlKQzhBMmNnYkhiMHhzc1d3cHNjVzBVM1Q0R2Z6c3VsTTlFOHpPTXNsYV8zTEdzMWw3cnd1SzIyX0RPQWg5LVlDdGxCX2dxWkpONDd1TjRVc0pJZ3ZuVjlKQ0NzSnZ3d3BGZDBoamRCUndVMTRCLXlMSVpXNFluZFBfRUVSVEprbThfV0VWWkcyNTFDZnF5ZUxiTVF60gG-AUFVX3lxTE40VHY3Y2o1NmkyNUNQdk02UF9PZU5GQU1oTWl5UVNZQjkwbDE1Wkpkb1NkY1Nua1E3TXBWa0dGV2IxZG01M1pKOGJCUTZQQ0ZiUEdvR2tEbUlXSjRnTjNIT3o2UXdyUUo2M0s4d0NGRDJnWEtTTVU1Q1JEVGo2QTVzOUVKOTdJWW5fTzkwV1JhWWxkTm5tVkFnY2dlRHJVWUUtZnN3cnZ3NHlnd0xSc1BjNnF3T2xZb3hYSC1rZlE?oc=5",
         "pub": "2026-11-27T01:57:00+00:00",
+        "outlet": "Fox News"
+       },
+       {
+        "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORklZSzRQTEViM1gtRnQ5TVNuOWgtMjJVY1A2elhaYzQyajZ4V3hWWWlXbHFvN1pnRmM3TXVYempobkdjcGJRQi1lb2FudDFfNEpvRDRXRnJQWkR2UGk1MFZrRFI2Qi13SE9ZWE9KNU82azFRLXFpS0hFOE1xX01FRzdKSDJCNV9RcHNuM2tWQk0wQU5LdU1jU280YU5RSXVPUUNPRDFqcU3SAa4BQVVfeXFMTi0tWjBERU54S2Z2RmQ0VmNzdFNfNzlfNWNKV200RkFFVnlOaHFLQ3JTU0NidnJIM2VoNTJXZHQzcW9udU1KdEhBRkpESnRhTmtfd3lScXg3V0tCLUpZTTdLQkdKdzJCTjN3U0RCZnNBSUhhQmtwTG9mNTBCaktqcmxFVmpFOExwNUllQlgyTVhiVDdOUXNfWTBSTDBWWFBkZ1VLM1pBdkNmcmkzanhR?oc=5",
+        "pub": "2026-11-28T02:00:00+00:00",
         "outlet": "Fox News"
        }
       ],
